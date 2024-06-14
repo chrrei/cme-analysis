@@ -1,0 +1,36 @@
+You are tasked with researching each company's website from the provided list to find documents related to their code of conduct, ethics guidelines, or similar documents. Follow these steps for each company and work incrementally, verifying each step before proceeding to the next company. Include specific search terms in your search process.
+
+### Instructions:
+1. **Start with the first company on the list.**
+2. **Search the company's website** for documents or sections related to the specified terms: "code of conduct," "ethics guidelines," "corporate governance," "business ethics," or other relevant terms provided.
+3. **If found, provide the direct link** to the document.
+4. **If not found, note this** and move on to the next company.
+
+### Output Format:
+For each company, provide the following:
+1. **Company Name:**
+2. **Link to Document:** [URL]
+3. **Summary:** [Brief summary of the document]
+4. **Note:** [Indicate if no document was found]
+
+### Example Output:
+SAP,https://www.sap.com/documents/2021/12/eed75d58-507e-0010-bca6-c68f7e60039b.html,"Global Code of Ethics: Guidelines for ethical decision-making, compliance with laws, fair competition.",Yes
+
+### Terms to Include in Web Search:
+["code of conduct", "ethics guidelines", "business ethics", "ethics"]
+
+### Verification:
+After completing each company's search, verify the results by ensuring:
+1. The link provided is active and leads directly to the relevant document.
+2. The summary accurately reflects the document's content.
+3. The output format meets the specified requirements.
+*If verification fails:* start over with the web search for the current company.
+*If verification succeeds:* move on to the next company in the list.
+
+### Continue:
+Continue this process step by step for each company on the list, verifying each entry before moving on to the next or conducting the same search again. Present the results incrementally, allowing for review and adjustment as needed.
+
+### LIST OF COMPANIES
+This list is provided in comma seperated format.
+
+
