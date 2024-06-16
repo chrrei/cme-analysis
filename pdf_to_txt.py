@@ -5,7 +5,7 @@ import argparse
 import time
 import threading
 import pdfplumber
-from colorama import Fore, Style, init
+from colorama import Fore, init
 
 init(autoreset=True)
 
@@ -51,13 +51,13 @@ def list_pdf_files(input_dir):
 def display_processing_message(filename, stop_event):
     dot = '.'
     idx = 0
-    sys.stdout.write("\033[?25l")  # Hide cursor
+    sys.stdout.write("\r\033[?25l")  # Hide cursor
     while not stop_event.is_set():
         sys.stdout.write(f"\rProcessing: {filename} {idx*dot}")
         sys.stdout.flush()
         idx += 1
         time.sleep(0.5)
-    sys.stdout.write("\033[?25h")  # Show cursor
+    sys.stdout.write("\r\033[?25h")  # Show cursor
 
 
 def main():
