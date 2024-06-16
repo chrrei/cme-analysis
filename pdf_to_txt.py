@@ -4,7 +4,7 @@ import glob
 import argparse
 import time
 import threading
-from PyPDF2 import PdfReader
+import pdfplumber
 from colorama import Fore, Style, init
 
 init(autoreset=True)
@@ -30,12 +30,9 @@ def get_confirmation(prompt):
 def extract_text_from_pdf(pdf_path):
     pdf_text = ""
     try:
-        with open(pdf_path, 'rb') as file:
-            reader = PdfReader(file)
-            num_pages = len(reader.pages)
-            for page in range(num_pages):
-                page_obj = reader.pages[page]
-                pdf_text += page_obj.extract_text()
+        with pdfplumber.open(pdf_path) as pdf:
+            for page in pdf.pages:
+                pdf_text += page.extract_text()
     except Exception as e:
         return None, str(e)
     return pdf_text, None
