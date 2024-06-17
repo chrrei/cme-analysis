@@ -1,0 +1,1899 @@
+Build Responsibly:
+The Meta Code
+of Conduct
+A foundation for keeping people safe
+and making a positive impactBuild Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Contents
+33 Competing and Collaborating
+03 Introduction
+34 Follow global trade laws
+04 A message from Mark Zuckerberg
+36 Compete vigorously and fairly
+05 Our principles are foundational to Meta
+38 Collaborate responsibly with third parties
+10 Supporting Each Other
+41 Engaging with the World
+11 Embrace diversity, equity and inclusion
+42 Lead with financial integrity
+13 Be kind and respectful
+44 Do not engage in insider trading
+15 Create a secure work environment
+46 Communicate openly and transparently
+17 Be loyal and transparent
+48 Prevent bribery and corruption
+20 Protect Meta’s confidential information
+51 Giving and receiving gifts and
+23 Safeguard Meta’s assets entertainment
+53 Interact with governments and political
+entities responsibly
+25 Protecting and Empowering People
+55 Build a more caring, sustainable world
+26 Instill responsible data practices across Meta
+58 Other aspects of compliance and the
+Code of Conduct
+28 Building responsibly
+59 Achieving our mission responsibly is
+31 Safeguard the payment platforms
+everyone’s responsibility
+2Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Meta Code of Conduct:
+Helping us build responsibly
+Meta is built to accomplish an important
+mission: to give people the power to
+build community and bring the world
+closer together.
+Our reach and influence require that we commit and hold ourselves
+accountable to a high standard, ensuring that we build products and
+programs that have a positive impact, keep people safe and serve everyone.
+The Code of Conduct is our foundation. It helps everyone who works at Meta
+understand the responsibilities we have and empowers them to act
+responsibly. It explains some of the legal rules we must abide by as well as the
+high standard to which we hold ourselves. While it does not cover every
+situation you may face in your daily work, the Code of Conduct should be your
+first stop when you face an unclear or difficult decision.
+3Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+A message from
+Mark Zuckerberg
+At Meta, we build products and With that comes a deep responsibility to each other, to the communities we serve and to
+the world. I believe that embracing this responsibility allows us to innovate better—and
+experiences to give people the power
+be a better company.
+to build community and bring the world
+This Code of Conduct defines the expectations we have for how we act and how we make
+closer together.
+decisions. We should look to it when we have questions or face difficult trade-offs and
+gray areas.
+The importance of our work means we must all commit to holding ourselves to a high
+standard. This is why I expect everyone at Meta—leaders, managers, individual
+contributors, contingent workers—to follow our Code of Conduct, advocate for others to
+do the same, and feel empowered to speak up if you need help or have questions.
+Let’s use this Code of Conduct to build responsibly.
+Thank you,
+Mark
+4Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Our principles
+Five principles guide our work
+are foundational
+at Meta:
+to Meta
+1 Give people a voice—we build products and programs so
+everyone can use their voice—to tell their stories, to share,
+to connect, to be heard and to change their lives for the better.
+The Code of Conduct is built on our
+principles, which are beliefs that we
+2 Build connection and community—because we believe in
+hold deeply and represent what we
+the potential of people when they can come together, we
+are committed to helping people connect.
+stand for. They help guide how we
+make decisions every day.
+3 Serve everyone—if you believe in the potential of people,
+you need to make sure you provide the same opportunities
+to everyone.
+4
+Keep people safe and protect privacy—we are committed to
+protecting our communities from harm.
+Promote economic opportunity—people use our tools every
+5
+day to come together to unlock potential and drive economic
+opportunity in their own lives, within their communities and for
+their organizations.
+5Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+We are all expected
+This Code is at the center of how we work together and build impact in the
+world, and how we are held accountable for living our principles—it’s
+to uphold the Code important.
+All Meta Personnel—from leaders to interns—must abide by and uphold the
+of Conduct
+Code. Violations may result in disciplinary action, up to and including
+termination of employment or assignment and financial consequences.
+The Code applies to:
+TERMINOLOGY USED
+AUDIENCE DEFINITION
+THROUGHOUT THE CODE
+Meta All of Meta, including all Meta Company
+subsidiaries and affiliates
+worldwide (e.g., Meta Platforms
+Ireland Limited, Instagram,
+WhatsApp, etc.)
+Meta Personnel Members of the Board of Directors, Meta Personnel
+officers, and employees of Meta, as
+“We”/“Us”/“Our”
+well as contingent workers (including
+“Each Other”
+vendor workers, contractors and
+independent contractors)
+6Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Requirements of
+Meta Personnel
+All Meta Personnel are required to: Further, those who lead or manage
+Meta Personnel are required to:
+Act in accordance with Meta principles and values,
+and follow the requirements of this Code and
+Lead by example, recognizing that our
+Company policies.
+behaviors and decisions influence others,
+including by championing the importance
+Act lawfully, honestly, ethically and in the best
+of abiding by the Code of Conduct and
+interests of Meta and our Meta users at all times.
+Company policies.
+Complete required training, use the Code of
+Promote and maintain a positive work
+Conduct and speak up when you have a question
+environment in which everyone feels
+or concern.
+included and empowered to do the right
+thing and speak up when they have ideas,
+Cooperate fully with Company investigations, feedback or concerns—this means listening
+including requirements around confidentiality, to questions and concerns and escalating
+participation and honesty. when needed.
+Never retaliate against anyone who raises a Promptly report potential or known
+concern in good faith about a possible violation violations of the law, this Code or Company
+of the Code, Meta policies or the law, or who policies.
+cooperates in an investigation.
+7Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Speaking up and
+You can always raise your concern with:
+getting help 1/2
+• Your manager or • You can also submit a report via SpeakUp, Meta’s
+another manager concern reporting system, which in many cases
+Your voice matters. allows for anonymous reporting:
+• Legal or a member of the
+Compliance & Ethics team
+‐ Visit fb.integrityline.com
+• Your Human Resources (HR)
+Speaking up is important if you see or suspect a ‐ Call +1-877-564-9619
+Business Partner
+violation of the law, this Code or any of Meta’s
+• Your Employee Relations ‐ Dial the direct access code available at
+policies. You don’t need to have all the information or
+(ER) Business Partner business.att.com/collateral/access.htmland
+details to ask questions or speak up.
+then +1-877-564-9619 following the
+• Internal Audit
+operator’s instructions
+• For privacy-related concerns,
+You should feel comfortable asking a question or
+the Privacy Report Tool
+reporting a concern using whatever channel or
+• For Contingent Workers, through your company’s issue
+resource you prefer. You can trust that your question
+escalation process and/or HR Point of Contact (POC)
+or concern will be treated seriously and dealt with
+promptly and as confidentially as possible.
+For more information on available resources and anonymous reporting options, visit the
+Whistleblower and Complaint Policy.
+If you have questions about the Code, need advice on a particular topic or issue or are
+unsure about how to report a concern, please visit the Compliance & Ethics Hub(for FTEs)
+or People Portal Contingent Workforce page or CWquestions@(for CWs) for support.
+8Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Working with the
+What happens next: No tolerance
+Compliance & Ethics
+investigations for retaliation
+team at Meta
+When Meta learns about a potential violation Speaking up is not always easy, but it is
+of law, this Code or any of Meta’s policies, always the right thing to do and what we
+the Company will take action. This often expect at Meta. That is why under the The Compliance & Ethics team is a partner to
+includes conducting a fair, objective and Whistleblower and Complaint Policy, we everyone at Meta for navigating the
+thorough investigation. Meta will make do not tolerate retaliation against anyone complexities of today and anticipating those
+every effort to get all sides of the story who: coming tomorrow.
+in a timely, impartial way and maintain
+confidentiality to the greatest extent • Raises a concern in good faith about a Visit the Compliance & Ethics Hubfor tools,
+possible and in compliance with applicable possible violation of the law, this Code or resources, compliance contacts, and guidance
+laws and regulations. Company policies, expresses an intent to on how to make responsible decisions at Meta.
+do so or assists other Meta Personnel in Do not hesitate to reach out to the Compliance &
+To ensure that we can conduct a meaningful doing so Ethics team for support.
+investigation, you are obligated to
+participate in Company investigations when
+• Participates in an investigation
+asked, comply with confidentiality
+requirements, be truthful and honest, and
+fully answer the questions asked.
+If we determine that a violation occurred or
+someone was untruthful in the course of an
+audit or investigation, we take appropriate
+action, including disciplinary action up to
+termination, financial consequences, and, if
+necessary, referral to law enforcement.
+9Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Building responsibly
+with each other
+To build connection and community, we first
+must start by doing the same within our
+internal community.
+In this section:
+Embrace diversity, equity and inclusion 11
+Be kind and respectful 13
+Create a secure work environment 15
+Be loyal and transparent 17
+Protect Meta’s confidential information 20
+Safeguard Meta’s assets 23
+10Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Embrace diversity, equity and inclusion Be kind and respectful Create a secure work environment Be loyal and transparent Protect Meta’s confidential information Safeguard Meta’s assets
+Embrace Embracing diversity, equity and
+inclusion means we:
+diversity, equity
+• Strive to promote fairness and equal opportunities for employment, promotion, and in all
+and inclusion 1/2
+personnel practices on qualifications and skills
+• Are respectful of the differences between people and their circumstances and do not
+tolerate discrimination or harassment on the basis ofany legally protected characteristics
+We are committed to building a diverse,
+• Welcome ideas, opinions, and ways of thinking that may be different from our own (known
+equitable and inclusive workplace in
+as cognitive diversity) and prohibit exclusionary behaviors, which may include incivility,
+which everyone feels like they belong bullying and workplace violence, harassment, discrimination and isolating individuals and
+groups who are different
+and is empowered to bring their
+authentic self to work. • Foster an inclusive and respectful workplace by assessing our conscious and unconscious
+biases, removing barriers to inclusion, focusing on systemic equity in our people processes
+and Company procedures for consistency and fairness, being a supportive ally and
+Doing so allows them to freely contribute their talents, standing up for others
+ideas and perspectives. We can leverage our collective
+• Invest in the physical, mental and emotional well-being of our employees through ongoing
+diversity to build the best products, make the best
+education around inclusion and diversity initiatives
+decisions for the global community we serve, and create
+meaningful experiences for everyone. Meta identifies
+and implements programs that will assist in the
+recruitment, development and retention of a diverse More guidance:
+pool of skilled and experienced employees.
+Equal Employment Opportunity Policy Diversity, Equity and Inclusion
+Harassment Policy
+11Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Embrace diversity, equity and inclusion Be kind and respectful Create a secure work environment Be loyal and transparent Protect Meta’s confidential information Safeguard Meta’s assets
+Diversity at Meta Meta’s diversity, equity and inclusion strategy
+Meta strives to build an inclusive workplace where all Meta Personnel feel a sense
+Find
+of belonging and are valued for who they are and the differences they bring.
+To help us build teams rich in diversity, we hire highly qualified
+Meta prohibits discrimination based on:
+individuals from the widest range of backgrounds and experiences.
+This helps us benefit from each other’s vast variety of experiences
+• Race, color, ethnicity • Marital status
+and perspectives and offer products and services truly designed for
+or national origin
+all.
+• Protected military or
+• Age
+veteran status
+Grow and keep
+• Religion or religious creed From onboarding to managing performance to providing community
+• Physical or mental disability,
+(or belief) education programs, we offer consistent support and resources to
+medical condition, genetic
+help people grow—professionally and personally. We help people who
+• Sex, including pregnancy, information or characteristics
+work here expand their skill sets—including their capabilities to build
+childbirth, breastfeeding, (or those of a family member)
+inclusive team environments where everyone is seen, heard and
+reproductive health decisions or
+valued. Meta, and the tech industry, must be a space where everyone
+related medical conditions • Political views or activity
+is welcome and has the opportunity to succeed.
+• Sexual orientation
+• Status as a victim of
+Integrate
+domestic violence, sexual
+• Gender, gender identity, gender To build products, develop policies, and best serve people in our
+assault or stalking
+expression, transgender status global community, we must apply diverse perspectives to everything
+or sexual stereotypes we do. We leverage the diversity of the people who work at Meta
+• Any other basis prohibited under
+to provide strategic input on our products, policies, programs and
+applicable law
+• Nationality, immigration status,
+practices and apply these learnings to build for all.
+citizenship or ancestry
+12Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Embrace diversity, equity and inclusion Be kind and respectful Create a secure work environment Be loyal and transparent Protect Meta’s confidential information Safeguard Meta’s assets
+Be kind and
+Being kind and respectful means we:
+respectful
+• Treat every person within our community with respect, regardless of role, position,
+seniority, employment status or tenure
+We have a responsibility to create a
+respectful and inclusive community, which is • Consider the needs and perspectives of others and how our words and actions might be
+received
+shaped by the experiences people have
+working at Meta every day. • Never threaten, act violently toward or harass others, including sexually
+• Don’t insult, bully, disparage, shame or mock others and stay vigilant for signs that
+others are being harassed or bullied
+It is important that Meta Personnel feel valued and
+respected and that they are treated fairly at work and
+• Don’t retaliate against others—everyone should foster a culture in which anyone can
+work-related events, whether in-person or virtual.
+comfortably raise a concern without fear
+Sharing, providing feedback, debating and
+questioning, all with kindness, respect and humor are
+• Speak up about anything that may violate Meta’s respectful work environment policies
+core to our culture and key to our mission.
+(remember, managers are required to promptly report actual or potential violations of
+the Harassment Policy, ideally within 24 hours)
+This culture helps establish the openness and trust we
+need to make informed decisions and have a
+meaningful impact in the world. Meta does not tolerate More guidance:
+harassment, discrimination, threats, bullying or any
+Harassment Policy
+similar behavior against anyone.
+Meta Whistleblower and Complaint Policy
+Community Engagement Expectations
+13respectful 2/2
+Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Embrace diversity, equity and inclusion Be kind and respectful Create a secure work environment Be loyal and transparent Protect Meta’s confidential information Safeguard Meta’s assets
+What is harassment? Q:
+My new manager is outgoing and inquisitive. They may think
+Harassment is conduct, connected to a protected characteristic, that creates they’re being friendly, but their probing questions about my
+a disrespectful, intimidating, hostile, degrading, humiliating or offensive personal life make me feel uncomfortable. In our first 1:1 they
+environment. It is never tolerated at Meta. Remember: harassment is about asked me whether I was married and had children. I assumed they
+impact—how others perceive an action, not intent. For example, it can be: were trying to get to know me better and build our relationship,
+but in my culture, it is not common to discuss your personal life
+with colleagues. I avoided their question, but at a recent team
+What a person says or writes, including slurs, social they asked me again in front of a group. I responded that I
+jokes, or stereotyping as well as threatening, loud prefer not to discuss my personal life at work. They said, “If you’re
+or abusive language or behavior, based on protected so uptight, you might not be a good fit for this team. You’re in the
+characteristicssuch as race, sexual orientation US now and we just want to get to know you a little better.” I told
+the team about my family circumstances but was really
+or gender
+embarrassed by the comment my manager made.
+What can I do?
+What a person does, such as unwelcome touching,
+A:
+making sexual advances, blocking someone’s
+While your manager may have had good intent, you should not be
+walking path, ignoring someone or deliberately
+made to feel uncomfortable or embarrassed, particularly after
+humiliating someone
+making it clear that you don’t want to discuss your personal life.
+There is no place for this at Meta. We focus on the impact of a
+comment or action rather than the intent. Reach out to another
+What a person displays, such as displaying lewd
+manager, Legal, your HR Business Partner or Employee
+photos or derogatory slogans in the workplace or
+Relations Business Partner, or contact SpeakUp, to discuss your
+sharing them electronically. This also includes sharing
+concerns further. Any of these options will enable us to help
+discriminatory or inappropriate posts about someone
+resolve the issue. You will be protected from any retaliation.
+with someone else.
+14Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Embrace diversity, equity and inclusion Be kind and respectful Create a secure work environment Be loyal and transparent Protect Meta’s confidential information Safeguard Meta’s assets
+Create a Creating a secure work
+environment means we:
+secure work
+• Follow applicable environmental, health and safety policies, guidelines and laws
+environment
+• Protect the environment and the communities in which we operate and conduct
+business
+• Do not work under the influence of illegal drugs, controlled substances, or any other
+Wherever we may be working, we are
+substance that could compromise safety or performance
+mindful of our security and healthy
+• Do not feel pressured or pressure others to consume alcohol at work events or with
+work practices so that we and those work colleagues; if you do consume alcohol at a work event, please do so responsibly
+around us can thrive. • Comply with Company policies related to travel and leverage Company travel
+management processes (e.g., CWT)
+• Exercise good judgment and promptly report concerns about Personnel or visitors
+Whether working in an office, commuting to or exhibiting behavior that could be a sign of threats or acts of violence
+traveling for work, at home, in labs, at data centers or
+• Comply with Company policies related to physical security, including visitors, access to
+out in the world, nothing is more important than
+facilities and use of Meta Personnel badges
+staying safe and healthy. We care about each other’s
+well-being; we want to create conditions in which we
+are free from harm and free to do our best work.
+More guidance:
+Visitor Policy Workplace Violence Management Policy
+Environmental Health and Safety Policy Global Environmental, Health, and Safety Wiki
+Drug-Free Workplace Policy Global Travel Support
+15secure work environment 2/2
+Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Embrace diversity, equity and inclusion Be kind and respectful Create a secure work environment Be loyal and transparent Protect Meta’s confidential information Safeguard Meta’s assets
+Q: Q:
+A group of my external partners are coming to visit I am worried about my coworker. I have always
+my office building. My partners asked if they could known him to be outgoing, reliable and a great team
+take pictures and videos while they are on-site. player. The past couple of months, however, he has
+Also, while I was escorting them into the building, I not seemed himself: he is withdrawn, erratic and
+held the door for someone without a badge who hostile at times and he has missed important
+was not with my group. Is this allowed? deadlines. How can I make sure he’s okay while
+also looking out for the team?
+A:
+Visitors can take photos or videos outside, in the
+A:
+cafés, in the lobbies, in areas set up for photo
+We care about our people and their physical and
+moments (such as mini rooms) and in front of the
+mental well-being. Situations like this should
+living Facebook Wall, provided confidential
+be handled with great sensitivity, and you should
+information isn’t visible. Visitors cannot take
+connect with your HR Business Partner or
+pictures or videos in Meta workspaces, in
+Employee Relations Business Partner before taking
+conference rooms, or near laptops or whiteboards.
+any next steps. If you’re concerned he may pose a
+risk of harm to himself or others, you should contact
+Visitors also cannot take pictures of door badge GSOC immediately (via security@, Live Chat, or the
+readers or security cameras. We do not want phone number on your badge).
+confidential information shared externally or posted
+publicly without our consent or knowledge.
+Separately, when inviting visitors into Meta offices,
+only escort your registered guests—while it may feel
+kind to hold the door for others, this practice opens
+us up to security and safety issues. Report
+unescorted visitors to Global Security.
+16Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Embrace diversity, equity and inclusion Be kind and respectful Create a secure work environment Beloyal and transparent Protect Meta’s confidential information Safeguard Meta’s assets
+Be loyal and
+Being loyal and
+transparent transparent means:
+• We all recognize that Meta’s business is both • Be mindful that business opportunities
+We avoid conflicts of interest to make
+broad in scope and constantly changing, which discovered using Meta property,
+the best choices for Meta, unaffected
+means what qualifies as a potential conflict of information, or your position should not
+interest also changes. be used for personal gain.
+by personal interests or relationships.
+• Avoid making a conflict-of-interest
+• Proactively identify situations that could
+All of us have personal interests that make us unique and
+determination on your own. When it comes to
+put Meta’s interests into possible conflict
+allow us to bring value to Meta. Even so, we put Meta
+outside activities, review the additional
+with your own.
+first when we come to work or represent Meta. We must
+guidance available on conflicts below, discuss
+always use our best judgment and avoid situations
+the circumstances with your manager and
+where our personal interests and relationships might • Promptly disclose actual, potential or
+then submit a request for conflicts review via
+interfere or appear to interfere with the best interests of perceived conflicts of interest via the
+the conflicts tool. Before you begin any of
+Meta, such as self-dealing or investing in a competitor. conflictstool.
+these opportunities, obtain approval using the
+conflicts tool.
+Note: Meta’s Board of Directors may from time to time adopt • Refrain from engaging in an outside
+separate policies with respect to directors’ conflicts of activity that requires review while the
+• Do not allow any personal connections or
+interest in order to address the particular circumstances request is being evaluated.
+family members to receive a personal benefit
+arising from their role as members of the board. Any such
+from your position at Meta or improperly
+policy will supersede the conflicts of interest rules above to influence, or give the appearance of • Be aware that interns and contingent
+the extent applicable. improperly influencing, your decision-making. workers may have different processes
+and requirements for conflicts of
+More guidance: • Give your best effort at work every day, not interest; please discuss with your
+allowing outside jobs to hinder your manager or assignment manager, for
+Conflicts of Interest Policy Conflicts Tool
+contributions to the business. CWs if there are any concerns.
+Conflicts Wiki
+17transparent 2/3
+Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Embrace diversity, equity and inclusion Be kind and respectful Create a secure work environment Beloyal and transparent Protect Meta’s confidential information Safeguard Meta’s assets
+Do I have a conflict Here are some examples of situations in which an actual, potential or
+of interest? perceived conflict of interest might arise and must be disclosed:
+• Directly or indirectly supervising • Investments in more than 2% of
+Conflicts may arisewhen we,or insome instances our close
+a family member, close friend or the total outstanding shares of
+family members, have business, financial or close personal
+intimate partner at Meta or a publicly traded company
+relationshipswith our current, formeror potential:
+where they are employed by a
+Meta supplier or partner
+• Investments in private companies
+that are current or potential
+Customers and Regulators • Hiring or engaging the services competitors of Meta or have a
+suppliers of businesses owned by or business relationship with Meta
+affiliated with Meta Personnel
+• Serving as an advisor to a
+• Outside employment,
+Beneficiaries of a venture capital fund’s portfolio
+Competitors and company’s grant or business, advising or companies or advising on the
+other third parties donation consulting relationship with
+fund’s investment activities
+another organization
+• Serving as a member of an
+• Teaching or research
+outside nonprofit or for-profit
+engagements
+Meta Personnel organization’s board of directors
+or advisory board
+• Holding political office or
+running for an elected position
+18transparent 3/3
+Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Embrace diversity, equity and inclusion Be kind and respectful Create a secure work environment Beloyal and transparent Protect Meta’s confidential information Safeguard Meta’s assets
+I’m concerned I may have a conflict of interest—
+what should I do?
+1
+Discuss your potential conflict with your manager or ask the
+Compliance & Ethics team for guidance.
+If you think a personal interest or activity may interfere, or have the
+2
+appearance of interfering, with Meta’s interests, you are required to
+complete and submit a conflict request via the conflicts tool—be sure to
+provide all requested information.
+3 Your manager or the Conflicts team will review your request and
+follow up on any next steps. Adhere to any guidance provided by
+your manager and the Conflicts team.
+4
+If an outside engagement is approved and requires a formal
+agreement, a Services Agreement Addendum may be required.
+19Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Embrace diversity, equity and inclusion Be kind and respectful Create a secure work environment Be loyal and transparent Protect Meta’s confidential information Safeguard Meta’s assets
+Protect
+Protecting Meta’s confidential
+Meta’s confidential information means:
+information 1/3
+• Understand how Meta defines and classifies • Do not take any Meta confidential information with you if
+confidential informationin the Company’s policies you leave Meta, and return it immediately if you
+inadvertently do
+• Do not submit, disclose or otherwise transmit Meta’s or
+a third party’s confidential, proprietary, competitive or • Remove people who are no longer with the company
+We do not improperly use or disclose other sensitive information outside of Meta systems from work-related communications, documents, and
+(e.g., to a third party; your external drives, devices or tools
+confidential information. accounts; or third party Large Language Model text
+• Remember to direct press inquiries about any Meta-
+prompts) unless there is specific authorization from
+business related topics that you are speaking on to
+Legal or your Privacy XFN
+Press@.You should not engage with the press on behalf
+Disclosing (or “leaking”) confidential information outside • Do not share confidential information internally beyond of, suggest or purport to speak as a representative of
+those who need it for their job Meta. This Policy does not, and is not intended to, prevent
+of Meta or to those who do not need it for legitimate
+members of our community from engaging in protected
+business purposes can have significant consequences for • Comply with terms of NDAs or applicable agreements
+concerted activity with the press or any other employees
+Meta’s business and could be illegal. For example, leaks when dealing with third-party confidential information,
+related to discussing wages, benefits, or terms and
+including obtaining express written consent if asked to
+could expose Meta to liability or give away product conditions of employment in the US.
+share third-party confidential information with another
+strategies to competitors; they could also result in
+third-party • Understand your obligations under your employment
+lawsuits or undermine the work, or even safety, of our
+agreement
+• Do not bring or share any confidential proprietary
+colleagues. Sharing Meta’s confidential information with
+information belonging to a former employer or entity • Do not make any unauthorized audio or electronic
+internal or external parties who have no legitimate need
+to Meta recordings
+to know such information could also seriously damage
+Meta’s reputation and breach the trust of others,
+including people who use Meta services, our colleagues, More guidance:
+third parties and the community.
+External Engagement Policy Data Classification Standard
+Data Handling Guidelines Data Sharing Standard
+Electronic Communications Policy Global Audio Recording Policy 20information 2/3
+Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Embrace diversity, equity and inclusion Be kind and respectful Create a secure work environment Be loyal and transparent Protect Meta’s confidential information Safeguard Meta’s assets
+What are examples of confidential information? Q:
+I am a Meta sales manager. A prospective e-commerce
+Below are some examples of confidential information at Meta. If you are unsure client has followed up after an introductory meeting.
+if something would be considered confidential information, assume it is The prospective client is asking me to provide data that
+confidential and ask Legal for additional guidance or consult your Confidential will convince his CEO to increase advertising spend
+Information and Inventions Assignment Agreement (CIIAA)/Confidentiality such as data from our existing e-commerce clients that
+Agreements for additional guidance. demonstrates how those clients have achieved success
+by increasing their advertising spend. This would be a
+huge win for my team so I think it would be okay to
+• Proprietary data • Meta User Data • Pricing
+provide the data.
+• Trade secrets
+• Customer or
+• Business plans or
+Supplier lists
+• Product plans other business
+information
+• Inventions • Meta Personnel data
+A:
+(other than your own
+• Laboratory notebooks • Internal conversations Advancing Meta’s business and relationships is
+or that which you are
+important. However, we need to remember the
+regarding content
+• Processes authorizedtoshare)
+importance of protecting confidential
+decisions
+• Designs • Prototypes information. In this case, nonpublic,
+confidential information about Meta and other
+• The identities of specific
+• Drawings
+• Hardware e-commerce clients might be at risk if shared.
+employees or contingent
+Without specific authorization and a
+• Technical or workers who are involved
+• Financial information
+nondisclosure agreement in place, data that is
+engineering in content review
+not in the public domain cannot be shared.
+specifications • Budgets processes
+21information 3/3
+Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Embrace diversity, equity and inclusion Be kind and respectful Create a secure work environment Be loyal and transparent Protect Meta’s confidential information Safeguard Meta’s assets
+Leaks hurt all of us.
+Donotshareinternalconfidentialinformation Be aware of your surroundings.
+externallyorinternallyoutsideofpeoplewhose Your badge, vintage swag or even your new
+Whether intentional or unintentional, leaksof
+jobrequiresit.Forexample: laptop stickers may identify that you work
+confidential information damagethe Company’s
+for Meta, especially near our offices. Be
+ability to confidently shareinformation internally,
+• Confidential and/or proprietary information shared aware of your surroundings when working
+whichisafundamental part of Meta cultureand
+in Internal Q&As, Workplace posts and All Hands outside of the office or at home to prevent
+keyto the Company’ssuccess.
+inadvertent leaks of confidential
+• Screenshots of new products
+information.
+• Hints about launches or unreleased features to
+friends, family, bloggers or former Meta Personnel
+• Don’t have confidential work
+• Financial performance and results
+conversations in public places.
+• Potential mergers, acquisitions or partnerships
+• If you want to work in a public
+setting—for example, on a plane or
+Direct press inquiries to Press@
+train, in a park, or at a coffee shop—
+always use a privacy screen on your
+Accidental or inadvertent sharing of confidential
+computer.
+information is still considered a leak.
+• When working from home, take care
+Our internal rule of “assume good intent” doesn’t
+not to reveal sensitive or confidential
+apply here. It’s still contrary to the obligations we owe
+information in front of anyone.
+to Meta when someone shares confidential
+information externally or internally beyond those who
+strictly need to know, even if it is done accidentally or Even at our campuses and in our buildings,
+in good faith. we need to be cautious. Visitors or co-
+workers could be present and hear and see
+Note: A “leak” does not include communicating directly with or
+Regardless of the motivations, every leak of things that are meant to be kept
+providing documents to a government agency regarding a possible
+legal violation, even if not disclosed to Meta. Anyone raising such a confidential information is treated extremely seriously. confidential.
+concern is protected from retaliation.
+22Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Embrace diversity, equity and inclusion Be kind and respectful Create a secure work environment Be loyal and transparent Protect Meta’s confidential information Safeguard Meta’s assets
+Safeguard
+Safeguarding Meta’s assets means we:
+Meta’s assets 1/2
+• Follow established guidelines, based on the • Follow Meta policies andguidelines
+when using Meta’s assets and
+asset type and business strategy, to protect
+resources for personal use
+We responsibly use and protect Meta’s Meta intellectual property (IP) and all
+confidential information
+assets and resources, so we can create • Maintain the security of Meta-provided
+• Respect the IP rights and confidential technologies and personal devices used
+real value for the world.
+information of everyone, including third forMetabusiness
+parties, Meta Personnel, competitors,
+and users • Comply with all applicable laws,
+We must all be good stewards of Meta’s assets,
+regulations and Meta policies
+whether physical, data, financial, technical or • Use Meta’s assets and resources with
+concerning record-keeping and
+intellectual. Meta’s success continues to be built care and for legitimate business
+records retention
+around open innovation, collaboration and discovery. purposes—assets should not be stolen,
+Meta’s ability to move fast and innovate depends on wasted or used for personal gain
+• Report any signs of fraud or abuse in
+protecting the property, information and ideas that
+• Be aware of attempts at social engineering connection with Meta’s assets
+power our progress.
+More guidance:
+Information Security Policy FTC Order Records Management Policy
+Acceptable Use Policy FTC Order Records Retention Schedule
+Data Handling Guidelines Protecting Confidential Meta Property
+23Meta’s assets 2/2
+Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Embrace diversity, equity and inclusion Be kind and respectful Create a secure work environment Be loyal and transparent Protect Meta’s confidential information Safeguard Meta’s assets
+Q: Q:
+I just started working at Meta. At my previous I’ve been involved in a dispute around the departure Did you know?
+employer, I was working on an open-source project of one of my former employees. We had a hard time
+Our eDiscovery and Information
+and would like to continue doing so. What do I need locating some of her employment records. I don’t
+Governance team is the go-to resource
+to know about Meta’s approach to IP and know if the dispute has been resolved so I am keeping
+for records retention and legal holds.
+open-source innovation? her employment records in a folder on my computer.
+Generally, the following types of
+I’m not sure if we have record retention guidelines or
+information, among others, may be
+if we are supposed to delete certain records after a
+A:
+subject to records retention and legal
+Meta invests heavily in all aspects of IP development period of time. I’m not sure what to do?
+hold obligations:
+to enable our continued success, both as an innovator
+and as a contributor to the global community. Meta
+A: • Email and other electronic
+continues to innovate openly whenever possible
+Unless you have received a Legal Hold, it’s communications, including on
+(open-source, publications, etc.) as a means to unlock
+appropriate to follow our retention policies and
+the potential of open collaboration and discovery, Workplace, WhatsApp and other
+potentially delete the records. Keeping records for
+advance the state of innovation globally and provide messaging apps
+too long can put sensitive or confidential information
+equitable access to technology.
+• Information published on the Wiki
+at risk of being accessed and misused. We may also
+have a legal obligation to delete information that is or other internal reference or
+The decision of whether to openly innovate is
+no longer needed, like personal data or confidential knowledge sharing platforms
+based on the particular business strategy and
+information from a business partner. By retaining • Documents stored on hard drives or
+type of IP, not at the discretion of the individual
+records according to our schedules, you strengthen
+employee. in cloud repositories, including
+our records management program and protect Meta.
+Google Docs, SharePoint, OneDrive
+Follow all legal hold instructions for retaining
+To maximize the impact of our IP development, each and Dropbox
+information relating to ongoing litigation or other
+employee has an important role in understanding and
+• Data stored in structured and
+disputes. If you are unsure what to do, you should
+following established guidelines, which can be found
+contact our eDiscovery and Information Governance semi-structured repositories,
+on the Patents wiki page.
+team (infogov@)for guidance. including Hive
+24Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Building responsibly
+for those we empower
+Building for those who use Meta products
+and services means giving people
+a voice, protecting privacy and keeping
+people safe.
+In this section:
+Instill responsible data practices across Meta 26
+Building responsibly 28
+Safeguard the payment platforms 31
+25Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Instilling responsible data practices across Meta Building responsibly Safeguard the payment platforms
+Instill responsible
+Instilling responsible data practices means we:
+data practices
+• Understand and follow Meta privacy • Collect, create, access and use only the minimum
+practices and policies, including the Internal amount of data we need to support clearly stated
+across Meta 1/2
+Privacy Policy purposes—we have zero tolerance for inappropriate
+access to User Data
+• Are mindful as a company of the ways we
+• Complete Privacy Reviews as required prior to launch
+collect, use, share and store people’s,
+of any new or modified Products, Services, or Practices
+Meta is committed to respecting people’s including our employees’, personal data and
+that collect, use, or share User Data, or prior to making
+information in our products and
+external representations about our privacy and data
+privacy. Having responsible data practices
+operations—and how we handle and protect
+security practices
+it once we have it
+enables us to maintain trust with each other
+• Ensure our Privacy Review process and our Company’s
+and with Meta users, and allows us to comply • Only share data that is necessary and privacy practices are in alignment with the Eight
+proportionate for the purpose and ensure Expectations of Privacy
+with our legal obligations.
+that sensitive personal information is not
+• Properly respond to events that undermine the
+disclosed without the permission of the
+confidentiality, integrity, or availability of data for
+individual
+which Meta is responsible
+Whether we’re building new products, improving
+• Regularly evaluate the Company’s privacy practices to
+experiences, or managing a third party, everyone needs to • Design with privacy in mind, which in part,
+ensure that we are meeting our own, our stakeholders’,
+means giving people choices about the data
+understand and honor Meta’s privacy obligations and
+and our regulators’ expectations
+we have collected or created about them,
+commitments. Committing to privacy means embedding
+including access to and control of their data
+• Use and access internal tools with care and caution,
+accountability, designing with privacy in mind, and
+whenever possible and appropriate and honor
+only as necessary to do our job and never for personal
+ensuring that we continue to safeguard the privacy and the choices they have made
+gain or to assist a user in avoiding detection or penalty
+security of the data we are entrusted with. We continue to
+enhance, transform, and embrace privacy in all our work.
+More guidance:
+Internal Privacy Policy Privacy Wiki User Data Access Policy 26Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Instilling responsible data practices across Meta Building responsibly Safeguard the payment platforms
+Q: Q:
+I am a Meta contingent worker in a sales role. My I recently transferred to a new team. My new
+friend Tom is the administrator of a Facebook page manager sent a request to IT for the additional
+for a barbershop chorus. Tom reached out to me system access permissions that I will need for
+because a video of one of his performances was my new job. What should I do with the access
+taken down, and Tom doesn’t understand why. Tom permissions from my prior role and team?
+gave me his sign-in credentials and asked me if I
+could log in as him to assess the problem and use
+internal tools to restore the content. Since Tom’s A:
+You should notify IT or your manager that you still
+video has nothing to do with my work, is it okay if I
+have your old permissions. You should not keep
+restore his content?
+access to systems and applications that are not
+required for your new role. Keeping access could
+A:
+mean that you can view confidential information
+You should not use another person’s credentials to
+thatyounolongerhaveabusinessneedtoview.
+log into their account or work on a friend’s account. “Getting privacy right is a
+You are accessing User Data that was not relevant for Both you and your manager have a responsibility continual, collective
+your job. In addition, you’re restoring content that to discuss existing and new access permissions to
+investment across our
+had been removed. determine what is needed.
+company, and is the
+It is okay to talk about Meta with friends, but you It is important that Meta Personnel have access only
+responsibility of everyone at
+may not access other people’s User Data, even of to data that is necessary for the performance of
+Meta to advance our
+people you know. If a friend or family member is their current job responsibilities.
+having an issue with a Facebook or Instagram mission.”
+account that belongs to them, you can submit a
+form to fburl.com/oopsto get support. Meta has
+–MICHEL PROTTI,
+zero tolerance for inappropriate access to User
+ChiefPrivacyOfficer for Product
+Data, even if you have good intent.
+27Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Instilling responsible data practices across Meta Building responsibly Safeguard the payment platforms
+Building
+Building responsibly means we:
+responsibly
+• Proactively consider a broad range of potential • Engage in reviews & office hours, such
+impacts on people, communities and society, as Privacy Review, Integrity XFN
+looking across different dimensions of review, Civil Rights office hours &
+responsibility, such as inclusion, safety, Responsible AI office hours, to discuss
+Meta is committed to maximizing the
+privacy, human and civil rights and others tradeoffs and mitigate risks
+positive impact we have on people and
+• Raise and address potential harms early and
+• Work quickly to identify and remove
+society through all that we build.
+often throughout the product development
+harmful content & interactions from
+process and carry out human rights due
+Meta platforms, such as hate speech,
+diligence
+harassment, child exploitation, threats
+As we reach more people and continue to build new
+of violence and terrorism
+• Conduct civil rights analysis from inception to
+products and programs, the need to create responsible
+implementation, such as determining whether
+products grows broader and more complex. It is not enough
+• Design and build products that prioritize
+marginalized communities have different
+to just innovate. We are all expected to innovate responsibly
+safety, privacy, dignity and equity across
+experiences with our policies, products, and
+by making every effort to anticipate and mitigate potential
+our technologies
+practices
+harms in all that we build.
+• Seek out expert voices, diverse perspectives • Provide appropriate warnings where
+and the resources and tools we have at Meta necessary and articulate instructions for
+to inform our decisions safe and responsible use of our products
+More guidance:
+Meta Reality Labs Responsible Innovation Building Responsibly Wiki
+Civil Rights Wiki Human Rights Wiki
+28Innovate responsibly 2/3
+Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Instilling responsible data practices across Meta Building responsibly Safeguard the payment platforms
+The dimensions for building responsibly are an evolving set of elements that individuals, communities and
+society need to thrive, and which Meta platforms need to protect. These dimensions map to our company
+principles and provide a framework for Meta employees to adopt a more holistic approach to proactively
+identifying and mitigating potential harms throughout the product development process.
+DIMENSIONS FOR BUILDING RESPONSIBLY
+Givepeopleavoice Buildconnection Serveeveryone Keeppeoplesafeand Promote economic
+andcommunity protect privacy opportunity
+Environmental Privacy and data
+Autonomy Constructive discourse Economic security
+sustainability protection
+Civic engagement Well–being Fairness and inclusion Safety
+Voice
+29Innovate responsibly 3/3
+Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Instilling responsible data practices across Meta Building responsibly Safeguard the payment platforms
+“We want to be building
+Did you know? 01
+products… with a lens of
+inclusion and equity to
+Safety is one of the dimensions for building
+responsibly.
+ensure our products
+We have specific teams that partner with
+external organizations and government bring value to all people.”
+agencies to help keep people safe. For
+instance, we have a legal obligation to report
+to the National Center for Missing and
+Exploited Children any apparent violation of
+laws pertaining to child exploitation imagery.
+–Maxine Williams,
+Chief Diversity Officer
+We have teams that are specially trained to
+review, escalate and report this content, which
+must be done in a secure manner exposing the
+fewest people to this material.
+Note: If you come across this material, do not download it,
+forward it or share it.
+30Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Instilling responsible data practices across Meta Building responsibly Safeguard the payment platforms
+Safeguard the
+Safeguarding the payment
+payment platforms
+platform means we:
+• Understand and follow the Company’s policies, procedures and internal controls
+We help the world move money, shop, and
+that are designed to prevent bad actors from utilizing payment platforms to
+donate conveniently and securely, and we launder money and engage in other illegal activity
+must do our part to prevent criminal
+• Keep an eye out for suspicious payment activities, such as reluctance to provide
+activity.
+complete information or unusual links between games players and developers,
+donors and charities, or person-to-person payments, and escalate red flags and
+suspicious activity to Compliance & Ethics
+We are committed to providing people a convenient, secure
+and consistent payment experience. We know that criminals
+and other bad actors target online payment platforms to • Take responsibility for verifying a customers’ identity—referred to as “know your
+perpetrate illegal activity, such as money laundering and customers”—so we are aware of who is using Meta products
+terrorist financing. We also are required to comply with
+financial sanctions regimes. • Maintain confidentiality when investigating and reporting suspicious activity and
+respect that data relating to payments may not be freely shared across Meta
+As we operate regulated payment platforms, we are
+required by law to stay vigilant, verify the identity of
+customers/users and protect them by carefully
+monitoring for fraud and suspicious behavior. We also
+More guidance:
+provide transparency through customer notices and
+timely resolve complaints and disputes. Meta FinTech Compliance Wiki
+31Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Instilling responsible data practices across Meta Building responsibly Safeguard the payment platforms
+What is money laundering? Money laundering red flags
+We must always be on the lookout for signs of suspicious
+Money laundering generally refers to financial transactions in which criminals, activity or transactions. Some examples include:
+including criminal organizations, attempt to disguise the proceeds, sources or
+nature of their illicit activities. Terrorist financing (any type of financial support
+Transactions that don’t fit a user’s normal profile
+for a terrorist organization, whether from illicit activity or not) also can be
+A user who typically conducts only a few small
+linked to money laundering. Examples of relevant laws include the Bank
+transactions a month (and always with friends) suddenly
+Secrecy Act (BSA) in the United States and Ireland’s Criminal Justice (Money
+makes a large payment to a new Meta user
+Laundering and Terrorist Financing) Act.
+Frequent changes in account information
+Such as name, contact information and/or payout
+How does this apply details
+to Meta?
+We allow person-to-person
+Unusual charity donation patterns
+payments (“P2P”), some
+A charity that shows a higher level of activity than
+in-game and Facebook
+is normal in donations or a single donor who makes
+Marketplace purchases and
+repeated donations over a short period of time
+donations, which are all
+subject to monitoring for
+money laundering.
+Signs of criminal activity on Meta platforms
+The sale of drugs or weapons
+32Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Build responsibly with
+our partners
+Meta’s technologies promote economic
+opportunity and level the playing field. We,
+too, can only build responsibly if we
+compete and collaborate fairly.
+In this section:
+Follow global trade laws 34
+Compete vigorously and fairly 36
+Collaborate responsibly with third parties 38
+33Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Follow global trade laws Compete vigorously and fairly Collaborate responsibly with third parties
+Follow global Following global trade laws
+means we:
+trade laws 1/2
+• Appropriately screen individuals, companies and countries to ensure we do not
+violate applicable sanctions or trade restrictions
+With offices, people and facilities in
+numerous countries worldwide, • Comply with all applicable international trade and antiboycott laws and regulations,
+including those relating to the import and export of goods, services and technical
+Meta is committed to complying
+data to and from the United States and other countries
+with and respecting global export,
+• Raise a concern to Trade Legal if we believe there may be an inappropriate import
+import and sanctions laws.
+or export of technical data or hardware
+• Consult Global Trade Compliance Wiki or contact the Trade Legal team before
+We are proud to serve more than three billion people
+engaging with sanctioned or embargoed countries and parties
+across many countries and cultures and in dozens
+of languages. We move hardware, software and
+technology to and from various countries. We also
+transact with customers, suppliers, entities and
+individuals all over the globe. This means we have a
+More guidance:
+duty to respect applicable customs, trade and
+sanctions laws and regulations where we serve. Global Trade Compliance Policy International Hand-Carry Wiki
+Global Trade Compliance Wiki TradeLegal@
+Travel to Sanctioned Countries Wiki
+342/2
+Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Follow global trade laws Compete vigorously and fairly Collaborate responsibly with third parties
+What do I need to look out for?
+These activities could present sanctions and/or trade risk:
+Business and supplier International shipping and
+partnerships transfers of technology
+Q:
+Market research Hiring decisions
+I am traveling to a country subject to comprehensive
+sanctions to attend a wedding. My team is under a
+strict deadline to finish a project and I would like to
+Payments to sanctioned Boycott requests that are not work while I am there. Can I bring my Meta-issued
+countries or parties authorized by U.S. law laptop with me?
+A:
+When traveling to a country subject to comprehensive
+Obtaining goods and services
+national and international trade sanctions, advance
+approval from Compliance & Ethics is required. This
+applies to any transactions or activities involving
+sanctioned countries or restricted parties, as well as
+approval to travel to a sanctioned country with a
+company-owned or managed device.
+35Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Follow global trade laws Compete vigorously and fairly Collaborate responsibly with third parties
+Compete
+Competing fairly means that we:
+vigorously
+• Make business decisions independently from our competitors, not in agreement or
+collaboration with them
+and fairly 1/2
+• Never agree, either directly or indirectly, with competitors:
+- To set any aspect of prices or other terms related to the products or services we provide
+to third parties
+- To allocate customers, advertisers, territories or product markets
+We succeed by competing with other
+- To refrain from dealing with a particular company
+businesses on the quality of our
+(called a “group boycott”)
+- On bid levels or whether to submit a bid on any prospective business
+products and services.
+- To refrain from either (i) recruiting or hiring their (or anyone else’s) employees or (ii)
+competing on salary or other terms of employment
+Competition makes us a better, more innovative
+• Do not exchange or communicate competitively sensitive information with competitors, unless
+company. Competition laws, also known as antitrust
+approved in advance by Legal
+laws, ensure that companies don’t unreasonably
+- Competitively sensitive information includes information that is proprietary,
+restrict competition or use market power in ways
+confidential or non-public and that is related to an individual company’s operations or
+that harm competition.
+relationships with users or other third parties
+• Meta Personnel should not use non-public data or information directly or indirectly derived
+Complying with competition laws helps us avoid
+from advertisers’ use of Meta’s advertising services to develop products in competition with
+investigations, lawsuits, fines, restrictions and even
+those advertisers, unless approved in advance by Legal
+criminal penalties.
+More guidance:
+Competition Compliance Policy 36and fairly 2/2
+Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Follow global trade laws Compete vigorously and fairly Collaborate responsibly with third parties
+What do I need to look out for? 02
+The below examples could raise competition-related legal issues in certain
+circumstances. As this area of law and the relevant issues can be complex, seek
+advice from Legal before engaging in the following activities:
+• Making any exclusive arrangement in which Meta • Deprecating a Meta product or service that third
+requires a customer to enter into an agreement parties rely on to carry out their business, such
+with Meta and no other competitors that they may be substantially impacted if they
+are no longer able to access or use the Meta
+product or service
+• Making the sale (or price) of one product/service
+contingent on the customer purchasing another
+• Taking any action that someone might perceive
+product/service (also called “tying”)
+as Meta not competing fairly or giving Meta an
+unfair advantage not available to third parties
+• Attempting to establish the price at which a
+reseller of a Meta product resells those products
+• Terminating a preexisting relationship that is
+important to the other party without a valid
+business justification
+37Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Follow global trade laws Compete vigorously and fairly Collaborate responsibly with third parties
+Collaborate
+Collaborating responsibly
+responsibly with
+with third parties means we:
+third parties 1/3
+• Perform risk reviews on third parties and obtain proper approvals prior to
+engagement to ensure they are ethical, qualified, reputable and accountable
+We seek to engage with trustworthy third
+• Seek to engage only with third parties that align with Meta’s mission and values
+parties who can help us achieve our goals
+and work collaboratively to innovate and • Aim to source and partner responsibly by requiring third parties to adhere to
+Meta’s expectations and relevant laws and regulations, such as privacy and
+create social and economic value.
+security requirements, anti-corruption laws, tax trade and sanction laws, and
+the Responsible Business Alliance (RBA)standards to build safe, resilient,
+Meta works with and relies on third parties, including diverse and economically empowered communities
+suppliers, vendors, and business partners, to help us
+achieve our mission. We can only do this if the third
+• Source through competitive bidding processes and approved agreements
+parties are qualified, act ethically and with integrity,
+and comply with applicable laws, regulations,
+and policies.
+More guidance:
+The impossible is possible when we work with third
+Third Party Risk Management Policy Internal Privacy Policy
+parties who reflect the diversity of the people and
+Global Sourcing and Procurement Policy Third Party Security Policy
+communities we serve, and whose principles and
+values align with ours. Contract Policy Anti-Corruption Policy
+External Communications and Advocacy Principles Supplier Diversity Principles
+38third parties 2/3
+Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Follow global trade laws Compete vigorously and fairly Collaborate responsibly with third parties
+Q: A:
+Did you know? 02
+I am currently involved in a request for proposal There are many important considerations when
+(RFP) and four suppliers have responded. One selecting a supplier, and price is one of them. At
+Meta launched its Supplier Diversity
+of the four has a significantly lower price but Meta, in addition to price, many other factors go
+efforts in October 2016 to help diverse
+doesn’t quite match up to the other suppliers in into an RFP decision. These may include but are
+suppliers do business with us and with
+terms of capabilities. Am I obligated to select the not limited to the supplier’s capacity, safety,
+supplier with the lowest price? quality, resources, technical abilities, diversity, the people and communities that Meta
+alignment to the expectations of the RBA, connects. The vision of the program is to
+compliance program and commitment to Meta’s
+transform the way diverse suppliers
+mission and values.
+connect to customers, each other, and
+tools and resources to grow.
+Since the launch, Meta has spent
+more than $8 billion globally with
+companies certified as minority,
+women, veteran, LGBTQ+ or
+disabled-owned.
+In addition to Meta’s own collaboration
+with diverse suppliers, it is our
+expectation that suppliers who partner
+with Meta share these values and source
+goods and services from diverse
+businesses wherever possible.
+39third parties 3/3
+Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Followglobaltradelaws Competevigorouslyandfairly Collaborateresponsiblywiththirdparties
+Sourcing responsibly
+At Meta, we expect our suppliers to:
+Ensure that personnel take
+Respond in a timely manner to
+Challenge the status quo and Conduct operations in a
+assigned required trainings
+drive innovation through professional and respectful information requests or audits
+quality, delivery, safety and manner and share our
+cost commitment to ethical business
+practices like honoring privacy
+and avoiding conflicts of
+interest and insider trading
+40Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Building responsibly
+with the world
+It is important to build trust with society,
+governments, regulators and local communities, and
+we all have a responsibility to do so. This is how we
+can truly build responsibly and serve everyone.
+In this section:
+Lead with financial integrity 42
+Do not engage in insider trading 44
+Communicate openly and transparently 46
+Prevent bribery and corruption 48
+Giving and receiving gifts and entertainment 51
+Interact with governments and political entities responsibly 53
+Build a more caring, sustainable world 55
+41Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Lead with financial integrity Do not engage in insider trading Communicate openly and transparently Prevent bribery and corruption Giving and receiving gifts and entertainment Interact with governments Build a more caring, sustainable world
+Lead with Leading with financial
+integrity means we:
+financial integrity
+• Record, maintain and file financial transactions and business records truthfully, accurately,
+on time and with the appropriate detail, including supporting documentation
+We create and maintain accurate
+• Follow relevant accounting and reporting standards and policies
+financial and business records, so that
+we and others in the market can rely • Follow all Meta policies and procedures for entering into contracts
+on trusted and timely information
+• Manage budgets and handle Company financial resources carefully and honestly, including
+about Meta’s performance and cash, ad coupons and corporate credit cards
+impact.
+• Prevent fraud, misleading representations, and the risk of facilitating tax evasion by
+carefully checking the truthfulness and accuracy of financial information, such as on
+expense claims, supplier invoices and operational reports
+Accurate, clear and complete records are essential
+to making the best business decisions, preserving • Comply with all applicable laws, regulations and Meta policies concerning record-
+our reputation for financial integrity and meeting keeping and records retention
+our obligations as a public company. Meta, our
+community, investors, regulators and others rely
+on the information we provide to understand our
+More guidance:
+financial results and measure our success
+as a company.
+Meta Global Sourcing and Procurement Policy Approval Authority Matrix
+Global Travel & Expense Policy Contract Policy
+Anti-Corruption Policy Ad Coupon Policy
+42Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Lead with financial integrity Do not engage in insider trading Communicate openly and transparently Prevent bribery and corruption Giving and receiving gifts and entertainment Interact with governments Build a more caring, sustainable world
+Q: Q:
+The fiscal quarter close is imminent. I Our supplier has called me to ask that we
+am on the Revenue Accounting team pay their next invoice into an offshore
+and am troubled by a request from a account. They were not clear on the reason
+client account team lead. They called although they mentioned something about
+me and asked if I could reverse out a it assisting their internal tax processes. I
+portion of the advertising revenue from don't feel comfortable with this -what
+the current quarter’s books and insisted should I do?
+it should be included next quarter. Their
+explanation was not clear and they
+seemed reluctant to elaborate. What A:
+should I do? In addition to risks like potential money
+laundering via payments to offshore
+accounts, the supplier here might be trying
+A:
+to conceal their income and evade paying
+You are right to be concerned. It is
+taxes. In some countries, like the UK, Meta
+critically important that revenue is
+and individual employees can be criminally
+booked for the correct fiscal period to
+prosecuted for facilitating tax evasion by
+ensure the accuracy and integrity of
+other parties. Facilitation can happen even
+Meta’s accounts and public financial
+just by ignoring suspicious requests. Ask
+filings. Ask them to clarify and provide
+the supplier why they are requesting this
+more information. If you are still
+change and do not process any payment
+concerned about whether rebooking the
+until you have raised this with your
+revenue is authorized and proper,
+manager, Finance, or Compliance & Ethics.
+escalate your concern to your manager or
+a member of the Compliance & Ethics
+Team.
+43Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Lead with financial integrity Do not engage in insider trading Communicate openly and transparently Prevent bribery and corruption Giving and receiving gifts and entertainment Interact with governments Build a more caring, sustainable world
+Do not engage
+Preventing insider trading
+in insider trading 1/2
+means we:
+We do not use or share material non-public • Never trade in securities of Meta or another public company while in possession of
+material non-public information concerning such securities
+information about Meta or other companies
+• Never give or receive “tips,” which is when material non-public information about Meta or
+for trading purposes because doing so is
+any company is passed to someone who is not under a duty to keep the information
+illegal and would harm Meta’s relationships confidential
+with investors, regulators and the public.
+• Protect non-public information from leaks and accidental disclosure, inside and outside of
+Meta, including by being mindful of conversation in public spaces
+We are committed to protecting information that is • Review and comply with Meta’s Insider Trading Policy—there are detailed rules to know
+entrusted to us, especially material non-public before trading
+information about Meta or another company,
+sometimes called “inside” information. For guidance on • Ask Trading@if we have doubts or questions—material non-public information is a
+what constitutes material non-public information and complex concept and we understand there may be questions
+other rules about trading, review our Insider Trading Policy.
+Trading securities while in possession of material non-
+More guidance:
+public information, called “insider trading,” or providing a
+family member, friend or any other person with a "tip" on Insider Trading Policy
+material non-public information, is illegal.
+Trading Window Calendar
+Trading@
+44in insider trading 2/2
+Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Lead with financial integrity Do not engage in insider trading Communicate openly and transparently Prevent bribery and corruption Giving and receiving gifts and entertainment Interact with governments Build a more caring, sustainable world
+I want to trade Meta stock. I don’t have any
+material non-public information about Meta.
+When can I trade?
+You can only trade Meta stock during our quarterly
+open trading windows (and as long as you do not hold
+material non-public information) or through an
+approved 10b5-1 trading plan. Generally, we open the
+trading window on the second full business day after
+our quarterly earnings release date, and the window
+typically stays open through the last day of the middle
+month of a quarter, though these dates are subject to
+change. Before trading, you should review our Insider
+Trading Policy and Trading Window Calendar on the
+People Portal.
+45Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Lead with financial integrity Do not engage in insider trading Communicate openly and transparently Prevent bribery and corruption Giving and receiving gifts and entertainment Interact with governments Build a more caring, sustainable world
+Communicating openly and
+Communicate
+transparently means we:
+openly and
+• Are clear, truthful, transparent, courteous • Focus Company resources on impactful external
+transparently
+and professional in our internal and opportunities and seek approvals as required for
+external communications any speaking and writing engagements
+• Do not misrepresent or make false and • Remember to direct press inquiries about any
+We are thoughtful and damaging statements about others Meta-business related topics that you are speaking
+on to Press@.You should not engage with the
+responsible in how we connect • Handle Meta’s confidential information
+press on behalf of, suggest or purport to speak as a
+appropriately (please see Protect Meta’s
+and communicate with the world. representative of Meta. This Policy does not, and is
+Confidential Information for more details)
+not intended to, prevent members of our
+• Make clear when writing social media posts that community from engaging in protected concerted
+As Meta Personnel, everything we say and activity with the press or any other employees
+they are personal opinions, so that we do not
+share reflects on us individually and on Meta. related to discussing wages, benefits, or terms and
+lead people to believe we are speaking for or on
+Whether we are in a meeting, a café, walking conditions of employment in the US. Nor is it
+behalf of Meta, unless we have received
+together or communicating online, our words intended to alter your rights or Meta’s obligations
+permission to do so
+matter. We believe online platforms empower pursuant to applicable laws, including those relating
+honest, open communication and understand • Ensure that our use and preservation of business to whistleblowing and data privacy
+that information travels rapidly and communications comply with Meta policies
+unpredictably. Thus, we should pause before
+communicating to avoid misunderstandings
+and allow our authentic voice to be heard. More guidance:
+External Engagement Policy Community Engagement Expectations Press@
+Electronic Communications Policy Global Audio Recording Policy
+46Transparently 2/2
+Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Lead with financial integrity Do not engage in insider trading Communicate openly and transparently Prevent bribery and corruption Giving and receiving gifts and entertainment Interact with governments Build a more caring, sustainable world
+Always ask yourself these Q:
+Q:
+I am passionate about working in tech and would
+questions before you click send I am active in online discussion forums
+like to share my experience of working in the tech
+about artificial intelligence (AI) where
+or post and before you speak:
+industry and support others who are doing the
+I am widely respected because of my
+same. I’m considering creating a YouTube channel,
+technical expertise. A well-known
+writing a book/blog/article, or endorsing others
+author and tech industry blogger
+“How will others feel when they who have shared their experiences in these ways.
+reached out to me and invited me to be
+Do I need to check with anyone first?
+read this?” and “How would I interviewed as part of a blog feature. I
+am so excited for this interview, but do
+feel if this became public?”
+I need to check with anyone
+A:
+before accepting?
+It’s great that you’re passionate about working in
+tech and want to share your experience. Before
+embarking on these activities, you should submit
+A: a request for approval under the External
+We are proud of Meta colleagues and Engagement Policy. Requests must be made for
+want to support them in showcasing any engagements that are directly related to
+theirtalents.Beforeacceptingthe Meta or the tech industry. There may be
+invitation, you should submit a request additional guidance if the opportunity is
+to the External Communications approved, and you can find more information in
+team to determine if this speaking the External Engagement Policy. Before engaging
+opportunity is appropriate. They in a formal mentoring or advisory role for another
+will have additional guidance if the individual or company, submit a conflicts of
+opportunity is approved. interest request through the Conflicts Tool. You
+can find more information in the Conflicts of
+Interest Policyand on the Conflicts Wiki.
+47Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Lead with financial integrity Do not engage in insider trading Communicate openly and transparently Prevent bribery and corruption Giving and receiving gifts and entertainment Interact with governments Build a more caring, sustainable world
+Prevent bribery
+Preventing bribery and
+corruption means we:
+and corruption 1/3
+• Know enough about the people we do
+• Comply with the letter and spirit of anti-
+business with to determine whether
+corruption, anti-bribery and anti-
+We do not engage in bribery or they are government officials
+kickback laws wherever we do business,
+corruption and conduct business including the Foreign Corrupt Practices • Properly review and select ethical,
+Act (FCPA) and the U.K. Bribery Act
+trustworthy, qualified third parties and never
+throughout the world using
+use them to do anything improper (see
+ethical practices only.
+• Never offer bribes or kickbacks, or anything Collaborating Responsibly with Third Parties)
+of value, to an individual or government
+• Make hiring decisions based on a
+official to improperly influence—or if it could
+We stand against all forms of corruption, including
+candidate’s qualifications, knowledge,
+appear to improperly influence—a business or
+offering or accepting bribes, kickbacks and other
+skills and abilities—never to secure an
+government decision
+improper payments. Corruption divides communities,
+improper advantage or for an improper
+distorts free markets and undermines Meta’s
+reason, such as benefiting a customer or
+• Refuse all offers of bribes, kickbacks or any
+commitment to promoting economic opportunity.
+government official
+other payments or benefits intended to
+improperly influence how we make
+• Maintain accurate books and records
+As a global company, Meta has a responsibility to decisions at Meta
+(see Lead with Financial Integrity)
+help eradicate corruption across the world through
+our actions and example. We will always choose to
+lose business rather than secure it through a bribe,
+kickback or improper payment. More guidance:
+Anti-Corruption Policy Global Travel and Expense Policy
+Gifts & Business Entertainment Policy
+48and corruption 2/3
+Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Lead with financial integrity Do not engage in insider trading Communicate openly and transparently Prevent bribery and corruption Giving and receiving gifts and entertainment Interact with governments Build a more caring, sustainable world
+Remember, move
+Q: A:
+fast does not mean
+Meta is planning to open a new data
+The local government official is
+center in a developing market where
+requesting a facilitation or “grease” move unethically.
+internet connectivity has expanded
+payment to expedite the permit.
+rapidly. As the Meta project
+Most anti-corruption laws prohibit
+manager, I am responsible for
+even minor facilitation payments—
+managing the permitting issues with
+and so does Meta. Do not pay the
+the local authorities. A local
+fee and contact Legal or Compliance
+government official explained that
+& Ethics immediately for help.
+he can expedite the permitting
+process with a small one-time cash
+payment. Can I make the payment?
+49and corruption 3/3
+Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Lead with financial integrity Do not engage in insider trading Communicate openly and transparently Prevent bribery and corruption Giving and receiving gifts and entertainment Interact with governments Build a more caring, sustainable world
+Corruption red flags
+Meta aims to work only with third parties who share our commitment to ethical business practices. We expect Meta Personnel and our third
+parties to escalate suspicious activities or red flags to Legal or Compliance & Ethics. Keep an eye out for the following examples:
+Suspicion Giving or receiving Compensation/inaccurate Questionable hiring
+at onboarding improper items of value books and records: or referrals
+• Current or past allegations of • Providing gifts or entertainment to • Request for commission significantly • Request to hire a government official
+improper conduct, including government officials that violate our above market rate or higher than or relative for a position at Meta
+improper payments Anti-Corruption Policy normal fees for services
+• Hiring a contingent worker to help
+• Refusal to commit to compliance • Request for substantial up-front
+• Request to donate to a charity
+obtain a government contract
+with anti-bribery laws, including in payment
+to facilitate government action
+our contracts
+• Refuses to properly document
+• Third party recommended by a
+• Refusal to identify business owners, expenses or requests to prepare
+government official
+partners or principals inaccurate invoices, contracts or
+other documentation
+• Family/business ties to a
+government official in a position • Inexplicable expenses “off the books”
+to benefit Meta
+• Requests for payments in cash,
+• Requests to hide identity or that through a third party or to an
+the relationship remain secret unrelated account name or location
+• Listed on a government • Poor internal controls or record-
+sanctions list keeping practices
+50Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Lead with financial integrity Do not engage in insider trading Communicate openly and transparently Prevent bribery and corruption Giving and receiving gifts and entertainment Interact with governments Build a more caring, sustainable world
+Giving and Giving and receiving gifts and
+entertainment appropriately means we:
+receiving gifts and
+• Offer reasonable and customary gifts, entertainment or anything else of value only where
+entertainment 1/2
+there is a legitimate business purpose and where the gift does not create an appearance
+of impropriety
+• Follow jurisdiction-specific guidelines for offering things of value to government officials
+We responsibly invest in our business and request approval from Compliance & Ethics where needed
+relationships but never offer or accept
+• Entertain (or are entertained by) third parties within reason and in good taste (e.g.,
+gifts, entertainment or anything else of reasonable meals or sporting or cultural events are generally acceptable, but skydiving or
+casinos are generally not), and do not risk creating any perception of inappropriately
+value to improperly influence people.
+influencing future decision-making. Only accept gifts that are valued at less than 200
+USD, reasonable, customary and in good taste and that will not appear to inappropriately
+bias future decision-making.
+Showing appreciation for a client or third party
+strengthens our business relationships when done
+• Do not offer or receive cash, cash equivalents (e.g., gift cards) or loans
+appropriately. Exchanging gifts, entertainment
+or hospitality to improperly influence business • Consult the Gifts & Business Entertainment Policyand obtain preapproval from Compliance
+decisions erodes trust and leads to business & Ethics when required before giving anything of value to government officials
+outcomes that don’t put the community using Meta
+products and services first.
+More guidance:
+Gifts & Business Entertainment Policy Global Travel and Expense Policy
+Anti-Corruption Policy 51entertainment 2/2
+Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Lead with financial integrity Do not engage in insider trading Communicate openly and transparently Prevent bribery and corruption Giving and receiving gifts and entertainment Interact with governments Build a more caring, sustainable world
+Questions to ask yourself when giving
+or receiving gifts and entertainment
+Q:
+One of my team’s suppliers recently sent my team
+1 a case of wine out of the blue, without a note. I
+Am I following Meta policies, including
+If the answer to any of these reached out to the supplier to thank them and get
+the limits for government officials?
+questions is “no,” the gift or more information about their gift. It turns out the
+entertainment likely is not supplier is in the middle of an intense contract
+appropriate and you should not negotiation with another Meta team
+2 Is it reasonable and appropriate
+give or accept it. and was hoping I might help find out more about
+according to local law and custom?
+the process. Knowing this, I’m not sure if I should
+accept the wine.
+3 Does it serve a legitimate
+A:
+business purpose?
+Although the wine’s market value is likely less
+than 200 USD, receiving it out of the blue while
+the supplier is bidding for new Meta projects
+4 Does it avoid the risk or perception of
+may suggest the supplier hopes you’ll influence
+bias for future decision-making?
+the decision to select the supplier for this future
+contract. Since it is not clear that the wine was
+sent to promote goodwill, reach out to Compliance
+5 Does it avoid the perception of & Ethics to discuss before accepting it and
+improper conduct? distributing it to your team.
+52Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Lead with financial integrity Do not engage in insider trading Communicate openly and transparently Prevent bribery and corruption Giving and receiving gifts and entertainment Interact with governments Build a more caring, sustainable world
+Interact with
+Interacting with governments and
+governments and
+political entities responsibly means we:
+political entities
+• Let colleagues with the necessary • Comply with rules related to lobbying
+responsibly
+experience and authority contact disclosures and campaign finance
+government officials about policy, limits and disclosures as required in
+legislative, regulatory or electoral matters each jurisdiction
+We engage constructively and responsibly
+• Comply with the Company’s Anti
+with governments and political entities to • Don’t improperly use company
+Corruption Policy and Political Activities
+resources or time to support your
+further Meta’s mission of bringing the world & Lobbying Policy, communicate
+personal political activities
+transparently with government officials
+closer together.
+and respond to their inquiries in a timely
+• Make it clear that, when engaging in
+and truthful manner
+Meta’s global reach and continuous innovation mean that we
+politics as private citizens, our views
+often have to consider newly proposed laws and regulations. We
+• Support political parties and their and actions are our own, not those of
+engage thoughtfully, ethically and responsibly with elected
+affiliated institutions’ use of Meta Meta
+officials and regulators to advance Meta’s mission and protect
+products neutrally and never show favor
+the rights of those we empower. We also engage with political
+toward one party over another
+parties and candidates to help them use Meta platforms, but we
+do so neutrally, treating all parties alike, respecting human rights
+and abiding by our belief that we serve everyone.
+More guidance:
+We also believe Meta Personnel should be able to engage
+personally in the civic and political process outside of work so Political Activities and Lobbying Policy Community Engagement Expectations
+long as it is kept separate from Meta.
+Anti-Corruption Policy
+53Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Lead with financial integrity Do not engage in insider trading Communicate openly and transparently Prevent bribery and corruption Giving and receiving gifts and entertainment Interact with governments Build a more caring, sustainable world
+Q:
+I am a public policy researcher focused on the
+regulation of fiber optics. I just learned that my
+cousin’s partner has a new job at the government
+agency concerned with internet service providers and
+undersea cables. I decided to ask my cousin for an
+introduction because I think it will be interesting to
+learn more about her work and how that might affect
+Meta. Is this a good idea?
+A:
+If you engage with your cousin’s partner and speak
+about Meta, it could potentially lead into lobbying, a
+complex and highly regulated activity. You should
+consult with Compliance & Ethics and the Public
+Policy team for guidance.
+Compliance & Ethics can advise on whether local
+lobbying laws come into play and whether you
+should steer clear of any work-related
+conversations.
+The Public Policy team has the expertise and
+relationships needed to engage with government.
+54Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Lead with financial integrity Do not engage in insider trading Communicate openly and transparently Prevent bribery and corruption Giving and receiving gifts and entertainment Interact with governments Build a more caring, sustainable world
+Building a more caring,
+Build a
+sustainable world means we:
+more caring,
+• Pursue sustainable design principles,
+• Respect and promote human rights, including
+standards and certifications in Meta offices
+sustainable world
+supporting better working conditions and
+and data centers
+prohibiting human trafficking across Meta and
+Meta supply chains • Recycle, compost and adopt a limited-
+waste approach in Meta offices and cafés
+We empower people to create a • Enhance civil rights and the experiences of
+• Build tools, like Charitable Giving, Crisis
+marginalized communities across our policies,
+better, more sustainable world Response and Blood Donations, to enable
+practices, and products so that all
+people to support their interests and
+through actions, tools and resources communities may thrive on our technologies
+passions
+that have real-world impact.
+• Support and invest in organizations that • Responsibly promote access to the
+promote social and racial justice internet, technology and Meta platforms
+to everyone around the world
+As a global company with global influence, we are
+• Commit to achieve net zero greenhouse gas
+committed to making a difference—through our own • Foster civically engaged communities by
+emissions across Meta’s global operations and
+actions and by empowering others. We develop and developing tools to help people learn
+be 100% supported by renewable energy
+share solutions for a more sustainable world, and we about voting
+bring people closer together with social impact tools
+that foster strong, caring communities.
+More guidance:
+Meta Social Impact Grants & Donations Policy
+Meta Sustainability Human Rights Policy
+Civil Rights Responsible Minerals Policy 55Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Lead with financial integrity Do not engage in insider trading Communicate openly and transparently Prevent bribery and corruption Giving and receiving gifts and entertainment Interact with governments Build a more caring, sustainable world
+Meta’s human rights Meta’s civil rights
+commitment commitment
+Meta has always been about positive Civil Rights are the rights of people
+social impact. Our commitment to to be free from unfair treatment and
+respect human rights helps define and discrimination.
+strengthen that impact.
+As a company, we must elevate civil rights principles in all that we do and
+Meta is committed to respecting globally recognized human rights. commit to ensuring that our technologies are built with them in mind. Only
+These include the right to privacy, freedom of expression and other then can we truly advance equity through our products and create spaces
+rights as defined in the International Bill of Human Rights and set out which enhance equity, dignity, and voice for everyone. This commitment is
+in the International Labor Organization’s Declaration on Fundamental why Meta hired independent civil rights experts to conduct a two-year
+Principles and Rights at Work. voluntary civil rights audit. As a result of this audit, in 2020, we set up our
+Civil Rights Team—the only VP-led, dedicated civil rights team in the
+technology industry and corporate America. The Civil Rights Team’s work is
+We live this commitment through Meta’s Community Standards, our
+centered on non-discrimination, fairness, and justice, which are critical to
+Corporate Human Rights Policy, our product integrity work and the
+building policies, products, and practices for all our users. When we build with
+ways that we identify, prevent and manage human rights risks, including
+civil rights in mind, we can enhance our policies, products, and practices at
+risks related to arbitrary government takedown requests, supply chain
+the outset so that different communities may share the same experiences on
+issues, or people misusing our platforms to incite conflict. Our legal,
+our platforms, rather than reinforcing the inequities of society. We believe in
+policy, operations and product teams work every day to ensure we
+building technologies on which all communities can thrive.
+respect human rights—and it is tough, important work.
+Human Rights Wiki Civil Rights Wiki
+56commitment 2/2
+Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Lead with financial integrity Do not engage in insider trading Communicate openly and transparently Prevent bribery and corruption Giving and receiving gifts and entertainment Interact with governments Build a more caring, sustainable world
+Meta’s sustainability commitment
+Meta hasmade commitments to eight areasthat impact
+our individualcommunitiesandthe world:
+1 Climate: reduce the Company’s 5 Collaboration: partner with
+operational greenhouse gas emissions others to accelerate action on
+by 75% sustainability issues
+Renewable energy: committed to
+2 6 Responsible supply chain: ensure fair
+supporting operations with 100%
+working conditions and sustainable
+renewableenergy
+environmental practices
+3 Water stewardship: prioritize water 7 Sustainable data centers: operate some
+stewardship across Meta operations of the most energy efficient data center
+facilitiesintheworld
+Innovation: advance innovative Sustainable workplaces: create
+4 8
+solutions to create a more sustainable workplaces that advance
+sustainable world employee well-being
+57Build Responsibly: Supporting Protecting and Competing and Engaging
+Home Introduction
+The Meta Code of Conduct Each Other Empowering People Collaborating with the World
+Other aspects of Waivers and amendments
+In rare circumstances, a waiver of this Code may be sought. Meta’s Chief Compliance Officer may
+compliance and the
+grant waivers to Meta Personnel other than executive officers or senior financial officers. Any
+waiver or modification of this Code for a member of Meta’s Board of Directors, executive officer or
+senior financial officer must be approved by the Board of Directors and promptly disclosed as may
+Code of Conduct
+be required pursuant to applicable laws and regulations, including the rules of the stock exchange
+on which Meta’s common stock is listed for trading. Any amendment of any provision of this Code
+mustbeapprovedbytheCompensation,NominatingandGovernanceCommitteeofMeta’sBoardof
+Directorsor,ifappropriate,theAuditandRiskOversightCommittee,andpromptlydisclosedasmay
+berequiredpursuanttoapplicablelawsandregulations.
+Conflicts
+If the Code is found to conflict with local laws or regulations, only the Code sections permitted by
+applicable laws and regulations will apply. Please reach out to Legal if you have questions about
+Code applicability or conflicts of law. Nothing in Meta’s Code or other policies is intended to
+infringe upon or chill an employee’s ability to exercise their rights under the National Labor
+Relations Act.
+Relevant additional guidance applicable to your region or country may be available on the Wiki, and
+will prevail to the extent of any inconsistencies with the guidance linked in the Code.
+In the event of an inconsistency between the English version of this Code and any version of the
+Code that has been translated into a different language, the English version will prevail to the
+extent permitted by law.
+Training
+Training is essential to ensure that the Code and Meta policies referenced in it are top-of-mind in our
+daily work. It is a forum in which the content in this Code comes to life and it is an important part of Meta
+Personnel’s engagement with Meta’s policies. Thus, all Meta Personnel must complete required training
+they are assigned, including training on the Code and Meta policies as required, and failure to do so could
+result in disciplinary action or termination of employment or assignment.
+58Build Responsibly:
+The Meta Code of Conduct
+Achieving our
+mission responsibly is
+everyone’s responsibility
+At Meta, our reach and influence require that we
+commit to and hold ourselves accountable to a high
+standard, so that we can build technologies that have a
+positive impact, keep people safe and serve everyone.
+We all share in achieving our mission.
+With this mindset and a focus on building responsibly,
+we can continue to innovate with each other, our
+partners and for the billions of people we serve around
+the globe.
+59

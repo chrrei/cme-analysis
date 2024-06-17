@@ -1,0 +1,592 @@
+Our CodeTable of Contents
+A Letter From Jensen 03 Integrity and Fairness 06
+NVIDIA’s Core Values 04 Respect 09
+Our Expectations—Following Our Code 05 Passion for Our Products and Customers 11
+Trust 12
+Corporate Responsibility 14
+Reporting Concerns 15A Letter From Jensen NVIDIA’s Core Values Our Expectations Integrity and Fairness Respect Passion Trust Corporate Responsibility Reporting Concerns
+A Letter From Jensen
+At NVIDIA, the best and brightest can do their › Second, extreme collaboration is needed a safe and inclusive environment. We value
+life’s work and build a great life and family. across diverse skills and organizations to diversity and inclusion, which enables us to
+We advance computing to tackle impactful build full-stack, data center-scale products. achieve this goal. Additionally, we recognize
+challenges no other companies can and Our company architecture demands our responsibility to maintain high ethical
+problems that are nearly impossible today. cross-functional innovation and standards and identify concerns through
+In doing so, we create future markets and transparency–no one fails alone. NVIDIA’s Speak Up hotline. By upholding these
+a better tomorrow. principles, we demonstrate our corporate
+› Third, approach problems from first principles,
+responsibility to each other, as well as our
+NVIDIA pioneers accelerated and AI computing, limited only by laws of physics. We call this
+customers, partners, and the communities
+innovating across the entire stack, the whole philosophy Speed-of-Light, and we apply
+we serve.
+data center, and from cloud to robotic systems. it to every aspect of our work. It impacts
+We build platforms for a rich ecosystem everything from performance and cost to Review Our Code to ensure that each of us
+of developers and a network of partners to extreme operating efficiency, driving for upholds the principles that are essential
+create new markets. We possess deep domain “no waste” in everything we do, whether for preserving NVIDIA’s reputation as a
+expertise to collaborate with researchers it is, yield, quality, design reuse, or One distinguished and exceptional company.
+and innovators in the world’s most important Architecture platform leverage.
+Together, we can continue to demonstrate
+industries. NVIDIA’s computing platform is
+› Finally, staying alert and agile. Technology why NVIDIA is a technology company
+open and easily accessible to every computer
+and the world are changing fast. Alertness like no other, creating the conditions for
+maker, researcher, and developer in every field
+and agility are our ultimate superpowers. our customers and partners to achieve
+of science and industry.
+breakthroughs that benefit society.
+We encourage all our employees to uphold
+NVIDIA architecture, operating principles, and
+and be inspired by our core values and to
+Thank you for being a part of the NVIDIA family.
+values are the foundations of our one-of-a-kind
+always follow and apply Our Code in their
+company. We believe in the following:
+work. We prioritize advances that enhance
+environmental sustainability. We prioritize
+› First, taking care of our people. NVIDIA
+developing trustworthy AI to ensure this
+builds amazing things. This takes amazing
+powerful technology provides benefits. We Sincerely,
+people. Everything starts with great people.
+also recognize the importance of creating Jensen Huang
+CEO and Founder, NVIDIA
+Our Code | A Letter From Jensen 03A Letter From Jensen NVIDIA’s Core Values Our Expectations Integrity and Fairness Respect Passion Trust Corporate Responsibility Reporting Concerns
+NVIDIA’s Core Values
+Dream big, start small. Take risks, learn fast. Maintain the highest standards.
+We make things that delight customers and raise industry standards. We hire extraordinarily talented individuals across the globe—people
+We encourage employees to innovate, guided by first principles, not determined to make a difference. We challenge ourselves to do
+consensus. We know our path to discovery will be paved with mistakes. our best work. We measure ourselves not against the competition,
+We anticipate and avoid the ones we can. We accept, learn from, and but against perfection—what we call the Speed-of-Light test. We
+Excellence and
+Innovation share the ones that occur. This allows us to invent things the world Determination aren’t deterred by lengthy endeavors if they’re worthy. We’re playing
+doesn’t even know it needs and, by doing so, invent the future. a long game.
+Seek truth, learn from mistakes, share learnings. Do what’s best for the company.
+We operate at the highest ethical standards. We seek to accurately We foster an environment of transparency, openness, and sharing
+know ourselves and our capabilities—acknowledging our weaknesses information. One that motivates our employees and empowers them
+and learning from our mistakes. The sharpest understanding of reality to work as a single integrated team. We disagree openly and directly
+improves our work. Identifying the origins of mistakes is not about because conflict is essential to resolving differences, improving ideas,
+Intellectual One Team
+blame. It’s essential to learning and constant improvement. We say and achieving alignment. Our focus is on substance, not on style. By
+Honesty
+what we believe and have the courage to act on it. putting the interests of the company before our own, we can more
+easily accomplish NVIDIA’s vision.
+Learn, adapt, shape the world.
+We’re alert, constantly learning, and willing to adjust our course to
+align to new realities. This lets us create groundbreaking products
+at astonishing speed. No politics or hierarchy stands in the way of
+Speed and Agility inventing the future.
+Our Code | NVIDIA’s Core Values 04A Letter From Jensen NVIDIA’s Core Values Our Expectations Integrity and Fairness Respect Passion Trust Corporate Responsibility Reporting Concerns
+Our Expectations—Following Our Code
+Every NVIDIA employee and board member and regulations may lead to additional required
+is expected to read, understand, and comply training, disciplinary action, up to and including
+with Our Code. termination of employment or service.
+We expect all third parties we do business
+with—including consultants, contractors, and Training
+other service providers—to act with integrity
+We complete training on Our Code, trade
+and in a manner consistent with Our Code.
+compliance, and preventing workplace
+Our Code provides high-level guidance on our harassment upon hire and then every
+core values. It’s impossible to spell out every two years. Employees who have frequent
+ethical scenario we might face, so we rely contact with customers, partners, and
+on our good judgment and high professional suppliers complete additional global
+standards to uphold and apply Our Code. anti-bribery and anti-corruption training.
+Along with the corporate guidelines and policies
+Compliance Committee
+linked within Our Code, we adhere to all
+policies on NVINFO. NVIDIA’s Board of Directors has formed a
+Compliance Committee to ensure ethics
+When we have questions about Our Code or
+concerns are addressed appropriately.
+wish to report a concern, it’s our responsibility
+to speak up. Notify a manager or reach out to
+Waivers
+Human Resources or Legal. Send an email to
+Any waiver of Our Code requires written
+NVIDIA-Compliance. Or report anonymously
+approval from the Compliance Committee.
+through the Speak Up site. All employees (and
+If the waiver involves a member of the board
+others subject to the Code) are protected
+of directors or an executive officer, it will be
+from retaliation.
+disclosed in line with applicable rules or laws.
+It’s our responsibility to respond to inappropriate
+and unethical behavior. Failing to comply with
+Our Code, NVIDIA’s policies, or applicable law
+Our Code | Our Expectations—Following Our Code 05A Letter From Jensen NVIDIA’s Core Values Our Expectations Integrity and Fairness Respect Passion Trust Corporate Responsibility Reporting Concerns
+Integrity and Fairness
+We hold ourselves to the › We may also be held responsible for the acts
+of our partners, agents, and representatives.
+highest standards at all times.
+When making ethical decisions, ask yourself:
+› We should be particularly cautious when
+We make ethical decisions. interacting with government officials or
+1. Is it legal? others connected to a government and be
+› When making decisions, we take the time
+2. Is it consistent with Our Code, core values, and policies? aware of our business partners’ affiliations
+to consider the implications of our actions
+with government officials.
+regarding the law, Our Code, and other 3. Could I defend my action if it became public on social media or came to the attention
+NVIDIA policies. of respected colleagues? › When we accept or provide reasonable
+gifts, entertainment, or hospitality from
+› We ask ourselves what the impact would be if
+Yes No and to third parties, we must seek
+our conduct or action became public or came
+preapprovals when required by our
+to the attention of respected colleagues.
+I must be able to answer “yes” to these questions. Do Not Proceed policies, and we kindly decline those that
+› When it comes to ethical conduct, we do not comply with our policies.
+err on the side of caution. If we’re unsure
+› For questions, ask NVIDIA-Compliance.
+of what to do, we ask our manager, our
+human resources or legal department Ask for Advice Know our key policies and guidelines:
+representative, or NVIDIA-Compliance.
+Contact your manager, HR, Legal, or Compliance Anti-Corruption Policy
+Gift, Entertainment, and Hospitality Policy
+Managers serve as role models.
+Gift, Entertainment, and Hospitality
+› Managers at NVIDIA play a special role, Preapproval Process
+We do not engage in bribery.
+promoting equitable and ethical decisions,
+Conflict of Interest Policy
+and fostering safe working environments.
+› It’s never acceptable to give, receive, or offer › Offering a bribe can lead to criminal sanctions Outside Activities-Conflict of Interest
+Managers are expected to provide proper
+a bribe or anything of value (including cash, and financial penalties against NVIDIA or its Preapproval Process
+guidance to employees and are required to
+gifts, entertainment, or hospitality) for a representatives.
+report or escalate suspected violations of
+corrupt or improper purpose, or for a third
+Our Code or our policies promptly.
+party to do so on our behalf.
+Our Code | Integrity and Fairness 06A Letter From Jensen NVIDIA’s Core Values Our Expectations Integrity and Fairness Respect Passion Trust Corporate Responsibility Reporting Concerns
+We avoid conflicts of interest. We do not limit competition. We meet our disclosure obligations.
+The following types of activities
+› We make decisions in the best interests › We don’t engage in activities that might › We’re committed to full, fair, accurate,
+may create a conflict of interest:
+of NVIDIA. limit competition or violate antitrust laws. timely, and clear disclosure in reports and
+documents that we file with or submit to
+› We avoid situations where our actions might › Advisory roles or board seat › We gather competitive information with
+government agencies, as well as in other
+create a conflict—actual or potential—between participation care, seeking only data that is publicly
+public communications or in material
+our personal gain and our obligations to available or licensed to us.
+› Outside employment or consulting that we develop for internal use.
+NVIDIA. If such conflicts arise, we immediately
+› We conduct our internal discussions,
+remove ourselves from any decision-making › Self-employment or volunteering
+Know our key policies and guidelines:
+deliberations, and activities as if they
+role in the matter. (Inventions or app development,
+were in public view. Finance Team Code
+speaking or publishing opportunities,
+› We don’t trade in derivatives of, short sell, or
+teaching or research at a university
+Know our key policies and guidelines:
+hedge NVIDIA’s securities at any time, due to
+level or higher, game development)
+their potential to create a conflict of interest Antitrust and Competition Guidelines
+with NVIDIA’s long-term objectives. › Investments or personal relationships
+We comply with laws governing
+› If involved in a situation that could present Outside Activities-Conflict of Interest
+international trade.
+a perceived or actual conflict of interest, Preapproval Process
+contact Employment Legal for guidance. › Our products, services, and technologies
+must comply with the import and export
+Know our key policies and guidelines: regulations of the U.S., as well as all other
+countries where they are made available.
+Conflict of Interest Policy
+Outside Activities-Conflict of Interest › Seek guidance from NVIDIA Global Trade
+Preapproval Process to ensure that these transfers comply
+with applicable laws.
+Know our key policies and guidelines:
+Trade Compliance Policy
+Our Code | Integrity and Fairness 07A Letter From Jensen NVIDIA’s Core Values Our Expectations Integrity and Fairness Respect Passion Trust Corporate Responsibility Reporting Concerns
+We do not trade on or disclose We maintain accurate business
+non-public information. records.
+› We create business records that are
+› We don’t trade stock or other securities
+complete, timely, understandable, and
+of NVIDIA while we are aware of material,
+reflective of the truth of the underlying
+non-public information or, if applicable,
+transaction or event. Always retain,
+outside of designated trading periods
+protect, and dispose of such records
+(unless under a 10b5-1 trading plan).
+according to policy.
+› We don’t trade stock or other securities
+› We only sign documents and contracts that
+of other companies while we are aware
+we are authorized to sign.
+of non-public information about them,
+including information that we learn through › Email and other electronic communications
+our work with NVIDIA. may be business records. Avoid exaggeration,
+derogatory language, and other expressions
+› We don’t discuss material, non-public
+that could be taken out of context or are in
+information about NVIDIA with anyone
+violation of company policy.
+inside or outside the company without a
+valid need to know.
+Know our key policies and guidelines:
+› We don’t make recommendations to anyone Authorization Matrix
+regarding the buying, selling, or holding of
+Contract Policy
+NVIDIA stock.
+Business Travel and Expense Policy
+› We don’t hold NVIDIA securities in a margin Records Retention Policy
+account or pledge NVIDIA securities.
+Finance Team Code
+Finance Policies
+Know our key policies and guidelines:
+Insider Trading Policy
+Insider Trading FAQ
+10b5-1 Trading Plan Guidelines
+Our Code | Integrity and Fairness 08A Letter From Jensen NVIDIA’s Core Values Our Expectations Integrity and Fairness Respect Passion Trust Corporate Responsibility Reporting Concerns
+Respect
+We treat all people inside and right of workers to refrain from such characteristics, or appearance; unwanted “We dedicate ourselves to
+activities. We seek employee feedback sexual advances, invitations, or comments;
+outside of the company with
+building a just, decent,
+regularly, and we value solicited and untitling; addressing or referring to a
+dignity and respect.
+unsolicited suggestions as to how we transgender or non-binary person by a name and inclusive company.
+can improve. that they no longer use (also referred to as
+We honor human rights. We must be empathetic
+deadnaming), or addressing or referring to
+› We respect the rights of others to have
+› We comply with all applicable laws, respect them by word or a pronoun that does not to the experience of
+their views, whether we agree with
+correctly reflect the gender with which they
+internationally recognized human rights
+them or not.
+underrepresented groups
+identify (also referred to as misgendering)
+where we operate, and support the rights
+of employees in our suppliers’ operations. Know our key policies and guidelines: after being asked not to do so. and act to make NVIDIA
+Human Rights Policy › This standard applies to our relations with
+› We don’t engage in child labor, forced, a place of opportunities.
+Combatting Trafficking in Persons Policy customers, partners, co-workers, and fellow
+bonded, or indentured labor, involuntary
+community members around the world. We do this because it is
+prison labor, slavery, trafficking of persons,
+or physical punishment. We treat each other with respect. Know our key policies and guidelines: right and just, and we
+› We offer competitive wages and benefits › We foster an environment of mutual respect,
+Policy Prohibiting Discrimination, believe it will help make
+worldwide, honor working hours and work honesty, and openness, where each employee Harassment, and Retaliation
+weeks that comply with local laws, ensure is treated as a valued contributor. NVIDIA better.”
+safe working conditions, and expect
+› We don’t tolerate actions, words, or gestures
+contractors and vendors to treat their Jensen Huang
+that are abusive or harmful to others, are
+employees lawfully.
+intimidating, or create an offensive or hostile
+› We respect the right of all workers to form work environment. This includes but is not
+and join trade unions, to bargain collectively, limited to: offensive conduct; derogatory
+and to engage in peaceful assembly as jokes or comments; microaggressions;
+defined by local laws. We also respect the remarks about personal choices, physical
+Our Code | Respect 09A Letter From Jensen NVIDIA’s Core Values Our Expectations Integrity and Fairness Respect Passion Trust Corporate Responsibility Reporting Concerns
+We promote diversity, inclusion, firearms, or other weapons onto NVIDIA
+equity, and belonging. premises or while conducting NVIDIA business.
+› A diverse workforce results in diverse › Threats of any kind—including intimidation,
+perspectives, which in turn stimulates stalking, or acts of violence—will not
+creativity and innovation. Everyone is Diversity Inclusion be tolerated.
+welcome here. Improve representation Ensure each person is
+in all geographies, engaged and inspired to › We expect our suppliers and partners to
+› We treat each individual fairly and do job functions and levels. do their life’s work. comply with all applicable environmental
+not tolerate discrimination, harassment, health, safety, and security laws and
+or teasing. standards in their operations.
+One Team
+› Our perspectives on diversity extend
+Know our key policies and guidelines:
+beyond employees and potential employees
+Environment, Health, Safety,
+to include how we treat our suppliers,
+and Energy Policy
+partners, investors, customers, and fellow Belonging Equity
+Drug Free Workplace and Alcohol Use Policy
+community members. Cultivating an environment Strive for equitable outcomes
+of community, comradery, with pay, development, and Policy Prohibiting Discrimination,
+Know our key policies and guidelines: and support. promotions. Harassment, and Retaliation
+Equal Employment Opportunity Policy Smoking Policy
+Policy Prohibiting Discrimination,
+Harassment, and Retaliation We create a safe, secure work
+environment.
+Gender Identity and Expression
+in the Workplace › We create a safe and secure workplace, › Employees must follow established protocols,
+in compliance with applicable environmental program requirements, regulations, and
+health, safety, and security laws and workplace practices, including instructions
+standards. from environmental health and safety,
+security, and emergency response personnel.
+› We foster a supportive environment where
+employees feel respected and protected › We must not be under the influence of
+when proposing ideas, asking questions, alcohol or drugs (including marijuana)
+escalating concerns, or admitting mistakes. while at work, and we may not bring drugs,
+Our Code | Respect 10A Letter From Jensen NVIDIA’s Core Values Our Expectations Integrity and Fairness Respect Passion Trust Corporate Responsibility Reporting Concerns
+Passion for Our Products and Customers
+We delight our customers process—from data collection to Know our key policies and guidelines: › We promptly contact our legal department
+decommissioning. When necessary, our if we receive an inquiry from a government
+with our innovative products. Copyrighted Material Policy
+AI Ethics Committee considers the official or agency. Legal will guide us in
+Trademark Clearance Policy
+implications of offering a product. complying with government inspections,
+We provide quality products
+investigations, and requests.
+and services. We foster long-term partnerships.
+Know our key policies and guidelines:
+Know our key policies and guidelines:
+› We take pride not only in creating innovative Quality Policy › We enter into relationships committed to
+products that transform our customers’ Trustworthy AI promoting our partners’ interests, as well U.S. Federal Government Contracting
+experience for the better, but also doing as our own. Guidelines
+so while maintaining transparency and We market our products and
+› We conduct ourselves and our business with
+integrity in our business relationships. services accurately.
+the highest ethical standards by never taking
+› Our innovation enables NVIDIA to deliver › We always position and market our products undue advantage of a business relationship
+value to our customers, our shareholders, to maintain the value of our innovation. and never sacrificing a long-term relationship
+and ourselves. for a short-term gain.
+› We don’t create misleading impressions in any
+› We support the use of our products for advertising, marketing, or sales materials or We comply with government
+socially beneficial purposes and work to presentations and don’t make false or illegal contracting requirements.
+address the risks of potential harm. claims about competitors or their offerings.
+› We provide services and products to
+› We ensure our customers can trust our › We protect the NVIDIA brand and its
+governments, which often impose rules
+products by sharing important information trademarks and only use them in accordance
+that are different from—and more
+about how they are built and work. with our policy and with proper authorization.
+restrictive than—those that apply to
+› When it comes to artificial intelligence, › For our artificial intelligence products, we purely commercial transactions.
+we take a proactive approach to identify use model cards to explain how a model
+› We comply with these requirements and
+and address issues of trustworthiness was designed, trained, and tested, how it
+view doing business with governments as
+concerns throughout the development performs, and its intended purpose.
+a special trust and responsibility.
+Our Code | Passion For Our Products and Customers 11A Letter From Jensen NVIDIA’s Core Values Our Expectations Integrity and Fairness Respect Passion Trust Corporate Responsibility Reporting Concerns
+Trust
+We protect assets, data, and return all such assets, intellectual property, Know our key policies and guidelines:
+and documents immediately upon request How to protect NVIDIA
+personal information, and NVIDIA Team Privacy Notice
+or upon termination of employment. and third-party confidential
+put the company’s interests Confidential Information Policy
+information:
+ahead of our own. Know our key policies and guidelines: Information Security Policy
+› Avoid leaving confidential information
+Corporate Purchasing Policy
+We respect privacy and protect where unauthorized individuals
+We safeguard NVIDIA assets. NVIDIA Team Privacy Notice
+personal information. can access.
+Information Security Policy
+› NVIDIA’s assets should be used only for
+› We protect the personal information of › Limit disclosure to those who need
+ethical and legal purposes that benefit the Third Party LLMs Including ChatGPT
+Use Guidelines current and former employees, members to know.
+company and its shareholders, and should
+of our Board of Directors, customers, job
+not be used to engage in outside commercial › Secure or destroy confidential
+We uphold confidentiality. applicants, online users, business partners,
+activities or illegal activities, or to create, information per our Information
+and suppliers.
+store, or send content that others might Security Policy.
+› We protect confidential or proprietary
+find offensive. › We obtain and use personal information
+information whether it belongs to › Report any suspected breaches
+solely for legitimate business purposes in
+› Spend NVIDIA’s capital only in accordance NVIDIA or to others. to Security.
+accordance with applicable privacy policies,
+with applicable policy.
+› We keep documents, emails, and other and we don’t collect personal data that › Obtain NDAs or other contractual
+› Keep personal use of NVIDIA’s assets to a information confidential and only we don’t need. protections when working with
+minimum and avoid any use that might lead disseminate them outside of NVIDIA when third parties.
+› We never share this information with a
+to loss or damage, including the introduction required for business reasons and with
+third party or any colleague who doesn’t › Stamp materials “NVIDIA Confidential”
+of viruses or a breach of IT security. appropriate confidentiality agreements.
+have a need to know. before sharing with third parties.
+› We’re responsible for all NVIDIA’s assets › When we choose to release information,
+and intellectual property entrusted to us. we must ensure that we do so through the Know our key policies and guidelines:
+We take care to prevent the loss, theft, right channels and in a manner that properly NVIDIA Team Privacy Notice
+unauthorized selling or reselling, and misuse protects NVIDIA and any confidential Information Security Policy
+of NVIDIA assets, IP, or documents. We must information, regardless of its owner.
+Our Code | Trust 12A Letter From Jensen NVIDIA’s Core Values Our Expectations Integrity and Fairness Respect Passion Trust Corporate Responsibility Reporting Concerns
+We respect intellectual property. We communicate responsibly with We engage in responsible travel and
+external parties. entertainment.
+› We respect the intellectual property of
+others, just as we expect others to respect › Except for authorized spokespersons (our › NVIDIA recognizes that gifts, entertainment,
+our intellectual property. CEO, CFO, Investor Relations personnel, and and hospitality can be used to lawfully
+certain other individuals as described in our and appropriately promote positive
+› We use patents and copyrighted material
+policy), we may not communicate on behalf business relations.
+belonging to others only after obtaining
+of NVIDIA or about NVIDIA’s business to the
+the proper licenses and permissions. › We operate ethically and transparently, and
+press, analysts, the financial community,
+do not use gifts, entertainment, or hospitality
+› We cite others’ trademarks in accordance investment research firms, or shareholders,
+to improperly influence business decisions.
+with the owners’ guidelines. or in public forums.
+› We politely decline or return gifts and
+› We don’t use NVIDIA networks, computers, › Refer any questions from investors or
+entertainment that do not comply with
+or other resources to acquire, share, or financial analysts to our Investor Relations
+our company policies.
+store copyrighted material that isn’t department and any questions from
+properly licensed. the press or other media outlets to our › When we travel for approved business
+Corporate Communications department. purposes, we will be reimbursed for
+› We treat the proprietary information of
+reasonable and appropriate travel and
+our business partners as confidential, › We don’t share or post confidential company
+entertainment expenses that are permitted
+and we protect it just as we do our own. information externally, unless approved by
+by our company policies, and supported
+our Corporate Communications department.
+Know our key policies and guidelines: by accurate and complete documentation
+of our expenses.
+Confidential Information Policy Know our key policies and guidelines:
+Copyrighted Material Policy Shareholder and Analyst Communications › We strive to minimize expenses while
+Trademark Clearance Policy Policy maintaining integrity, productivity, and safety.
+Social Media Policy
+Use of Third-Party Proprietary Source and
+Know our key policies and guidelines:
+Open-Source Policy Insider Trading Policy
+Business Travel and Expense Policy
+Insider Trading FAQ
+Gift, Entertainment, and Hospitality Policy
+Our Code | Trust 13A Letter From Jensen NVIDIA’s Core Values Our Expectations Integrity and Fairness Respect Passion Trust Corporate Responsibility Reporting Concerns
+Corporate Responsibility
+We are an asset to every We conserve the environment. We strive to improve our communities. NVIDIA alone represents the
+company’s rights in the political
+community where we do
+› We strive to reduce the climate and › We work with and contribute to charitable
+process.
+business. environmental impacts of our activities and community organizations.
+by designing energy-efficient technology › We have the right and are encouraged
+› We encourage our employees to engage in
+We source products and select and working with our suppliers and to pursue personal interests such as active
+community organizations and charities as
+suppliers carefully. partners engaged in manufacturing to participation in the political process in
+their conscience and desires dictate. Unless
+create our products in an environmentally our communities, as individuals and not
+› Our commitments to our customers and volunteering as part of a company-organized
+responsible manner. as NVIDIA representatives.
+partners extend to our supply chain. event, we ensure that we do not give the
+› In our activities, we aim to use impression that we represent or are acting › We ensure that our individual political views
+› We are Full members of the Responsible
+environmentally sustainable products and on behalf of NVIDIA; we do not use NVIDIA and activities are not viewed as those of
+Business Alliance (RBA), and we have
+services, minimize waste, reduce greenhouse assets or resources, nor do we engage in NVIDIA. We don’t engage in individual political
+adopted the RBA Code of Conduct.
+gas emissions, and prevent pollution. these activities during work time. activities during work time or use NVIDIA
+› We require our suppliers to comply with facilities, intellectual property, or assets.
+› We operate in full compliance with applicable
+Know our key policies and guidelines:
+the RBA Code of Conduct, as NVIDIA’s
+environmental legislation, and we expect › NVIDIA only seeks to affect government
+supply chain code of conduct, and Corporate Responsibility Directive
+our suppliers and partners to do the same. action on issues that directly impact
+to align with other internationally
+our business and only through specifically
+recognized standards related to social Know our key policies and guidelines:
+authorized and legally compliant
+and environmental responsibility.
+Environment, Health, Safety, and lobbying activities.
+Energy Policy
+Know our key policies and guidelines:
+Know our key policies and guidelines:
+Corporate Responsibility Directive
+Corporate Responsibility Directive
+Political Contributions and Expenditures
+Our Code | Corporate Responsibility 14A Letter From Jensen NVIDIA’s Core Values Our Expectations Integrity and Fairness Respect Passion Trust Corporate Responsibility Reporting Concerns
+Reporting Concerns
+We speak up if we believe We promptly investigate reports We cooperate with investigations. How to raise a concern
+of misconduct.
+someone is behaving illegally
+› Unless otherwise provided by law, we’re
+Voice your concern—Speak Up
+or unethically. › The Compliance Committee and its delegates required to cooperate with internal and
+You’re protected when reporting a concern.
+investigate reports of suspected violations external investigations and to provide
+We must act when we are aware of Our Code promptly, thoroughly, and in complete, accurate, and truthful information. Reporting options:
+of misconduct. accordance with our legal obligations.
+› Our Legal department responds to litigation › Your manager or HR
+› We must report our concerns or suspected › Confidentiality, including the identity of the or requests from governmental or other › NVIDIA Legal team
+violations of Our Code or our policies to parties and witnesses, is maintained to the external agencies.
+› NVIDIA-Compliance
+a resource that we are most comfortable fullest extent possible, except as necessary
+› We never alter, destroy, or delete records in
+› EthicsPoint Speak Up
+using, such as a manager, a human resources to conduct the investigation.
+response to anticipated or actual litigation,
+or legal representative, or NVIDIA-Compliance.
+› After reviewing all of the available information, investigations, or audits.
+EthicsPoint Speak Up
+Each will respond and promptly elevate it by
+we may determine that remedial action (such
+› To preserve the integrity of an investigation,
+emailing NVIDIA-Compliance.
+as additional training, enhanced controls or
+we should not discuss aspects of the
+› We can make an anonymous complaint by changed protocol, or coaching) or disciplinary
+investigation with anyone, including the
+calling NVIDIA’s external Speak Up line, or by action (including termination of employment)
+reporter, implicated party, or potential
+submitting a complaint via this online portal. is necessary.
+witnesses, during the pendency of
+› It is a violation of Our Code to knowingly › Remedial action taken will be appropriate the investigation.
+Global Mobile Access Report Online
+make a false accusation. under the circumstances to prevent and
+Know our key policies and guidelines:
+correct behavior; details of such actions
+are generally not disclosed to reporters Records Retention Policy
+or witnesses.
+Report by Phone
+Our Code | Reporting Concerns 15A Letter From Jensen NVIDIA’s Core Values Our Expectations Integrity and Fairness Respect Passion Trust Corporate Responsibility Reporting Concerns
+NVIDIA does not tolerate retaliation.
+When do we speak up?
+› NVIDIA doesn’t tolerate retaliation
+These are a few examples of when we against anyone who, in good faith, What happens when you speak up?
+should seek guidance and report concerns reports a concern or cooperates with
+when we are aware of misconduct: an investigation, even when allegations Our investigation process
+are found to be unsubstantiated.
+› You suspect or are aware of a violation
+1. Intake | Speak Up 2. Assess | Assign
+› Depending on the particular allegations,
+to Our Code or our policies.
+the identity of a reporter or respondent
+› You’re protected when reporting › Compliance team assesses
+› Laws have been violated or a crime may be apparent to others (including
+a concern. the allegation.
+has been committed. witnesses interviewed in connection
+› Report to your manager, the › It determines if there’s a
+with an investigation). Reporters and
+› You are aware of a bribe or potential
+Employee Resource Center, potential policy violation.
+respondents should not be approached
+bribe.
+Legal, NVIDIA-Compliance, or
+regarding investigations. Even where › It assigns an investigator.
+› The situation involves harm to EthicsPoint Speak Up.
+intentions are good, this may make
+property, the environment, or to the › All matters are carefully
+a person feel uncomfortable. › In most cases, you may choose
+health and safety of individuals. considered and handled
+to remain anonymous.
+› Where a reporter’s (or respondent’s) discreetly.
+› An investigation has been
+identity is not apparent, we should not
+compromised.
+speculate about, or attempt to identify,
+› You are aware of retaliation. such individuals.
+3. Investigate | No Retaliation 4. Completion | Resolution
+› Review documentation. › Gain necessary approvals.
+› Interview witnesses, who are › Carry out recommended
+equally protected. actions.
+› Finalize report, including › Follow up with investigation
+conclusion and recommendations. participants.
+› Close investigation.
+Our Code | Reporting Concerns 16Please see NVIDIA’s Corporate Policy repository to review the additional global and
+country specific policies that apply to your work location.
+© 2023 NVIDIA Corporation. All rights reserved.

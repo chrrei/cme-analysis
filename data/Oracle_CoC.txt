@@ -1,0 +1,1435 @@
+FAIRNESS
+Our Code.
+Our Connection.
+QUALITY
+Our Success.
+CUSTOMER
+SATISFACTION
+ORACLE CODE OF ETHICS
+AND BUSINESS CONDUCT
+INNOVATION
+INTEGRITY
+COMMUNICATION
+ETHICS
+TEAMWORK
+COMPLIANCE
+MUTUAL RESPECTTable of Contents
+01 Code of Ethics and business Conduct 02 Conflicts of Interest 47
+A Message from Our Most Senior Leaders 03 Gathering Information about About Our Competitors or Other Third Parties 50
+Our Core Values 05 Contracting 52
+Our Code 06 Spending and Signing Authority 52
+Your Role 07 Use of Oracle Resources 54
+Financial Integrity 55
+Speak Up 09
+Public Disclosures 56
+02 Code Rules 11
+Records Retention 58
+Antitrust and Competition Laws 12
+Charitable Donations 60
+Global Anti-Corruption and Bribery Laws 15
+Corporate Social Responsibility 62
+No Improper Payments 15
+Gifts, Meals, and Entertainment 17 03 Oracle’s Relationships 63
+Business Courtesies You May Extend 18 Oracle and Our Employees 64
+Business Courtesies You May Receive 19
+Immigration Laws 64
+Engaging Government and Public Sector Employees and Officials 24 Diversity 65
+Harassment 66
+Government Contracting 24
+Safety and Security 67
+Government Procurement Integrity 25
+Environment, Health, and Safety 67
+Organizational Conflict of Interest (OCI) 26
+Taxation 67
+Post-Government Employment Restrictions 26
+Lobbying of Government Officials 27 Oracle and Our Customers 68
+Political Contributions 27
+Oracle and Our Partners 69
+Personal Political Activity 28
+Oracle and Our Suppliers 70
+Influencing Others 29
+Trade Compliance Laws and Regulations 34 04 Enforcement 71
+No Economic Boycotts 37
+Investigation Process 72
+Securities and Insider Trading 39
+05 Related Policies and Websites 74
+Intellectual Property 42
+Protecting Confidential Information 44
+06 Resources 77
+Security Policies and Practices 45
+Privacy Policies 45
+Social Media 46
+Table of Contents Oracle Code of Ethics and Business Conduct | 2A Message from Our
+Dear Colleagues:
+Most Senior Leaders
+As an Oracle employee, you are an influential part of an organization with a worldwide presence
+and the confidence of shareholders, customers, partners, and governments across the globe.
+We are leaders in our industry because we continuously strive to create and sell the best
+products and services while championing ethical business values that go well beyond minimum
+legal requirements.
+Lawrence J. Ellison
+Founder, Executive
+The Oracle Code of Ethics and Business Conduct defines and implements these core values
+Chairman of the Board, and and is one of Oracle‘s most important documents. The Code sets forth key rules and provides
+Chief Technology Officer links to policies and resources to help you understand Oracle‘s business values and your
+responsibilities. You should read the Code carefully and in its entirety, and you should reference
+it frequently as a guide to making the right decisions at Oracle.
+We want to help you make decisions that always prioritize doing what’s right. Although the
+Safra Catz
+Code makes it easy for you to know your obligations, it cannot anticipate every ethical dilemma
+Chief Executive Officer
+you may face. You should seek guidance whenever the right course of action is not clear to you.
+If you ever have questions, issues, or concerns, we ask that you speak with your manager, your
+regional Compliance and Ethics Officer, the Chief Compliance Officer, your Human Resources
+partner, or use our Integrity Helpline. Oracle prohibits retaliation against any employee who
+raises a compliance issue or concern in good faith.
+Our reputation and success depend upon the personal commitment that each of us makes to
+understand and uphold Oracle’s values and to behave ethically in all of our business dealings.
+All of us, regardless of employment level, position, or geographic location, are expected each
+day to make the commitment to uphold the standards of business conduct in our Code. We
+appreciate your support in continuing to make Oracle a great company.
+Lawrence J. Ellison Safra Catz
+A Message from Our Most Senior Leaders Oracle Code of Ethics and Business Conduct | 3Code of Ethics
+and Business Conduct
+Oracle Code of Ethics and Business Conduct | 4Our Core Values
+Oracle’s Code of Ethics and Business Conduct (the “Oracle Code” or the “Code”) rests on and implements the core business
+values that are essential to our success as a company. Our values are the foundation of all that we do; we all are expected
+to live these values every day. Our modeling of these values drives our long-term success by sustaining a company that has
+earned and deserves the confidence of shareholders, customers, governments, and partners around the world.
+Our core values are
+Integrity Communication
+We are honest and choose the path of integrity in all We share information effectively with each other, but also
+business transactions and dealings with others know how to protect the confidentiality of our information
+Ethics Innovation
+We act ethically in every business context We innovate and seek new and creative approaches to
+problem solving
+Compliance
+We comply with all laws, regulations, and Oracle Customer Satisfaction
+policies that govern our business and employees’ We treat customer satisfaction as a top priority
+actions on behalf of the company
+Quality
+Mutual Respect We incorporate excellence and quality in our work and strive
+We treat individuals with respect and dignity to continuously improve
+Teamwork Fairness
+We work together as a team to benefit Oracle We deal fairly with customers, suppliers, partners,
+and colleagues
+Our Core Values Oracle Code of Ethics and Business Conduct | 5Our Code
+The Oracle Code is a fundamental set of rules defining how we conduct our The Oracle Code applies to all personnel employed by or engaged to provide
+business with the highest integrity and ethics. The Code, which applies to all services to Oracle, including, but not limited to, Oracle’s employees, officers,
+Oracle entities, supplements and in many cases goes well beyond what is temporary employees, workers (including agency workers), casual staff, and
+required to comply with laws and regulations. The Code has been prepared independent contractors (for ease of reference throughout this Code, all will
+to help you succeed at work. Oracle’s continued success with shareholders, be referred to as “employees”). Employment by Oracle is subject to the terms
+customers, governments, and partners around the world depends upon and conditions established by your local organization. As part of those terms
+your understanding of and ability to follow the Code in all of your and conditions, you are also required to abide by the global standards set
+business dealings. forth in this Code. If any part of this Code conflicts with local law, local law
+must be followed.
+From time to time, Oracle will revise the Code. When this happens, Oracle
+will notify you and you will be responsible for making sure you understand On the other hand, if a local business practice conflicts with our Code, you
+the new Code. For the most current version, always refer to the online Code must follow our Code. In those instances where Oracle’s Code is stricter
+located on the Oracle Compliance and Ethics website. If you have questions than local law, you must follow our Code. If at any time, a part of the Code
+on how to interpret or comply with the Code, Oracle policies, or applicable is determined under local law, by a competent government authority, to be
+law, contact a member of the Oracle Compliance and Ethics team or the Oracle invalid, enforceability of its other provisions shall not be affected. Oracle may
+Legal Department. interpret the Code at its sole discretion.
+Only the Board of Directors can waive a provision of the Code. Any waiver and
+the reason for the waiver will be promptly disclosed to Oracle’s stockholders.
+Our Code Oracle Code of Ethics and Business Conduct | 6Your Role
+Employees
+Oracle requires all employees to put compliance and ethics first. All employees must
+“
+Oracle’s success is built not only
+Act ethically and with integrity in all business dealings
+on the excellence of our products and
+Know and follow the Code and Oracle policies, and comply with the law
+services to customers but also on
+Report all alleged, potential, or actual violations of Oracle’s Code, or policies or
+”
+the law using the available reporting channels
+integrity and fair dealing.
+Fully cooperate with compliance investigations, e.g., making your devices
+Safra Catz
+available for inspection (when legally permissible) and answering questions
+CEO, Oracle
+truthfully during an investigation
+Complete all mandatory compliance education courses and other Oracle
+Compliance and Ethics Program requirements in a timely manner
+Watch the Video
+Your Role | Employees Oracle Code of Ethics and Business Conduct | 7Managers
+Encourage employees to challenge and report questionable conduct
+Managers at Oracle must be leaders in compliance and ethics. Managers must
+serve as role models for understanding and explaining the rules and demonstrating Create an environment in which employees understand and believe that
+integrity at all times. Managers must encourage the reporting of compliance issues they may raise and report compliance concerns without fear of retaliation
+and create environments in which employees know they can and should raise
+Managers should consider an employee’s completion of compliance
+concerns without fear of retaliation. Managers must
+trainings and ethical behavior and/or violations when determining whether
+Learn the Code and use it to onboard new employees and explain to teams, on a to promote or affect the compensation of the employees they manage
+routine basis, how it applies to their line of business
+Managers that approve expenditures for meals, refreshments, or
+Demonstrate through actions that you always choose integrity entertainment must use discretion and care to ensure that these events
+are reasonable and modest in cost, not lavish or extravagant, justified by
+Ensure that employees who report to you, either directly or indirectly, complete
+a legitimate business purpose, and not offered improperly to influence the
+all mandatory compliance education courses and other Oracle Compliance and
+recipients’ business judgment
+Ethics Program requirements in a timely manner
+Ensure that employees who report to you, either directly or indirectly, understand
+where and how to report compliance concerns
+Maintain an open-door policy that encourages employees to ask questions,
+including those related to business conduct and ethics
+Your Role | Managers Oracle Code of Ethics and Business Conduct | 8Speak Up
+Code-Related Questions or Concerns Options for reporting concerns or allegations of misconduct include
+Your manager
+Oracle is committed to being a world-class company that enjoys the
+Oracle Human Resources
+confidence of thousands of entities and individuals around the globe. To
+A member of the Legal team
+continue to do so, we need to understand whether problems exist with our
+personnel, business, or operations so that we can resolve issues promptly, Your Regional Compliance and Ethics Officer
+take corrective action, or make needed improvements. We provide multiple
+The Chief Compliance and Ethics Officer
+resources for reporting allegations of misconduct, which Oracle will review or
+Your employee representative (where applicable)
+investigate as appropriate and, if justified, implement disciplinary actions or
+other remedies. As an Oracle employee, you are expected to report promptly The Oracle Integrity Helpline
+any conduct that you believe in good faith may be a violation of the Code, as
+well as any other activities indicating a lack of compliance with Oracle’s or If you wish to remain anonymous, feel uncomfortable reporting a concern
+our employees’ legal or ethical obligations. Oracle will not tolerate retaliation to your manager, Oracle Human Resources, a member of the Legal team, a
+against any employee who reports a concern in good faith or cooperates with member of the Oracle Compliance and Ethics team, or feel that your concern
+a compliance investigation, even when allegations are not substantiated. has not been addressed properly, you should call the Oracle Integrity Helpline.
+The Helpline is operated by a third-party service provider and it allows for
+a report to be made online or by telephone. The helpline is confidential
+and available to all Oracle employees to raise concerns or to seek guidance
+regarding ethics and business conduct issues.
+Speak Up Oracle Code of Ethics and Business Conduct | 9The Helpline is toll-free for all employees and is available 24 hours a day, When you report incidents through the Helpline via phone, an operator will
+seven days a week. The helpline provides interpreters for callers who want to ask questions to obtain the details of your concerns and will document the
+communicate in languages other than English. call. You will receive a report number, which you can use later to add details
+or to check the status of your report. You should provide as much detail as
+To submit a telephone report, call the Helpline at 800-679-7417. To submit possible when raising a concern, including the parties involved, relevant
+a report regarding a facility or employee based in the European Union, call dates, and specific conduct at issue. Due to confidentiality and other reasons,
+the EU Helpline at 866-455-1215. For either number, callers from outside Oracle generally does not disclose the specifics of any internal investigation,
+the United States should first dial their country’s access number and, when but you may be able to contact the Helpline to learn whether an investigation
+prompted, enter the appropriate helpline telephone number. has been closed.
+The Integrity Helpline does not record or trace calls or use any identity All reports are handled in accordance with Oracle’s Internal Privacy Policy,
+tracking technology. You may remain anonymous where permitted by which is available on the Oracle Legal Department website.
+local law, whether you call the Helpline or make the report online. Certain
+jurisdictions limit topics that may be reported anonymously through the
+Helpline. Oracle’s processes allow for any local limitations and are set up to
+alert employees if and when special rules apply to them.
+USA Helpline: 800-679-7417
+EU Helpline: 866-455-1215
+Speak Up Oracle Code of Ethics and Business Conduct | 10Code Rules
+Code Rules Oracle Code of Ethics and Business Conduct | 11Antitrust and Competition Laws
+Typically, the countries in which Oracle operates have laws and regulations that prohibit unlawful restraint of
+trade, usually referred to as antitrust or competition laws. These laws are designed to protect consumers and
+markets against unfair business practices and to promote and protect healthy competition. Oracle commits to
+observing applicable antitrust and competition laws around the world.
+Antitrust or competition laws vary from country to country, but generally, these laws prohibit agreements or
+actions that reduce competition without benefiting consumers. Among those activities generally found to violate
+antitrust or competition laws are agreements or understandings among competitors that
+Fix or control prices, including a reseller’s prices to its customers
+Structure or orchestrate bids to direct a contract to a certain competitor or reseller or anti-competitively
+influence pricing (bid rigging)
+Boycott suppliers or customers
+Divide or allocate markets or customers
+Limit the production or sale of products or product lines for anti-competitive purposes
+Code Rules | Antitrust and Competition Laws Oracle Code of Ethics and Business Conduct | 12Agreements like those listed above are against public policy and Oracle policy. Oracle has developed a substantial partner network through which we extend
+We must never engage in discussions of such matters with representatives our reach to industry sectors and customers around the world. Oracle is
+of other companies, including Oracle partners. You should promptly report committed to ensuring that our partners comply with all applicable laws.
+to the Oracle Legal Department any instance in which employees or third To support this objective, Oracle conducts enhanced reviews of certain
+parties initiate such discussions. Contracts or other arrangements that involve transactions in select geographies and may obtain end-user documentation
+exclusive dealing, tie-in sales, price discrimination, or other terms of sale and information necessary for anti-bribery compliance purposes while fully
+may be unlawful under applicable antitrust or competition laws. You should respecting antitrust laws. Only authorized non-sales personnel, who are
+not enter into such arrangements without the approval of the Oracle Legal obligated to protect the information from further unauthorized disclosure, may
+Department. Requests for the issuance of exclusivity certificates or employee collect and access such documents and information.
+involvement in drafting public tender bidding documents are generally
+prohibited and should also be raised to Oracle Legal for further review Antitrust and competition laws are complex; please seek advice from the
+and approval. Oracle Legal Department on any related questions.
+Oracle also strives to ensure that our global practices comply with United
+States antitrust laws. In addition to local laws, antitrust laws of the United
+States apply to our international business operations and transactions,
+including imports to and exports from the United States.
+Code Rules | Antitrust and Competition Laws Oracle Code of Ethics and Business Conduct | 13Real World Questions and Answers:
+Antitrust and Competition Laws
+1 Q: At a trade association meeting, you overhear an informal group of
+Oracle competitors discussing future product pricing. May you join in the
+conversation to gain some excellent competitive intelligence?
+A: No. Oracle competes honestly and fairly. You must avoid all
+discussions and the exchange of information with competitors involving
+topics such as pricing, supplier or customer relationships, or market
+allocation because they are illegal. Disassociate yourself from any such
+discussions immediately and report the incident to the Oracle Legal
+Department.
+2 Q: A partner with which you frequently interact approaches you
+regarding an upcoming bid process where three competitive bids are
+required and asks if you would consider submitting a “courtesy bid” to
+reach the required number. Can you offer up a bid to help the partner
+out?
+A: No. Oracle’s partners are also frequently our competitors and in no
+circumstances should Oracle employees be engaged in manipulating
+the outcome of bid processes by coordinating with competing bidders.
+Prohibited behavior includes rotating bids or submitting noncompetitive
+bids to benefit another competitor. Disassociate yourself from any such
+discussions immediately and report the incident to the Oracle
+Legal Department.
+Code Rules | Antitrust and Competition Laws | Questions and Answers Oracle Code of Ethics and Business Conduct | 14Global Anti-Corruption and Bribery Laws
+Oracle believes in doing business honestly and is committed to transparency Penalties for violating these laws are severe and can include prison time and
+in our business practices. We have no tolerance for corruption and bribery in large fines for you personally.
+connection with our business. You must comply with anti-corruption laws,
+such as the US Foreign Corrupt Practices Act (FCPA) and the UK Bribery Act, in The above prohibition is applicable to
+all countries in which we do business.
+Government and public sector, which include public utilities, higher
+education, public healthcare entities, and public international organizations
+Oracle is also committed to ensuring that our partners comply with all
+and their employees or officials
+applicable laws, including anti-bribery and anti-corruption laws. To support
+this objective, Oracle conducts enhanced reviews of certain transactions in Political parties or candidates for political office
+select geographies and may obtain end-user documentation and information
+Business entities partially or wholly owned or controlled by government
+necessary for anti-bribery compliance purposes while fully respecting antitrust
+interests (often referred to as state-owned enterprises) and their
+laws. Only authorized non-sales personnel, who are obligated to protect the
+employees or officials
+information from further unauthorized disclosure, may collect and access such
+Privately-held commercial companies and their employees
+documents and information.
+O racle employees
+No Improper Payments
+Any other third party
+We do not offer or pay bribes. You are prohibited from offering, promising, Additionally, Oracle prohibits all forms of money laundering, which involves
+authorizing, directing, paying, making, or receiving any bribes, kickbacks, or disguising or channeling unlawfully obtained money, or transforming such
+payments of money or anything of value (directly or indirectly) to improperly money into legitimate funds.
+obtain business or any other advantage for Oracle or yourself. The FCPA and
+other similar international anti-corruption laws outlaw bribery.
+Code Rules | Global Anti-Corruption and Bribery Laws Oracle Code of Ethics and Business Conduct | 15Oracle prohibits giving money or anything of value directly or indirectly to a government official
+or employee of a state-owned enterprise, or to the spouse, significant other, child, or other relative
+of any such person, for the purpose of influencing or rewarding an action or decision of the
+government or public sector employee or official or to gain any improper advantage for Oracle.
+“Anything of value” is intended to be broad and covers not only money, but also gifts, lavish or
+excessive entertainment, funding of personal travel such as sightseeing, contributions to charity,
+and employment opportunities. Oracle also prohibits facilitation or facilitating payments, which are
+payments to an official to speed up or expedite routine government actions, including processing
+and approving applications and permits.
+For more information, refer to Oracle’s Global Anti-Corruption Policy and Business Courtesy
+Guidelines (the “Anti-Corruption Policy”) and the Supplemental Policy on Dealing with
+Government located on the Compliance and Ethics website.
+Code Rules | Global Anti-Corruption and Bribery Laws Oracle Code of Ethics and Business Conduct | 16Gifts, Meals, and Entertainment
+Oracle can pay for bona fide business expenses and certain gifts for third parties, but only if done
+without corrupt intent and according to Oracle’s Anti-Corruption Policy. Oracle’s Anti-Corruption
+Policy provides specific guidelines to ensure that you comply with applicable anti-corruption laws,
+including the FCPA and UK Bribery Act.
+Government entities and state-owned enterprises generally are governed by strict laws and
+regulations concerning the ability of their employees to accept entertainment, meals, gifts,
+gratuities, and other things of value from companies such as Oracle. In dealing with employees
+of these entities, it is Oracle‘s general policy that nothing of value will be given. Limited
+exceptions that may apply are covered in the Anti-Corruption Policy and the Supplemental
+Policy on Government Contracting and Dealing with Government Officials and Employees. Refer
+to the “Business Courtesies You May Extend” section of this Code for information regarding
+nongovernment entities. If you have any questions, contact a member of the Compliance and
+Ethics team.
+Code Rules | Global Anti-Corruption and Bribery Laws Oracle Code of Ethics and Business Conduct | 17Business Courtesies You May Extend
+Furnishing meals, refreshments, entertainment, and event access in conjunction Oracle‘s standards and the applicable laws for dealing with government
+with business discussions with nongovernment personnel may be appropriate as employees and employees of state-owned enterprises are more stringent than
+long as the offering of such courtesies does not violate any policies of the recipient‘s standards for private sector company employees. In dealing with government
+organization, any contractual agreement with a customer, Oracle’s Global Travel employees and officials, it is our general policy that nothing of value will be
+and Expense Policy, or the Anti-Corruption Policy. You are responsible for given to such individuals. Limited exceptions that may apply are covered in the
+familiarizing yourself with any such standards, agreements, and policies and for Anti-Corruption Policy and the Supplemental Policy on Government Contracting
+complying with them. and Dealing with Government Employees and Officials. You are responsible for
+being familiar with the rules and regulations of the government entities with
+Oracle prohibits giving anything of value (including charitable donations or which you interact. Contact Compliance and Ethics if you have any questions
+sponsorship of events), directly or indirectly, to any private individual, firm, or entity about your activities and interactions with the government.
+as a means of improperly inducing business.
+In any case, business courtesies must be small enough not to appear to
+Employees who seek or approve expenditures for meals, refreshments, or influence the judgment of the recipient, secure unfair preferential treatment,
+entertainment must use discretion and care to ensure that these events are or gain an improper advantage. A final test of appropriate business courtesies,
+reasonable and modest in cost, not lavish or extravagant, justified by a legitimate even if allowed under the law, is whether public disclosure would be
+business purpose, and not offered improperly to influence the recipients’ embarrassing to Oracle or the recipient.
+business judgment.
+Code Rules | Global Anti-Corruption and Bribery Laws Oracle Code of Ethics and Business Conduct | 18Business Courtesies You May Receive
+You may accept unsolicited gifts or other business courtesies from actual or potential You may accept occasional meals, refreshments, or other entertainment
+customers, suppliers, or other business partners provided they are reasonable appropriate to the circumstances in connection with normal business
+and modest in nature and amount, are justified by a clear and legitimate business discussions. Again, it is inappropriate to accept such favors if they are
+purpose, or are not given to influence a business decision. Furthermore, accepting offered solely to influence your business decision. If an individual or firm
+these courtesies should not impose a sense of obligation or give rise to the doing or seeking business with Oracle offers you entertainment that is more
+expectation that another party will receive anything in return. It is never appropriate than modest, routine, or outside of the guidelines provided in Oracle’s Anti-
+to solicit these courtesies, either directly or indirectly. Before accepting a gift or Corruption Policy and Business Courtesies Guidelines, you must obtain
+other business courtesy, you must also confirm that doing so is permitted under written approval. Refer to the Anti-Corruption Policy, and Business Courtesies
+local laws. Many countries impose limitations on gifts that may be exchanged, even Guidelines to understand the processes and approvals required prior to
+among employees of private sector companies. Contact Compliance and Ethics for accepting such entertainment. We are all personally responsible for ensuring
+information about laws in specific countries. that acceptance of any business courtesy, gift, or entertainment is proper and
+does not reasonably appear to be an attempt to secure favorable treatment.
+Oracle recognizes that in some parts of the world gift giving is a common,
+accepted practice and that refusing a gift could reflect poorly on Oracle. Even in those
+instances, however, you must comply with this Code, Oracle’s Anti-Corruption Policy
+and all relevant local laws. Please refer to Oracle’s Anti-Corruption Policy
+for additional information, including circumstances under which written approval
+is required.
+Code Rules | Global Anti-Corruption and Bribery Laws Oracle Code of Ethics and Business Conduct | 19Real World Questions and Answers:
+Global Anti-Corruption and Bribery Laws—No Improper Payment
+1 Q: An Oracle partner agrees to use a portion of an extra discount I seek in 3 Q: A government “consultant” offers to assist an Oracle salesperson to
+order to send procurement employees from the government customer on secure an important government deal in exchange for a success fee of 10
+an international sightseeing trip. May I seek the discount? percent of the value of the government contract. Can the employee agree
+A: No. It would not be a proper use of Oracle’s funds to pay for this trip. to this payment?
+It is equally improper for a partner to do so using “margin” created A: No. Oracle employees are prohibited from offering or giving money
+through a discount. Depending on the trip, the participants, and whether or anything of value to government or public sector employees or
+Oracle retained or obtained business as a result of the trip, the conduct officials either directly or indirectly through third parties. This prohibition
+could be viewed as a bribe punishable both criminally and civilly for the generally includes the use of success fees or utilizing unapproved or
+companies and the individuals involved. ad hoc consultants. You should consult Compliance and Ethics before
+you hire any third-party sales consultants to obtain, procure, or close
+2 Q: An Oracle partner offers me a percentage of the partner’s margin in government deals.
+exchange for encouraging a major customer to purchase the partner’s
+services and products. Can I accept such a payment?
+A: No. This is a kickback, which is prohibited by Oracle’s Code of
+Conduct, Anti-Corruption Policy, and local and international law. The
+Code of Conduct and the Anti-Corruption Policy apply to dealings with
+both public and private entities.
+Code Rules | Global Anti-Corruption and Bribery Laws | Questions and Answers | 20Real World Questions and Answers:
+Global Anti-Corruption and Bribery Laws—Gifts, Meals, and Entertainment
+1 Q: A high-level group of government officials is making a goodwill tour
+of Oracle facilities. During their visit, I wish to give them a memento
+with an Oracle logo, such as a coffee cup, pen, t-shirt, etc. Is this against
+Oracle policy?
+A: It depends on the value and whether or not other mementos have
+been given to this customer within the year. Oracle policy prohibits
+giving anything of value to government officials unless applicable law
+and Oracle policy permit it. Please refer to the “Business Courtesies
+You May Extend” sections of both this Code and Oracle’s
+Anti-Corruption Policy and consult with Compliance and Ethics to
+determine the proper conduct.
+2 Q: I want to invite the Provost of a public university to have dinner to
+discuss how Oracle technologies can help the university. Can I buy
+him dinner?
+A: It depends on the value and whether or not other things of value have
+been given to this potential customer within the year. Public university
+employees are government employees and Oracle policy prohibits giving
+anything of value to government employees unless applicable law and
+Oracle policy permit it. Please refer to the “Business Courtesies You May
+Extend” sections of both this Code and Oracle’s Ant-Corruption Policy
+and consult with Compliance and Ethics to determine the
+proper conduct.
+Code Rules | Global Anti-Corruption and Bribery Laws | Questions and Answers Oracle Code of Ethics and Business Conduct | 21Real World Questions and Answers:
+Global Anti-Corruption and Bribery Laws—Business Courtesies You May Extend
+1 Q: You plan to invite a private sector customer to sit on a panel at a 2 Q: A large private sector deal has been on the brink of closing for weeks,
+three-day event to describe the use of Oracle technology in his business but the customer is still negotiating a couple of major deal points. As
+and to respond to questions from prospects and other customers in quarter-end approaches, you would like to invite the customer’s entire
+the audience. The panel is on the agenda on the second day of the negotiating team to dinner at the best restaurant in town, complete with
+conference. May you offer hotel accommodations for all three days of the several bottles of expensive wine, to finalize discussions and “seal the
+conference? deal.” Is this appropriate?
+A: Maybe. You may offer the customer hotel accommodations for all A: No. An observer might reasonably conclude that a lavish meal for
+three days of the conference if: (a) The customer will attend all three the customer’s entire deal team on the eve of closing was intended
+days of the conference; (b) The entire conference is dedicated to the to influence the team’s negotiating position, a violation of the Anti-
+promotion, demonstration, and/or explanation of Oracle products Corruption Policy. If you wish to entertain a customer during a deal
+and services; (c) The business courtesy otherwise conforms with the negotiation, you need to obtain advance approval.
+mandatory requirements set forth in bold type under the heading
+“Business Courtesies You May Extend” above; and (d) You will need to 3 Q: A customer requests tickets to a basketball playoff game for herself
+refer to the Anti-Corruption Policy, and Business Courtesies Guidelines and her family. We are in tense negotiations, so I would like to provide
+for specific approval processes and requirements. them to her. Can I do so?
+A: Customers should not solicit gifts or entertainment from Oracle. If
+you have been asked for this and would like to explore accommodating
+your customer, please contact the Oracle Compliance and Ethics team to
+determine what, if anything, you may offer.
+Code Rules | Global Anti-Corruption and Bribery Laws | Questions and Answers Oracle Code of Ethics and Business Conduct | 22Real World Questions and Answers:
+Global Anti-Corruption and Bribery Laws—Business Courtesies You May Receive
+1 Q: May I accept travel expenses to attend or speak to a user group or 3 Q: It is the holiday season and I have just received a gift certificate
+professional meeting? from a vendor, at my home, worth the equivalent of US$500 for a local
+A: It depends. Oracle policy requires that all suppliers be treated fairly department store. May I keep the gift certificate?
+and impartially. Therefore, you should accept nothing from a supplier A: No. You may receive only gifts that are not of material value. If you
+that could give even the appearance of favoritism. However, you can receive a gift exceeding the threshold limits that are spelled out in the
+more readily accept reimbursement for expenses from associations Anti-Corruption Policy, you will need to obtain approval from the Oracle
+and professional groups because such organizations are generally not Compliance and Ethics team.
+comprised of vendors who might be using a speaking invitation as a
+device to secure favorable treatment. In any case, written approval from 4 Q: A partner recently helped my sales team close a significant
+your senior vice president and regional Compliance and Ethics Officer is transaction. May I suggest that the partner host a dinner or an event for
+required. Oracle and the partner’s team to celebrate?
+A: No. It is never appropriate to solicit such entertainment.
+2 Q: If a representative of a supplier, vendor, or customer presents me with
+a pen and pencil set with the supplier‘s logo as a token of appreciation, 5 Q: I have a long standing customer that has access to tickets to the
+may I accept it? PGA golf tournament in my area. There will be a lot of opportunities to
+A: Yes. As long as the item is not of a material value and is widely make contacts for potential business at the tournament. Can I ask my
+available to others under similar circumstances, you may keep it for your customer to provide me with one ticket?
+personal use. If the item does not meet these criteria and if you have not A: No. It is never appropriate to request gifts, meals or entertainment
+otherwise received the required approval, politely return it to the donor. or anything of value from suppliers, customers, partners, or potential
+customers, partners or suppliers.
+Code Rules | Global Anti-Corruption and Bribery Laws | Questions and Answers Oracle Code of Ethics and Business Conduct | 23Engaging Government and
+Public Sector Employees and Officials
+Government Contracting If you deal with government or public sector employees and officials, you are
+required to complete the Dealing with Government: Government Contracts
+and Political Compliance training course. Both the supplemental policy
+Oracle strictly observes the laws, rules, and regulations that govern the
+and the training course are located on the Compliance and Ethics website.
+acquisition of goods and services and the performance of government
+contracts by governmental entities. Activities that may be appropriate
+when dealing with nongovernment customers may be improper and even
+illegal when dealing with government. The penalties for failing to follow
+government procurement laws are severe and include substantial civil and
+criminal fines, imprisonment, and debarment of Oracle from doing business
+with the government. Oracle employees who deal with any government
+agency, including international organizations, are responsible for learning
+and complying with all rules that apply to government contracting and
+interactions with government officials and employees, including the rules in
+Oracle’s Supplemental Policy on Government Contracting and Dealing with
+Government Officials and Employees.
+Code Rules | Engaging Government and Public Sector Employees and Officials Oracle Code of Ethics and Business Conduct | 24Government Procurement Integrity
+Our commitment to comply with government procurement rules extends to
+how we acquire relevant information. You must not attempt to obtain from
+any source
+Procurement-sensitive government information
+Confidential internal government information, such as pre-award, source
+selection information
+Proprietary information of a competitor including, for example, bid or
+proposal information, during the course of a procurement or in any
+other circumstances where there is reason to believe the release of such
+information is unauthorized
+If such information is inadvertently communicated to you by another vendor,
+a consultant, or a government employee, you should promptly contact the
+Oracle Legal Department.
+Code Rules | Engaging Government and Public Sector Employees and Officials Oracle Code of Ethics and Business Conduct | 25Organizational Conflict of Interest (OCI)
+You must ensure that when performing government contracts there is no
+actual or potential organizational conflict of interest (OCI) that would provide
+Oracle unequal access to nonpublic information, provide an unfair advantage
+in a competitive procurement, or impair your objectivity in providing
+assistance or advice to the government or in performing contract work for the
+government. All actual or potential OCIs must be disclosed by consulting the
+Oracle Legal Department.
+Post-Government Employment Restrictions
+Various laws impose requirements and restrictions on government employees
+related to post-government employment in the private sector. These laws
+restrict the former government employee’s activities after he or she leaves
+the government and accepts employment with a private company. Before
+engaging in any discussions related to possible employment or entering into
+a business opportunity with a current or former government employee, you
+must obtain the appropriate approvals by consulting the Oracle
+Legal Department.
+Code Rules | Engaging Government and Public Sector Employees and Officials | 26Lobbying of Government Officials Political Contributions
+Our interactions with the government are generally governed by lobbying laws and Oracle takes seriously our obligation to comply with the laws relating to political
+regulations. Lobbying is any activity that attempts to influence laws, regulations, contributions. These laws vary greatly among jurisdictions and countries. All
+policies, and rules, but in certain jurisdictions can also cover sales and business political contributions made by Oracle, including attendance, participation,
+development activity. These laws can apply to elected officials, as well as appointed and/or sponsorship of political candidates, parties, campaigns, and related
+officials and government employees. The company may have an obligation to events must be approved in advance by Oracle’s Government Affairs and
+register and/or report the company’s lobbying activities under applicable law, the Oracle Legal Department. In addition, in many instances corporations are
+including activities by employees and outside consultants or advisors ongovernment prohibited from giving to political campaigns. Some campaign laws interpret
+relations. You are responsible for knowing when your activity or the activity of any use of corporate resources (such as equipment, email, stationery, or personnel)
+third party you engage with on government matters for Oracle may be considered as corporate donations. You should obtain approval from the Oracle Legal
+lobbying, and should consult the Oracle Legal Department for guidance. For more Department before using any company resources for political campaigns or
+information, please see the Supplemental Policy on Government Contracting fundraising. For more information on Oracle’s political activities policy in North
+and Dealing with Government Officials and Employees, and the Elected Officials, America, see the Supplemental Policy on Government Contracting and Dealing
+Legislation and Public Policy Approval Process, which are both located on the with Government Officials and Employees, located on the Compliance and
+Compliance and Ethics website. Ethics website.
+Code Rules | Engaging Government and Public Sector Employees and Officials Oracle Code of Ethics and Business Conduct | 27Personal Political Activity Guidelines regarding personal political activity:
+Your personal contributions to a candidate for elective office or a political
+Oracle encourages its employees to participate personally in civic affairs and the party must not be—or appear to be—made with, reimbursed from, or
+political process. To do so, you must facilitated by the company’s funds or assets.
+Make all personal political contributions with your own money You will not be paid by Oracle for any time spent running for public office,
+serving as an elected official, campaigning for a political candidate, or
+Conduct any personal political activities on your own personal time
+attending political fundraisers unless required by law and/or approved by
+Conduct all personal political activities in accordance with applicable laws
+the Oracle Legal Department.
+Comply with Oracle policies
+You can take reasonable time off without pay for personal political
+activities, if your Oracle duties permit and it is approved by your manager
+in accordance with current Oracle Human Resources policies. You also may
+use vacation time for your personal political activity.
+You may not use or permit any campaign, candidate, or political party to use
+any company facility or property, including a company trademark, without
+written approval from Oracle’s Government Affairs and the
+Legal Department.
+You should make clear that your political activities reflect your own personal
+views. Any overt, visible, and partisan political activity that could cause
+someone to believe that your actions reflect the views or position of Oracle
+requires prior approval of Oracle’s Government Affairs and the Oracle
+Legal Department.
+Code Rules | Engaging Government and Public Sector Employees and Officials Oracle Code of Ethics and Business Conduct | 28Influencing Others
+In certain instances, Oracle may encourage employees to support or oppose legislative issues that
+affect the company’s business. However, in no instance may you use your position of authority to
+make another employee feel compelled or pressured to
+Work for or on behalf of any legislation, candidate, political party, or committee
+Make contributions for any political purpose
+Support candidates or certain political causes
+Cast a vote one way or another
+In the United States, the Federal Election Campaign Act (FECA) allows the company to establish
+a political action committee. Oracle established the Oracle Political Action Committee (Oracle
+PAC) to enable employees to pool personal funds to support candidates for federal, state, and
+local offices. Oracle PAC fundraising must comply with all applicable laws and must be directed
+to only those employees eligible to contribute. Contributions to Oracle PAC are voluntary. Oracle
+PAC fundraising may not be conducted in a coercive manner and all Oracle PAC fundraising
+communications must clearly include a statement that contributions are voluntary and that
+employees will not be favored or disadvantaged in their employment by reason of the amount of
+any contribution or any decision not to contribute. An employee‘s participation in Oracle PAC is
+kept confidential by Oracle PAC‘s administrator, except as required by law.
+Code Rules | Engaging Government and Public Sector Employees and Officials Oracle Code of Ethics and Business Conduct | 29Real World Questions and Answers: Real World Questions and Answers:
+Engaging Government and Public Sector Engaging Government and Public Sector
+Employees and Officials—Government Employees and Officials—Government
+Contracting Procurement Integrity
+1 Q: Are regulations regarding government employee interaction 1 Q: Is it permissible for an Oracle employee or independent contractor to obtain
+with private contractors, such as Oracle, the same for all information on the prices a competitor plans to bid or has bid on a government
+government agencies? procurement?
+A: No. Regulations vary depending on the government agency. Because these A: No. It is not permissible for Oracle to obtain any information that another party
+regulations vary so greatly, seek advice from the Oracle Legal Department if you are considers proprietary or confidential regarding competitive procurement, including
+uncertain about the applicable regulations. information about pricing. However, Oracle may consider information about a
+competitor’s prices that we obtained from publicly available sources.
+2 Q: One of our government contracts requires us to perform a test that seems to
+duplicate part of another test we must perform during a later stage of production. It
+is clearly a waste of time and money. Must we continue performing the extra test?
+A: Yes. Because the contract requires that we perform both tests, no change in
+testing requirements or quality controls should be made without first informing
+and obtaining the approval of the appropriate level of management, as well as the
+approval of a contracting officer. To knowingly deliver a product to the government
+that does not meet the contract specifications, without specific prior approval from
+the customer for any change in specification, could be considered fraud and a
+violation of law.
+Code Rules | Engaging Government and Public Sector Employees and Officials | Questions and Answers Oracle Code of Ethics and Business Conduct | 30Real World Questions and Answers: Real World Questions and Answers:
+Engaging Government and Public Sector Engaging Government and Public Sector
+Employees and Officials—Organizational Employees and Officials—Post-Government
+Conflict of Interest (OCI) Employment Restrictions
+1 Q: An employee of a government customer has asked me to help him develop a 1 Q: You are considering hiring a former US government engineer to work at Oracle.
+specification to be included in a Request for Proposal. May I help him do this? She is very qualified for the position. May you hire this engineer?
+A: No. You should not perform this type of work unless you have obtained approval A: It depends. United States law imposes several restrictions on Oracle’s ability
+from the Oracle Legal Department and other appropriate internal approvals. to hire US government employees. State and local laws may impose similar
+restrictions. Before even speaking with any government employee about
+employment opportunities at Oracle, consult with the Oracle Legal Department to
+ensure compliance with applicable laws.
+Code Rules | Engaging Government and Public Sector Employees and Officials | Questions and Answers Oracle Code of Ethics and Business Conduct | 31Real World Questions and Answers: Real World Questions and Answers:
+Engaging Government and Public Sector Engaging Government and Public Sector
+Employees and Officials—Lobbying of Employees and Officials—Personal Political
+Government Officials Activity
+1 Q: A customer has asked me to join him at a fundraising dinner for an elected 1 Q: I am working on a political campaign and need to attend an out-of-town
+official. May I attend and expense the ticket cost to Oracle? fundraiser during work hours. May I go if I get my manager’s permission?
+A: It depends. Sales activity should be kept separate from any political activity. In A: Yes. However, the day off may not be charged to Oracle. You’ll have to use
+addition, donations—including attendance at political fundraisers—are never to vacation or unpaid time off to attend this event.
+be expensed. Rather, for an activity that has been approved by the Oracle Legal
+Department, you must submit a check request.
+Code Rules | Engaging Government and Public Sector Employees and Officials | Questions and Answers Oracle Code of Ethics and Business Conduct | 32Real World Questions and Answers:
+Engaging Government and Public Sector
+Employees and Officials—Influencing Others
+1 Q: My manager asked me to make a contribution to her daughter’s
+campaign for city council. Is that appropriate?
+A: No. Even if your manager is not pressuring you, the request is
+inappropriate. An Oracle sponsored event is okay, but managers should
+never solicit donations for personal charitable causes or personal
+sponsorships from employees that are in their reporting chain. If you are
+not comfortable speaking to your manager about this, you should speak
+with his or her manager, Oracle Human Resources, or your regional
+Oracle Compliance and Ethics officer. You may also report your concern
+to the Oracle Integrity Helpline.
+Code Rules | Engaging Government and Public Sector Employees and Officials | Questions and Answers | 33Trade Compliance Laws and Regulations
+Oracle is committed to complying with all applicable global export, import, US trade compliance laws and regulations govern all exports and imports
+and economic sanctions, laws, and regulations. Compliance with global of commodities and technical data into and from the United States,
+trade laws and regulations protects Oracle’s ability to conduct international which include
+business. Failure to do so can result in disciplinary action for the company,
+Physical items (hardware, laptops, software media, and the like)
+serious supply chain disruptions, loss of sale and service opportunities,
+Electronic or physical distribution of software and source code
+monetary penalties, fines and imprisonment for individual employees and
+their management chain, and the potential revocation of our trade privileges. Written, electronic, or oral disclosure of technical data to a visitor outside
+You are responsible for understanding how trade compliance laws and of the United States or H1-B Visa worker whether it occurs within the US
+regulations apply to your job, and strict adherence to these laws is required. or abroad
+Any oral or written disclosure of technical data to a visitor from outside of the
+United States must comply with the same export control restrictions that are
+applicable to the physical export of such data.
+You may not ship Oracle commodities, including but not limited to hardware,
+software, documentation, source code, technical data, or technology, without
+processing the transaction through authorized Oracle order entry, distribution,
+export request, and support processes and/or through authorized Oracle
+subsidiary channels.
+Code Rules | Trade Compliance Laws and Regulations Oracle Code of Ethics and Business Conduct | 34As part of Oracle’s Global Trade Compliance program, Oracle maintains an
+International Traffic in Arms Regulation (ITAR) Compliance Policy to ensure
+all Oracle transactions involving the export or re-export of US-origin defense
+articles, defense services, and related technical data comply with the ITAR
+policy. The policy also establishes standards and procedures to ensure no
+transfer of covered defense articles, defense services, and related technical data
+takes place beyond what is authorized by the ITAR or by the terms of any export
+license or other approval granted by the US Department of State, Directorate of
+Defense Trade Controls.
+Questions concerning trade compliance matters or any potential violation of
+these laws or regulations should be directed to Oracle Global Trade Compliance.
+Additional information may be found on the Global Trade Compliance website.
+Code Rules | Trade Compliance Laws and Regulations Oracle Code of Ethics and Business Conduct | 35Real World Questions and Answers:
+Trade Compliance Laws and Regulations
+1 Q: I understand that there are restrictions on the export of certain
+strategic goods and technical data unless an appropriate export license
+is obtained. Are there any such restrictions on disclosing technical
+information to foreign nationals visiting Oracle in the US? After all, the
+information isn’t really crossing any border.
+A: Yes. Any oral or written disclosure of technical data to a foreign visitor
+must comply with the same export control restrictions that apply to the
+physical export of such data.
+2 Q: Is it true that software must physically leave a country‘s border for an
+export to have taken place?
+A: No. An export can take place at any location when technical data or
+software is made available to anyone who is a foreign national. You
+must obtain proper export authorization before sharing technical data or
+software in any manner with a foreign national.
+Code Rules | Trade Compliance Laws and Regulations | Questions and Answers Oracle Code of Ethics and Business Conduct | 36No Economic Boycotts
+Oracle does not participate in any economic boycott not sanctioned by the
+United States government. Oracle and our employees are prohibited from
+discriminating against or refusing to do business with a country, its nationals,
+or companies that are the object of an unsanctioned boycott.
+Additionally, Oracle and our employees may not furnish information
+concerning Oracle’s or any other person’s business relationships with
+a boycotted country or blacklisted company. If requested to supply any
+information, take any action, or refrain from taking any action to further or
+support a boycott of a country, you must immediately contact the Oracle
+Legal Department. For further information on identifying and handling boycott
+requests, please refer to Oracle’s Foreign Economic Boycott Policy, which
+is available on the Compliance and Ethics website. This policy is intended
+to ensure that we comply with foreign economic boycott laws of the United
+States. Address questions or requests for information regarding
+Foreign Economic Boycott Policy or anti-boycott laws to the Oracle
+Legal Department.
+Code Rules | No Economic Boycott Oracle Code of Ethics and Business Conduct | 37Real World Questions and Answers:
+No Economic Boycotts
+1 Q: Oracle received an order from a company in a country that has
+imposed a government-sponsored economic boycott not sanctioned
+by the US government. The customer’s purchase order states that the
+supplier (in this case Oracle) agrees not to conduct business with a
+blacklisted company or country. May the order be accepted?
+A: No. Accepting this order may subject Oracle to criminal and tax
+sanctions. Oracle complies with anti-boycott provisions of US law. The
+division receiving this request should immediately seek Oracle Legal and
+Corporate Tax Department advice on how to proceed.
+Code Rules | No Economic Boycott | Questions and Answers Oracle Code of Ethics and Business Conduct | 38Securities and Insider Trading
+Oracle expects you to comply with applicable insider trading and securities Under Oracle’s Insider Trading Policy, if you possess material, nonpublic
+laws. Oracle maintains an insider trading policy, which is applicable to all information (also referred to as “inside information”) gained through your
+employees worldwide, non-employee directors, and the immediate family work at Oracle, you may not trade in Oracle securities or the securities of
+members of employees and directors. The Insider Trading Policy, which is another company to which the information pertains. You also may not pass
+available on the Oracle Legal Department website, sets forth your obligations on to others (for example, a “tip”) material, nonpublic information. These
+under the law and as required by Oracle, regarding trading in the securities of restrictions also apply to your immediate family members.
+Oracle and other companies. You are expected to understand the policy and
+comply with it. Material information is any information that a reasonable investor would
+consider important in a decision to buy, hold, or sell securities. It includes
+If you trade in Oracle securities or the securities of any other company any information that could reasonably be expected to cause a change in the
+trading on a United States stock exchange, you are subject to United States price of securities of Oracle or the securities of another company to which the
+securities laws, as well as any other securities or insider trading laws that information relates.
+may apply to you locally, including Oracle’s Insider Trading Policy. Failure to
+comply with insider trading and securities laws may result in substantial civil
+and criminal penalties.
+Code Rules | Securities and Insider Trading Oracle Code of Ethics and Business Conduct | 39Examples of Material information Nonpublic information (or inside information) is material information that
+is not available to the general public. It is typically made public through the
+Financial performance and operating metrics (especially quarterly and
+issuance of a press release or a filing with the US Securities and Exchange
+year-end earnings) or significant changes in financial performance,
+Commission. Generally, you must refrain from trading from the time you
+operating metrics, or liquidity (including forecasts)
+become aware of inside information through the first full trading day after
+Potential or ongoing major mergers, acquisitions, joint ventures,
+Oracle has made the information public.
+divestitures, or other strategic transactions
+Award or cancellation of a major contract or strategic partnership Securities include common stock, bonds, employee stock options, futures,
+derivatives, and other financial instruments. See Oracle’s Insider Trading
+Key management changes
+Policy for more information regarding how the policy applies to stock options,
+Changes in dividend or stock repurchase programs, offerings of securities,
+restricted stock units, and the Employee Stock Purchase Plan.
+or credit transactions
+Changes in auditors, knowledge of a qualification in an auditor’s opinion Oracle has established quarterly “no trading” periods for certain groups of
+or report, or any change in the ability to rely on prior auditor reports Oracle employees and non-employee directors. In addition, individuals with
+knowledge of proposed strategic transactions must obtain preclearance prior
+Actual or threatened significant litigation or investigations
+to trading Oracle securities. All employees and non-employee directors are
+Gain or loss of a substantial customer or supplier
+prohibited from engaging in speculative transactions in Oracle securities.
+Please refer to the Insider Trading Policy for details on these restrictions. If
+you have any questions about compliance with insider trading laws or Oracle’s
+Insider Trading Policy, you should consult with the Oracle Legal Department.
+Code Rules | Securities and Insider Trading Oracle Code of Ethics and Business Conduct | 40Real World Questions and Answers:
+Securities and Insider Trading
+1 Q: I have become aware that we will likely exceed our quarterly revenue
+guidance estimates, but we have not yet made a public announcement. I
+stand to make a lot of money once this gets out. May I buy more shares
+of Oracle stock?
+A: No. What you are considering is insider trading. This is a violation of
+Oracle policy and a violation of applicable insider trading and securities
+laws. You may buy or sell Oracle stock only after such an announcement
+is made public and after a period of time has elapsed to allow the
+financial markets to absorb this information. Consult Oracle’s Insider
+Trading Policy for detailed guidelines.
+Code Rules | Securities and Insider Trading | Questions and Answers Oracle Code of Ethics and Business Conduct | 41Intellectual Property
+Besides our people, Oracle‘s most important assets are its intellectual property We also respect the intellectual property of others. Oracle will provide
+rights, which include any software necessary for you to perform your functions adequately
+under appropriate licensing agreements with vendors. It is against Oracle
+Copyrights
+policy to use, copy, display, or distribute third-party copyrighted software,
+Patents
+documentation, or other materials without permission or approval from
+Trademarks
+Oracle’s Legal Department. For example, you may not post another entity’s
+T rade secrets
+copyrighted content to any internal or external website or other electronic
+forum without first obtaining the necessary approvals. You are not permitted
+We are each responsible for protecting Oracle‘s intellectual property rights
+to use or copy software or documentation except to the extent that applicable
+by complying with Oracle‘s policies and procedures for their protection.
+license agreements allow.
+Maintaining the confidentiality of Oracle‘s trade secrets and proprietary
+information is an important element of such protection. This obligation
+Consult the Oracle Legal Department website for relevant policies and
+continues even after you leave Oracle.
+guidelines, some of which are
+Information Protection Policy
+Employee Proprietary Information Agreement
+Copyright Compliance Policy
+Policy on Patent Communication and Searches
+Code Rules | Intellectual Property Oracle Code of Ethics and Business Conduct | 42Real World Questions and Answers:
+Intellectual Property
+1 Q: I am working with a third-party consultant on an Oracle project, and
+he needs access to the Oracle network to complete his work. May I share
+my user ID and password with him?
+A: No. You may not allow third parties to access Oracle computer
+systems without appropriate authorization. Moreover, you should
+safeguard your passwords to Oracle systems, change them regularly,
+and not disclose them to any other person. Follow Oracle‘s Network
+Access Policy to obtain authorization for this consultant, and be sure that
+you have completed all necessary paperwork and obtained all necessary
+approvals for retention of an outside consultant.
+2 Q: I often work from home or at a customer site, and I need access to my
+Oracle email. May I auto-forward my Oracle email to my personal email
+account with a third-party ISP so that I may access my email at home?
+A: No. You may not auto-forward your Oracle email to a personal
+email account outside the Oracle domain without approval from Global
+Information Security. Auto-forwarding your email would allow Oracle
+confidential information to pass outside the Oracle network and be
+accessible by third parties.
+Code Rules | Intellectual Property | Questions and Answers Oracle Code of Ethics and Business Conduct | 43Protecting Confidential Information
+You are required to protect all confidential information that you have access Confidential information includes
+to in connection with your Oracle employment. The Oracle Information
+Information customers provide to Oracle for the performance of cloud,
+Protection Policy, located on the Oracle Legal Department website, provides
+technical support, consulting, and other services
+the requirements for treatment of confidential information. It also provides a
+S ource code
+description of the different categories of confidential information, which are
+Inventions or developments (regardless of the stage of development)
+P ublic
+Marketing and sales plans
+Confidential—Oracle Internal
+Competitive analyses
+Confidential—Oracle Restricted
+Product development plans
+Confidential —Oracle Highly Restricted
+P ricing
+The Information Protection Policy provides guidance on the proper handling of Potential contracts, mergers, or acquisitions
+each information category, including restrictions on use, disclosure, storage,
+Financial plans or forecasts
+transmission, and deletion. All information related to Oracle‘s business that is
+Oracle employee and customer personal information
+not intended for public disclosure or any information identified as confidential
+by Oracle’s customers, partners, prospective customers, and vendors should
+be considered confidential.
+Code Rules | Protecting Confidential Information Oracle Code of Ethics and Business Conduct | 44Security Policies and Practices
+Oracle has required security policies designed to protect our confidential information, as well as
+Oracle’s systems and resources. These are available on the Corporate Security website. Individual
+lines of business and organizations may have additional security practices in place to govern their
+operations. You are required to report any unauthorized access of an Oracle facility to Oracle’s
+Global Physical Security and report any unauthorized access to or use of Oracle’s networks,
+systems, or confidential information to Oracle’s Global Information Security.
+Your obligation to protect Oracle confidential information and personal information continues after
+you leave Oracle. Similarly, we expect you to abide by your obligations to protect the confidential
+information of your former employers. No confidential information obtained during or as a result
+of your work with former employers should be brought on Oracle premises or used in any form in
+your work at Oracle.
+Privacy Policies
+Oracle’s external privacy policies located on oracle.com govern the collection, use, transfer, and
+security of personal, customer, and prospect information, and information Oracle may access
+or be provided in connection with the performance of services. Oracle’s internal privacy policy
+located on my.oracle.com governs Oracle’s treatment of Oracle employee and contractor personal
+information. You are required to abide by these policies when collecting, processing or handling
+this information.
+Code Rules | Protecting Confidential Information Oracle Code of Ethics and Business Conduct | 45Social Media
+As a company, we encourage communication among our employees, Respect others’ intellectual property rights, including copyrights
+customers, partners, and others—and web logs (blogs), social networks, and privacy/publicity rights, particularly when using photographs or
+discussion forums, wikis, video, and other social media can be a great way to video content.
+stimulate conversation and discussion. The Oracle Social Media Participation
+Unless you are an official Oracle spokesperson who has been trained
+Policy, located on the Legal Department website, sets forth the requirements
+by Oracle Public Relations and/or Oracle Analyst Relations, you are not
+for employee participation in social media.
+authorized to speak on behalf of Oracle—or to represent that you do.
+Guidelines for external communications are provided in Oracle’s Policy
+It is particularly important to remember the following:
+Regarding Communications with the Press and Analysts.
+The Oracle Code of Ethics and Business Conduct and Oracle‘s corporate
+When using your personal social media account(s) to discuss Oracle-
+and legal policies apply to your online conduct (blogging, liking, tweeting,
+related topics, identify yourself as an Oracle employee, and make it clear
+commenting, and all forms of online activity) just as much as they apply to
+that your opinions are your own and do not necessarily reflect the views
+your offline behavior.
+of Oracle.
+Do not use social media for confidential, substantive, or direct Oracle
+Disclose any material connections you have with Oracle or with the
+business communications with customers.
+provider of any product or service you are reviewing.
+Do not discuss merger and acquisition activity, product roadmaps and
+Do not disclose confidential information through any social
+future product offerings, or certain communications during Closed
+media platform.
+Communications Periods (“Quiet Periods”), public policy or
+Do not make abusive, objectionable, or inflammatory posts.
+legislation, and legal commentary, in accordance with the Social Media
+Participation Policy.
+Code Rules | Social Media Oracle Code of Ethics and Business Conduct | 46Conflicts of Interest
+The term “conflict of interest” describes any circumstance that could cast Corporate business opportunities – For example: an employee purchases
+doubt on your ability to act in Oracle’s best interests and to exercise sound real estate in which he/she knows Oracle plans to build a facility.
+business judgment unclouded by personal interests or divided loyalties. The
+Outside business activities – For example: an employee begins to serve on
+term also refers to situations in which it appears that your business judgment
+the board of a start-up company that is reasonably likely to compete with
+has been compromised. The Conflict of Interest Policy explains how to avoid
+Oracle or is part owner of a reseller that is selling products and services.
+financial, business, or other relationships that create conflict of interest
+Public service or office – For example: an employee takes a position on the
+issues and how to deal with those situations. You must read and understand
+council of a city in which Oracle has an office.
+this policy.
+Public speaking, books, and other publications – For example: an employee
+Conflict of interest situations may arise in many ways. Some actions that can agrees to conduct a series of lectures on the future of cloud security.
+create a conflict include, but are not limited to
+Family, friends, and romantic relationships – For example: a manager
+continues to supervise an employee with whom the manager has a
+romantic relationship, or approves discounts for a partner owned by the
+manager’s brother, or engages a vendor or vendor organization owned
+by a close personal friend or a person with whom he/she has a
+romantic relationship.
+Personal financial interests – For example: an employee directs Oracle
+business to a vendor in which he/she has a financial interest.
+Code Rules | Conflicts of Interest Oracle Code of Ethics and Business Conduct | 47Other potential conflict of interest scenarios are outlined in the Conflict of Oracle’s senior officers—chief executive officer, chief technology officer,
+Interest Policy. The presence of a conflict does not necessarily mean that president, chief operating officer, chief financial officer, chief accounting
+an activity will be prohibited. If you feel that you have a potential conflict officer, executive vice president, and senior vice president—are subject to
+of interest, you must, first, refrain from the activity that creates the conflict, additional reporting requirements, which are spelled out in detail in the
+second, you must promptly disclose the conflict of interest or potential Conflict of Interest Policy. Non-employee members of the Oracle Board of
+conflict of interest in writing via the Conflict of Interest Disclosure Form and Directors are subject to the conflict of interest provisions of Oracle’s Corporate
+submit it to a member of the Compliance and Ethics team. If you observe any Governance Guidelines in lieu of the conflict of interest provisions contained
+situation involving another employee that you believe in good faith to be a in this Code. Senior officers and members of the Oracle Board of Directors
+conflict of interest, you must report the situation to your manager, your who have questions regarding this Code or other relevant policies should
+HR manager, your regional Compliance and Ethics Officer, or the Integrity contact Oracle’s General Counsel.
+Helpline. Reports from employees will be handled as confidentially
+as possible.
+Code Rules | Conflicts of Interest Oracle Code of Ethics and Business Conduct | 48Real World Questions and Answers:
+Conflicts of Interest
+1 Q: I have been approached by friends to invest in a company that will 3 Q: A current Oracle customer has asked me to be its consultant in
+be producing a product that could eventually be sold to Oracle. If this is developing a product that would be of no interest to Oracle. I often deal
+purely an investment interest and I will not take part in the management with this customer on the job. Could this be a conflict of interest?
+of the company or provide any advice, will this be a conflict of interest? A: Yes. This could create a conflict of interest because other vendors,
+A: It depends. Whether or not this activity could constitute a conflict of suppliers, or customers of Oracle might suspect you of favoritism to this
+interest depends on particular company even though none may be present. The objectivity
+• The position you hold with Oracle of your business decisions could be questioned. In addition, this would
+• The influence others may believe you have in the selection of create a conflict of interest if you are performing services for the
+Oracle suppliers customer personally that Oracle might otherwise have been retained
+• The amount of your investment to perform.
+• The importance of Oracle as a prospective customer
+4 Q: I have been asked to take a seat on the board of directors of a start-up
+You should fully disclose the matter by submitting a Conflict of
+company. May I accept?
+Interest Disclosure Form to Oracle Compliance and Ethics to obtain the
+A: Not without approval. If you wish to serve on a board of directors, you
+appropriate approvals.
+must receive the written approval via the use of the Conflict of Interest
+2 Q: Can an Oracle employee teach a course at a local university for pay? Disclosure Form. The company for which you serve should not be in a
+A: Yes. It is permissible to teach at an educational institution with written competitive position with Oracle and should not be a customer, partner,
+approval via the use of the Conflict of Interest Disclosure Form. or supplier of Oracle, and the time required to serve on the board should
+not be substantial. You may receive compensation when serving in an
+approved position.
+Code Rules | Conflicts of Interest | Questions and Answers Oracle Code of Ethics and Business Conduct | 49Gathering Information About
+Our Competitors or Other
+Third Parties
+You may not seek to obtain proprietary information about Oracle competitors,
+and you may not seek to obtain any information about Oracle competitors
+or other third parties illegally or in a way that involves a lack of integrity or
+a breach of any confidentiality or employment agreement. You must always
+disclose your employment with Oracle and never misrepresent your identity
+when attempting to collect competitive information. In the event that you
+inadvertently obtain a third party’s confidential or proprietary information
+without authorization, you must not disseminate the information within Oracle
+and you must immediately contact Oracle Legal at legal_us@oracle.com.
+Unless Oracle Legal instructs otherwise, you must promptly destroy all copies
+of such information in your possession.
+We may make appropriate observations about competitors’ products and
+activities when basing them on publicly available information, such as public
+presentations and marketing documents, journal and magazine articles,
+advertisements, and other published information.
+Code Rules | Gathering Information About Our Competitors or Other Third Parties Oracle Code of Ethics and Business Conduct | 50Real World Questions and Answers:
+Gathering Information About Our Competitors or Other Third Parties
+1 Q: I have just received a copy of proprietary competitive information in
+the mail. Can I use it?
+A: No. Instead, do not send or forward the information to any other
+employees, and immediately contact Oracle Legal at legal_us@oracle.
+com. Unless Oracle Legal instructs otherwise, you must promptly destroy
+all copies of such information in your possession. Proper intelligence
+gathering is a legitimate marketing strategy, but Oracle will never
+approve use of apparent proprietary information that it receives from
+unknown sources.
+2 Q: I used to work for a customer of one of Oracle‘s competitors. In my
+capacity in that job, I learned a lot about how the competitor operates. I
+even still have a copy of one of their contracts on my personal computer.
+Can I share this information with Oracle?
+A: No. It’s tempting to use information about a competitor that you
+obtained during your prior employment to Oracle’s advantage but, in this
+case, it is not permitted. We expect you to protect confidential knowledge
+obtained from your employment with former employers.
+Code Rules | Gathering Information About Our Competitors or Other Third Parties | Questions and Answers Oracle Code of Ethics and Business Conduct | 51Contracting
+You are expected to compete fairly and ethically for all business opportunities. Spending and Signing Authority
+If you are involved in the purchase, sale, or licensing of products/services,
+the negotiation of agreements, or the delivery of services to customers, you
+Before acquiring any goods or services, signing any document, or making
+are expected to understand and honor the terms of Oracle‘s contractual
+any other commitments on behalf of Oracle, you must ensure that you have
+agreements. Also, you must ensure that all statements, communications, and
+spending authority equal to or greater than the total amount of payments or
+representations to customers, suppliers, and internal approvers are accurate
+other concessions to which you are committing Oracle. You should aggregate
+and truthful.
+the total cost of a purchase when making this determination. It is not
+permissible, for example, to open several purchase requisitions for a single
+Oracle is committed to meeting all of our contractual obligations. You must
+vendor on the same project to avoid going outside the limits of your spending
+obtain all appropriate approvals before executing, modifying, or amending
+authority. If you do not have adequate spending authority, obtain approval
+any contract. Oracle prohibits unauthorized contracts or modifications of
+from the manager in your chain of management who has the appropriate
+contracts, including side letters or oral agreements. A “side agreement” or
+signing authority. If you have questions about your spending authority,
+“side letter” is any agreement, promise, or commitment (whether written or
+consult your manager. You should also familiarize yourself with the Global
+oral) by or on behalf of Oracle with a customer or partner from whom revenue
+Spending Approval Policy, Global Source-to-Settle Policy, and the Document
+has been or will be recognized, that is either undocumented or documented
+Signing Authority Policy.
+in agreements separate from the main contract. Such side agreements are
+prohibited under Oracle policy.
+Code Rules | Contracting Oracle Code of Ethics and Business Conduct | 52Real World Questions and Answers:
+Contracting
+1 Q: Your customer is ready to sign the contract, but it needs board
+approval. The customer assures you that its board will approve the
+transaction when it meets in 10 days and asks you to allow 15 days
+within which to return the software in the unlikely event that the board
+does not approve. May you send a letter confirming that the customer
+has 15 days to return the software?
+A: No. This would constitute an unauthorized side letter modifying the
+terms of the contract. Execution of unapproved side letters is grounds for
+disciplinary action.
+2 Q: A customer asks you to write a letter confirming that it is entitled to
+use its software in a way that is not expressly allowed by the Oracle
+license agreement. You note that the Oracle license agreement does not
+expressly prohibit the use intended by the customer, and you are certain
+that Oracle would not object. May you write the letter?
+A: No. Oracle may be willing to modify the contract to allow the use
+desired by your customer, but such a change to the contract requires the
+necessary business review and approval. Treat the request as one for a
+formal contract amendment and process the request in compliance with
+Oracle‘s business practice guidelines.
+Code Rules | Contracting | Questions and Answers Oracle Code of Ethics and Business Conduct | 53Use of Oracle Resources
+We use a number of company and personal assets and resources to perform Oracle may employ security procedures at our facilities to monitor and
+our jobs. These include Oracle facilities, computers, telephones, and email, as maintain security, including the use of closed circuit television. Also, use of
+well as certain personal devices. It is critical that each of us fully understands Oracle computers, systems, resources, and employee personal devices used
+the requirements for appropriate use of these resources. for business purposes may be monitored or imaged for legal preservation to
+the extent permitted by applicable law.
+You are required to comply with the Acceptable Use Policy for Company
+Resources, located on the Legal Department website. The topics In addition, Oracle requires you to comply with Oracle’s Information and
+covered include Physical Security policies at all times. Oracle property may not be sold,
+loaned, given away, or disposed of without proper authorization. Upon leaving
+Personal use of Oracle resources and appropriate conduct
+employment with Oracle, all Oracle property—including keys, security badges,
+Reporting data loss and security incidents
+computer equipment, software, handbooks, and internal documents—must
+Use of Oracle and third-party instant messaging, email, voicemail, mobile be returned.
+phones, removable media, and applications
+Use of passwords and prevention of viruses
+Protecting confidential information
+I ssuing public statements
+Marketing and customer communications
+Investigations and access to resources and facilities
+Code Rules | Use of Oracle Resources Oracle Code of Ethics and Business Conduct | 54Financial Integrity
+Accurate and reliable financial and business records are of critical importance No payment on behalf of Oracle shall be made or approved with the understanding
+in meeting Oracle‘s financial, legal, and business obligations. Oracle‘s that it will or might be used for something other than the stated purpose.
+financial books, records, and statements must properly document all assets
+All approval requests for nonstandard discounts must be accurate and commercially
+and liabilities and accurately reflect all transactions of the company. No false
+justified. Margins derived from misleading and/or unjustified nonstandard discounts
+entries are ever permitted on Oracle’s books or records, for any reason. Below
+are inappropriate, and may not be used to pay or otherwise reward an Oracle
+are some helpful guidelines regarding financial record keeping.
+customer, employee, or other third party.
+Billing of time or expenses by consultants, submission of Oracle timecards,
+Placing an order with Oracle without the existence of a corresponding end user
+entry of orders by sales administrators, and submission of travel and
+agreement (also known as “pre-loading” or “channel stuffing”) is not an acceptable
+expense reports shall be made timely and accurately and in compliance
+Oracle business practice and is prohibited. Oracle partner agreements require
+with Oracle policy, professional standards, regulations, and laws.
+partners to provide a copy of the end user agreement (Proof of End User—POEU)
+No documents shall be inappropriately altered or signed by those lacking documentation upon Oracle’s request and such documentation is required for certain
+proper authority. Please refer to Oracle’s Document Signing Authority orders to be booked as outlined in Oracle’s Revenue Recognition Policy.
+Policy on the Oracle Legal Department website for more information.
+In working with Oracle partners (VADs, resellers, and the like), you are expected to
+Oracle funds or assets must not be used for any unethical, inappropriate, maintain neutrality and take all reasonable measures to ensure partner adherence
+or illegal purpose. to Oracle policies and contractual obligations. Partners or other third parties should
+never be engaged to make or facilitate improper payments, misrepresent the nature or
+The handling and disbursement of funds related to an Oracle transaction
+substance of a transaction, or structure deals in a manner intended to circumvent the
+must be pursuant to a duly authorized Oracle written contract with clearly
+design and intent of Oracle policies and controls. For further information, see Oracle’s
+defined procedures.
+Partner Engagement Guidelines and Guidelines for Working with Partners.
+No undisclosed or unrecorded fund or asset related to any Oracle
+transaction shall be established or maintained for any purpose.
+Code Rules | Financial Integrity Oracle Code of Ethics and Business Conduct | 55Public Disclosures
+As a public company, Oracle must disclose accurate and complete information
+regarding the company and the results of our operations. Our policy is to
+report Oracle’s financial results and other significant developments fully,
+fairly, accurately, timely, and understandably. Oracle will not tolerate
+unauthorized “leaks” or disclosures of corporate information to third parties,
+including the press or financial community.
+All communications with the press and financial community must be
+authorized by Oracle‘s Public Relations or Investor Relations organizations.
+Those organizations alone, at the direction of executive management,
+are responsible for determining the appropriate spokespersons for
+communicating with the press and analysts. Direct any inquiries from the
+press or financial community immediately to Oracle Public Relations or
+Oracle Investor Relations. For further information, see Oracle‘s Policy
+Regarding Communications with the Press and Analysts on the Oracle Legal
+Department website.
+Code Rules | Public Disclosures Oracle Code of Ethics and Business Conduct | 56Real World Questions and Answers:
+Public Disclosures
+1 Q: You receive a call from an investment analyst who heard that Oracle
+is having a bad quarter. Having just sat through a forecasting call, you
+know that the opposite is true—Oracle is about to have an amazing
+quarter. May you set this investment analyst straight? After all, isn’t it a
+good idea to correct such misinformation?
+A: No. You should not speak with this analyst. Only spokespersons
+authorized by Oracle Investor Relations, at the direction of executive
+management, are allowed to speak with the financial community about
+Oracle or our financial prospects. Oracle commits to providing full,
+fair, understandable, timely, and accurate public information about our
+financial prospects, and we do so openly, rather than selectively. Refer
+any such inquiries to Oracle Investor Relations. Other than that, make
+no comment.
+2 Q: You receive a call from a reporter who wants more information about
+a recent Oracle product announcement. You are very familiar with the
+product. May you speak with this reporter?
+A: No, at least not without first obtaining permission from Oracle
+Public Relations. Oracle Public Relations must approve in advance all
+communications with the press. Oracle Public Relations may conclude
+that you are the best spokesperson for the company on this issue, but
+it—not you—must make that decision.
+Code Rules | Public Disclosures | Questions and Answers Oracle Code of Ethics and Business Conduct | 57Records Retention
+The Oracle Records Retention Policy (“Retention Policy”) sets forth guidelines The Retention Policy and the Retention Schedule cover both electronic (soft
+governing the retention and disposal of Oracle business records. The copy) and hard copy materials. They apply to all record types regardless of the
+Retention Policy requires that you maintain records in accordance with the medium in which they exist, including
+Corporate Records Retention Schedule (“Retention Schedule”). The Retention P aper
+Schedule identifies the company records that we must retain and the retention Email
+period for each record type. You must not retain records that are not identified Video
+on the Retention Schedule, unless the records have a current business Hard Drive
+purpose or the Oracle Legal Department has instructed that the records be Compact disc or other electronic storage device
+retained or preserved. You are responsible for reading and abiding by the
+Retention Policy and Retention Schedule. Please be advised that if you You should give special care to ensure that records containing confidential
+receive a Legal Hold Notice, the processes noted in the Retention Policy information are retained and disposed of in accordance with both the
+should be suspended regarding certain or all Oracle documents that you have Retention Policy and the Information Protection Policy.
+in your possession. If you have any questions regarding a Legal Hold, refer to
+our Legal Hold FAQs or contact a member of the Oracle Legal Department. If it appears that local circumstances require a record to be retained for
+a longer period, please contact the Oracle Legal Department or email
+docretention@oracle.com. If you have questions about the Retention Policy or
+the Retention Schedule, contact the Legal Department.
+Code Rules | Records Retention Oracle Code of Ethics and Business Conduct | 58Real World Questions and Answers:
+Records Retention
+1 Q: During the course of your job, you come across some original invoices
+that are two months old. All were marked paid and the files are taking up
+valuable space. Can you shred them to make room for more
+recent information?
+A: No. Records such as original invoices represent expenses, which will
+eventually have to be reported, reviewed, and audited in connection
+with the company’s periodic reporting to the Securities and Exchange
+Commission and Oracle‘s investors. Please see the Retention Schedule
+for guidance on how long to keep the invoices.
+2 Q: The accounting department receives a letter from a customer’s
+attorney, demanding that Oracle fulfill certain oral promises that
+Oracle allegedly made. Your manager asks you to review your email to
+determine whether you have any email messages that would support
+such a promise. You identify one email that could be construed as
+constituting a promise to a person who was unfamiliar with the customer
+relationship, but you believe, in good faith, that no such promise was
+ever made to the customer. Should you delete the email?
+A: No. Oracle’s Records Retention Policy requires you to preserve all
+records that may be relevant to a matter in which Oracle reasonably
+anticipates litigation. The manager should immediately escalate this
+demand letter to the litigation and legal team.
+Code Rules | Records Retention | Questions and Answers Oracle Code of Ethics and Business Conduct | 59Charitable Donations
+Oracle is committed to using our resources to advance education, protect the
+environment, and enrich community life. Each year Oracle Giving donates
+millions of dollars to nonprofit organizations around the world. Through
+grants and sponsorships, as well as Oracle Volunteers’ support, we work
+to improve the quality of life in the communities where we do business.
+Additionally, our education programs—Oracle Academy and Oracle Education
+Foundation—prepare students for success in life and work.
+Oracle does not make charitable donations to close deals or seek favor
+from decision makers. It is possible, however, for business units to support
+nonprofit organizations, as long as they approach it as part of an ongoing,
+positive business relationship and not to close business or otherwise secure
+favorable treatment on decisions affecting Oracle. All donations must be made
+in compliance with the Policy for Cash Donations. Raise questions about any
+potential conflict of interest issues that may arise from charitable donations to
+Compliance and Ethics.
+Code Rules | Charitable Donations Oracle Code of Ethics and Business Conduct | 60Real World Questions and Answers:
+Charitable Donations
+1 Q: I serve on a nonprofit organization’s board of directors/trustees. Can I 3 Q: Can I organize an event (e.g., sporting events, networking events,
+guarantee the board that Oracle will donate to the organization? fundraisers, etc.) to raise money for a nonprofit organization on behalf
+A: No. You must make clear to the nonprofit organization that your of Oracle?
+board service is personal, that you are representing yourself only, and A: No, only Corporate Citizenship can organize events to support
+that it is unlikely that you will be able to secure a donation from Oracle. nonprofit organizations on behalf of Oracle. Oracle employees can
+If the nonprofit organization has historically received donations from support nonprofit organizations through the Oracle Volunteers program
+Oracle or has any formal relationship with Oracle, approval from Oracle and the MyCitizenship portal.
+Compliance and Ethics is required before you may serve on the board.
+Also, see the “Conflicts of Interest” section of this Code.
+2 Q: Would Oracle sponsor a fundraising event for a nonprofit organization
+with which I am personally involved?
+A: No. Oracle Giving sponsors special events only for nonprofit
+organizations with which we have strong existing relationships.
+Additionally, we sometimes provide sponsorships for events in which
+our senior executives are engaged (for example, serving on the
+organizing committee being recognized).
+Code Rules | Charitable Donations | Questions and Answers Oracle Code of Ethics and Business Conduct | 61Corporate Social Responsibility
+Oracle recognizes the important responsibility we have to respect universally We must comply with all applicable environmental laws and regulations.
+recognized human rights throughout our operations and in the products and For additional information regarding Oracle’s position on environmental
+services we offer. As a global company, we address important human rights management, please refer to Oracle’s Environmental Policy.
+issues every day, including online privacy, human trafficking, conflict minerals
+and labor rights, freedom of expression, and data privacy.
+We support and respect the protection of human rights and ensure that our
+business partners and suppliers do the same. We avoid involvement in human
+rights violations that could arise through our businesses actions. We require
+that child labor, prison or forced labor, and physical punishment are never
+permitted in any operation of Oracle. We similarly require that our business
+Watch the Video
+partners or suppliers not engage in such practices. We respect your right to
+organize in labor unions and collectively bargain in accordance with local laws
+and established practices.
+Oracle is committed to using our technology and resources to advance
+education in innovative ways, promote diversity, enrich the life of
+communities, and protect the environment. In balancing the needs of our
+business with the needs of the environment, Oracle‘s policy is to maintain
+our facilities and run our business operations in a manner that minimizes any
+adverse impact on the environment. As an example, we seek to reduce, reuse,
+and recycle as many resources as we can.
+Code Rules | Corporate Social Responsibility Oracle Code of Ethics and Business Conduct | 62Oracle’s Relationships
+Oracle’s Relationships Oracle Code of Ethics and Business Conduct | 63Oracle and Our Employees
+Oracle provides regional employee handbooks or regional HR sites that can If you need information on immigration issues, contact US Immigration for
+be used to answer common questions around employee-related policies, US-specific issues or the Mobility Group for countries other than the US
+practices, and programs. We encourage you to express ideas for improving through Global Human Resources website.
+the workplace and any concerns you may have about the workplace or specific
+job-related problems. We will not retaliate and will not tolerate retaliation For US Immigration, including all US visa matters, contact Oracle’s US
+against any employee who raises an issue, complaint, or concern in good Immigration team.
+faith. Our goal is to deal fairly and equitably with each employee.
+For Global Immigration (excluding US-inbound), contact Oracle’s Global
+Immigration Laws Mobility group. You can also review Oracle’s Working Worldwide site for
+information related to Oracle’s Global Mobility and Global Immigration
+program, including:
+You must ensure that you, and any employees that report to you, comply
+with all applicable immigration laws and/or the advice of Oracle’s designated Global Immigration Program Policy & Guidelines
+immigration service providers. At all times, Oracle employees must possess
+Global Immigration Program Frequently Asked Questions (FAQs)
+proper work authorization for the country in which they are working. If you
+travel internationally on business, you are responsible for obtaining the
+appropriate visa before attempting to enter a host country. Visa requirements
+apply to all Oracle employees who travel outside of their home countries for
+business purposes or who work on projects or international assignments
+outside of their home country for any duration. Oracle also prohibits you from
+allowing contractors or other employees to work on a project without the
+proper authorization or documentation.
+Oracle’s Relationships | Oracle and Our Employees Oracle Code of Ethics and Business Conduct | 64Diversity Military and protected veteran status
+S exual orientation
+Oracle affirms the principle of equal employment opportunity without regard to any
+Any other characteristic protected under federal or state law or
+protected characteristic, including but not limited to
+local ordinance
+Race
+We practice and promote such policies in all locations as appropriate under the
+R eligious creed
+law. We affirm this principle of freedom from discrimination in all aspects of the
+N ational origin
+employment relationship, from recruitment and hiring, through performance
+C olor evaluations, compensation, and promotions, to the end of your employment
+relationship with Oracle.
+Sex or gender
+Gender identity or expression
+We base personnel actions strictly on individual ability, performance,
+A ge experience, and company need. We avoid actions influenced by personal
+relationships and discriminatory practices of any kind. Our goal is to
+Mental or physical disability or medical condition
+compensate personnel—with wages, salaries, and other benefits—in relation to
+Pregnancy
+their responsibilities, performance, and experience. Oracle is also committed to
+M arital status adhering to wage, hour, and minimum-age guidelines provided by applicable
+laws. We strive to structure the content of jobs so that work provides personal
+N ational origin/ancestry
+satisfaction and challenge.
+G enetic information
+P olitical affiliation
+Oracle’s Relationships | Oracle and Our Employees Oracle Code of Ethics and Business Conduct | 65Harassment
+You are expected to treat your fellow colleagues and/or employees with mutual respect and
+dignity. Oracle‘s policy is to provide a work environment free from harassment. Harassment is
+prohibited in any form: physical, verbal, and nonverbal. Harassment is prohibited by law and
+Oracle policy prohibits the berating or verbal abuse of employees. You may review our policy in
+detail by accessing the Anti-Harassment Policy.
+Although “harassment’’ most frequently refers to sexual harassment, workplace harassment may
+also include harassment based upon a person‘s race, religious creed, national origin, color, sex
+or gender, sexual orientation, gender identity or expression, age, mental or physical disability or
+medical condition, pregnancy, marital status, national origin/ancestry, genetic information, political
+affiliation, military and protected veteran status, or any other characteristic protected under federal
+or state law or local ordinance.
+Report instances of harassment to your manager, your Oracle Human Resources manager, your
+regional Compliance and Ethics team, or the Oracle Integrity Helpline. Your report will be kept
+confidential to the greatest extent possible and retaliation is not tolerated for any report made in
+good faith.
+Oracle’s Relationships | Oracle and Our Employees Oracle Code of Ethics and Business Conduct | 66Safety and Security Environment, Health and Safety
+Threats or acts of violence against you, temporary employees, independent Oracle is committed to conducting its business operations in a manner
+contractors, customers, clients, partners, suppliers, or other persons and/or that protects the health and safety of its employees, visitors, contractors,
+property will not be tolerated. Immediately report potential threats or acts of and the public, while also minimizing the environmental burden of our
+violence to Oracle Global Physical Security, which is responsible for defining, operations and products. Oracle’s Global Environment, Health and Safety
+developing, implementing, and managing all aspects of physical security (EHS) Department works with all lines of business and employees around the
+to ensure your protection, the business enterprise, and assets. In case of an globe to comply with applicable EHS requirements. As an employer, Oracle
+emergency, contact local law enforcement. has responsibilities and obligations in preventing workplace accidents and
+injuries and promoting safe and healthy workplaces. Immediately report any
+You are obligated to provide accurate and complete information requested by instances of noncompliance with environmental laws and regulations to your
+Oracle Global Physical Security. This includes investigations regarding threats local facilities manager, your regional Compliance and Ethics Officer or, where
+to persons or property, theft of Oracle assets, and theft of personal assets permitted by law, the Oracle Integrity Helpline.
+(where the theft occurred on Oracle property). Photography and videography
+Oracle Global EHS
+of Oracle’s property is prohibited without prior review and written approval
+from either Oracle Global Physical Security or your Regional VP of Oracle Real View the Training Video
+Estate and Facilities.
+You must review and understand the Global Badge Policy, Visitor Policy, and
+Taxation
+Real Estate and Facilities Emergency Response Plan.
+We expect you to pay all applicable taxes on all income from Oracle, including
+taxes on income from the exercise of stock options.
+Oracle’s Relationships | Oracle and Our Employees Oracle Code of Ethics and Business Conduct | 67Oracle and Our Customers
+We prosper to the degree—and only to the degree—that we serve our
+customers well. Our appeal in the marketplace must be based on the quality
+of our products and services, the perception that our products and services
+are priced fairly to provide value to our customers, and the competence and
+honesty of our product and sales presentations. Accordingly, we prioritize
+pleasing our customers and anticipating and being responsive to their needs.
+Oracle’s Relationships | Oracle and Our Customers Oracle Code of Ethics and Business Conduct | 68Oracle and Our Partners
+Together, Oracle and its partners provide customers around the world with
+industry-leading solutions and services. These standards can only be met with
+our partners’ cooperation. Oracle expects its partners to conduct business
+fairly and ethically, to comply with anti-corruption laws around the world, to
+cooperate with Oracle’s requests for information, and to avoid engaging in
+any activity that involves even the appearance of impropriety. We require our
+partners to adhere to the standards of the Oracle Partner Code of Ethics and
+Business Conduct. We also expect our partners to comply with all applicable
+laws and regulations. Partners are encouraged to report concerns to the
+Integrity Helpline.
+Oracle’s Relationships | Oracle and Our Partners Oracle Code of Ethics and Business Conduct | 69Oracle and Our Suppliers
+We maintain open and frank business dealings with our suppliers and strive to
+develop mutually advantageous relationships. Oracle expects its suppliers to
+conduct business fairly and ethically, to comply with the anti-corruption laws
+around the world, to cooperate with Oracle’s requests for information, and to
+avoid engaging in any activity that involves even the appearance of
+impropriety. We require our suppliers to comply with the Oracle Supplier
+Code of Ethics and Business Conduct. We also expect our suppliers to comply
+with all applicable laws and regulations and to ensure that all goods and
+services provided by them conform to all applicable legal standards. Suppliers
+are encouraged to report concerns or issues to the Integrity Helpline.
+Oracle’s Relationships | Oracle and Our Suppliers Oracle Code of Ethics and Business Conduct | 70Enforcement
+Enforcement Oracle Code of Ethics and Business Conduct | 71The Investigation Process
+Oracle is committed to maintaining an internal investigations process
+focused on accuracy, precision, fairness, and respect for all parties involved.
+Your regional Compliance and Ethics Officer is responsible for addressing
+business conduct and ethical concerns, including directing the investigation
+of allegations of misconduct. Investigations are conducted in compliance with
+applicable law and Oracle policies and in such a manner that all parties receive
+ethical and fair treatment.
+Oracle complies with applicable laws in conducting investigations. To the
+extent permitted by applicable law, and when appropriate, investigation
+methods may include interviews with the parties and witnesses, review of
+relevant financial, electronic, and other records, reviews of publicly available
+information, and monitoring and/or analysis of computers, systems, offices,
+and other resources.
+Enforcement | The Investigation Process Oracle Code of Ethics and Business Conduct | 72You have a duty to fully cooperate with investigations and to promptly, completely, and truthfully
+comply with all requests for information, interviews, or documents during the course of an
+investigation. To the extent possible, Oracle treats all reports of alleged misconduct confidentially,
+and only those persons with a need to know are informed of and involved in an investigation.
+Only the Oracle Corporation General Counsel, Chief Compliance and Ethics Officer, a regional
+Compliance and Ethics Officer, or the Compliance Officer’s designee may commence a Code of
+Conduct investigation relating to a Code of Conduct violation. All reports of misconduct and related
+investigative records are treated in accordance with the Internal Privacy Policy and Information
+Protection Policy, both of which are available on the Legal Department website.
+Unsubstantiated allegations will have no effect on an employee accused of wrongdoing, and
+retaliation will not be tolerated against any employee who reports a concern in good faith or
+cooperates with a compliance investigation. For investigations in which misconduct occurred,
+Oracle calibrates the application of disciplinary and remedial actions to the conduct established
+through the investigation process. In addition, Oracle may report civil or criminal violations to the
+relevant authorities.
+Enforcement | The Investigation Process Oracle Code of Ethics and Business Conduct | 73Related Policies and Websites
+Listed below are the policies covered in the Code of Conduct and additional resources that may be of assistance.
+Charitable Donations Corporate Social Responsibility
+Policy for Cash Donations Corporate Citizenship Report
+Conflicts of Interest Oracle Academy
+Global Conflict of Interest Policy Oracle Education Foundation
+Conflict of Interest Disclosure Form Oracle’s Environmental Policy
+Contracting Oracle’s Policy Against Trafficking in Persons and Slavery
+Document Signing Authority Policy Oracle’s Sustainable Procurement Statement
+Oracle Global Source-to-Settle Policy Oracle Volunteers
+Oracle Global Spending Approval Policy Statement on Human Rights
+Sustainability
+Related Policies and Websites Oracle Code of Ethics and Business Conduct | 74Economic Boycotts Contracting
+Foreign Economic Boycott Policy Anti-Harassment Policy
+Financial Integrity Compliance and Ethics Website
+Closed Communications Periods Global Badge Policy
+Oracle’s Revenue Recognition Policy Global Human Resources Website
+Government and Public Sector Guidelines for Working with Partners
+Anti-Corruption Policy, and Business Courtesies Guidelines Meeting and Events Pre-Approval Guidance
+Oracle’s Government Affairs Website Oracle’s Corporate Governance Guidelines
+Supplemental Policy on Dealing with Government Oracle Global Physical Security
+Intellectual Property
+Oracle’s Global Travel and Expense Policy
+Copyright Compliance Policy Oracle’s Partner Engagement Guidelines
+Employee Proprietary Information Agreement Real Estate and Facilities
+Information Protection Policy Real Estate and Facilities Emergency Response Plan
+Policy on Patent Communication and Searches US Immigration
+Visitor Policy
+Related Policies and Websites Oracle Code of Ethics and Business Conduct | 75Protecting Confidential Information Social Media
+Additional Use of Personal Information Policy Social Media Participation Policy
+Call Monitoring and Recording Policy Supplemental Ethics Codes
+Corporate Security Website Partner Code of Ethics and Business Conduct
+Electronic Marketing and Customer Communication Policy Supplier Code of Ethics and Business Conduct
+Trade Compliance
+Global Information Security
+Global Physical Security Global Trade Compliance Website
+Internal Privacy Policy International Traffic in Arms Regulation (ITAR) Compliance Policy
+Oracle’s Policy Regarding Communications with the Press and Analysts Use of Oracle Resources
+Records Retention Oracle Acceptable Use Policy for Company Resources
+Corporate Records Retention Schedule
+Legal Hold Notice
+Oracle Records Retention Policy
+Securities and Insider Trading
+Insider Trading Policy
+Related Policies and Websites Oracle Code of Ethics and Business Conduct | 76Resources
+Oracle provides various resources to assist you with compliance and ethical situations.
+Compliance and Ethics
+Compliance and Ethics Team
+Human Resources
+Integrity Helpline
+Members of the Legal Department
+Resources Oracle Code of Ethics and Business Conduct | 77Oracle Corporation
+Worldwide Headquarters
+2300 Oracle Way
+Austin, TX
+78741
+U.S.A.
+Worldwide Inquiries
+Phone
++1.650.506.7000
++1.800.ORACLE1
+Fax
++1.650.506.7200
+oracle.com
+Copyright © 2024, Oracle and/or its affiliates. All rights reserved. Published
+in the U.S.A. This document is provided for information purposes only,
+and the contents hereof are subject to change without notice. We
+specifically disclaim any liability with respect to this document, and no
+contractual obligations are formed either directly or indirectly by this
+document. This document may not be reproduced or transmitted in any
+form or by any means, electronic or mechanical, for any purpose, without
+our prior written permission. Oracle is a registered trademark of Oracle
+Corporation and/or its affiliates. Other names may be trademarks of their
+respective owners.

@@ -1,0 +1,1335 @@
+Our
+Code of
+Business
+EthicsHow to use our
+Code of Business Ethics?
+Our Code of Business Ethics helps all team members understand how to behave and
+act in the right way. It is a framework for support if we are unclear. It is impossible
+for us to envision and prepare for every single business situation that may pose
+an ethical dilemma. Accordingly, we do not claim that this document is definitive
+or exhaustive. In three areas where ethical issues are particularly sensitive—fair
+competition, bribery and corruption prevention, and conflict of interest—there are
+specific, detailed Group policies that supplement overarching principles in our Code
+of Business Ethics.
+Our Code of Business Ethics does not rule out the need to exercise good judgment,
+but rather helps us to do the right thing. When in doubt, you should ask yourself the
+following questions:
+> D oes it feel right?
+> I s it in line with the Group Values, Code of Business Ethics and other company
+policies?
+> W ould I be comfortable explaining it to fellow team members, team managers,
+clients, family or, externally, to the press?
+> Is it legal?
+If the answer to even one of these questions is “no”, it is probably not the right thing
+to do. Open a dialogue with your team manager, your Ethics & Compliance Officer,
+or your HR manager to make the appropriate decision, and to be sure we continue
+“doing the right thing”. Find your Ethics & Compliance Officer on your Group and
+local websites—see Appendix for links.
+If you have raised a concern locally and you think that it has not been handled
+properly, or in the exceptional case that it is inappropriate to raise the issue locally,
+you can reach out to SpeakUp, Capgemini’s phone/web-based ethics helpline—see
+Appendix for link.
+>> Our Code of Business Ethics
+is for all team members, of all the companies of the Group,
+collectively referred to in this document as “the Group”.
+“World’s Most Ethical Companies” and “Ethisphere” names and marks are registered trademarks of Ethisphere LLC.
+22
+CCaappggeemmiinnii.. OOuurr CCooddee ooff BBuussiinneessss EEtthhiiccssContents
+3Seven Values
+4
+Capgemini. Our Code of Business EthicsSeven Values lie at the heart of
+everything that the Group does
+Since the creation of the Group in 1967, our culture and business practices have been inspired
+and guided by our seven core Values. These are the guiding principles that we collectively
+and individually stand for, and they are at the heart of our approach as an ethical and responsible
+business.
+Our Values also provide the basis for our rules of conduct and principles of action. They are part of
+our Group DNA, shaping our sustainable ethical culture, and producing a mindset that encompasses
+integrity and ethical behavior. Our Values are important for respecting, defending, and upholding
+the Group as an ethical and responsible business, and for protecting our reputation.
+HONESTY
+, loyalty, integrity, uprightness, a complete refusal to use any underhanded
+method to help win business or gain any kind of advantage. Neither growth, nor profit, nor
+independence have any real worth unless they are won through complete honesty and probity.
+And everyone in the Group knows that any lack of openness and integrity in our business dealings
+will be penalized at once.
+BOLDNESS
+, which implies a flair for entrepreneurship, and a desire to take
+considered risks and show commitment (naturally, linked to a firm determination to uphold
+one’s commitments). This is the very soul of competitiveness: Firmness in making decisions or in
+forcing their implementation, an acceptance periodically to challenge one’s orientations and the
+status quo. Boldness also needs to be combined with a certain level of prudence and a particular
+clear-sightedness, without which a bold manager is, in reality, merely dangerously reckless.
+TRUST
+, meaning the willingness to empower both individuals and teams; to have
+decisions made as close as possible to the point where they will be put into practice.
+Trust also means giving priority, within the company, to real openness toward other people
+and the widest possible sharing of ideas and information.
+FREEDOM
+, which means independence in thought, judgment and deeds,
+and entrepreneurial spirit, creativity. It also means tolerance, respect for others, for different
+cultures and customs―an essential quality in a Group of over 270,000 people and 120 nationalities,
+based in close to 50 countries.
+FUN
+means feeling good about being part of the company or one’s team, feeling proud
+of what one does, feeling a sense of accomplishment in the search for better quality and greater
+efficiency, feeling part of a challenging project.
+MODESTY
+, that is simplicity, the very opposite of affectation, pretension, pomposity,
+arrogance, and boastfulness. Simplicity does not imply naivety (simple does not mean simpleton!);
+it is more about being discreet, showing natural modesty, common sense, being attentive to others
+and taking the trouble to be understood by them. It is about being frank in work relationships,
+loosening up, having a sense of humor.
+TEAM SPIRIT
+, meaning solidarity, friendship, fidelity, generosity, and fairness
+in sharing the benefits of collective work; accepting responsibilities and an instinctive willingness
+to support common efforts when the storm is raging.
+55The Board of Directors
+The Board of Directors
+of Capgemini SE
+The undersigned, members of the Board
+of Directors of Capgemini SE, express by
+their signature their endorsement and their
+individual and collective support of the
+provisions of the Code of Business Ethics.
+66
+CCaappggeemmiinnii.. OOuurr CCooddee ooff BBuussiinneessss EEtthhiiccssPaul Hermelin Aiman Ezzat Xiaoqun Clever Maria Ferraro
+CHAIRMAN OF THE BOARD OF DIRECTORS CHIEF EXECUTIVE OFFICER
+Pierre Goulaieff Siân Herbert-Jones Hervé Jeannin Belen Moscoso
+del Prado Lopez-Doriga
+Xavier Musca Frédéric Oudéa Patrick Pouyanné Olivier Roussat
+Tanja Rueckert Kurt Sievers Lucia Sinapi
+7Message from the Chairman
+Message from
+the Chairman
+When, in 1967, a small French startup
+ventured into a then emerging
+market, it set out with no guarantee
+of success, but it moved forward
+nevertheless with conviction—with
+an unshakeable belief—that it had
+a part to play in shaping the future.
+That small startup is today
+the Capgemini group—our Group.
+By closely partnering with our clients as they step new worlds of opportunity. The ethical challenges,
+into the future, and by constantly pushing to bring however, remain. Our Code of Business Ethics is as
+out the best in our people, we have made a truly valuable an asset today as it ever was, in that it provides
+remarkable contribution to the global technological the compass that will enable us to navigate our way
+transformation. We have become a forerunner in an forward through these new worlds.
+industry that has transformed the way we live, work,
+and play. With our adventurous spirit and high requirements
+with regard to ethics and performance, I have no doubt
+Throughout this incredible journey, we have remained that we will continue to work at the forefront of our
+true to principles that have governed us from the start: industry, accompanying the most demanding clients
+an entrepreneurial spirit, a passion for clients, belief on the most demanding missions, and showing the
+in our people, and extremely high expectations with way as exemplary corporate citizens—a true Leader
+regard to both performance and ethical behavior. for Leaders.
+From the outset, we have been distinguished by our As Chairman, I will make a point of honor of supporting
+faith in a certain way of doing business, inspired the our Group, and our Group CEO, by further strengthening
+seven core Values conceived by our founder Serge governance. I will also invest in the activities through
+Kampf. Our team is located worldwide, but we share a which Capgemini expresses its ethical credentials
+common culture based on honesty, trust, and respect and demonstrates its ambition to make a positive
+for each other’s backgrounds and contributions to our contribution to our world, acting on diversity, energy
+joint enterprise. Being a values-based organization transition, and digital inclusion.
+has guided our behavior throughout the many
+evolutions our Group has seen, whilst allowing us Above all, I will continue to “do my bit”, by strictly
+the freedom needed to adapt to our fast-evolving following the principles set out in this Code, acting
+marketplace—and the boldness we need to lead. always in alignment with our shared values, and by
+demonstrating exemplary behavior.
+With the digital age still dawning, it’s clear that our
+adventure is only just beginning. The exponential
+rise of information and communication technology Paul HERMELIN
+means that the horizon is unfolding every day, every Chairman
+hour, all around the world. This spectacular digital
+transformation opens up to our clients and our Group
+8
+Capgemini. Our Code of Business EthicsMessage from the Group CEO
+Message from
+the Group CEO
+In an industry characterized by
+shakeups and innovation, our Group
+has been leading the way forward
+for over fifty years—a demonstration
+of real agility and stability. While
+the spirit of enterprise drives us,
+our founding ethos gives us strength,
+powering us from success to success.
+Today, we are a global team of 270,000 entrepreneurs, that our Group provides a diverse, inclusive, and
+which I am very proud to lead. We seek out the respectful work environment where everyone feels
+opportunities presented by new technologies and safe and is heard. You will also uphold our business
+enlighten our clients, by providing top expertise and interests by protecting our assets and those of third
+absolute commitment to help them transform into parties, acting responsibly in the marketplace, and
+the businesses of tomorrow. Thanks to the passion fostering values-based, long-standing business
+and collective energy of our people, and the astute relationships. In addition to being passionate about
+and energetic leadership of my predecessors Serge adding value to our clients, we want to make a better
+Kampf and Paul Hermelin, we are equipped with key environment for all stakeholders—be attentive to the
+strengths: an agile client-centric operating model, ethical use of technologies and the digital inclusion
+a diversified geographic and sectorial footprint, of the greatest number of people, and keep the fight
+a robust financial management, and the very solid against climate change an absolute priority. Our Code
+fundamentals provided by our seven Values. empowers you to advance our ambition to be model
+corporate citizens, supporting and respecting the
+These Values have proved to be a precious asset communities and environment in which we operate.
+through good times and bad, providing the freedom
+we need to be agile, while inspiring and guiding the As your CEO, I assume responsibility for keeping
+way we operate, work, and collaborate. As our world ethics as the keystone of our business and commit to
+becomes increasingly connected, remaining true to our setting an example through my actions. In sponsoring
+Values is essential; none of us can be oblivious to our our Code of Business Ethics, I also aim to support
+impact. As leaders, we also bear the extra responsibility you in adopting ethical behavior with regard to all
+that comes with stature; we must show the way—be stakeholders, be they clients, team members, partners
+role models in every respect. and suppliers, or shareholders.
+Our Code of Business Ethics is based on our Values. I count on your full and enthusiastic engagement to
+It is designed to help our team members “do their help ensure that Capgemini’s growth is sustainable
+bit” to maintain our standards of behavior and our well into the future. Make sure that you know the
+reputation as an ethical company. It is the duty of content of our Code and, above all, put its rules and
+each of us to act with total integrity. One misguided principles into action.
+action can lead to the loss of a reputation built up
+over decades. We owe it to our clients and Group to Only in this way—by being role models—can we truly
+remember at all times and in all situations, who we are, fulfill our responsibility as leaders.
+and how we work.
+By acting in line with the principles of our Code you AIMAN EZZAT
+will make a positive difference, helping to ensure Group CEO
+9Group Executive Board Members
+Commitment from our
+Group Executive Board
+Aiman Ezzat, Fernando Alvarez, Jim Bailey, Jean-Philippe Bol,
+CHIEF EXECUTIVE OFFICER STRATEGY, DEVELOPMENT AMERICAS OPERATIONS TRANSFORMATION
+AND ALLIANCES & INDUSTRIALIZATION
+Anirban Bose, Andrea Falleni, Carole Ferrand, Cyril Garcia,
+FINANCIAL SERVICES, APAC SOUTHERN EUROPE CHIEF FINANCIAL OFFICER GLOBAL SUSTAINABILITY SERVICES,
+CORPORATE RESPONSIBILITY
+Franck Greverie, Anne Lebel, William Rozé, Michael Schulte,
+PORTFOLIO, CLOUD INFRASTRUCTURE CHIEF HUMAN RESOURCES OFFICER ENGINEERING NORTHERN EUROPE
+SERVICES, BUSINESS SERVICES, INSIGHTS &
+DATA AND DIGITAL CUSTOMER EXPERIENCE
+Olivier Sevillia, Jérôme Simeon,
+CHIEF OPERATING OFFICER GLOBAL INDUSTRIES, ETHICS
+10
+Capgemini. Our Code of Business Ethics1. Our Code of
+Business Ethics
+Since the Group was founded, we have
+always believed that a profitable and
+sustainable business cannot exist without
+sound ethics and integrity. This lies at the
+very heart of our decentralized organization.
+Our Code of Business Ethics is our ongoing
+commitment to maintaining and promoting
+world-class standards of business integrity
+and trust wherever we operate.
+11Section 1: Our Code of Business Ethics
+1.1 What is our 1.2 Who is it
+Code of Business for and what
+Ethics? are our roles?
+Our Code of Business Ethics encapsulates our respect for the Our Code of Business Ethics is for all team members, of all
+law and for individuals, and our responsibilities to our clients companies of the Group.
+and stakeholders. It provides the basis for our ethical culture.
+It applies to all of us, both team managers and team members,
+We respect international, national and local laws and at every level of the Group. If you are in a leadership position
+regulations in the countries in which we work, and we undertake or in a team manager role, you need to understand that these
+all necessary commitments to adhere to them. Our Blue Book positions imply additional responsibilities to uphold our ethical
+sets out common internal guidelines, procedures, and policies behavior.
+that govern our operation as a Group and provides further
+in-depth guidance. The Blue Book is available on our Group It is Group policy that no one will be retaliated against for
+and local websites—see Appendix for links. raising any concerns in good faith regarding practices that may
+violate this Code of Business Ethics.
+The Group has always been a values-based organization:
+our Values are a part of our Group DNA and lead all of us
+to adopt an ethical mindset and ethical behavior in our daily AS A TEAM MEMBER
+business activities. MY ROLE IS TO:
+Our Code of Business Ethics sets out, explains and formalizes > K now and understand our Code of Business Ethics;
+the Values, rules of conduct and behavior, and the principles > A ct consistently with our Code of Business Ethics, and if
+of action that we expect from ourselves and that are required in doubt seek guidance from my team manager, human
+of us in our relationships with stakeholders. Our Code of resources manager, a lawyer in the legal department, or my
+Business Ethics is embedded in the Blue Book. It prevails over country’s Ethics & Compliance Officer; and
+any business-level policy or procedure.
+> D emonstrate and live our Values, rules of conduct and
+behavior, and principles of action.
+In the following sections of this Code of Business Ethics, we
+aim to provide clarity and guidance, especially in fields that can
+pose ethical dilemmas. In such areas, exercising good judgment AS A TEAM MANAGER I HAVE
+can be complex because you are in a gray area and there is
+ADDITIONAL RESPONSIBILITIES
+a risk of breaking the law, sometimes even unknowingly.
+In these situations, any misconduct could compromise our AND MY ROLE IS TO:
+ethical culture, damage the Group’s reputation and potentially
+> L ead by example and maintain, promote, and live our Code
+lead to significant sanctions. In three areas where ethical
+of Business Ethics in my daily work;
+issues are particularly sensitive—fair competition, bribery
+> E nsure that our Code of Business Ethics is alive within my
+and corruption prevention, and conflict of interest—there
+team;
+are specific detailed Group policies that supplement the
+high-level overviews in our Code of Business Ethics. > E nsure that I am familiar with the Code of Business Ethics,
+since my team members may come to me for advice and
+We must follow our Code of Business Ethics no matter guidance on certain issues in our Code of Business Ethics;
+where we operate and whatever the economic circumstances. and
+Following the Code of Business Ethics is mandatory for > I dentify compliance risks and make the appropriate decisions
+Group compliance. regarding issues relevant to my area of responsibility.
+12
+Capgemini. Our Code of Business Ethics1.3 SpeakUp
+SpeakUp is a web and phone-based ethics concerns
+reporting and incident management tool, operated by
+an independent service provider, and made available
+by Capgemini to team members, customers, suppliers,
+and business partners. SpeakUp complies with legal
+requirements in jurisdictions that have whistleblowing
+regulations. By upholding our people’s freedom to raise
+concerns and empowering us to put ethics into action,
+SpeakUp also contributes to safeguarding Capgemini’s
+culture of openness and our high ethical standards.
+SpeakUp is voluntary, confidential, and allows anonymity,
+unless stated differently by a country’s local law. It
+ensures fairness, organizational justice, and prompt,
+systematic investigation. Capgemini trusts and expects
+team members to use SpeakUp in good faith, and firmly
+prohibits retaliation against whomever raises or helps
+address a legitimate concern.
+Use SpeakUp to report concerns and request advice or
+guidance about actions or behaviors that are:
+— Not aligned with our Values, our Code of Business Ethics,
+or related ethics and compliance policies, or
+— Not in compliance with applicable laws, or
+— That may significantly affect vital interests of Capgemini
+and its affiliates.
+SpeakUp is not a grievance helpline; it is not a platform
+to raise issues in relation to performance review,
+compensation, and career development. However,
+actions and behaviors that are not aligned to our Values
+and Code of Business Ethics, e.g. workplace harassment,
+discrimination, retaliation, and sexual harassment, are
+within the scope of SpeakUp.
+Please read the SpeakUp policy for more information;
+country-specific regulations are identified under the policy.
+www.capgemini.com/speakup
+13Section 2: People
+14
+Capgemini. Our Code of Business Ethics2. People
+We are committed to
+providing a safe and
+inclusive work environment.
+15Section 2: People
+2.1 Health and safety
+We are committed to looking after the health and safety of
+team members, whether working on our own sites or on our
+clients’ sites.
+WHAT DOES THIS MEAN?
+> Follow the rules. The Group takes its health and safety responsibility very seriously and
+we are all expected to comply with, and adhere to, any relevant legislation and emergency
+procedures. When working on a client’s site, we are also expected to observe and
+cooperate with any client rules regarding health and safety and emergency procedures.
+When traveling on business, we are expected to comply with and follow applicable Group
+policies—see Appendix for the link.
+> Be supportive. We expect our team managers to look after the health and safety of their
+team members.
+> Be pro-active. We all have the responsibility to identify and report to our local health and
+safety representative or team manager any form of behavior that could present a hazard or
+risk, or any situation that may compromise the health and safety of our team members.
+WHAT IS EXPECTED OF ME?
+> I t is my duty to familiarize myself with and follow the Group’s health and safety policies,
+my clients’ health and safety policies, and any emergency procedures that are provided to
+me in accordance with applicable laws.
+> I must follow Group Mobility guidelines and Group Travel and Security policies when traveling.
+PRACTICAL EXAMPLES
+I am working on a client site and have meetings in I am working on a project and my partner has
+the production environment. What are my responsibilities problems that require my presence at home,
+with regard to health and safety? which may have an impact on the way I work
+It is your responsibility to familiarize yourself with the client’s health and where I can work. What should I do?
+and safety policies, for example by requesting that your team Raise the concern with your team manager so
+manager obtains a copy of their health and safety handbook/policy. that you can discuss appropriate ways to help
+If you are working in an industrial environment, make sure you you continue to do your work. If you are the
+do not miss any health and safety courses that the client offers. team manager, then you should take your team
+If there is a real concern for the health and safety of you or members’ personal circumstances into account
+your team, raise the issue immediately with your team manager as far as possible. If you are unsure what to do,
+who must raise it with the client, if necessary. If you are the team speak with your human resources manager.
+manager, checking the client’s health and safety policies should be
+one of your first priorities at the start of a project.
+DISCUSS OPENLY AND SHARE YOUR CONCERNS: If you are facing an issue involving health and safety, do not
+keep it to yourself. You will get help and support by discussing it with your team manager or your human resources
+manager.
+16
+Capgemini. Our Code of Business Ethics2.2 Equality, diversity,
+and inclusion
+Diversity is an essential characteristic of our Group, which is profoundly
+multicultural; it favors creativity and innovation and helps establish an
+inclusive culture of mutual benefit. As individuals, we are all entitled to
+equal opportunities and fair treatment.
+WHAT DOES THIS MEAN?
+> E mployee engagement. Employee engagement is better integration of employees with disabilities into
+our main performance lever and a key factor to attract our workforce, are handled locally, with best practices
+and retain our talents. To ensure that our employees shared across the Group.
+are interested in their work and motivated, we must
+> Equal opportunity and fair treatment. We aim to provide
+continuously engage with them to measure their level of
+equal opportunities and fair treatment, irrespective of
+interest, satisfaction, and wellbeing at work.
+social, cultural, ethnic or national origins, religious or other
+The performance management system is a continuous
+beliefs, caste, gender identity/expression, marital status,
+process based on a regular cycle of interviews. It is based
+pregnancy status, sexual orientation, disability, age, skin
+on adjusted objectives and helps optimize employees’
+color, race, parental status, political ideology, military/
+strengths by focusing on the value they create as well as
+veteran status or trade union activity. We are committed
+their contribution to the business.
+to complying with all employment discrimination laws.
+Capgemini has a policy of continuous professional
+developm ent for its employees, developing their skills and
+ensuring their employability in order to meet demanding WHAT IS EXPECTED OF ME?
+market requirements.
+> I assess fellow team members on the basis of professional
+> F reedom. In the spirit of our core Value “Freedom”,
+competence, behavior, and achievements.
+tolerance and respect for other cultures and customs
+are essential. We believe that the factors that make > I am expected not to tolerate any jokes, language,
+people different are a source of innovation and gestures or other behavior that may offend people,
+creativity. Diversity is also a business imperative for make them feel discriminated against, or create a hostile
+us to access the skills we need in order to deliver to environment.
+our clients. By bringing in a range of talent, we gain > I cooperate with my colleagues irrespective of social,
+different perspectives, which is essential in the rapidly cultural, ethnic or national origins, religious or other
+changing world in which we operate. While diversity beliefs, caste, gender identity/expression, marital status,
+goes beyond gender, we tackle gender diversity as a pregnancy status, sexual orientation, disability, age, skin
+key issue, given the scale of the challenge. Other types color, race, parental status, political ideology, military/
+of diversity, such as ethnicity, religion, LGBTQIA+ and veteran status, or trade-union activity.
+PRACTICAL EXAMPLES
+I want to make sure I have a diverse team. In my I am a team manager and one of my team members
+recruitment activities, should I favor people from has expressed his/her disabilities to me. Does
+minority groups over other candidates? the Group have facilities to ensure this person can
+We should always assess candidates equally, based on continue to do the job required of them?
+merit and professional competence. In our recruitment Yes. The Group has tools, technology, and processes
+activities, we should request any recruitment firm to assist people with disabilities and ensure they can
+to present a diverse set of candidates, reflecting the continue to do their job. Please contact your local human
+society in which we live. resources department for more information on what
+is available.
+DISCUSS OPENLY AND SHARE YOUR CONCERNS: If you are facing an issue related to equality, diversity and
+inclusion, do not keep it to yourself. You will get help and support by discussing it with your team manager or your
+human resources manager.
+17Section 2: People
+2.3 Harassment
+We all have a right to be treated with respect and courtesy,
+and a duty to treat others this way.
+WHAT DOES THIS MEAN?
+> Respect in the workplace. The Group is expected to maintain a work environment that is
+free of harassment; this includes intimidation, unwelcome sexual advances, threats and acts
+of violence.
+> Zero tolerance. We do not tolerate any form of harassment or violence or any action that
+creates a threatening workplace; this includes any attitude, form of behavior or situation that
+may be specified as harassment. Any breach of the rules may result in disciplinary sanctions.
+WHAT IS EXPECTED OF ME?
+> I do not make remarks or jokes, or display material that may offend with respect to social,
+cultural, ethnic or national origins, religious or other beliefs, caste, gender identity/expression,
+marital status, pregnancy status, sexual orientation, disability, age, skin color, race, parental
+status, political ideology, military/veteran status, or trade-union activity, as this could be
+considered harassment.
+> I respect others, and I do not accept any form of harassment or violence in the workplace.
+> I must not tolerate or engage in any form of retaliation, revenge, or victimization regarding
+an individual who has claimed to be harassed.
+PRACTICAL EXAMPLES
+My team manager can be quite demanding and One of my fellow team members always stands
+intimidating. He/she often makes unreasonable very closely behind me and touches my back
+requests, argues and makes fun of me in front of my and shoulders while I am working at my desk.
+fellow team members. Is this a form of harassment? It makes me feel very uncomfortable.
+If your team manager is intimidating or treats you with Is this a form of harassment?
+disrespect this could be classified as harassment. This could be a form of harassment. If you can, ask
+If you feel that you or any of your fellow team your fellow team member to refrain from touching you.
+members are not treated professionally you can raise If you feel that the matter has not been addressed
+the issue directly with your team manager. If you feel properly, you can raise the issue with your team manager.
+uncomfortable with this approach, discuss the matter If you feel uncomfortable with this approach, discuss
+with your human resources manager instead. the matter with your human resources manager instead.
+DISCUSS OPENLY AND SHARE YOUR CONCERNS: If you are facing an issue involving harassment, do not keep it
+to yourself. You will get help and support by discussing it with your team manager or your human resources manager.
+18
+Capgemini. Our Code of Business Ethics2.4 Open dialogue
+We believe that effective communication is a prerequisite
+for an open and inclusive culture.
+WHAT DOES THIS MEAN?
+> Open dialogue. Our Values of “Team spirit” and “Trust” encourage us to work together
+and to recognize the importance of open dialogue. We strongly encourage open dialogue
+through team meetings, conference calls, forums and employee surveys, in which we can
+express our opinions freely.
+> Open and constructive employee relations.
+— W e facilitate open dialogue through our International Works Council (IWC), the official
+representative body of the Group, enabling dialogue between Group management and
+people representatives across the Group.
+— A t the local level, we support open dialogue with people representatives or other
+relevant employee representative bodies, and follow the processes provided for under
+local legislation, regulations and agreements.
+— W e uphold freedom of association.
+WHAT IS EXPECTED OF ME?
+> I make sure that we have an open and inclusive culture and that I engage positively in open
+dialogue, focusing on successful outcomes.
+> W hether as a team member or a team manager, it is important that I understand and live
+the Values of the Group, this will enable me to encourage and support an environment of
+open dialogue.
+PRACTICAL EXAMPLES
+I am a new team manager. What is expected of me to I’ve filled in the employee survey and have not
+make sure I maintain an open dialogue with my team had any feedback or results. Should I have received
+members? something?
+As a team manager, you should set up regular team Yes. We encourage open dialogue and we use our
+meetings or conference calls that enable dialogue and employee survey to give you the ability to freely express
+address the concerns of your team. your views. It is the role of the team manager to make
+sure that the results are discussed and fed back to you.
+If you are a team manager, it is your responsibility to
+make sure that you implement the action plans resulting
+from the survey, for your area of responsibility.
+DISCUSS OPENLY AND SHARE YOUR CONCERNS: If you are facing an issue regarding open dialogue, do not keep
+it to yourself. You will get help and support by discussing it with your team manager or your human resources manager.
+19Section 2: People
+2.5 Behavior at work
+and work-related events
+As representatives of the Group, our behavior at work and
+work-related events can have an effect on the Group and
+our own professional reputation. We are expected to
+follow socially acceptable rules of behavior at work and on
+social media.
+WHAT DOES THIS MEAN?
+> Professionalism. We are expected to respect personal and cultural differences, to ensure
+that everyone enjoys a comfortable atmosphere at work and work-related events. We need
+to make sure there is no sense of exclusion, discrimination, or harassment.
+— At any work-related event, we are all responsible for ensuring our behavior is
+professional, reasonable and appropriate, and that it does not damage the Group’s
+reputation or our own professional reputation.
+— Do not engage in any conduct, even online, that would not be acceptable in your
+workplace or that is unlawful. We have provided detailed guidance on social media
+usage—see Appendix for the link.
+WHAT IS EXPECTED OF ME?
+> I am sensitive to personal beliefs and cultural differences and I do not impose my personal
+opinions on others at work and work-related events.
+> A t work and work-related events, I must not let alcohol affect my behavior and judgment.
+I must not engage in the unlawful use or possession of drugs and I must respect the relevant
+smoking policies.
+> I f I am at a business event, I must remember that I represent the Group, so I need to be aware
+of how my behavior will be perceived by others.
+> M y behavior should be consistent both offline and online.
+PRACTICAL EXAMPLES During a work-related event, the discussion turned to politics.
+My colleague took an aggressive approach to push his/her political
+I attended a social event organized by my opinion. Is this appropriate?
+department and was uncomfortable with the The Group respects personal opinions. However, these should not be used
+amount of alcohol consumed. Is this behavior to convince or manipulate fellow team members.
+appropriate? Topics involving politics, religion, and sexuality can be highly sensitive,
+When we are at a social event organized by the and you should consider refraining from addressing topics that may be
+Group, we are expected to behave appropriately. deemed personal, objectionable, or even offensive.
+Consumption of alcohol during work-related
+events should not affect our behavior or I came across the posts of two of my colleagues, who follow each
+judgment. This also applies to Group training other on social media. Recently, one of them has been posting
+sessions at internal and external locations. racist comments and articles on the other’s social media page,
+In addition, as team members of a multicultural clearly making him uncomfortable. Is this behavior appropriate?
+Group, we must show respect and consideration You are personally responsible for your words and actions, no matter where
+for different cultures. In many countries where you are, even online. Do not engage in any conduct online that would not be
+the Group operates, and for many of our people, acceptable in your workplace or that is unlawful. For example, do not make
+alcohol is restricted or even prohibited. derogatory remarks, bully, intimidate, harass other users, use insults, or post
+content that is hateful, slanderous, threatening, discriminating, or pornographic.
+DISCUSS OPENLY AND SHARE YOUR CONCERNS: If you are facing an issue involving behavior at work and work-
+related events, do not keep it to yourself. You will get help and support by discussing it with your team manager or your
+human resources manager.
+20
+Capgemini. Our Code of Business Ethics3. Business
+integrity
+As a business we are
+committed to act responsibly
+in the marketplace.
+21Section 3: Business Integrity
+3.1 Fair competition
+The Group competes vigorously but fairly for its clients’
+business. The majority of the countries in which we operate
+have competition or antitrust laws, and trade regulations
+designed to protect such competition. The Group is commit-
+ted to comply with all applicable competition and antitrust
+laws, and regulations.
+WHAT DOES THIS MEAN?
+> T he basic rule. While the specific competition laws of each country (also called “antitrust
+laws” in certain countries) vary, there are a number of common themes:
+— P rohibited agreements and practices. Agreements (written or simply understood) to
+fix prices, allocate clients or markets, coordinate bids, undertake boycotts, or exclude
+competitors are generally not permitted. Practices among companies that have the same
+effect or object as such agreements are also prohibited.
+— U nlawful dominance. Large market players in certain markets have less flexibility in
+making specific business decisions, including refusing to deal with other companies and
+making acquisitions.
+> P rohibited conduct. We do not discuss, provide to, or exchange with a competitor: prices,
+terms of sale, division of markets (whether by geography, product, or otherwise), allocation
+of customers, costs, profits or profit margins, or other activity that may restrain competition.
+> Understand the consequences. Even being accused of violating these laws can have serious
+consequences both for the Group and its team members. The Group could be forced to pay
+significant criminal and civil fines or settlements, and individual employees may face large
+fines, years of imprisonment and disciplinary actions.
+> C onsult the experts. The legal department is there to help you understand and comply
+with complex competition and antitrust laws. Ask questions if you have concerns about the
+Group’s behavior or our business partners’ and suppliers’ behavior.
+The Group has provided detailed guidance on compliance with competition laws in the Group
+Competition Laws Policy, available on your Group and local websites—see Appendix for the link.
+WHAT IS EXPECTED OF ME?
+> I t is my responsibility to read and understand the Group Competition Laws Policy so that I do
+not enter into any improper practices.
+> I t is my responsibility to seek help from the legal department if and when there is any question
+or doubt as to how the Group Competition Laws Policy is applied in a given situation.
+> I must be careful about how I interact with the Group’s competitors at conferences, events and
+industry associations and social functions, and be mindful of the appearance of impropriety.
+> I should not use unlawful or unethical means to obtain competitors’ information.
+> I should be aware that any verbal or written exchange with competitors may be damaging
+to the Group.
+> I must respect my own and other people’s prior employment obligations and should not force
+anyone to violate any of their obligations towards previous employers.
+DISCUSS WITH A LAWYER IN THE LEGAL DEPARTMENT: If you are facing an issue involving fair competition, do not
+keep it to yourself. You should discuss the issue directly with a lawyer in the legal department.
+22
+Capgemini. Our Code of Business EthicsPRACTICAL EXAMPLES
+At an industry event, one of my counterparts, a competitor,
+tells me that his or her group is planning to increase
+its fees by 17% across the company in the coming year,
+and asks what our plans are. What should I do?
+Competitors should not share information about their future
+pricing plans. You should immediately tell your counterpart
+that his or her comment and question are inappropriate and
+make a memorable exit from the room.
+Call your legal department to tell them what happened and
+how you responded.
+Failure to take either of these steps can lead to years of
+investigations, litigation, and, potentially, prison time.
+I have worked with a number of different clients in one
+specific industry. What should I do if they ask me about
+their competitors’ practices?
+You should tell the client that protecting our clients’ privacy
+is very important to us. The client should appreciate that, just
+as we will not tell their competitors what they are doing, we will
+not tell them about the competitors.
+In addition to being the ethical response to such a question,
+this also protects the Group from being seen as aiding industry
+participants in coordinating their conduct through the exchange
+of competitive sensitive information in violation of competition
+and antitrust laws.
+I am responding to a tender from a client when one of my
+counterparts, a competitor, calls me to discuss the bidding
+process and tells me that his or her company will only bid
+for a portion of the project. He or she is wondering whether
+we would be bidding for the same portion or whether
+we might not be more interested in the client’s business
+in other parts of the world. What should I do?
+In many countries sharing information on tenders and how
+competitors will bid is a criminal offense. You should immediately
+tell your counterpart that his or her inquiry is inappropriate and
+terminate the telephone call.
+Call your legal department to tell them what happened and
+how you responded.
+Failure to take either of these steps can lead to years of
+investigations, litigation, and, potentially, prison time.
+Remember that even an oral contact by telephone can be
+proved by telephone logs, so do not underestimate the
+potential damage of such contacts.
+23Section 3: Business Integrity
+3.2 Bribery and corruption
+Our ability to win business depends solely on the value we
+bring to our clients. The Group is committed to preventing
+any violation of anti-corruption and anti-bribery laws in
+every jurisdiction in which it operates.
+WHAT DOES THIS MEAN?
+> C omply. Bribery, including influence peddling, is an offense carrying criminal and civil
+penalties in most jurisdictions where we operate.
+— Anti-bribery and anti-corruption laws prohibit offering, promising, or paying anything
+of value to obtain an undue advantage from a government official or any private
+individual, such as to act, or refrain from acting, in a manner that is favorable to the
+Group or to any of its clients.
+— T he definition of “government official” in anti-corruption laws is broad, and it includes,
+among other persons, employees of companies that are partially owned by a government
+agency, as well as employees of political parties and candidates of political office.
+— F urther, it is prohibited to request or authorize any third party to make any such offers,
+promises, or payments.
+— I t is also prohibited to receive anything of value from any individual that is, or may be
+perceived to be, given to influence the Group or any of its clients.
+> Commissions. In the course of our sales activities, we do not tolerate any payment of
+commission to third parties nor do we accept any commission from third parties unless
+specifically authorized by the Group. When authorized by the Group, we may receive referral
+fees from third-party vendors such as third-party software or hardware companies. However,
+these referral fees should always be made transparent to the client.
+> Understand the consequences. Failure to comply with anti-corruption and anti-bribery
+laws not only exposes the Group to civil and criminal penalties, but could subject any team
+member to civil penalties, criminal punishment—including possible imprisonment—and
+disciplinary action.
+> Zero tolerance. The Group has zero tolerance for any form of bribery and corruption or any
+acts that may be perceived to be bribery or corruption. Toleration of bribery or corruption
+is unacceptable business conduct wherever the Group operates.
+We have provided specific guidance on this topic in the Group Anti-Corruption Policy—
+see Appendix for the link.
+WHAT IS EXPECTED OF ME?
+> I t is my responsibility to know, understand, and comply with the Group Anti-Corruption Policy
+and to complete the mandatory training on the topic.
+> I t is my responsibility to know, understand, and comply with the anti-corruption and anti-
+bribery laws in the jurisdictions where I work.
+> I t is my responsibility to seek help from the legal department if and when there is any
+question or doubt as to how to comply with the Group Anti-Corruption Policy.
+DISCUSS WITH A LAWYER IN THE LEGAL DEPARTMENT: If you are facing an issue involving bribery and corruption,
+do not keep it to yourself. You should discuss the issue directly with a lawyer in the legal department.
+24
+Capgemini. Our Code of Business EthicsPRACTICAL EXAMPLES
+I am about to give a small gift to our client.
+What steps should I follow before doing so?
+Before giving any Group client a gift, you should assess
+whether that gift is permitted by applicable laws, the
+Group Anti-Corruption Policy, and the known internal
+rules of the recipient’s employer. Gifts must only occur
+in connection with a legitimate business, not be made
+to gain an undue advantage or unduly influence an action,
+and must have a reasonable value and be infrequently
+given to the same recipient. If intended for public
+officials, any entertainment, gift, or travel must be cleared
+in advance by your legal department. You must abide
+by any advice given to you. You will find additional practical
+examples in the Group Anti-Corruption Policy.
+25Section 3: Business Integrity
+3.3 Conflict of interest
+We must be careful not to take actions that may conflict
+with the Group’s interests or could lead to damaging
+its reputation.
+WHAT DOES THIS MEAN?
+> Loyalty and good faith. As an employee of the Group, we are bound by a duty of loyalty
+and the obligation to act in good faith.
+> Conflict of interest. A potential conflict of interest arises when we have several
+contradictory interests at the same time. When a personal interest is in contradiction
+to the Group’s interests, we risk violating our duty of loyalty. This occurs any time the
+potential for direct or indirect personal gain can or does influence a decision connected
+to our business. Consequently, we must avoid situations where our personal interests
+could conflict with the Group’s interests.
+We have provided detailed guidance on conflict of interest in the Group Conflict of
+Interest Policy—see Appendix for the link.
+WHAT IS EXPECTED OF ME?
+> I must not engage in outside activities that compete with the Group or assist a Group
+competitor.
+> I must report any potential conflict of interest to my team manager or Ethics & Compliance
+Officer.
+> I must award business solely based on merit and not because of personal relationships
+or potential personal gain.
+> I must not use or disclose any business information or opportunities obtained through my
+work for personal advantage or personal gain.
+> I f I am unsure whether my interest puts me in a potential situation of conflict of interest,
+I should discuss the matter with my team manager.
+PRACTICAL EXAMPLES
+My partner works for a competitor. What should I be aware of? One of my close family relations works at
+You should be aware that this is an extremely sensitive situation a leading recruitment agency that we often
+and should be disclosed in writing to your manager. If you and use. Is this a potential conflict of interest?
+your partner discuss any business information whatsoever you risk It depends on several factors such as the
+violating the competition laws in your country. Both you and your individual handling the agency in question,
+partner could be committing a criminal act if you discuss pricing or what your role is, or what your close relation’s
+business opportunities. role is. Because this situation presents a potential
+You should know what these laws are and, if you have any doubt conflict of interest, you should be transparent
+whatsoever about them, consult your Country’s Ethics & Compliance about the issue and notify your team manager.
+Officer. Appropriate measures should be taken, such as
+In addition, discussing business information with your partner may ensuring you are not involved on the account,
+violate confidentiality obligations. to avoid any appearance of a conflict of interest.
+DISCUSS OPENLY AND SHARE YOUR CONCERNS: If you are facing an issue involving a conflict of interest, do not keep
+it to yourself. You will get help and support by discussing it with your team manager or your Ethics & Compliance Officer.
+26
+Capgemini. Our Code of Business Ethics3.4 Insider trading
+We have to exercise the utmost caution when considering
+transactions that involve the shares of the Group, of our
+clients, business partners, or suppliers. Disseminating insider
+information or making any transaction based on insider
+information is prohibited.
+WHAT DOES THIS MEAN?
+> Zero tolerance. Insider information is any non-public information that, if known, would
+reasonably be expected to be used by an investor in deciding whether to buy, sell, or hold
+such security.
+— The Group strictly prohibits the trading of Capgemini SE shares or any other Group-
+related securities during the “closed periods”—see Appendix for the link. Independently
+of closed periods, we should not buy or sell Group shares and/or other related securities
+when aware of any insider information. Similar restrictions apply to trading any publicly
+listed shares or other related securities of the Group’s current or potential clients,
+business partners, or suppliers when in possession of insider information.
+— Disseminating insider information or using insider information can lead to criminal
+sanctions.
+WHAT IS EXPECTED OF ME?
+> I am prohibited from disseminating insider information.
+> I am not allowed to make investment decisions based on confidential or insider information.
+> W hen assigned to a project that involves a merger, acquisition, or joint venture, I am expected
+to disclose shares and other related securities that I hold in this other company, other than
+those held through mutual funds or similar vehicles where I have no discretion.
+> I am not allowed to buy or sell Capgemini SE shares or any other Group-related securities
+during closed periods.
+PRACTICAL EXAMPLES
+Can I trade in Capgemini SE shares at any time I am working on a client system that gives me access
+of the year? to client information. If I buy or sell these client
+No. The Group has strict policies on this issue and shares, could this be considered insider trading?
+has defined closed periods in which buying and selling Yes, especially if you have access to sensitive client
+Capgemini SE shares, or any other Group-related information. In addition, we may have to respect our
+securities, is prohibited. The Group notifies all team clients’ closed periods in the same way that we do
+members of the closed periods. for our Group.
+DISCUSS WITH A LAWYER IN THE LEGAL DEPARTMENT: If you are facing an issue involving insider trading, do not
+keep it to yourself. You should discuss the issue directly with a lawyer in the legal department.
+27Section 3: Business Integrity
+3.5 Accurate and correct business
+and financial information
+We are responsible for ensuring that we maintain and release
+accurate and correct business and financial information, in a
+transparent and timely manner.
+WHAT DOES THIS MEAN?
+> Commitment to accuracy. The Group is committed to communicate accurate and relevant
+information to its shareholders on a regular basis.
+> Group effort. We all create information relating to the Group, its clients, team members,
+business partners, or suppliers. We must ensure that we produce accurate and correct
+business information and manage documents with the utmost care and to the best of our
+knowledge.
+> Zero tolerance. We must know and comply with all relevant laws, regulations, and internal
+rules concerning business information and, most importantly, financial business information.
+Any infringement of laws and regulations can potentially result in fines and criminal charges.
+WHAT IS EXPECTED OF ME?
+> I must ensure I know and comply with all relevant legal, contractual, and internal requirements
+concerning the documentation and maintenance of business records relevant to my sphere
+of influence.
+> I must not produce any documentation that may mislead or deceive the recipient.
+> I must obtain the relevant approval when responding to internal or external financial inquiries.
+> I must securely store confidential business records, including back-ups.
+PRACTICAL EXAMPLES
+I have been contacted by an external party to provide financial I have to do several appraisals for
+performance information on one of our strategic business units. members of my team. Is there anything
+Am I allowed to provide them with the information? I should be careful about in terms
+No. The communication of financial information comes directly under of storing this information?
+the responsibility of the Group CFO through either Group financial Yes. As with any other documented
+control or the investor relations departments. You should not disclose information, all appraisal information needs
+any financial performance information concerning the Group without to be accurate and stored centrally within
+prior authorization. the appropriate local record management
+system.
+DISCUSS WITH A LAWYER IN THE LEGAL DEPARTMENT: If you are facing an issue involving accurate and correct
+business and financial information, do not keep it to yourself. You should discuss the issue directly with a lawyer in the
+legal department.
+28
+Capgemini. Our Code of Business Ethics3.6 Political activities
+The Group does not support political parties.
+WHAT DOES THIS MEAN?
+> No Group contributions. We do not make any cash or in-kind contributions to political
+parties on behalf of the Group. This includes direct and indirect support through intermediary
+organizations.
+> Promote respect. We respect the rights of individuals to participate, as individuals, in politics.
+However, we should never represent or endorse a political party on behalf of the Group.
+WHAT IS EXPECTED OF ME?
+> I should not use the Group’s name to endorse a political activity or event, or represent
+the Group in any political activities.
+> I will not use any of the Group’s resources or cash to contribute to a political party.
+PRACTICAL EXAMPLES
+My client is asking us to support their lobbying It appears that the political party in power is about
+activities and they want us to add our name to their to change. Could we offer an Accelerated Solutions
+lobbying list. Is this acceptable? Environment (ASE) for free to help one of the
+No. Lobbying refers to trying to influence government political parties on their strategy formulation?
+legislation, regulations, or decision-making. You We should never make any cash donations or provide
+should inform our client that we cannot lobby on behalf free use of the Group’s resources when dealing with
+of our clients or support their lobbying activities. political parties, since this may be considered a donation
+or in-kind contribution in support of the political party.
+Can I undertake lobbying activities? Is this However, we can treat political parties as clients and
+a political activity? engage on a commercial, fee-paying basis. Because
+Because lobbying implicates anti-bribery and anti- even this arrangement implicates anti-bribery and
+corruption laws—candidates and political parties may anti-corruption laws—political parties may be deemed
+be deemed “government officials”—you should take “government officials”—you should take great care
+great care. Any lobbying on behalf of the Group should to involve a lawyer from your legal department, your
+be approved by the Group and should be transparent. Country’s Ethics & Compliance Officer, or the Group Chief
+Ethics & Compliance Officer.
+DISCUSS OPENLY AND SHARE YOUR CONCERNS: If you are facing an issue involving political activities, do not keep
+it to yourself. You will get help and support by discussing it with your team manager or your human resources manager.
+29Section 3: Business Integrity
+30
+Capgemini. Our Code of Business Ethics4. Business
+relationships
+We are committed to
+delivering value and building
+longstanding relationships
+based on mutual trust
+with our clients, and at
+the same time achieving
+profitable and sustainable
+growth for the Group.
+31Section 4: Business Relationships
+4.1 Working with
+our clients
+We are dedicated to delivering profitable and sustainable
+growth by working together with our clients to deliver value
+through our expertise and behavior.
+WHAT DOES THIS MEAN?
+> Client first. We think “client first” and we measure our success in terms of the value we bring
+to our clients. Delivering excellence to our clients is our priority.
+— W e mobilize the right talent to meet our client’s requirements.
+— W e respect our clients and we work in an open and transparent manner.
+— A s an independent IT services provider, we objectively evaluate software
+and hardware solutions to meet the client’s requirements.
+— W e work collaboratively with our clients by building a long-term, distinctive
+relationship based on mutual trust.
+— W e share our expertise and knowledge with our clients with a view to their short- and
+long-term development and we learn from them for our own development purposes.
+> Maintaining our standards. While we take bold steps to win business and satisfy our
+clients, we will not compromise Capgemini’s ethics and compliance standards to meet
+business objectives.
+WHAT IS EXPECTED OF ME?
+> I use all my talents and capabilities when I work with my client.
+> I behave ethically and responsibly with my client.
+> I listen to my client and work collaboratively.
+> I understand the trust my client has in me and I take bold action to maintain it.
+> I do not advise my client to do anything that I do not believe is aligned to his/her interests.
+> I communicate openly with my clients. I am transparent and tell them the truth. In case of
+delicate or bad news, I get appropriate advice from my team manager or management so
+I can communicate openly with my client.
+> I f my client acts unethically, I will raise it to my team manager, Ethics & Compliance Officer
+or on SpeakUp to get the right guidance.
+DISCUSS OPENLY AND SHARE YOUR CONCERNS: If you are facing an issue involving working with our clients, do not
+keep it to yourself. You will get help and support by discussing it with your team manager or with your legal department.
+32
+Capgemini. Our Code of Business EthicsSection 4: Business Relationships
+PRACTICAL EXAMPLES
+A client wants us to undertake a project, but I am of the opinion
+that there is no real business case and that this is not the right
+course of action. What can I do?
+If you consider that the project will not generate real value for the client
+or if the solution requested by the client will not provide a suitable answer
+to the business problem, you should first try to influence the client’s point
+of view. Ultimately, if you feel you are acting against the client’s interest,
+you should decline the project.
+My client asks me, in the spirit of collaboration, to perform extra
+work without the corresponding change order request or price
+adjustment. Is this acceptable?
+No. You should follow the specified Group processes and make sure
+you do not over-deliver regarding the contract. You should always ensure
+that a corresponding change order and, if appropriate, price adjustment
+is completed. Being paid appropriately for a service should not affect good
+collaboration.
+My client has suggested that sponsoring its annual sports event would
+help us to obtain a particular deal. What can I do?
+You cannot enter into this type of reciprocal bargaining process because
+developing good, long standing collaboration with clients does not imply
+accepting unfair sales methods. This type of reciprocal dealing could
+also raise bribery concerns in certain jurisdictions.
+I am about to make a deal with a client for whom I know some referral
+fees will be paid by a supplier to the Group. What should I do?
+You should adopt a transparent attitude, and tell the client. However,
+in some countries, giving or receiving referral fees in connection with
+obtaining or retaining business may be prohibited. You should know and
+follow that country’s law with respect to giving or receiving referral fees.
+If you have any doubt about legality, consult your legal department.
+My client’s team received a special team bonus for their good
+work, to which I contributed substantially. They propose that
+I should be given a share of the bonus. Can I accept?
+No. You cannot accept a payment by the client or its employees. To do
+so would compromise your position and your affiliation to the Group.
+My client, who is also a Group service provider, is trying to impose
+contractual terms upon us that are unreasonable and quite different
+from those we are negotiating with them as one of our suppliers.
+Can we use this opportunity to redress the balance and ask for
+“reciprocal treatment”?
+Yes. It is perfectly acceptable to seek similar terms and conditions when
+we negotiate with the same party both as a client and as a provider.
+However, you should consider the context of the situation (including,
+if relevant, the sales strategy) and the relevant bargaining positions of
+either party when taking this approach.
+33Section 4: Business Relationships
+4.2 Working with
+our partners
+and ecosystems
+We work with our partners and ecosystems to bring added
+value to our clients, and we expect them to comply fully
+with the law.
+WHAT DOES THIS MEAN?
+> Ethical collaboration. We work with our partners and ecosystems in a collaborative and
+ethical way to deliver value to our clients.
+— W e work with partners and ecosystems whose values and modes of behavior are aligned
+to our principles.
+— We are transparent with our clients about our relationships with our partners and
+ecosystems. Our clients will be informed of any business relationships or referral fee
+agreements we have with respect to the services we are offering them. The disclosure
+must be in writing and may be a general advance notice in the client contract terms.
+— We understand that, when dealing with public sector clients, it could be illegal for the
+Group to receive any referral fees.
+— We expect our partners and ecosystems to comply with the law, including laws
+promoting fair competition, and prohibiting bribery and corruption.
+WHAT IS EXPECTED OF ME?
+> I will not make an agreement with a partner that is against the interests of our client.
+> I will not make an agreement with a partner that violates the law.
+> I will work collaboratively and ethically with our partners and ecosystems, and ensure that
+clients are aware of our relationships with them.
+DISCUSS OPENLY AND SHARE YOUR CONCERNS: If you are facing an issue involving working with our partners or
+ecosystems, do not keep it to yourself. You will get help and support by discussing it with your team manager or your
+legal department.
+34
+Capgemini. Our Code of Business EthicsSection 4: Business Relationships
+PRACTICAL EXAMPLES
+We are bidding with one of our partners for a large international
+project where we have a referral fee agreement. This agreement
+includes a country where there may be restrictions on referral fees,
+although I am unsure of this. How do I find out whether I could be
+offering something illegal?
+In some countries, the giving or receiving of referral fees in connection
+with obtaining or retaining business is a criminal offense. You should
+know and follow that country’s law with respect to receiving referral fees.
+If you do not know that country’s law or have any doubt whatsoever about
+the legality of referral fees, you should consult your legal department.
+If the Group can lawfully receive referral fees in the country in question,
+you should be transparent and inform your client about the fees,
+in coordination with Group Partner leadership.
+One of our partners offers a comprehensive and well-known solution,
+whereas an alternative open-source solution exists that may be used
+free of charge. What can I do?
+You should always take the client’s interests into account and never advise
+anything that does not concur with your client’s interests. An open-source
+solution, while free, may not be the best solution for the client. Each case
+should be judged on its own merits. You should always communicate openly
+with clients and ensure that you are acting in the best interests of your
+client. If the client’s and the Group’s interests conflict or appear to conflict,
+you should discuss them with your team manager and take his/her advice.
+35Section 4: Business Relationships
+4.3 Working with
+our suppliers
+We work with our suppliers and commit to sound and
+sustainable procurement procedures. We expect our
+suppliers to comply fully with the laws in the countries in
+which they operate.
+WHAT DOES THIS MEAN?
+> Fair and ethical treatment. We are committed to treating our suppliers and contractors
+fairly and we expect our suppliers to conduct their business with us on a fair and ethical basis.
+— We strongly discourage reciprocal dealings, such as agreeing to buy from suppliers,
+provided they buy from us.
+— We expect our suppliers to conduct their business with us on a fair and ethical basis
+and in compliance with our Supplier Standards of Conduct—see Appendix for the link.
+— C apgemini Supplier Standards of Conduct sets the minimum commitment our company
+expects from its suppliers with regard to corporate social responsibility, ethics and anti-
+bribery, regulatory compliance, and business relationship standards.
+WHAT IS EXPECTED OF ME?
+> I am expected to treat suppliers fairly and make decisions based on quality and price.
+> I will never agree with our suppliers to do anything that would be against the interests of our
+clients.
+> I will not make an agreement with our suppliers that violates the laws of the country or
+countries in which I work.
+> I f I am procuring anything on behalf of the Group, I must follow the Supplier Standards of
+Conduct when selecting new suppliers or evaluating current suppliers.
+> I will refrain from reciprocal dealings without specific authorization.
+PRACTICAL EXAMPLES
+I recently went on a site visit to one of I am in negotiations with the procurement officer
+our key suppliers and I am concerned about of one of our key suppliers. I think the supplier
+their environmental practices. What should I do? can benefit from our Group services. Can I propose
+Raise your concern with your team manager or your local that they buy our products in return for keeping
+procurement team. The Group has a Supplier Standards our business?
+of Conduct in place to monitor the environmental No. As a Group we refrain from reciprocal dealings;
+and social practices of our suppliers, in order to ensure only in exceptional situations and with prior authorization
+a sustainable supply chain. might this be allowed.
+DISCUSS OPENLY AND SHARE YOUR CONCERNS: If you are facing an issue involving working with our suppliers,
+do not keep it to yourself. You will get help and support by discussing it with your team manager or your legal department.
+36
+Capgemini. Our Code of Business EthicsSection 4: Business Relationships
+5. Group and
+third-party assets
+We are expected to maintain
+the security and integrity
+of the assets of the Group
+and of the third parties with
+which we work. We use them
+responsibly and professionally.
+37Section 5: Group and Third-Party Assets
+5.1 Intellectual property
+Intellectual property is one of the Group’s most valuable
+assets. We need to ensure the validity and integrity of
+all intellectual property rights belonging to the Group,
+through copyrights, patents, trademarks, trade secrets, and
+confidentiality. We must respect the intellectual property
+rights of our clients, competitors, business partners, and
+suppliers.
+WHAT DOES THIS MEAN?
+> Group property. Any intellectual property produced by Group employees while working for
+the Group remains the property of the Group or of its clients, depending on the terms of
+the contract signed with the relevant client. We should not put at risk any Group or client
+intellectual property, whether or not formally protected, during our employment or after we
+have left the Group.
+WHAT IS EXPECTED OF ME?
+> I must understand the concept of intellectual property.
+> I must ensure that I correctly use any intellectual property owned by the Group or by any
+third party.
+PRACTICAL EXAMPLES
+I am working in a team that is developing a I just did some research on our competitors and
+new methodology. Can I personally reuse the found a great offering. Can I copy the offering and
+methodology outside my work with the Group? modify the material for our own offer development?
+No. Any intellectual property, including methodology, No. We do not take any third-party intellectual property
+software, hardware, processes, tools, and know-how without authorization. Unauthorized use of others’
+produced while working for the Group remains the intellectual property can expose the Group and even
+property of the Group or of its client. individual team members to civil lawsuits and damages.
+DISCUSS OPENLY AND SHARE YOUR CONCERNS: If you are facing an issue involving intellectual property, do not keep
+it to yourself. You will get help and support by discussing it with your team manager or your legal department.
+38
+Capgemini. Our Code of Business EthicsSection 5: Group and Third-Party Assets
+5.2 Confidential
+information
+We are expected to preserve confidential information
+belonging to the Group or our team members, clients,
+business partners, and suppliers.
+WHAT DOES THIS MEAN?
+> Confidential information. Information is deemed confidential if it is defined as such by law
+or by contract. The following categories of information are almost always confidential:
+— I nformation provided by our clients, suppliers, and business partners that the Group has
+committed not to disclose.
+— I nformation regarding our commercial and economic strategy.
+— I nformation about our recruitment and wage policies.
+— Personal data.
+— K now-how, trade secrets, patents, and software developed within the Group.
+> Protection. We take appropriate and reasonable measures, including relevant security
+measures, to protect confidential information concerning the Group, its team members,
+clients, business partners, and suppliers:
+— W e must maintain the confidentiality of our clients’ and suppliers’ business information.
+We must strictly adhere to any commitments the Group has made to a client, business
+partner, or supplier about confidentiality. When working for several clients, we must take
+the necessary steps to protect against the transfer of their confidential information from
+one client to another.
+— W hen our employment with the Group ends, we are required to return all confidential
+information in our possession and respect our confidentiality obligations.
+WHAT IS EXPECTED OF ME?
+> I am expected to protect the confidential information of the Group and our team members,
+clients, business partners, and suppliers from unauthorized disclosure or access.
+> I must avoid discussing confidential information in public where conversations can be overheard.
+PRACTICAL EXAMPLES I often travel and I like to save confidential data on
+a USB key. Is this appropriate?
+I often work offsite or at home. What are my responsibilities If you travel frequently and need to have confidential informa-
+in terms of confidential information? tion on a USB key or any other portable device, you should
+All confidential information should be treated with the same get it encrypted to prevent unauthorized use or disclosures.
+standards of security whether offsite or in the office. Hard
+I am very active on social media. Can I make reference
+copies must not be accessible to unauthorized parties and must
+to my current role and responsibilities within the Group
+be disposed of appropriately. It is advisable to avoid taking
+on these websites?
+confidential hard copies outside the office environment.
+Yes. You can outline your role and responsibilities, as long as
+I am traveling with a colleague to an offsite location. you do not disclose any confidential information. However,
+Is it appropriate to talk about work in public? given today’s world it may be advisable to minimize or even
+You can talk about work but should be careful your conversation refrain from making such references in case your comments
+is not overheard. You should not mention the name of the Group, are taken out of context. Always remember your association
+any client, business partner, or individual names where they can be with the Group when posting on social media. You should
+overheard. Take extra care when participating in phone calls in public not represent or speak on behalf of the Group unless explicitly
+spaces or using your laptop when people can look over your shoulder. authorized to do so.
+DISCUSS OPENLY AND SHARE YOUR CONCERNS: If you are facing an issue involving confidential information, do not
+keep it to yourself. You will get help and support by discussing it with your team manager or your legal department.
+39Section 5: Group and Third-Party Assets
+5.3 Protecting
+personal data
+Legal data protection and legal data security are crucial for
+each affiliate of Capgemini. The financial and reputational
+risks are high. Capgemini has created a strong internal data
+protection organization and a solid Data Protection Program
+to protect the company against these risks.
+WHAT DOES THIS MEAN?
+> A broad notion. The notion of personal data is very broad, since it refers to any type of
+data that enables to identify an individual, either directly or indirectly. As a result, not only
+information such as the name, last name, and email address will be considered as personal
+data, but also information such as log information and IP addresses, since these enable to
+identify the individual indirectly.
+> An extensive application. It must be noted that data protection regulations apply to
+any processing of personal data, irrespective of the context in which the personal data is
+being processed. In other words, personal data processed in the business context or in an
+employment relationship are subject to the same rules as in relation to private processing
+activities.
+> Data protection is not only a European Union-centric matter. Although data protection
+is often perceived as a European Union-centric matter, legislation related to personal data
+protection is increasingly being adopted outside the European Union (EU), and is very much
+influenced by the EU legal requirements. Moreover, Capgemini is convinced that for data
+protection obligations to be effectively implemented throughout the organization, it needs
+to apply the same principles irrespective of the geographies.
+> Rules apply also for data processing. Capgemini takes data protection very seriously and
+has therefore defined a range of policies and procedures that define the commitments
+Capgemini takes when processing personal data both on its behalf and on behalf of its
+customers.
+WHAT IS EXPECTED OF ME?
+> I must complete the relevant data protection training.
+> I always make sure that when I collect personal data, it is for a specific reason and that the
+personal data I collect are only those that I strictly need. I do not collect personal data “just in
+case” they may be useful in the future.
+> I should document properly the processing activities I launch using the tools provided by the
+data protection community.
+> I should comply with personal data protection laws of jurisdictions from which the personal
+data is collected and in which it is processed or used.
+DISCUSS OPENLY AND SHARE YOUR CONCERNS: If you are facing an issue regarding personal data protection, do not
+keep it to yourself. You will get help and support by discussing it with your local Data Protection Officer.
+40
+Capgemini. Our Code of Business EthicsPRACTICAL EXAMPLES
+A business partner wants to send his/her training opportunities
+to everyone in my department and has asked me for the email list.
+Can I provide the list to him/her?
+No. Before sharing such information you need to verify with your
+local Data Protection Officer what is the way forward. Your local Data
+Protection Officer will help you determining which are the measures
+to consider and to implement.
+We entered into a contract, with a client based in the EU, which will
+require the handling of personal data relating to their clients and
+employees. Part of the services are rendered by the Group in India.
+Can I send personal data to India?
+In the EU, stringent laws regulate the protection of personal data.
+When exported outside the EU, we need to offer at least an equivalent
+level of protection. For this purpose, Capgemini has adopted Binding
+Corporate Rules, which guarantee that any personal data transfer to
+another Capgemini entity out of the EU benefits from an adequate level
+of protection. However, in order to tackle the different requirements
+inferred by a data transfer to, or access from Capgemini India, please
+consult your local Data Protection Officer.
+I have received information, sent in error, concerning the salaries
+of my team members. What should I do?
+As soon as you become aware of this you should avoid reading and using
+the information. Delete the email and contact the person who sent it
+to you. If you receive a hard copy, return it to the sender in a sealed
+envelope. You should not use this information in any way, for any purposes.
+You should also contact immediately your local Data Protection Officer
+or the competent Cybersecurity Officer to report this incident.
+41Section 5: Group and Third-Party Assets
+5.4 Appropriate use
+of Group and third-party
+assets and resources
+We are personally accountable for the protection of the Group
+and third-party assets and resources under our control.
+WHAT DOES THIS MEAN?
+> Responsible and professional use. We use assets and resources that belong to the Group,
+to help us achieve our business goals.
+— W e take care of third-party assets and resources as if they were our own.
+— W e must not access, use, or attempt to use Group or third-party electronic resources to
+access, store, send, post, or publish material that is inappropriate. This includes material
+that is pornographic, sexually exploitative, obscene, racist, sexist, or in any other way
+discriminatory, threatening or harassing, personally offensive, defamatory, or illegal.
+— W e are expected to take the necessary steps to protect any assets and resources
+of the Group and/or third parties that are under our control against loss, theft, and
+unauthorized disclosure.
+WHAT IS EXPECTED OF ME?
+> I take care to protect Group and third-party assets and resources.
+> I use the Group’s physical and electronic resources for business purposes only, except for
+minor circumstances in which personal use is permitted.
+> I acknowledge that use of the Group network to transmit or store material is under the
+control of the Group.
+> I am expected to read and understand my local IT security or use policy.
+PRACTICAL EXAMPLES
+I am organizing a large personal event outside I am going out for lunch. What should I think about
+work and need to make sure I have enough flyers in terms of security before I leave my desk?
+to distribute. Can I use the Group photocopiers? Always wear your security pass, lock your computer
+No. This is not appropriate use of Group resources. screen, and make sure that any confidential or sensitive
+information is stored away.
+Can I use my work internet access to browse Make sure that your computer is physically secured
+the internet for personal purposes? with a device such as a security cable to prevent loss
+Limited use of communication tools such as email or theft, especially if you work on a laptop.
+and the internet may be acceptable, if it does not
+incur any costs and does not interfere with your job
+responsibilities.
+In general, during non-working hours you may use your
+professional laptop incidentally for personal purposes.
+However, you must not install unauthorized software.
+DISCUSS OPENLY AND SHARE YOUR CONCERNS: If you are facing an issue regarding the appropriate use of
+Group and third-party assets and resources, do not keep it to yourself. You will get help and support by discussing it
+with your team manager.
+42
+Capgemini. Our Code of Business EthicsSection 5: Group and Third-Party Assets
+6. Corporate social
+responsibility
+As responsible citizens,
+we support the communities
+and respect the environment
+in which we operate.
+43Section 6: Responsible Citizenship
+6.1 Contributing
+to communities
+The Group is committed to create a positive impact on the
+communities in which it lives and operates. As a leading
+responsible company, it has designed and implemented a
+Digital Inclusion Strategy to focus its work in the community
+by reducing the digital divide and enabling disadvantaged
+people to overcome their exclusion.
+WHAT DOES THIS MEAN?
+> Digital Inclusion. Our work in the community is focused on imparting basic to specialized
+digital and technological skills to digitally excluded people, with the aim of making digital
+an opportunity for all. We partner with various local Non-Governmental Organization (NGO)
+partners and social innovators in this endeavor, to create sustainable positive impact in
+communities around the world.
+> Get involved. The engagement of our employees is a key lever for us to translate this
+ambition into reality. We aim for all employees to play an active part, to create positive impact
+as Architects of Positive Futures.
+WHAT IS EXPECTED OF ME?
+> I am encouraged to participate in our Corporate Social Responsibility (CSR) initiatives.
+> I will obtain relevant approvals before using work time for volunteering opportunities.
+> I will obtain the relevant approvals before using the Group name and resources to support an
+NGO.
+PRACTICAL EXAMPLES
+I would like to participate in a volunteering activity I am actively involved with a local community group
+with our local charity during a working week. and we are organizing a large event. Can the Group
+Does the Group allow for volunteering days? sponsor or donate meeting rooms for the event?
+Check your local policies on what is allowed. In some Any donations, gifts, or in-kind contributions need
+countries, certain Group companies allow a few to be approved. Check with your team manager what
+days to be booked for volunteering, especially level of approval is required. The legal department,
+when participating in a volunteering event with an tax department, human resources department, and
+organization supported by the Group. even the communications department may be involved.
+Also, check whether the organization you wish to donate
+to complies with Group policies; the Group does not
+sponsor religious or political organizations.
+DISCUSS OPENLY AND SHARE YOUR CONCERNS: If you are facing an issue related to contributing to communities,
+do not keep it to yourself. You will get help and support by discussing it with your team manager or country CSR leader
+or your Ethics & Compliance officer.
+44
+Capgemini. Our Code of Business Ethics6.2 Minimizing our impact
+on the environment
+We recognize that business activities have impacts on the
+environment, and we are committed to minimizing these
+impacts.
+WHAT DOES THIS MEAN?
+> Respect the environment. The Group is committed to identifying and complying with
+all legal and other relevant requirements related to the environmental impacts of its
+operations.
+— We seek to minimize the negative environmental impacts of the Group’s business
+activities for example, with regard to: emissions from energy consumption in our offices
+and data centers, and business travel; our waste and IT asset management; and our
+procurement activities.
+> Innovate to reduce impact. We use and adapt our capabilities and expertise to help our
+clients reduce their environmental impact and meet their environmental objectives.
+WHAT IS EXPECTED OF ME?
+> I adhere to environmental laws and relevant Group and local policies.
+> I am expected to minimize the impact of my work on the environment. This includes making
+informed choices that minimize the impact of carbon emissions from business travel, saving
+energy in our offices and data centers, considering the environmental impact of procurement
+decisions, reducing waste through recycling schemes and avoidance of single-use plastics,
+and contributing to other environmental initiatives.
+> I seek ways to innovate with my clients to leverage our business and technology transformation
+capabilities, to support them with their environmental objectives.
+PRACTICAL EXAMPLES I regularly receive information and advice about
+carsharing or reducing plastic and am often
+I am traveling abroad and there is an option to go told to switch off lights and print double-sided.
+by train or by plane. What do I choose? Do my personal actions really make a difference?
+First, check whether it is essential to travel. The Group Absolutely. In a company the size of Capgemini, individual
+offers numerous virtual working tools, such as Microsoft actions taken across the Group can quickly add up to
+Teams and dedicated videoconferencing spaces. If significant impacts. If you need to travel to the office,
+you cannot avoid travel, look to balance time, costs choosing to carshare or travel by public transport can
+and environmental impacts. A rail journey will typically help reduce carbon emissions and lower air pollution
+have a carbon impact 6–10 times lower than a flight within cities. Avoiding single-use plastics not only reduces
+of the equivalent distance, direct flights are generally the amount of plastic ending up in landfill sites and
+more carbon efficient than those with stopovers, and marine environments, it also avoids the energy and the
+airport taxis can add significantly to the cost and the materials used to produce the plastic in the first place.
+carbon of your journey. Considering the time, costs, and Where office lighting is not automated, please switch off
+environmental impacts across the whole journey will help lights at the end of meetings. When printing is essential,
+you to make the appropriate decision that can support choosing to print double-sided dramatically reduces
+our environmental objectives, balanced with the needs paper consumption, saving the environmental impacts
+of our business and our clients. of both the printing and the entire life-cycle of the paper.
+DISCUSS OPENLY AND SHARE YOUR CONCERNS: If you are facing an issue involving an impact on the
+environment, do not keep it to yourself. You will get help and support by discussing it with your team manager
+or country CSR leader.
+45Appendix
+1. Code of Business Ethics
+https://talent.capgemini.com/global/pages/about_us/our_group/ethicsandcompliance/policies__guidelines/policies/code_of_business_ethics/
+2. Group Conflict of Interest Policy
+https://talent.capgemini.com/global/pages/about_us/our_group/ethicsandcompliance/policies__guidelines/policies/conflict_of_interest/
+3. SpeakUp Policy
+https://talent.capgemini.com/global/pages/about_us/our_group/ethicsandcompliance/speakup/
+4. SpeakUp helpline
+https://www.capgemini.com/speakup
+5. Ethics & Compliance Talent Hub
+https://talent.capgemini.com/global/pages/about_us/our_group/ethicsandcompliance/
+6. Ethics & Compliance Network
+https://talent.capgemini.com/global/pages/about_us/our_group/ethicsandcompliance/ethics__compliance_network_new/
+7. Blue Book
+https://talent.capgemini.com/global/pages/about_us/our_group/ethicsandcompliance/policies__guidelines/policies/blue_book_intro/
+8. Group Anti-Corruption Policy
+https://talent.capgemini.com/global/pages/about_us/our_group/ethicsandcompliance/policies__guidelines/policies/Group_Anti_Corruption_Policy/
+9. Group Competition Laws Policy
+https://talent.capgemini.com/global/pages/about_us/our_group/ethicsandcompliance/policies__guidelines/policies/group_competition_laws_policy/
+10. Supplier Standards of Conduct
+https://talent.capgemini.com/media_library/Medias/About_Competitiveness_in_Action/Capgemini_Supplier_Standards_of_Conduct_-_V5.2.pdf
+11. Social Media Guidelines
+https://talent.capgemini.com/global/pages/about_us/global_functions/ethicsandcompliance/policies__guidelines/guidelines/social_media_guidelines/
+12. Closed Periods
+https://talent.capgemini.com/global/pages/hubs/global_functions/Finance_Community/Rules_and_Policies/closed_periods/
+The information contained in this document is proprietary.
+Copyright © 2023 Capgemini. All rights reserved.
+Graphic design: Avant Midi. April 2023 – Version 3.4
+4466
+CCaappggeemmiinnii.. OOuurr CCooddee ooff BBuussiinneessss EEtthhiiccssCapgemini Values & Ethics | Talent Capgemini
+Place de l’Étoile – 11, rue de Tilsitt
+75 017 PARIS – France
+47Learn more about us at
+www.capgemini.com

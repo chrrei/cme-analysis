@@ -1,0 +1,762 @@
+Code of
+Conduct
+3202
+rebmetpeSStatement and commitment of the leadership
+This Code of Conduct, together with the accompanying
+TeamViewer is a global software company that
+policies, handbooks and procedures, outlines the
+supports hundreds of millions of non-commercial
+requirements we commit to in our daily business, so we
+users and more than 625k customers from
+can deliver the high standards expected from us
+different industries with leading remote
+externally and internally. By embracing it, we honor our
+connectivity and frontline productivity
+responsibilities and leave a lasting impact.
+solutions.
+Thank you for applying these principles as
+We see this success as a great privilege as well as
+foundation of TeamViewer’s continued
+a great responsibility towards our customers,
+success.
+users, partners, suppliers, shareholders and
+employees who have placed their trust in us.
+With offices in more than 10 countries across
+the world, we are the employer of choice
+for more than 1,400 people globally. We foster
+a safe and empowering work environment,
+promoting equal opportunities, collaboration,
+and innovation. All our words and actions shape
+this diverse culture. In addition to our company
+values, integrity, transparency, and compliance
+with applicable laws and regulations should
+always guide us to make good judgements
+and ensure that we treat each other with
+dignity and respect.
+Oliver Steil (CEO) Michael Wilkens (CFO) Peter Turner (CCO) Mei Dent (CPTO)
+TeamViewer - Code of Conduct 2Table of contents
+01 • Statement and commitment Handling donations,
+of the leadership 02 sponsorships & charitable
+contributions 19
+Complying with anti-money
+02 • Code of Conduct 04
+laundering laws 19
+Respecting global trade
+What it is 05
+controls & sanctions 20
+Why we have it 05
+Our responsibilities 06
+Respect for human rights 07 06 • How we fulfil our responsibility
+towards security, confidentiality
+Our beliefs 08
+and the environment 21
+Retain highest standards for
+03 • How we interact IT and product security 22
+with each others 09
+Protecting data 23
+Keeping confidential
+Speak as one 10
+information confidential 23
+Respect each other 11
+Avoiding insider trading and
+Trust each other 11 sharing of insider information 24
+Look out for each other 12 Keeping accurate records 25
+Supporting an environmentally
+friendly business 25
+04 • How we interact with 3rd parties 13
+Business partners, suppliers 07 • What are the consequences of
+and customers 14 violations this Code of Conduct 26
+Competitors 15
+Consequences of violations 27
+Free users 15
+Governments and
+other authorities 15
+08 • Where to get more guidance
+Speak Up! 28
+05 • How we are countering
+Where to get more guidance
+corruption 16
+and advice 29
+Speak up! Whistleblowing System 30
+Avoiding conflicts of interest 17
+Treating gifts &
+invitations responsibly 18 09 • Resources 31Chapter 2
+Code of ConductWhat it is
+The Code of Conduct (the Code) sets out the Why we have it
+basic principles for business conduct at Team-
+Viewer and guides us towards good judgment
+At TeamViewer we are proud of our
+and decisions in our professional routines.
+entrepreneurial spirit, which makes this
+company a great place to work with amazing
+The content is aligned with our beliefs, which
+colleagues in all our offices around the globe.
+are incorporated into the Code. It therefore
+We celebrate this spirit day by day and jointly
+serves as the basis for our internal policies,
+continue to write the TeamViewer success
+handbooks, guidelines and procedures, all of
+story. By respecting applicable laws and
+which provide additional guidance.
+regulations which are the foundation of our
+Code, we protect this success and the
+Please take it in the spirit in which it is intended
+company’s value(s). Please use it as a
+– to continue to build a respectful, positive
+supporting resource but re- member that it
+working environment for all of us around the
+doesn’t cover every situation. It is important to
+globe.
+make good judgement, consider your actions,
+ask yourself if it is consistent with the Code and
+if you are not certain, talk with someone for
+guidance.
+Apply the principles of the Code
+Do not deal with business situation on
+your own if you are uncertain. Do not
+unsettle or hinder colleagues from
+reporting potential breaches
+TeamViewer - Code of Conduct 5Our responsibilities
+Irrespective of your job position or location, you should know your areas of responsibility and stay
+up to date on what is necessary to comply with applicable laws and regulations. But remember, we
+work as one global team, so make sure the words you use and the actions you take protect what we
+already have built as well as support what we are trying to achieve.
+As an employee As a member of the sales organization
+Always act in accordance with the Code and Respect the applicable Anti-Trust and Unfair
+comply with applicable laws and Competition laws.
+regulations relevant to your location and
+position. Play fair and stick to the Sales Policy and
+Fair Play Rules. Do not steal customers or
+Use the Code as a basis for good judgement opportunities from colleagues.
+and ask for guidance if you are in doubt.
+Violations will have consequences.
+Make sure to follow the IT-Security and Data
+Protection guidelines as an important
+As a member of the procurement
+addition to the Code of Conduct.
+organization or in cases you act in a
+procurement role
+Speak Up!: In a bid to build a transparent
+culture, employees are encouraged to
+Never misuse your entrusted profession for your
+speak up in case you come across a
+personal benefit and always judge and act in the best
+behaviour which is not within the principles
+interest of the company.
+laid out in the Code.
+Apply transparency to your decision- making.
+Don’t be afraid of retaliation. TeamViewer
+does not tolerate retaliation against any-
+one raising concerns.
+As a member of the R&D organization
+As a manager
+Apply highest quality and confidentiality
+standards to the handling of
+Act as a role model. Ensure employees are
+our source code.
+aware of the Code and help them
+understand it better.
+Protect our product and the Intellectual
+Property of TeamViewer with care.
+Create an environment of trust, respect
+and openness.
+Take corrective or preventive action against
+violations of the Code.
+Support and/or enable investigations.
+TeamViewer - Code of Conduct 6As the company
+TeamViewer commits itself to comply with
+applicable laws and regulations, and its
+social and environmental responsibility
+within the sphere of our influence.
+Additionally, as a multinational company
+with a very diverse employee base,
+respect for human rights (especially with
+regards to working-hours, wage and
+compensation), environmental protection,
+the ban on corruption and social
+engagement are an integral part of our
+daily business.
+TeamViewer promotes innovation and
+strives for economic, social and
+environmental sustainability.
+Seeking business excellence on a
+sustainable basis is an important pillar of
+our future corporate success.
+Therefore, and in consistency with our
+product offering, we support initiatives as
+means to reduce the global carbon dioxide
+footprint.
+Respect for human rights
+TeamViewer respects international standards are reflected in the provisions of our Code of
+protecting human rights and is committed to Conduct.
+their observance within its scope of influence.
+TeamViewer business is legit business.
+The material elements of the Countries, companies or individuals who
+disrespect human rights and the principles of
+the above, are excluded from business
+European Convention on Human Rights and
+relationships with us.
+Fundamental Freedoms,
+International Labor Organization (ILO)
+Declaration on Fundamental Principles
+and Rights at Work,
+UN Global Compact,
+UN Universal Declaration of Human Rights
+TeamViewer - Code of Conduct 7Our beliefs
+We are courageous
+Embracing challenges, moving fast and passionately leading the way.
+We are family
+Sharing a common mindset, having integrity, valuing everyone’s contribution
+and having fun together.
+We make an impact
+Pushing to be the best we can and creating value for our employees,
+customers and society.
+We are committed to quality
+Being reliable partners, seeking excellence and delivering outstanding results.Chapter 3
+How we interact
+with each otherSpeak as one.
+We all represent the company
+We foster a supportive work environment Speaking as one, also means TeamViewer
+where all employees can reach their fullest respects the rights of its employees under
+potential. guidance of globally applicable standards such
+as the UN Global Compact. This includes the
+Our reputation as a company is one of our most freedom of association and the right to
+valuable assets. It is therefore within our collective bargaining.
+responsibility to protect our value(s) and
+assets as well as those of the company. We
+should always make sure to speak and act in
+Spread the positive TeamViewer spirit
+the best interests of TeamViewer, both within
+and outside of our work environment.
+Do not denigrate colleagues or the
+company
+Please make sure to get the appropriate
+approvals before speaking to the press or
+writing publicly (on e. g. social media) in the name
+of or about the company.
+Use good judgement and avoid the
+appearance of improper and inappropriate
+behavior. If you hear or feel a colleague has
+fallen short of this commitment, we encourage
+you to speak to them or let your manager or
+Compliance know.
+TeamViewer - Code of Conduct 10Respect each other. Fair & equal treatment,
+no discrimination, no harassment
+We are very proud of our diverse workforce has a different perception of offensiveness.
+originating from a broad range in age, gender Please act and talk in accordance with such
+identity, race, social and ethnic background, diversities.
+marriage and family status, sexual orientation,
+gender identity, national origin, political and In simple terms, treat others the way you like to
+religious beliefs, physical, mental and sensitive be treated. We commit to, and promote equal
+medical condition. opportunities and treatment of employees,
+irrespective of their background. We like to live
+Celebrate it! Despite the freedom of the open-door policy where employees can
+expression and the acceptance of all kinds of, speak to anyone in the company. There will be
+especially political and religious beliefs, times where your opinion will be heard but not
+TeamViewer does not tolerate any kind of necessarily acted upon, please do not let this
+extremist or in any other way widely offensive deter you from continuing to speak up We take this
+behavior and propaganda. very seriously. If you believe any negative
+behavior is taking place you we encourage you
+It takes all of us working together to foster an to raise it with your manager, the HR team or
+environment of openness, honesty, inclusion Compliance. Never fear retaliation, as this is
+and collaboration, free of discrimination, not tolerated and will have consequences.
+harassment and bullying. Please make sure
+not to use offensive, discriminating or any
+Treat everyone fairly and equally. Listen
+other kind of improper language or action.
+and be receptive to different points of
+It is not tolerated and might have serious con-
+view
+sequences.
+Do not engage in any direct or indirect
+Never use any other basis than objectivity
+behavior that is offensive, intimidating,
+and performance for your business decisions,
+malicious or insulting. Do not disrespect
+internally and externally. Everybody
+dignity and human rights of colleagues
+Trust each other
+We all have a shared understanding around our Being transparent about decisions builds
+core mission and key goals. trust, not only internally but with our
+customers and partners as well.
+At TeamViewer, we foster an entrepreneurial
+environment and encourage everyone to do
+what is best to move the company forward. Trust each other and act transparently.
+Foster trust through an open dialogue
+As it is our belief, that teams that collaborate in an across all levels
+open and honest manner, act constructively and
+contribute strongest, we treat each other with Do not build closed areas of trust and
+mutual respect and trust. knowledge sharing
+TeamViewer - Code of Conduct 11Look out for each other.
+Work safely, think dangerously
+We compete in a people’s business. Our Please observe good security practices and re-
+employees therefore are the most valuable port any kind of hazards. If you become aware
+asset of the company and they need to be of any safety or security concerns or witness
+protect- ed by placing high priority on health any suspicious activity, please report it to your
+& safety measures. We act in accordance with local security team or raise it with HR or
+the applicable statutory and international Compliance immediately.
+standards regarding occupational health and
+safety and provide safe working conditions.
+Training will be provided consistently to ensure all Get familiar with your local security and
+employees are educated in proper health & first aid measures and fire exits
+safety methods. Our employees must feel that
+they work in a safe, secure and violence-free Neither create non-physical dangers,
+environment. This includes providing a nor any kind of hazardous surroundings
+working environment committed to risk where colleagues could get hurt by e.g.
+management that follows strict standards for slipping, tripping, falling
+safety and security training, and access to
+modern safety and security equipment and
+techniques while at work. We ask you to get
+familiar with your local security measures.
+TeamViewer - Code of Conduct 12Chapter 4
+How we interact
+with 3rd partiesBusiness partners, suppliers, and customers.
+Integrity integrated
+As a serious business partner, TeamViewer acts with integrity in all situations and expects its
+customers, suppliers, and other partners, to comply with the law in the same way. In particular, we
+do expect everybody doing business on behalf of or with us to
+refrain from any corrupt or fraudulent acts provide complete and accurate
+information to facilitate due diligence
+respect human rights efforts undertaken by TeamViewer,
+where requested
+have processes and controls in place to
+comply with this Code notify TeamViewer on a timely basis if a
+3rd Party becomes aware of any
+implement necessary policies, procedures alleged corrupt or fraudulent acts,
+and training to comply with this Code Human rights or environmental violations
+or risks, an actual or potential conflict
+act in compliance with the applicable laws of interest or a sensitive situation
+and international standards related to that may impact its work for or with
+data protection, cyber security, environ- TeamViewer.
+mental protection and international
+business transactions in general such as to commit to the Supplier and
+ex- ports / import and embargo provisions Business Partner Code of Conduct
+TeamViewer complies with the principles of If TeamViewer, either through its own
+non-discrimination regarding supplier selection employees or as a result of external
+and treatment. information, discovers violations of legal
+obligations, regulations, or this Code by its
+TeamViewer uses all reasonable efforts to
+partners or suppliers, TeamViewer will request
+ensure compliance of its suppliers with the
+the violating party to take remedial action. In
+principles of this Code and the Supply Chain Act.
+certain circumstances, TeamViewer may be
+As stipulated in the German Act on Corporate Due
+forced to suspend or terminate the
+Diligence Obligations in Supply Chains
+relationship.
+(Lieferkettensorgfaltspflichtengesetz, LkSG),
+TeamViewer conducts risk-based due
+diligence on 3rd Parties (e.g. suppliers,
+business partners, customers) as part of
+assessing its relationship with 3rd Parties.
+TeamViewer - Code of Conduct 14Competitors. Governments and
+Play fair, win big other authorities
+Business and competition should always be for the TeamViewer maintains legally irreproachable
+benefit of the customer. relations with governmental bodies, as we act
+transparently, honest, and in compliance with
+TeamViewer commits to competing vigorously the applicable law.
+but fairly, by following all applicable fair
+competition or antitrust laws. We expect our We recommend our employees to contact the
+competitors to also act accordingly. Collusion, Senior Management, Legal or Compliance,
+price coordinations, and agreements about a when receiving any kind of governmental
+market allocation in general, are not inquiry before taking further action.
+permitted. Additionally, we obtain information
+about our competitors only by lawful means Although lobbying can be a positive force in
+and use that information responsibly. democracy, it may also negatively affect public
+Employees who are in doubt whether an interest. TeamViewer does not engage in any
+action may violate such laws should disclose it actions resulting in undue influence or unfair
+to their Senior Management or Compliance. competition. This includes political donations
+Additional information, explanations and or any other forms of political expenses.
+specific examples are provided in the Antitrust
+and Fair Competition Policy.
+Free users
+One of the key pillars of TeamViewer’s success
+is our large free user base which we are very
+proud of.
+We respect free users the same way as our
+paying subscribers and vice versa expect our
+other partners to respect our business model
+with this solid foundation of free- subscribers
+for private use.
+TeamViewer - Code of Conduct 15Chapter 4
+How we are
+countering corruptionAvoiding conflicts of interest.
+Think we first, not me
+In your daily business, you may come across Apply transparency in your decision-making
+situations, in which a decision in the best interest
+of the company competes with your personal Do not involve in activities and financial
+interest. In such cases, you must differentiate investments which could conflict with
+between your private interests and the your responsibilities to the company
+interests of the company and avoid all
+conflicts of interest that may influence the
+business of TeamViewer.
+In cases where you cannot solve the conflict
+yourself or are in doubt which decision is best,
+disclose the conflict to your manager or
+Compliance before you take any action, as it
+could be detrimental to all of us. Being
+transparent about the decision-making
+process is key.
+TeamViewer - Code of Conduct 17Treating gifts & invitations responsibly.
+No tricks or treats
+TeamViewer’s success is based on its entrepreneurial spirit, the innovativeness of its products
+and integrity. Providing reasonable hospitality or gifts sometimes can be relevant for developing
+or deepening business relations and might even have a cultural background. However, such favors
+may only be given or received if they
+Serve a legitimate business purpose Do not unreasonably influence the
+recipient’s decision-making
+Do not serve to obtain improper advantage
+Are being limited to a reasonable, i. e
+Do not raise a suspicion of being a bribe for customary extent
+an independent third party
+Are not happening during the conclusion
+Do not obligate or appear to obligate the or negotiation of contracts or other
+person who receives it important business decision making process-
+es
+Are not offered or given in expectation of
+special or favored treatment
+In accordance with the applicable international Get additional guidance to good decision-
+laws offering, promising or accepting gifts, or making countering corruption in our
+other benefits in an unreasonable extent is internal policies
+prohibited for everybody doing business with
+or on behalf of TeamViewer. Do not accept or offer gifts or other
+benefits that exceed customary amounts
+Under no circumstances should any other basis
+than economic criteria (such as price, quality,
+service) be decisive for a business decision. All
+kinds of corrupt behavior (e. g. bribery, fraud) is
+strictly banned from our business practices. As
+TeamViewer we always act in accordance with
+applicable Anti-Bribery & Corruption laws and
+regulations.
+If you are ever offered a bribe, or come across
+suspicious circumstances, be transparent
+about it and immediately disclose it to your Senior
+Management, Legal or Compliance.
+Additional information, explanations and
+specific examples including a clear multi- step
+approval process based on value limitations,
+are provided in the Anti-Bribery and
+Corruption Policy.
+TeamViewer - Code of Conduct 18Handling donations, sponsorships & charitable
+contributions. Sharing our success
+TeamViewer is conscious of its responsibility Contact your Senior Management and
+and committed to supporting charitable the CSR team before making any social
+causes financially and non-financially. contribution
+Donations, sponsorships or general charitable Do not act in the name of TeamViewer by
+contributions do reflect our social commitment and contributing without the right approval
+are handled appropriately, transparently and
+neutral regarding religion or politics with no
+improper business advantage attached.
+Such activities or payments should always be
+in accordance with applicable laws and sup-
+port our Corporate Social Responsibility goals.
+Complying with anti-money laundering laws.
+We don’t handle dirty laundry
+TeamViewer cooperates only with business Keep cash out of the business. Keep good
+partners, whose activities are in accordance records of all transactions
+with the applicable legal requirements and
+whose financial resources are of legitimate Do not accept or use money from an un-
+origin. disclosed origin
+Receiving or giving money or other assets with
+undisclosed origin, or any other kind of
+suspicious facts which indicate money laundering,
+is prohibited and must be disclosed to the
+Senior Management or Compliance.
+Additional information, explanations and
+specific examples are provided in the Anti-
+Money Laundering Policy.
+TeamViewer - Code of Conduct 19Respecting global trade controls & sanctions
+TeamViewer is a leading global connectivity Know current high-risk countries and
+platform. Having international operations and refrain from business with such. Contact
+business relations, makes it essential for us to Compliance in case of questionable re-
+comply with internationally applicable trade quests
+controls and sanctions. Therefore,
+TeamViewer does not engage in any Do not engage business with sanctioned
+transactions with high-risk countries, entities region or individuals.
+or individuals re- siding in such. Business
+activities with questionable origin are to be
+checked against sanction lists. TeamViewer
+has implemented strict internal procedures.
+IP Geo-blocking, sanction list screening and
+contractual safeguards are the toolset
+applicable to comply with common laws.
+TeamViewer - Code of Conduct 20Chapter 6
+How we fulfill our
+responsibilities towards
+security, confidentiality,
+and environmentRetain highest standards for IT and product security
+As a global leading connectivity platform, we To further protect the security of our networks,
+take data, IT and product security very seriously. it is key that each employee makes proper use
+As general rules on cybersecurity apply to of workplace information technology. The ap-
+TeamViewer in various jurisdictions, state-of- propriate security practices that protect us
+the-art technical and organizational measures against internal and external threats are de-
+are implemented to protect the security of fined in the IT Security Policies.
+personal data.
+Please make sure you read the IT Security
+These measures include, physical security Policies participate in mandatory trainings and
+against unauthorized access and follow the principles to keep the highest
+manipulation, password assignment, standards for IT security. For further inquiries,
+authorization concepts, logging of subsequent please contact the IT Security team.
+changes of data, reasonable encryption as well
+as protection against accidental loss,
+destruction or dam- age. Always wear your badge visibly when in
+the office. Apply the principles outlined
+In addition, we have implemented an ap- in the IT security policies
+propriate risk management system that also
+covers the detection and control of IT- Do not risk a data breach by carelessly
+related risks. handling IT security standards policies
+TeamViewer - Code of Conduct 22Protecting data. Privacy is key
+explaining roles and responsibilities and how the
+At TeamViewer we rely on data, as it is not only an
+relevant topics of GDPR are being implemented at
+essential part of our products, but it also
+TeamViewer. Finally, it documents our internal
+allows us to keep in touch with customers, to
+processes to fulfil the GDPR requirements.
+understand their needs and to deliver the best
+services.
+Please make sure you read the handbook and
+take your mandatory trainings on data
+Hence, protecting this data is taken very
+protection. For further inquiries, please don’t
+seriously at TeamViewer and we thoroughly
+hesitate and contact your data privacy team.
+implemented the requirements of GDPR. We
+process personal data, including employee
+data, confidentially and responsibly, respect
+everyone’s privacy and ensure that personal
+Respect the principles of the GDPR and
+data is effectively protected and used only for
+act in accordance with the privacy hand-
+legitimate purposes.
+book
+The GDPR Privacy Handbook, as our standard
+Do not let loose on protecting yours and
+reference, provides an overview and guidance
+your peer’s data
+on data protection requirements by
+Keeping confidential information and intellectual
+property confidential
+Within your area of responsibility, you might As general rule, company information that is not
+come across confidential information (e.g. accessible to the public, should not be shared,
+confidential personal data, product or other posted, or talked about outside the company.
+business information, intellectual property). If you are not sure if something is confidential,
+Confidential information is intended for a please ask your senior management or
+defined, limited number of recipients only. contact Compliance.
+We protect such confidential information and
+intellectual property, whether it belongs to
+TeamViewer or another company, from
+unauthorized disclosure and use. Internal Mark confidential information
+dissemination or external release is accordingly, limit the number of
+prohibited. recipients and re- strict access clearly.
+Respect copyrights and licensing
+Especially when using social media, please agreements for any graphics,
+make sure to be aware of your responsibility documents, media and especially
+to the company’s reputation and do not share software
+sensitive or confidential company information,
+by also respecting the privacy of your col- leagues Do not share confidential information if
+and business partners. not explicitly requested to.
+TeamViewer - Code of Conduct 23Avoiding insider trading and sharing
+of insider information
+As a publicly listed company TeamViewer is Please read the Group Securities Dealing Code
+subject to capital markets regulations. In order to carefully for additional guidance, definition of
+ensure compliance with these regulations we the above mentioned and in order to
+must not understand the obligations and restrictions
+this means for you as a TeamViewer
+employee. Carefully consider any additional
+trade within the Closed Periods around instructions you may be given when working
+the end of financial periods leading up to
+on particularly sensitive projects. Reach out to
+the publications of results or statements
+your manager, legal or compliance in case of
+questions.
+provide recommendations based or
+potentially based on confidential,
+restricted or inside information
+Check the Group Securities Dealing Code
+before trading TeamViewer securities
+disclose confidential, restricted or
+inside information to any non-insider
+Do not share insider information. Do not
+within or outside TeamViewer,
+deal TeamViewer securities when you are
+including family members.
+restricted, appear on the Insider List, or
+within a Closed Period
+Please make sure you read the handbook and
+take your mandatory trainings on data
+protection. For further inquiries, please don’t
+hesitate and contact your data privacy team.
+TeamViewer - Code of Conduct 24Keeping accurate records
+customers and the public with interest in the
+Our accounting and financial records must
+company. As a principle, we commit to follow all
+clearly and accurately reflect transactions
+applicable laws, regulations and standards for
+with enough detail to ensure correct decision-
+financial book building and re- porting.
+making. They must comply with all applicable
+laws, regulations, international financial
+reporting standards and internal accounting
+Apply integrity and accuracy in financial
+and record-keeping procedures and policies.
+book building and reporting
+Maintaining the integrity of our financial
+Do not put our reputation as a trusted
+reporting supports our decision-making and
+partner at risk with insufficient or
+strengthens our reputation with all
+inaccurate reporting
+stakeholders, such as investors, employees,
+Supporting an environmentally friendly business
+TeamViewer commits itself to its social and
+environmental responsibility within the sphere
+of its influence and in accordance with
+applicable laws, in particular the human rights
+and environmental due diligence obligations
+arising from the LkSG.
+Seeking business excellence on a sustain-
+able basis is an important pillar of our future
+corporate success. Therefore, and in
+consistency with our product offering, we
+sup- port remote work and home-office
+initiatives as means to reduce the global
+carbon dioxide footprint. We aim to be a
+frontrunner in this trend.
+TeamViewer - Code of Conduct 25Chapter 7
+What are the consequences
+of violations of this CodeConsequences and violations
+Consequences to the Company may be (e.g.):
+So this is the TeamViewer Code of Conduct.
+Damage for our reputation, brand, and
+This is how we do business.
+market value
+If anything is unclear, Speak Up! and make use
+Significant fines and damages
+of the communication channels provided
+violations of the Code jeopardize the well-
+Disgorgement of profit
+being of our unique corporate culture and
+ultimately the commercial success of
+Exclusion from third party selection
+TeamViewer. If you violate the Code, consciously
+processes and loss of business
+or unconsciously, be aware that this may
+attract consequences for yourself, other
+To avoid such consequences, please make
+individuals involved, and the company.
+sure you understand and always act upon
+the principles set forth in this Code of
+Depending on the Seriousness of the Violation
+Conduct, internally and externally in
+of the Code, consequences to Employees may
+our professional environment.
+be (e. g.):
+Disciplinary action (formal warning,
+transfer of position, termination)
+Fines and damage claims
+Imprisonment
+TeamViewer - Code of Conduct 27Chapter 8
+Where to get more guidance
+Speak Up!Where to get more guidance and advice
+When confronted with actions, behaviors, Depending on the level of confidentiality re-
+documents, conversations, etc. that you don’t quired in a specific situation, there are multiple
+agree with, or that feel suspicious or in any way channels of communication provided to ad-
+disregard this Code of Conduct, do not dress such topics.
+hesitate but Speak Up!
+If you feel unable to talk directly to the person(s)
+A problem shared is a problem halved. Issues involved, or need to get an unbiased opinion,
+that interfere with the way we want to work make a sound judgement, choose your favorite
+with each other, and the outside world need to (of the below) and Speak Up!
+be addressed, to avoid damage to individuals
+or the company.
+Your management Trust Council
+You can contact a person in your immediate The Trust Council was introduced as a person
+work environment, such as your direct line of contact for topics you specifically may not
+manager or the respective SLT member. Both want to disclose with your management, but
+will take care of your request and if necessary, still want to speak to somebody, independent,
+involve further parties or initiate further steps. objective and trustworthy.
+Compliance office
+Urgent topics, that seem to have a high
+negative impact on individuals and / or the
+company should always be disclosed to the
+Compliance organization via
+compliance@teamviewer.com
+or directly see the Compliance and Risk Manag- er
+or any other member of our Compliance
+department who will handle your case with
+care.
+Please find location, telephone number, and
+direct e-mail on TeamBase.
+TeamViewer - Code of Conduct 29Speak up! Whistleblowing & reporting channel
+If you know or suspect that Company policies or Speak Up! is not meant for general feedback.
+guidelines, laws or regulations are being violated Instead, please contact your manager or reach
+at TeamViewer, please use our secure out to the Compliance Office for feedback.
+whistleblowing & reporting channel “Speak
+Up!” and inform us about it, anonymously if you Please only provide information within Speak
+wish. Your identity and all information you provide Up! that you believe to be true.
+are treated confidentially, subject to the
+provisions of the law. Subject to reports are Speak Up! may not be misused for reporting
+violations of (not exhaustively listed) knowingly false or mis- leading information or
+obviously unfounded accusations and
+denunciations (in the sense of criminal law
+Company polices and guidelines, breaches provisions such as slander or libel). A detailed
+of all kinds of laws and regulations description of the TeamViewers whistleblowing
+& reporting channel, including guidance on how to
+Anti-Bribery & Corruption, bribery, conflict use it is available on the Whistleblowing Policy at
+of interests TeamBase.
+Property and asset crimes (theft, fraud
+undue enrichment offences etc.) Compliance-relevant, but very specific topics
+such as IT Security [it-security@teamviewer.
+Anti-competitive practices, insider trading com] or Data Protection [dataprotection@
+teamviewer.com] should be addressed with
+Discrimination & harassment, human the responsible teams. Please find details in
+rights and the respective policies and handbooks or on
+the applicable TeamBase page.
+Books and records, accounting violations.
+At TeamViewer, you will always find an open
+door if you need advice, have concerns or want to
+Breaches of laws and regulations particularly discuss suggestions for improvement
+include breaches within the scope of section 2, regarding Compliance.
+3 Whistleblowing Act (Hinweisgeberschutzge-
+setz, HinSchG), as amended from time to time
+(mainly criminal acts and breaches of certain
+laws) and violations or risks of a violation of the
+human rights and environmental prohibitions
+listed in section 2 Supply Chain Act (LkSG).
+Employees also have the opportunity to pose
+questions to the contact persons listed in the
+Code of Conduct or on the Compliance Team-
+Base page (by phone, email, chat or in person)
+if they prefer such channels or are unsure
+whether an undesirable development has
+taken place.
+TeamViewer - Code of Conduct 3009_Resources
+For more information, visit or contact
+TeamBase compliance@teamviewer.com
+Data Protection
+IT Security Scan the QR Code
+to contact us
+Version 1.2 as of September 2023
+TeamViewer - Code of Conduct 31About TeamViewer
+As a leading global technology company, TeamViewer offers a secure remote connectivity
+platform to access, control, manage, monitor, and support any device — across platforms
+— from anywhere. With more than 600,000 customers, TeamViewer is free for private,
+non-commercial use and has been installed on more than 2.5 billion devices. TeamViewer
+continuously innovates in the fields of Remote Connectivity, Augmented Reality, Internet
+of Things, and Digital Customer Engagement, enabling companies from all industries to
+digitally transform their business-critical processes through seamless connectivity.
+Founded in 2005, and headquartered in Göppingen, Germany, TeamViewer is a publicly held
+company with approximately 1,500 global employees. TeamViewer SE (TMV) is listed at
+Frankfurt Stock Exchange and belongs to the MDAX.
+TeamViewer Group
+Bahnhofsplatz 2 73033 Göppingen Germany
++49 (0) 7161 60692 50
+TeamViewer US Inc.
+5741 Rio Vista Dr Clearwater, FL 33760 USA
++1 800 638 0253 (Toll-Free)
+Stay Connected
+www.teamviewer.com
+2023 TeamViewer Germany GmbH and TeamViewer US. All rights reserved.

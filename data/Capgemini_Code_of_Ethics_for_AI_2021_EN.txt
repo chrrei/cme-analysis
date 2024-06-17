@@ -1,0 +1,484 @@
+Our Code
+of Ethics
+for AIOur Code of Ethics for AI
+AI is a general-purpose technology that can affect entire
+economies, and which is spreading very visibly beyond
+the business area to areas of daily life. A challenge
+facing both business and society today is how to
+optimize the opportunities offered by AI technology,
+whilst addressing the risks and fears that AI may generate.
+Since its foundation, Capgemini places ethics at the center of
+its activity. As a leader in digital transformation, we are committed
+to the adoption of AI in a way that delivers clear benefits from AI
+technologies within a trusted framework, by building a Code of Ethics
+for AI.
+Our ethical culture drives our vision of AI, guided notably by 5 of
+our core Values: Honesty, Trust, Boldness, Freedom, and Modesty.
+These Values work together to inform our approach. Boldness drives
+us to act as entrepreneurs, identifying and pursuing the opportunities
+presented by innovation in this field. We aspire to increase Freedom
+by empowering, complementing and augmenting human cognitive,
+social and cultural skills, giving people more say over how they
+live their lives. Modesty keeps us mindful of the need to mitigate AI definition
+risks, building solutions that are robust, safe, and human-centric.
+Honesty underpins our commitment to transparency, and to creating Artificial Intelligence (AI) is a
+solutions that are accountable and controllable. We consider collective term for the capabilities
+shown by learning systems
+Trust to be an essential basis for long-standing interdependent
+that are perceived by humans
+relationships with clients, users, and all members of our ecosystem;
+as representing intelligence.
+the value we place on Trust drives our efforts to create AI that
+protects privacy and ensures equal access rights and fair treatment. These intelligent capabilities
+typically can be categorized
+Our Code of Ethics for AI guides our organization on how to into Machine Vision & Sensing,
+embed ethical thinking in our business. It is illustrated by concrete Natural language processing,
+Predicting & Decision-making,
+examples from projects or solutions that we deliver. Reference
+and Acting & Automating.
+to its principles stimulates ethical reasoning and is intended
+to launch an open-ended process of discussion within the company, Various applications of AI include
+with our clients, and with all stakeholders. speech, image, audio and video
+recognition, autonomous vehicles,
+Our Code of Ethics for AI concerns both the intended purpose natural language understanding and
+of the AI solution, and the way we embed ethical principles in generation, conversational agents,
+the design and delivery of AI solutions and services to our clients. prescriptive modelling, augmented
+creativity, smart automation,
+advanced simulation, as well as
+It should be read in combination with applicable legislations
+complex analytics and predictions.
+with which Capgemini is, of course, committed to comply.
+Technologies that enable these
+applications include automation,
+big data systems, deep learning,
+reinforcement learning
+and AI acceleration hardware.
+22
+CCaappggeemmiinnii OOuurr CCooddee ooff EEtthhiiccss ffoorr AAIIAt Capgemini, we believe that human ethical values should
+never be undermined by the uses made of AI by business. We want
+AI solutions to be human-centric, which we define as follows:
+1. A I with carefully delimited impact – designed for human benefit, Building on our core Values,
+we believe that the design
+with a clearly defined purpose setting out what the solution will deliver,
+and delivery of AI solutions
+to whom.
+should be guided by these
+2. Sustainable AI – developed mindful of each stakeholder, to benefit seven principles, aligned
+the environment and all present and future members of our ecosystem, with the “Ethics Guidelines
+human and non-human alike, and to address pressing challenges such for Trustworthy AI” issued
+as climate change, CO₂ reduction, health improvement, and sustainable in 2019 by the independent
+food production. High-Level Expert Group
+on AI set up by the European
+3 Fair AI – produced by diverse teams using sound data for unbiased
+Commission.
+outcomes and the inclusion of all individuals and population groups.
+4. T ransparent and explainable AI – with outcomes that can be
+understood, traced and audited, as appropriate.
+5. C ontrollable AI with clear accountability – enabling humans
+to make more informed choices and keep the last say.
+6. R obust and safe AI – including fallback plans where needed.
+7. A I respectful of privacy and data protection – considering
+data privacy and security from the desigAn pIh Tasea, xfoor dnatoa umsagye that is
+secure, and legally compliant with privacy regulations.
+AI APPLICATIONS
+Speech Synthesis Image Recognition
+INTELLIGENCE
+CAPABILITIES
+e
+g LEARNING
+Conv Ae gr es na tt sional gua
+g SYSTEMS
+M
+a
+Au Adi no
+a
+&
+ly
+tV icid seo
+ural
+Lan rocessin
+Deep Learning Reinforcement
+&
+S
+e
+n
+s
+inc h
+i
+n
+e
+V
+is
+Natural t P Learning g io Analytics &
+Language a n Predictions
+N
+Understanding
+AI Acceleration Big Data
+D
+Hardware Systems
+e
+A Cu rg em ate ivn it te yd d ng an i gt na
+m itco
+AtuAAI ENABLER gS
+n i dk na aM
+gn no ii tsi cic derP SA imdv ua ln atc ie od
+n
+Autonomous Prescriptive
+Vehicles Modelling
+Smart Automation
+31. AI with carefully
+delimited impact
+ETHICAL CHALLENGE
+The very first and fundamental ethical question to be considered
+is the intended purpose of the AI solution and its impact
+on humans. Like any general-purpose technology, AI solutions
+can equally enable and negatively affect human fundamental
+rights.
+CAPGEMINI’S RESPONSE
+Capgemini cares about the intended
+purpose of AI solutions; our solutions
+must be mindful of the impact on humans
+and respect universal fundamental rights,
+principles and values, in particular the
+Universal Declaration of Human Rights
+and the UN Global Compact. AI must
+focus on improving life for humans and
+should neither exacerbate existing harm
+nor create new harm for individuals.
+The intended purpose of an AI application As AI is a highly evolutive technology,
+– what the AI solution will deliver, we believe that assessing the impact
+for whom, and to whom – must be clearly of AI solutions, notably on individuals,
+defined, and AI should be used according is important to help identify the overall
+to its intended purpose. To this end, impact, i.e. the likely benefits against
+we are transparent about the intended the foreseeable risks, such as social impact
+purpose with our various stakeholders, or potential risk deriving from inadequate
+notably the end users, and include or inappropriate use. Assessing the
+appropriate provisions in our agreements, potential impact that a new technology
+clearly describing the use for which the can have before adopting it helps identify
+technology is intended. undesired side-effects and consequent
+ethical risks and helps mitigate them.
+In situations where there is any doubt about
+a potential risk of affecting fundamental
+rights, a fundamental-rights impact
+assessment will be undertaken to ensure
+that such a risk is eliminated.
+4
+Capgemini Our Code of Ethics for AI2. Sustainable AI
+ETHICAL CHALLENGE
+Beyond the direct impact on humans and human society, other beings
+and the environment can be impacted by AI solutions. The challenge
+goes beyond guiding “human-friendly AI”, to ensuring “Earth-friendly
+AI”. As the scale and urgency of the economic and health impacts
+from our deteriorating natural environment grows, we have an
+opportunity to look at how AI can help transform traditional sectors
+and systems to address climate change, deliver food and water security,
+build sustainable cities, and protect biodiversity and human wellbeing.
+Furthermore, AI cannot support a sustainable future if it is not itself
+sustainable by design.
+CAPGEMINI’S RESPONSE
+AI systems should benefit all human
+beings. This means that their design and
+development should take into careful
+consideration the social and societal
+impacts. Design and development must
+also be mindful of future generations,
+the environment, and all beings – human
+and nonhuman alike – that make up
+CASE
+our ecosystem. They must be considered
+as stakeholders throughout the AI Global demand for food is anticipated to increase
+solution’s life cycle, so that AI solutions are by 60% by 2050. Today, much of the world’s
+sustainable and environmentally friendly. population is fed by small-scale farmers, primarily
+in developing countries, using rudimentary
+We support AI to address challenges farming practices. This agricultural inefficiency
+is exacerbated by a complex value chain and a lack
+in societal areas as diverse as climate
+of resources and connectivity, so there is a strong
+change and CO₂ reduction, digital literacy
+need for a wider package of yield-optimizing
+and inclusion, environmental protection,
+and risk-decreasing services for these small-scale
+health improvement, and sustainable
+farmers. Project FARM, created at Capgemini’s
+food production.
+Applied Innovation Exchange (AIE) Collaboration
+Zone (CoZone) in the Netherlands, aims to address
+these issues.
+The Project FARM platform uses AI to determine
+farming patterns through big data, generating
+insights from the data to make recommendations.
+It uses machine learning to make the platform
+applicable at scale, by connecting it with cell
+phones. This solution has been built in collaboration
+with Agrics, a social enterprise operating in
+East Africa, which provides local farmers with
+agricultural products and services on credit.
+53. Fair AI
+ETHICAL CHALLENGE
+In order to be effective, AI needs to learn from historical data. The more data,
+the more accurate an AI system will be in terms of categorizing, predicting,
+prescribing, and overall decisioning. However, training data for machines,
+notably statistics, may reflect an organizational or individual perspective
+on a given subject matter, or a historical picture of reality. This perspective
+may be biased or incorrect, as data can include various forms of bias,
+resulting in extrapolations that can conflict with or undermine current trends
+and desired evolutions, gradually building up over time. This can result in
+discrimination against certain population groups based on gender, ethnicity,
+or similar social factors.
+Likewise, unfair biases and discrimination can be built in the algorithms
+themselves, by design and development teams lacking appropriate diversity.
+CAPGEMINI’S RESPONSE
+We embed diversity and inclusion principles CASE
+throughout the entire AI system’s life cycle:
+Capgemini Invent has developed SAIA – Sustainable
+• A I design and development teams Artificial Intelligence Assistance – a demonstrator
+must be built as diverse teams, designed to show our approach to prevent
+with diversity in terms such as gender discrimination and make AI decisions transparent
+and ethnicity, but also discipline, throughout the AI life cycle. It identifies potential
+for multiple perspectives during AI design, biases and analyzes bias behavior. It also provides
+and sensitivity to the fullest spectrum of recommendations on ways to correct algorithm
+biases and simulates the impact of these corrections.
+ethical issues.
+• W e seek to identify any unfair bias likely
+to lead to discrimination and inappropriate
+results in the context of decision making,
+and present possible correction scenarios
+to remove them.
+• W e will advise clients to put in place an
+oversight process to analyze and address
+the system’s purpose, constraints,
+requirements, and decisions in a clear
+and transparent manner.
+• A I systems must entail and ensure equal
+access rights and treatment by people
+(regardless of ethnicity, disability,
+age, religious belief, sexual orientation,
+or other personal characteristics).
+• A s an alternative to – potentially biased –
+historical training data, generated
+(i.e. synthetic) data or off-the-shelf
+industry data should be considered.
+6
+Capgemini Our Code of Ethics for AI4. Transparent
+and explainable AI
+ETHICAL CHALLENGE
+The complexity of AI may amplify the “black box” concern. A “black box” is
+a device, system, or program that allows input and output to be seen but gives
+no view of the processes or workings between the two. For example, in tools
+using artificial neural networks, hidden layers of nodes process the input
+and pass their output to subsequent layers of nodes, while in deep learning,
+an artificial neural network “learns” autonomously by pattern recognition.
+As with a human brain, one cannot see the output between layers, how data
+has been analyzed, or what has been “learnt” – one sees only the conclusion.
+Where a conclusion needs to be checked and justified, because it is unexpected,
+incorrect, or problematic, it can therefore be highly challenging to understand.
+This is of greater concern where AI functionality plays a role in high-stakes
+decision-making areas, such as banking, justice or health, where the potential
+impact of decisions is more serious.
+CAPGEMINI’S RESPONSE Working with technologies that we
+understand and control, we will provide
+AI must be transparent: its capabilities and
+documentation and training to users
+purpose should be openly communicated.
+to explain the logic behind the functioning
+Decisions based on AI solutions should be
+of the AI and to indicate the limits
+explainable, with the degree of explicability
+of understanding and testing scenarios,
+dependent on the context and severity
+in a manner adapted to the different
+of the consequences if the output is
+stakeholders potentially concerned.
+erroneous. The data sets and processes
+used for the AI solution should also be
+documented to allow for traceability and,
+if required, for auditability.
+When interacting with an AI interface,
+individuals should be aware that they are
+communicating with a machine, and should
+not be misled into thinking otherwise, while
+being informed of the AI capabilities and
+limits. Individuals interacting with AI should
+be made clearly aware about the purposes
+of the AI system, how it works, with whom CASE
+the information may be shared, the impact
+A world-leading bank for which AI is expected
+of the AI solution and any potential impact
+to become a significant part of operations needed
+on their rights, if any, in relation to the AI
+to understand and compare the most popular AI
+system at stake.
+explainability methods. Capgemini designed a 4-step
+approach, comparing the explainability models
+We will advise our clients to ensure with us on several axes (quality of results, smoothness,
+that systems developed are explainable, source dataset impact, and consistency between the
+especially regarding data selection and results of each method). By putting explainability at
+treatment, notably weightings. We will the heart of the project, the client will ensure that
+endeavor to indicate the limits that can exist innovation through AI is properly understood and
+actionable for its teams..
+in the understanding of their functioning.
+75. Controllable AI
+with clear accountability
+ETHICAL CHALLENGE
+While the control responsibilities in any IT system depend on organizing
+accountability, several aspects complexify this with regard to AI. The production
+environment itself often involves many discrete contributors, including highly
+specialized third parties, rendering in-built controllability and oversight
+more difficult. Moreover, in a legal environment largely based on the
+assumption of human agents, AI systems depend to a greater or lesser degree
+on AI-driven intelligence, autonomous agents, and autonomous decision-
+making. Determining responsibility for AI outcomes is further complexified
+by techniques such as deep learning, which can make systems hard to control
+and outputs difficult to explain. While individuals need to know who will
+be answerable in case of malfunction, or should a system have unintended
+consequences or cause harm, tying an AI’s actions or decisions to a human,
+or group of humans, can therefore present a considerable challenge.
+CAPGEMINI’S RESPONSE To achieve this objective, we will
+advise our clients that it implies to
+Humans should keep the last say on AI,
+define and clearly identify together
+and we should design AI solutions in such
+roles and responsibilities amongst
+a way that AI cannot learn to circumvent
+the different actors involved in the design,
+the controls and voluntary interruptions
+manufacturing, integration, deployment
+by humans.
+and operation chain, including the
+designer of the AI solution, the data
+The design of AI solutions should protect
+provider, and the company that adopts
+the human’s autonomy and decision making.
+the AI solution or the final user. This would
+As such, AI solutions should help humans
+enable appropriate allocation of liability
+make more informed choices.
+and effective recourse when needed.
+To ensure such respect, humans should
+be part of the AI governance mechanism
+in such a way that they always keep control
+over AI. Appropriate measures should be
+implemented from the AI solution’s design
+phase, with the appropriate level of human
+oversight depending on the AI solution
+application area and potential risks.
+CASE
+AI systems cannot be the subject “per se”
+A major energy supplier wanted to improve
+of legal responsibility for their own
+the management of inbound requests
+functioning, so the AI system design should
+from customers to enhance its service quality.
+embed accountability rules (to identify
+Capgemini developed and integrated semantic
+who is responsible for what) and trackability analysis for emails into the information system,
+principles, allowing the AI-based decision- allowing to automatize dispatches to the right
+making process to be explained and audited, team. Accountability was secured by a reference
+thus helping to identify and prevent future book setting out the business rules and AI
+mistakes or bias. processing guidelines. It will be regularly updated
+to allow for clear accountability over time.
+8
+Capgemini Our Code of Ethics for AI6. Robust and safe AI
+ETHICAL CHALLENGE
+Like any tools or systems, those utilizing AI must be fit for their
+intended purposes, and resilient and secure from a technical
+perspective. As AI uptake increases, so does the scope for potential
+impact, and the need to also consider the broader social and
+environmental context in which AI-based tools and systems operate.
+From this arises the challenge to foresee measures to safeguard
+against any risks, such as unlikely mishaps or malevolent intent,
+that might prevent the AI from delivering the desired benefits.
+CAPGEMINI’S RESPONSE
+Robustness should be embedded CASE
+throughout the life cycle of the AI systems,
+Sogeti, part of Capgemini, was requested to help
+from the design and development
+a public social insurance agency to better leverage
+to the deployment and use over their
+the sensitive data at its disposal in order to provide
+lifetime. AI systems should include,
+a secure, efficient service to the agency’s clients.
+when achievable, fallback plans in case of
+A 6-step proof of concept was implemented
+failure of the AI system itself (e.g. allowing
+to design, train, and control machine-learning
+to adjust rule-based logic or even switch
+algorithms. This ensured the robustness and
+to human control, to avoid any wrong safety of the model, by allowing original data
+output), as well as being accurate, to be preserved and data set performances to be
+reliable and having reproducible results, evaluated, for referential integrity.
+to the extent allowed by applicable laws.
+97. AI respectful of privacy
+and data protection
+ETHICAL CHALLENGE
+With AI taking off, the need for data is greater than ever, much of it driven by consumers.
+The opportunity for greater freedom presented by easily accessible data brings with
+it a related risk to data protection and informational privacy. Lengthy user agreements
+can tempt consumers to click “accept” without checking what rights they are giving
+away, while companies can be tempted to feed consumer and vendor data into advanced,
+AI-fueled algorithms, without the awareness and approval of the affected consumers
+and employees. Facial recognition, voice identification systems and smart home-
+appliances collect data about when we come and go; while many such functions provide
+a helpful service, the potential risks they carry are not trivial: Seemingly anonymized
+data can be de-anonymized by AI. Data collected can also enable tracking, monitoring,
+people profiling, and behavior prediction. By raising analysis of personal information
+to new levels of power and speed, AI magnifies our ability to use – and misuse – personal
+information, presenting a challenge for privacy and data protection.
+CAPGEMINI’S RESPONSE
+In agreement with the client, we must
+ensure, that we will put in place all
+the necessary means for our current
+perimeter of responsibility, to contribute
+to the Clients’ global AI objectives
+in terms of compliance with privacy
+regulations, data protection and proper
+data governance.
+AI and data protection are compatible
+as long as data protection and
+cybersecurity are taken into account
+from the design phase of any AI project.
+Besides ensuring full respect for privacy
+and data protection laws and regulations,
+adequate data governance mechanisms
+should also be put in place. In practice,
+this means that any AI project would need
+to ensure that only data that are strictly
+necessary are collected and processed.
+Indeed, the data collected and used shall
+be proportionate, accurate, and processed
+in a secure manner.
+Individuals will be provided with the relevant
+level of information on how their data
+is processed and they should be provided
+with appropriate means to exercise their
+rights as may be required by law.
+10
+Capgemini Our Code of Ethics for AIThe above ethical principles on AI aim to create an
+ethical culture for AI and represent a commitment
+to trustworthiness and ethical quality in services relating
+to AI.
+AI solutions developed by Capgemini are based on
+ecosystems that may be composed of several
+third parties. Capgemini is committed to selecting
+and working with third-party providers that commit
+to comply with ethical principles.
+Our Code of Ethics for AI defines areas for attention
+of ethical importance. These are being completed
+operationally by the development of tools integrated
+into service offerings and methodologies that comply
+with the ethical principles set out in the present
+code. Our professionals (such as AI solution architects
+and project managers) are trained to fully apply the code
+“by design” in all their AI-related engagements.
+Contacts:
+Philippe CHRISTELLE Anne-Violaine MONNIÉ-AGAZZI
+Chief Ethics Officer Group Ethics Officer
+Chief Audit Officer
+Capgemini Group Ethics Hub on Talent website:
+Place de l’Étoile – 11, rue de Tilsitt http://talent.capgemini.com/ethicsandcompliance
+75 017 PARIS – France
+The information contained in this document is proprietary.
+Copyright © 2021 Capgemini. All rights reserved.
+Graphic design: Avant Midi. January 2021 – Version 1 – EN
+1111Learn more about us at
+www.capgemini.com

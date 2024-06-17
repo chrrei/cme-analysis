@@ -1,0 +1,267 @@
+PUBLIC
+SAP Partner Code of Conduct
+May 18, 2018 v3*
+*Design and layout modified from internal version to meet requirements of www.sap.comTable of contents
+Introduction .......................................................................................................................................................................... 3
+Definitions ............................................................................................................................................................................. 4
+Policy Content..................................................................................................................................................................... 5
+1. Compliance with Laws, Rules, and Regulations ........................................................................................................................5
+a. General ........................................................................................................................................................................................................................... 5
+b. Anti-Corruption Laws ............................................................................................................................................................................................. 5
+c. Offering/Accepting Business Courtesies ................................................................................................................................................... 5
+d. Antitrust and Competition Laws ..................................................................................................................................................................... 6
+e. Export Laws ................................................................................................................................................................................................................. 6
+f. Securities and Insider Trading Laws ............................................................................................................................................................. 7
+g. Valid Due Diligence Status ................................................................................................................................................................................. 7
+2. Business Conduct ...............................................................................................................................................................................................7
+a. Financial Integrity ..................................................................................................................................................................................................... 7
+b. Conflicts of Interest ................................................................................................................................................................................................ 8
+3. Human Rights and Labor Standards ...................................................................................................................................................8
+4. Health & Safety/Environmental ...............................................................................................................................................................8
+5. Compliance Management System ........................................................................................................................................................8
+6. Responsibility for Company Resources ...........................................................................................................................................9
+a. Confidential Information ...................................................................................................................................................................................... 9
+b. Trademarks .................................................................................................................................................................................................................. 9
+c. Data Privacy ................................................................................................................................................................................................................. 9
+d. Communication ......................................................................................................................................................................................................... 9
+e. Monitoring.................................................................................................................................................................................................................. 10
+7. Reporting Concerns and Raising Questions ............................................................................................................................. 10
+© 2023 SAP SE or an SAP affiliate company. All rights reserved. See Legal Notice on www.sap.com/legal-notice for use terms, disclaimers, disclosures, or restrictions related to this material. 2 / 10Introduction
+Integrity and transparency constitute a cornerstone for the way in which SAP does business. SAP expects you,
+as a Partner, to do business in the same manner. The following guidelines set forth the framework of
+acceptable conduct SAP expects from its Partners.
+These guidelines are based on SAP’s commitment to integrity and sustainability as expressed in our internal
+Code of Business Conduct mandatory for all our employees. All business transactions through a member of
+the SAP ecosystem must not only be in full compliance with this SAP Partner Code of Conduct and all
+applicable laws, rules, regulations and policies but also go beyond pure legal requirements; SAP is
+depending on Partners with a reputation as serious business professionals who behave fairly, ethically, and
+correctly in all business activities. For Partners who have employees contracted to work directly on SAP
+products and projects, these guidelines must be reviewed with all employees and subcontractors working on
+SAP matters.
+We expect our employees and our Partners to conduct themselves in a safe manner, to refrain from any
+action that may be considered a conflict of interest, and to treat others with respect and fairness while
+working on behalf of SAP. We regard our Partner base as a critical and necessary extension of our operations
+and future success, and we thank you for continuing to make compliance and integrity a top priority as you
+work with SAP.
+© 2023 SAP SE or an SAP affiliate company. All rights reserved. See Legal Notice on www.sap.com/legal-notice for use terms, disclaimers, disclosures, or restrictions related to this material. 3 / 10Definitions
+The term “Partner” as used in the following policy document comprises all Technology-, Solution-, Service-
+(i.e., Consulting, Implementation, System Integration, Hosting, Education), Channel- (Value Added Reseller,
+Distributor & other Reseller) and all other Partners
+• collaborating with SAP and
+• being part of any Partner program of SAP after
+− having been offered global or local partnership by SAP in any strategic business area or for any
+customer need in all market segments and
+− then being nominated as Partner by SAP.
+The term Partner does also include employees of the Partner.
+Third parties who deliver goods and services to SAP (‘vendors’) are not subject to this SAP Partner Code of
+Conduct, but to the SAP Supplier Code of Conduct.
+The term “SAP” as used in the following policy document refers to SAP SE and all international SAP
+subsidiaries who act as local contracting party for agreements with Partners.
+© 2023 SAP SE or an SAP affiliate company. All rights reserved. See Legal Notice on www.sap.com/legal-notice for use terms, disclaimers, disclosures, or restrictions related to this material. 4 / 10Policy Content
+1. Compliance with Laws, Rules, and Regulations
+a. General
+As a Partner, you agree to abide by the terms of this Code, and acknowledge that compliance with
+this Code is required to maintain your status as an SAP Partner. You agree that all business conducted on
+behalf of SAP shall be accomplished in full compliance with applicable laws, rules, regulations and policies. If
+local laws are less restrictive than the principles set forth in this Code, Partners are expected to, at a
+minimum, comply with the Code. If local laws are more restrictive than this Code, Partners are expected to, at
+a minimum, comply with applicable local laws.
+b. Anti-Corruption Laws
+Partners shall not make, authorize or offer any bribes, kickbacks, or payments of money or anything of value
+to anyone, including
+• officials,
+• employees, or
+• representatives
+of any government or public or international organization, or to any other third party (public or private sector)
+for the purpose of obtaining or retaining business, or influencing any other favorable business decision, that is
+related in any way to SAP.
+This includes giving money or anything of value to anyone where there is reason to believe that it will be
+passed on to a government official or the decision maker at a private sector customer or potential customer
+for this purpose.
+Accordingly, it is prohibited to invite Public Sector customers which includes government officials, public
+sector employees, employees of state owned enterprises, employees of a department or agency of the
+government (military, public schools, scientific research bodies established by the government),
+representatives of political parties, etc. to hospitality events. For reference, hospitality events do not have an
+agenda that is principally business focused.
+Partners are required to comply with the German Criminal Code, the U.S. Foreign Corrupt Practices Act, the
+UK Bribery Act and all applicable local anti-bribery laws.
+c. Offering/Accepting Business Courtesies
+Partners should use discretion and care to ensure that any expenditure (i.e., gifts or meals) offered to or
+received by any SAP employee or third party is in the ordinary and proper course of business and could not
+reasonably be construed as a bribe or improper inducement. Business courtesies cannot be designed or
+appear to be designed to influence the recipient and secure unfair preferential treatment. A general guideline
+for evaluating whether a business courtesy is appropriate is whether public disclosure would be
+embarrassing to Partner or SAP. Employees of Partner are permitted to offer and accept meals and other
+© 2023 SAP SE or an SAP affiliate company. All rights reserved. See Legal Notice on www.sap.com/legal-notice for use terms, disclaimers, disclosures, or restrictions related to this material. 5 / 10business entertainment from third parties in connection with SAP business only where accepting such
+business courtesy:
+• Serves a bona fide business purpose, and
+• Does not inappropriately influence, or appear to influence, any business decision, and • Is not offered
+during any pending bidding or negotiation process, and
+• Is given openly and transparently, and
+• Is not unlawful or contrary to ethical business principles, local business customs or the customer, vendor,
+competitor or partner’s company policy.
+Generally, meals or business entertainment must be reasonable, appropriate and consistent with applicable
+local laws; SAP recommends that they should not exceed 50 euros per person. However, the Partner shall
+take into account local rules and habits which may lead to a stricter limit as recommended above.
+d. Antitrust and Competition Laws
+Antitrust and competition laws are designed to protect consumers and competitors against unfair business
+practices and promote and protect healthy competition. SAP is committed to observing the applicable
+antitrust and competition laws of all nations or organizations, and SAP expects its Partners to comply with all
+applicable antitrust and competition laws as well. Antitrust or competition laws vary from country to country,
+but generally, such laws prohibit agreements or actions that unreasonably restrain trade, are deceptive or
+misleading, or unreasonably reduce competition.
+An agreement with a customer, vendor, competitor, or other partner of the Partner not to conduct business
+with, or not to deliver goods or provide services to any other customer, vendor, competitor, partner, or
+service provider (boycott) is unlawful.
+All forms of price-fixing among market participants are forbidden. Generally, price fixing is defined as a verbal
+or written agreement between participants on the same (supplying) side in a market to buy or
+sell a product, service, or commodity only at a fixed price, or maintain the market conditions such that the
+price is maintained at a given level by controlling supply and demand.
+Partners must not accept, read, or use information about products and plans of market participants
+which is identified or identifiable as confidential information unless the Partner is authorized by the
+other market participant to do so.
+Also, Partners must not talk with market participants about SAP internal matters, such as pricing and
+conditions of sale, costs, overviews of the market, organizational processes, or other confidential
+information, from which other market participants could draw competitive advantage over SAP.
+e. Export Laws
+Certain exports require prior authorization and/or licenses from the export control authorities or may be
+prohibited at all. Authorization and license requirements are dependent upon:
+• a product's technical characteristics (the product is classified as Dual Use good or has
+military specific functionalities),
+• the destination (the country of destination is subject to trade sanctions),
+• the end-user (end-user is subject to trade restrictions (“black-listed”), and
+© 2023 SAP SE or an SAP affiliate company. All rights reserved. See Legal Notice on www.sap.com/legal-notice for use terms, disclaimers, disclosures, or restrictions related to this material. 6 / 10• the end-use (the software is intended for a military end-use in a crisis area)
+An export is a delivery of goods across borders, regardless of the method used for the transfer. E.g.,
+software can be shipped on DVDs, hand-carried on a memory stick, e-mailed or uploaded to or downloaded
+from an Internet site. In each case, the transaction is considered an export in the legal sense.
+SAP requires Partners to comply fully with these laws. Failure to comply could result in criminal fines for the
+involved persons or corporate bodies and administrative fines for the company as well as the loss or
+restriction of export privileges.
+f. Securities and Insider Trading Laws
+Partners are expected to comply with applicable insider trading and securities laws governing transactions in
+the securities of SAP. Securities include common stocks, bonds, options, futures, and other financial
+instruments. Partners that possess or have access to material, non-public information gained through their
+work with SAP may not use that information to trade in SAP securities or the securities of another company to
+which the information pertains. The Management and/or the Directors of the Partner shall ensure that its
+employees do not engage in any other action to take advantage of, or pass on to others, material information
+gained through work with SAP until a reasonable time after full public disclosure has occurred. These
+restrictions also apply to family members, friends, and associates. Material information includes any
+information that a reasonable investor would consider important in a decision to buy, hold, or sell securities.
+Such information may include financial and key business data; merger, acquisition, or divestiture discussions;
+award or information related to the cancellation of a major contract; changes in key management; forecasts of
+unanticipated financial results; significant litigation; and/or gain or loss of a substantial customer or Partner.
+g. Valid Due Diligence Status
+SAP Partners are expected to comply fully with any information requests required by SAP to carry out
+due diligence checks when joining any SAP partner program and any subsequent due diligence renewal
+requests. Failure to supply information or not meeting due diligence requirements may lead to application
+rejection, delays or inability for SAP to accept sales leads, process related orders and payments or contract
+termination depending on the partner status. Partners are also requested to complete any compliance
+training available based on their partner type.
+2. Business Conduct
+SAP expects Partners to compete fairly and ethically for all business opportunities. Partners’ employees
+involved in the sale or licensing of products and services and the negotiation of agreements and contracts to
+SAP must ensure that all statements, communications, and representations to SAP are accurate and truthful.
+a. Financial Integrity
+Accurate and reliable financial and business records are of critical importance in meeting SAP's financial,
+legal, and business obligations. Partners should not have any false or inaccurate entries in the accounting
+books or records related to SAP for any reason. Partners’ business records must be retained in accordance
+with record retention policies and all applicable laws and regulations.
+© 2023 SAP SE or an SAP affiliate company. All rights reserved. See Legal Notice on www.sap.com/legal-notice for use terms, disclaimers, disclosures, or restrictions related to this material. 7 / 10b. Conflicts of Interest
+The term “conflict of interest” describes any circumstance that could cast doubt on the Partner’s ability to act
+with total objectivity regarding the supply of products and services to SAP. SAP wants its Partners’ services to
+come easily and free from any conflicting interests.
+A conflict of interest also exists where there is a choice between acting in a personal interest (financial or
+otherwise) or in the interest of SAP. While engaged in SAP-related work, you must exercise reasonable care
+and diligence to avoid any actions or situations that could result in a conflict of interest. SAP expects Partners
+to prevent or immediately disclose a conflict of interest or the appearance of a conflict of interest as soon as
+possible to the SAP Legal Compliance and Integrity Office.
+3. Human Rights and Labor Standards
+Partners should respect human rights understood as the principles expressed in the International Bill of
+Human Rights and in the eight International Labor Organization core conventions. This means Partners
+should not only respect their employees’ fundamental rights at work, but they should also uphold their duty
+in all business activities with SAP, such as:
+• Freely Chosen Employment
+• Child Labor Avoidance
+• Compliance with local Working Hours requirements
+• Compliance with local Wages and Benefits requirements
+• Humane Treatment
+• Non-Discrimination
+• Freedom of Association
+4. Health & Safety/Environmental
+Partners recognize that quality of products and services, consistency of production and workers’ morale are
+enhanced by a safe and healthy work environment, and shall prevent workers’ exposure to potential safety
+hazards. Partners recognize that environmental responsibility is integral to producing world class products. In
+manufacturing operations, adverse effects on the community, environment and natural resources are to be
+minimized while safeguarding the health and safety of the public. All required environmental permits and
+registrations are to be obtained, maintained and kept current and their operational and reporting
+requirements are to be followed.
+5. Compliance Management System
+Partners shall adopt or establish a management system whose scope is related to the content of this Code.
+Partners agree to provide information and evidence tied to their Compliance Management Systems to SAP,
+whenever requested as part of our diligence processes or Partner Audits. The management system shall be
+designed to ensure:
+• Compliance with applicable laws, regulations and customer requirements related to the Partner’s
+operations and products;
+© 2023 SAP SE or an SAP affiliate company. All rights reserved. See Legal Notice on www.sap.com/legal-notice for use terms, disclaimers, disclosures, or restrictions related to this material. 8 / 10• Conformance with this Code;
+• Identification and mitigation of operational risks related to this Code; and
+• Documentation of the Compliance Management System for auditing purposes.
+6. Responsibility for Company Resources
+Partners are expected to safeguard SAP resources which include property, assets, intellectual property,
+company technology assets (network, phone, Internet, software applications and e-mail systems), trade
+secrets and other confidential, proprietary or sensitive information while performing work for SAP. Use of SAP
+resources without proper approvals or for anything other than to perform SAP work activities is strictly
+prohibited. Intellectual property rights of SAP must be protected.
+a. Confidential Information
+SAP confidential or sensitive information must be protected. Partners may only possess such information if
+they need to do so to perform work activities. Partners should not use this information for gain or advantage,
+and never share this information without appropriate SAP approval. All confidential or sensitive information
+obtained by a Partner must have documented authorization in place. Inappropriate use of SAP Internet or e-
+mail is strictly prohibited.
+Partners are expected to safeguard confidential information by not reproducing copyrighted software,
+documentation, or other materials without permission, and not transferring, publishing, using or
+disclosing it other than as necessary in the ordinary course of business or as directed or authorized. SAP may
+require Partners to sign Non-Disclosure Agreements for specific and confidential projects.
+b. Trademarks
+Partners are expected to respect SAP’s trademarks (i.e., if Partner is granted permission to use the SAP logo,
+the Partner must use such SAP logo exclusively in SAP’s interest, that is to say, only to identify SAP products
+and in advertising such products). Partners are not permitted to grant sublicenses.
+c. Data Privacy
+Partners should observe applicable data privacy standards. Materials that contain confidential information or
+which are protected by privacy standards should be stored securely and should be shared only internally
+with those employees with a “need to know”. For example, SAP confidential information may include, but is
+not limited to, software and other inventions or developments (regardless of the stage of development)
+developed or licensed by or for SAP, marketing and sales plans, competitive analyses, product development
+plans, pricing, potential contracts or acquisitions, business and financial plans or forecasts, and prospect,
+customer and employee information. However, the terms of any confidentiality provision in the agreement
+between Partner and SAP will govern confidentiality terms between the parties.
+d. Communication
+Partners must not commit SAP to future functionality toward third parties.
+© 2023 SAP SE or an SAP affiliate company. All rights reserved. See Legal Notice on www.sap.com/legal-notice for use terms, disclaimers, disclosures, or restrictions related to this material. 9 / 10Outside the scope of the relevant SAP Partner program, Partners should not provide SAP-related statements
+or speak and act on behalf of SAP toward third parties unless specifically and explicitly authorized by SAP to
+do so.
+This does also include the obligation of the Partner to protect SAP’s reputation and to avoid
+unauthorized communication by its employees on behalf of the Partner with reference to SAP.
+e. Monitoring
+SAP retains the right to monitor its assets and work environments in compliance with applicable
+federal, state and local law. We monitor to promote safety, prevent criminal activity, investigate alleged
+misconduct and security violations, manage information systems, and for other business reasons.
+7. Reporting Concerns and Raising Questions
+The standards of conduct described in this SAP Partner Code of Conduct are critical to the ongoing
+success of SAP’s relationship with its Partners. If you have questions or concerns about compliance or ethics
+issues or want to report illegal or unethical activities:
+• Leave a message on the Ethics Help Line, 1-877-587-8605 (toll-free in the United States, no caller
+identification feature) or+49 6227 7 40022(in Germany) or
+• Send an email to global-compliance-office@sap.com, or compliance.americas@sap.com. Your message
+will be routed to the appropriate representative for assistance or guidance as necessary.
+All matters raised in good faith through these reporting lines will be handled on a confidential, non-
+retaliatory basis. All information will be maintained as confidentially as practical in light of the need to
+conduct an investigation and implement remedial measures. Anonymity will be granted upon request by the
+reporting person.
+Version History:
+Updated V2 to V3, May 18, 2018
+Inclusion of due diligence and compliance clauses (1g), clarification of some terms and clearer vocabulary. Copyright updated
+Updated V1 to V2, October 26 2016:
+PartnerEdge removed from cover page;“AG” replaced with“SE”; “Global Compliance Office” replaced with“Legal Compliance and
+Integrity Office”; Germany Legal Compliance and Integrity Office contact information inserted on page; Americas“fax” line removed;
+Copyright updated
+© 2023 SAP SE or an SAP affiliate company. All rights reserved. See Legal Notice on www.sap.com/legal-notice for use terms, disclaimers, disclosures, or restrictions related to this material. 10 / 10

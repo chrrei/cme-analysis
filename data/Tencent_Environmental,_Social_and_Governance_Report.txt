@@ -1,0 +1,1588 @@
+Environmental, Social and Governance Report
+ABOUT US
+We enrich people’s lives through technology and the Internet. Our communication and social network platforms (Weixin and
+QQ) enhance interpersonal communication and enable timely access to media and lifestyle services. Our effective advertising
+platforms help brands and merchants reach hundreds of millions of consumers in China. Through FinTech and Business
+Services, we help support our business partners’ growth into the digital age. We invest in talent and cultivate an environment
+for innovation. We also value environmental protection, and practice energy conservation and emission reduction in our
+business operations. Our goal is to continue to create new and effective ways to make the Internet more beneficial to the
+industry and society.
+VISION & MISSION
+In 2020, we continued to uphold Tencent’s vision and mission, “Value for Users, Tech for Good”, enhancing user experience in
+conjunction with social benefits. To make Tencent an even more socially responsible company, we strive to incorporate social
+responsibility in all aspects of business, including our products and services, technology innovation, cultural preservation, and
+business digitalisation. The goal is to build a sustainable collaboration with society.
+OUR CULTURE
+Our corporate culture values integrity, proactivity, collaboration, and creativity. Integrity means to uphold principles,
+ethics, honesty and fairness; proactivity means to pursue positive contributions, volunteer for responsibility and push for
+breakthroughs; collaboration means to be inclusive of our community and working together to strive to progress and evolve;
+creativity means to push for innovations and explore all possibilities for a better future.
+COMPILATION ILLUSTRATION
+This report is prepared in accordance with the ESG Reporting Guide. The report is to be read together with this annual
+report, in particular the Corporate Governance Report within this annual report, as well as the sections headed “Corporate
+Governance” and “Our Culture” on the Company Website.
+BOARD STATEMENT
+The Board oversees environmental, social and governance (“ESG”) issues with the support of the Corporate Governance
+Committee. Information on ESG issues is reported to the Corporate Governance Committee by an internal working group
+comprising of members from various departments and business groups tasked with executing our ESG strategy and making
+recommendations to the Corporate Governance Committee.
+102 Tencent Holdings LimitedEnvironmental, Social and Governance Report
+It is important to formulate effective strategies to balance the economic, environmental, and social benefits of our business
+with our other business targets. We have developed our own ESG strategy. For details, please refer to the section captioned “ESG
+Strategy”. The Board has regularly reviewed these strategies to ensure that they are consistent with the Group’s development
+strategies.
+The Board has participated in the assessment, prioritisation, and management of ESG issues (including risks to Tencent’s
+business). Tencent has regularly assessed the materiality of ESG (including risks to the Group’s business). Please refer to the
+following sections captioned “Stakeholder Analysis” and “Assessment on the Materiality of the ESG Topics” for details of the
+materiality assessment work. The key ESG risks have been incorporated into the Company’s comprehensive risk management
+system. From the principal business leaders to the senior management, the Group has comprehensively considered the
+possibility, impact, and trends of key ESG risks, to formulate risk response measures. The Board has reviewed these key risks
+and was aware of the measures taken, and made recommendations.
+During the reporting period, Tencent has set environmental targets related to business operations, namely targets for emissions
+and resources consumption of office buildings and data centre operations. The Board has reviewed and discussed the
+progress of the targets established.
+This report also discloses in detail the above ESG related issues, which have been reviewed and approved by the Board on 24
+March 2021.
+APPLICATION OF REPORTING PRINCIPLES
+The report was prepared based on the principles of “materiality”, “quantitative” and “consistency”.
+Materiality: We have followed the ESG Reporting Guide to carry out materiality assessment work. Our work procedures include: i)
+identifying relevant ESG issues, ii) assessing the materiality of the issues, iii) reviewing and confirming the assessment process
+and results by the Board. We report on ESG issues based on the results of the materiality assessment. For details of the
+materiality assessment work, please refer to the sections captioned “Stakeholder Analysis” and “Assessment on the Materiality
+of the ESG Topics” below.
+Quantitative: We have followed the ESG Reporting Guide, made reference to applicable quantitative standards and practices
+and used quantitative methods to measure and disclose applicable key performance indicators, and set environmental targets,
+including numerical figures and directional statements. The measurement standards, methodologies, assumptions and/or
+calculation tools of the key performance indicators in this report, as well as the source of the conversion factors used, have
+been explained in the corresponding context (where applicable). The relevant environmental targets are described in the
+section captioned “Energy Saving and Emission Reduction”.
+Consistency: This year’s ESG report has been prepared with the same method used in previous years. Changes that may affect
+a meaningful comparison with previous reports have been explained in the corresponding section.
+Annual Report 2020 103Environmental, Social and Governance Report
+REPORTING BOUNDARY OF THIS REPORT
+This report aims to provide a balanced representation of the Group’s ESG performance with respect to environment, workplace,
+supply chain management, product responsibility, community, etc. We will focus on each of these areas in this report, in
+particular, ESG issues that could have a material impact on the sustainability of our operations and that are of interest to
+stakeholders. Unless otherwise specified, this report covers the ESG performance of the businesses directly operated and
+managed by the Company.
+ESG STRATEGY
+We have integrated ESG into our business operations and management as part of our corporate development strategy, with
+a particular focus on fostering closer connections with our stakeholders, listening to our users, working openly with partners
+to overcome challenges, caring for and growing with employees, and taking on more responsibilities within society. The goal
+of our ESG strategy is to be recognised as a conscientious and responsible Internet company. In pursuit of this vision, we
+embrace the principle of sustainability, uphold integrity, promote shared growth and development within the industry, and put
+environmental protection, staff development and community welfare at the forefront. We conduct and review our ESG strategy
+in five dimensions as detailed below.
+1. Business operations
+• Operate in compliance with applicable laws and regulations
+• Operate with integrity and protect shareholders’ interests
+• Care for employees, provide them with a safe and comfortable work environment and training and development
+opportunities
+• Establish a diverse corporate culture
+2. Users
+• Consistently listen to the voices of users, respond to users’ inquiries and complaints, concurrently enhancing
+products and services quality
+• Be honest with users and protect their interests
+• Protect users’ privacy and data security, and provide users with a healthy environment
+• Prioritise users’ interests in business decision-making
+104 Tencent Holdings LimitedEnvironmental, Social and Governance Report
+3. Business partners (including suppliers and investee companies)
+• Ensure our partners receive fair treatment and benefit from their collaboration with us
+• Allow investee companies to maintain autonomy for their business development and meet them on a regular basis
+for exchange of industry knowledge and know-how
+• Hold regular meetings with our partners to review their performance and explore possible collaboration
+opportunities
+• Combat behaviours which are harmful to the interest of our partners by setting up an anti-fraud investigation
+department
+• Encourage our partners to reflect the ethics and values of our business practice
+4. Community
+• Establish a platform for charity donations
+• Promote innovation and the establishment of a legal framework and comprehensive and efficient monitoring and
+maintenance system to protect IP rights
+• Contribute to the industry and continue to provide an open platform
+5. Environment
+• Make protection of the environment one of our priorities
+• Adopt a sustainable investment strategy
+• Remain committed to environmental sustainability
+Through this strategy, we can create a favourable environment that will enable us to provide quality services to Internet users
+and promote positive development of the greater society.
+Our ESG strategy requires and encourages the participation of all our product lines and platforms, as well as participation from
+across the Internet industry (including individuals, enterprises and organisations) to take part in the implementation of our ESG
+strategy.
+Our “Connection” strategy has significant implications for our ESG initiatives. Important changes can be achieved through
+connecting millions of Internet users, as well as developing their modes of communication and lifestyles to create more exciting
+opportunities for society. In addition, through the “smart living” system in QQ and Weixin/WeChat, users can be digitally
+connected to public services, which facilitates developments in transport, healthcare, environmental protection, public safety
+and other social arenas. This is important for optimising the distribution of societal resources, driving innovation in public
+services, improving service quality, breaking down communication barriers and ultimately benefitting the wider community.
+We will leverage our core capability in Internet, technology and communication to develop innovative approaches to resolve
+social issues, promote social development and protect public interest. We also aim to raise ESG awareness in society through
+collaborating with our stakeholders and other industry players.
+We will closely collaborate with our stakeholders with the aim of creating a better future.
+Annual Report 2020 105Environmental, Social and Governance Report
+Stakeholder Analysis
+We understand the importance of feedbacks from our stakeholders (including the community and public, employees,
+government and regulatory bodies, non-government organisations and media, shareholders and investors, suppliers and
+users) on our ESG performance. Therefore, we have established effective communication channels with our stakeholders (in
+alphabetical order) as follows:
+Stakeholders Key topics Key communication channels
+Community and public Charity Tencent Charity Foundation, fundraising platform
+Volunteering
+Environmental protection
+Employees Employee benefits Employee satisfaction survey, employee training,
+Career development annual employee rally, face-to-face discussion
+Healthy work environment forum, featured magazines, social media platform
+Government and regulatory bodies Compliance Meetings, policy consultation, incident reporting,
+Corporate governance official visit, information disclosure
+Non-government organisations Products and services quality Social media platform, industry events, press
+and media Environmental protection conference
+Compliance
+Charity
+Shareholders and investors Investment return Corporate announcements, investor conference,
+Business strategy official website, regular meetings
+Information transparency
+Suppliers Fair cooperation Regular meetings, supplier assessment, site visit
+Integrity
+Users Products and services quality User experience research, customer service hotline,
+Privacy protection online customer service, Weixin/WeChat and face-
+to-face customer support
+106 Tencent Holdings LimitedEnvironmental, Social and Governance Report
+Assessment on the Materiality of the ESG Topics
+In the issue-identification stage, we identified material ESG issues related to Tencent based on the information obtained
+through the above communication channels and the ESG Reporting Guide. The following material ESG issues are identified
+through surveys to understand the level of concern of internal and external stakeholders on various material ESG issues, and
+combined together with the ESG risk assessment results:
+Privacy protection and data safety
+Intellectual property rights protection
+Employee rights
+Customer complaints management
+and benefits
+Employee health and
+Health and safety management of product/service safety Talent attraction Environment
+and retention
+Diversity and equal opportunity Anti-corruption
+Employee
+Employee training Energy use
+Labour standards and development
+Operations
+Combating climate change
+Carbon emissions
+Advertisement management
+Water use Supply chain management Community
+Community investment
+Waste management
+Impact on Tencent’s business
+Annual Report 2020 107
+Impact
+on
+Tencent’s
+stakeholders
+ENVIRONMENT
+Environmental protection is a basic national policy in China. The Law on Energy Conservation of the People’s Republic
+of China requires every entity and individual to comply with the legal obligation to conserve energy. The Environmental
+Protection Law of the People’s Republic of China requires that every entity and individual to protect the environment; more
+specifically, enterprises shall minimise waste production to reduce impact on the ecological environment. We recognise the
+importance of environmental protection and the conservation of natural resources. For example, our Tencent office buildings
+in Shenzhen have installed a multitude of energy saving technologies and our employees have been educated on energy
+saving practices. The technologies have been adopted in Tencent offices in other locations globally. We also build data centres
+with considerations for the environment. Throughout 2020, Tencent has complied with all applicable laws and regulations for
+conserving and protecting the environment.
+Addressing Climate Change
+The risks and impacts of climate change are becoming increasingly significant. We continue to pay close attention to the
+impact of climate change on our business, strategy, and financial performance, and fully support global climate-related
+actions.Environmental, Social and Governance Report
+Governance
+Climate-related risks and issues are considered and monitored by the Board with the assistance of the Corporate Governance
+Committee. Our management actively evaluates and promotes carbon neutrality.
+Strategy
+We acknowledge that climate change brings multiple risks and opportunities for our business. Our physical risks primarily
+result from acute climate events and chronic risks caused by climate change, while transitional risks mainly come from
+the market and policy changes to transition to a low-carbon economy. On the other hand, climate change would create
+opportunities for us to improve energy efficiency and develop low-carbon and climate-resilient products and services.
+In terms of physical risks, acute climate events caused by climate change, such as frequent typhoon weather and rainstorms,
+may affect our operational continuity; while chronic risks, such as high temperatures and droughts etc., may lead to increased
+energy consumption for office and data centre operations thereby increasing operational costs, and the increase in sea level
+may lead to loss in assets in relevant regions. We consider the impact of regional climate when allocating assets and formulate
+emergency measures for acute climate events to avoid and reduce operational impacts or asset losses caused by acute climate
+events.
+In terms of transitional risks, in the context of accelerating the transition to a low-carbon economy, if we fail to effectively control
+or reduce the carbon emissions generated by corporate operations and provide low-carbon services and products, it may
+result in brand image damage, loss of customers, or market share reduction etc. We are researching and promoting new and
+alternative technologies for energy saving and emission reduction, purchasing clean energy, and providing more low-carbon
+services and products to reduce our own and value chain carbon emissions. We have recently announced our commitment
+in moving towards carbon neutrality to help tackle climate change and will vigorously promote the application of technology in
+energy saving and emission reduction.
+At the same time, we believe that climate change has also brought various opportunities for Tencent. By improving the energy
+and water efficiency of office operations and data centres, operational costs and sensitivity to changes in carbon trading prices
+can be reduced. We provide various products and services (such as Tencent Cloud, WeCom, Tencent Meeting, etc.) to help
+customers carry out digital transformation and realise energy saving and emission reduction mission. It enables us to gain a
+more competitive position in the transition to a low-carbon economy.
+108 Tencent Holdings LimitedEnvironmental, Social and Governance Report
+Risk Management
+We have integrated ESG risks into the Company’s overall risk assessment and management system, which includes risks
+related to climate change. Each department and business group has also adopted operational management measures to
+manage and reduce greenhouse gas (“GHG”) emissions in business operations. Taking Tencent Binhai Towers as an example,
+we have adopted energy-saving and environmental protection measures such as smart lighting systems, automatic energy
+monitoring systems, and water reclamation systems etc. Tencent Binhai Towers has obtained the LEED-NC Gold Standard
+for an international green building rating system in 2017. Please refer to the section captioned “Energy Saving and Emission
+Reduction” below for the energy-saving and environmental protection measures taken in office operations and data centres.
+We are also actively empowering customers to help the entire society in carbon reduction actions. The various service products
+we provide, such as Tencent Meeting, Tencent Cloud, etc., offer our customers lower-carbon options for office, business trip,
+and operations, etc. We are also increasingly exploring the application of AI in energy saving and emission reduction. In April
+2019, we proposed the “AI For FEW” (Food, Energy, and Water) initiative to the international community to explore the use
+of AI and other emerging technologies, and to provide solutions for global sustainable development goals. For example, we
+have effectively applied AI to various fields such as data centre energy saving and office building energy saving. We are also
+leveraging cloud computing, data analytics and AI to facilitate desert reclamation.
+Metrics and Targets
+We are actively responding to China’s carbon neutrality plan. In 2020, we set targets for energy saving and emission reduction.
+Please see the relevant disclosure under the section captioned “Energy Saving and Emission Reduction” below. Please refer
+to the “Environmental Performance Summary” section below for data related to GHG emissions. We will formulate a corporate
+carbon neutrality strategy and roadmap by integrating China’s carbon neutrality plan, international experience and our actual
+circumstances. We will reduce GHG emissions, offset or remove remaining GHG emissions, and achieve “net zero carbon
+emissions” through various practices, such as energy saving and emission reduction, tree planting and afforestation. We will
+disclose our clear progress and targets to the public in a timely manner. In 2020, we also responded to the Carbon Disclosure
+Project (CDP) questionnaire for the first time, providing customers, investors, and the market with relevant important
+information about the Company’s response to climate change, including climate change risk assessment, GHG emissions, etc.
+Annual Report 2020 109Environmental, Social and Governance Report
+Energy Saving and Emission Reduction
+Energy Saving Measures taken in Office Buildings
+We have taken environmental protection as one of our priorities when building the new headquarters, Tencent Binhai
+Towers, in Shenzhen, which has been certified as meeting the LEED-NC Gold Standard during the construction stage. The
+building obtained LEED-EBOM Gold certification and the certificate of Two-star Green Building Label in 2020. The property
+management company of the Shenzhen headquarters has obtained ISO 14001 (environmental management system)
+certification and ISO 9001 (quality management system) certification. We will uphold the concept of “green, energy-saving, and
+environmental protection” and continue to carry out energy-saving and consumption-reducing operations and optimisation. We
+have implemented various measures to enhance efficiency of energy use and reduce water consumption and emissions.
+The air conditioning systems at Tencent Binhai Towers reduce energy consumption by using alternating power from hydro-
+powered pumps and electric motors. In 2020, we completed the optimisation and transformation of air conditioning terminal,
+air handling unit (“AHU”), and central air conditioning host group control system of Tencent Binhai Towers, through which
+we have improved the system’s cooling capacity to match the terminal cooling supply and demand and achieve energy-saving
+and efficient operation. Tencent Binhai Towers alone saves more than 5.98 million kWh a year. We have further optimised
+energy savings in the air conditioning and building management systems by installing automated energy monitoring devices.
+Energy consumption from air conditioning is further reduced by using natural ventilation if weather permits. Smart lighting was
+adopted to allow remote and automatic control over lighting in all office working areas, and there was a transition to an LED
+lighting system for the public areas.
+In 2020, we determined the energy management baseline in every office building in Shenzhen, formulated the energy
+consumption assessment benchmark and adopted energy-saving measures such as “management + technology + policy”.
+We also controlled the cost by switching off various energy consumption systems (such as air conditioning, lighting and
+direct drinking water systems) from back-end or onsite, optimising energy-saving management for our operations usage, and
+conducting technological transformation to improve the air conditioning terminals and AHU control system of Tencent Binhai
+Towers. The cost saved in 2020 was approximately RMB13 million, which was more than 10 million kWh based on the average
+electricity price. As a result, our facility management team has won the Group’s annual cost savings award. We will formulate
+the Group’s energy management standards based on these measures, and implement and continuously optimise the energy
+management practices in various regions.
+110 Tencent Holdings LimitedEnvironmental, Social and Governance Report
+The office building of Tencent Binhai Towers uses a water reclamation system to reclaim water condensation from the air
+conditioning system, and drain water from the water filtration system, employee shower area and server cooling towers.
+The collected water, after being filtrated and purified, is reused for toilet flush water, watering office plants and cleaning the
+basement carpark. In addition, we promote a filtrated drinking water system in place of plastic bottled water. This measure
+reduces the waste from plastic packaging materials and indirectly reduces carbon dioxide emissions generated from the
+vehicles that deliver bottled water.
+We have adopted energy saving measures throughout our daily operations. For example, we have applied stricter on-site
+management of each building by combining the routine procedures with an energy consumption inspection. When people
+leave the work space, air conditioning, lights and office equipment in the corresponding office areas are required to be turned
+off. We have also set automatic shutoff for unused drinking water dispensing units in work areas to reduce energy consumption
+and waste.
+We monitor the levels of air pollutants (such as PM2.5, PM10, carbon monoxide) and carbon dioxide inside and outside
+Tencent Binhai Towers with an online monitoring system and a manual measuring system. To monitor air quality in the
+building, we have installed a smart ventilation system (which regulates the ventilation automatically in response to carbon
+monoxide levels) in the underground parking garage and air ventilation system (which monitors the ventilation continuously for
+carbon dioxide levels) in the office area. We have upgraded the cooking ventilation units in the kitchens of our office cafeteria.
+The cooking ventilation is comprised of fire-resistant environmental exhaust hoods that remove oil droplets and cooking odours
+by filtering the cooking ventilation with photolysis purification, activated carbon filtration and air ionisation. Our filtration of the
+cooking ventilation is in compliance with the PRC national standards GB18483-2001.
+We reinforce the habit of garbage classification to achieve garbage source reduction and classification and we collect garbage
+in the public areas on each floor based on four categories: recyclable, kitchen waste, toxic and harmful, and other garbage.
+Annual Report 2020 111Environmental, Social and Governance Report
+In 2020, we formulated environmental targets for office buildings, and the progress is shown in the table below.
+Targets Progress in 2020
+For any given year, the property companies of all Tencent-owned office The target for 2020 has been achieved
+buildings in the Mainland of China obtain environmental management
+system certification.
+By the end of 2020, Tencent Binhai Towers would have obtained The target for 2020 has been achieved
+the certificate of Two-star Green Building Label.
+For any given year, all Tencent-owned office buildings in the Mainland The target for 2020 has been achieved
+of China will manage wastes by categories.
+Using per person electricity consumption in 2019 as a benchmark, The interim target for 2020 has been achieved
+the electricity consumption per person in all Tencent-owned office
+buildings in the Mainland of China will be reduced by 15% by the
+end of 2025.
+Using per person water consumption in 2019 as a benchmark, the water The interim target for 2020 has been achieved
+consumption per person in all Tencent-owned office buildings in the
+Mainland of China will be reduced by 15% by the end of 2025.
+Green Energy Saving Measures Taken in our Data Centres
+Tencent data centres maximise energy efficiency through continuous technological innovation while exploring the application
+of low-carbon technologies in data centres at scale through pilot programs in distributed energy systems and solar photovoltaic
+power generation systems. In addition, we are also exploring the application of renewable energy trading, permitted carbon
+emissions trading, green power certificate trading and other carbon offset methods on the data centres.
+In terms of site selection for our large-scale data centre campus, renewable energy of the regional power grid is an important
+criterion for us. We continue to expand new data centres in areas that are rich in renewable energy, such as Zhangjiakou
+Huailai, Guian New District and Chongqing Water and Soil High-tech Eco-City etc.
+112 Tencent Holdings LimitedEnvironmental, Social and Governance Report
+In terms of green data centres, we have completed the environmental impact assessment for all self-built data centres and
+have obtained the relevant approvals or filings in accordance with the Law of the People’s Republic of China on Environmental
+Impact Appraisal. In terms of green data centres, Tencent has been an industry leader. We have multiple data centres being
+selected in the 2020 National Green Data Centres List published by the Ministry of Industry and Information Technology: three
+of our self-owned data centres, Tencent Ebu Data Centre Building No.1, Tencent Tianjin Binhai Data Centre and Chongqing
+Tencent Cloud Computing Data Centre, as well as several leased data centres such as the Zhongjiu Huaqiao Data Systems Co.,
+Ltd. and Kunshan Data Centre.
+When it comes to technologies employed in the data centres, Tencent’s fourth-generation T-block data centre energy saving
+technologies, including (i) High Voltage Direct Current (HVDC) technology for electrical systems; (ii) indirect evaporative cooling
+units; (iii) Tencent internet data centre (“IDC”) smart maintenance and control system; and (iv) fully commercialised project
+delivery solution, have been widely deployed on Tencent’s large-scale data centre in Qingyuan, Yizheng, Zhangjiakou etc.
+In terms of self-generated renewable energy for self-use, we have started to build rooftop photovoltaic power generation system
+on data centre campuses that are suitable for the construction of distributed solar photovoltaic power systems, such as those
+in Qingyuan, Yizheng, Huailai, etc. The installed capacity of a single campus is about 13MWp, with an annual power output of
+about 12 million kWh, which could fully meet the power demand of the office and partial power demand of the data centres on
+the campus.
+The annual average power usage effectiveness (“PUE”) of the data centres located in low-temperature climate zone is less
+than 1.25. In the future, with the construction of our large data centre campus and the application of T-block products and
+other energy-saving technologies, the annual average PUE of our new large data centre campus will be controlled below
+1.20; according to our test data in the fourth quarter of 2020, the PUE of Tencent’s liquid-cooled technology pilot project on a
+campus in Guangdong reached 1.07.
+In terms of the treatment of solid waste in the data centres (lead-acid battery, etc.), Tencent and its suppliers have entered into
+agreements which guarantee that 100% of such waste will be handled in strict compliance with relevant regulations. In terms
+of water conservation in data centres, we are preparing to initiate research on water-saving air conditioning, water recycling/
+sewage treatment in data centres.
+For our proprietary T-block, Mini-TB, Tencent IDC smart maintenance and control system and other IDC products, we will
+export our expertise to support industry partners. At the same time, we have set up a R&D team to develop new data centre
+software and hardware solutions to address industry pain points hoping to provide targeted technical and product support and
+services in 2021.
+Annual Report 2020 113Environmental, Social and Governance Report
+In 2020, we have formulated environmental targets for the data centres, and the progress is shown in the table below.
+Targets Progress in 2020
+For any given year, the average annual PUE of self-built data centres will be The target for 2020 has been achieved
+no higher than 1.35.
+For any given year, at least one more data centre obtains ISO 50001 or The target for 2020 has been achieved
+GB/T23331 energy management system certification.
+For any given year, the waste hard disk drives are 100% collected by qualified The target for 2020 has been achieved
+vendors after destroyed for harmless disposal.
+For any given year, the waste lead-acid accumulators in self-built data centres The target for 2020 has been achieved
+are 100% collected by qualified vendors for harmless disposal.
+The Environment and Natural Resources
+Our main impact on the environment and natural resources is the emissions and resources consumed in operations. Relevant
+conventional policies and measures have been detailed in the section captioned “Energy Saving and Emission Reduction”.
+114 Tencent Holdings LimitedEnvironmental, Social and Governance Report
+Environmental Performance Summary
+Unless otherwise specified, the following data covers Tencent’s major office buildings and the main data centres in the
+Mainland of China.
+1. Emissions
+1.1 Office buildings
+Indicators For the year ended 31 December
+2020 2019 2018
+Total GHG emissions (Scopes 1 and 2) (tonnes) 109,712.99 113,501.50 102,831.74
+Direct GHG emissions (Scope 1) (tonnes) 3,756.48 3,785.86 2,554.31
+Including: Gasoline (tonnes) 130.83 197.25 191.00
+Diesel (tonnes) 7.41 10.87 11.07
+Natural gas (tonnes) 3,618.24 3,577.74 2,352.24
+Indirect GHG emissions (Scope 2) (tonnes) 105,956.51 109,715.64 100,277.43
+Including: Purchased electricity (tonnes) 105,956.51 109,715.64 100,277.43
+Total GHG emissions per person (tonnes / person) 1.65 1.90 2.01
+Total GHG emissions per square meter of floor area
+(tonnes / square meter) 0.06 0.07 0.09
+Hazardous waste (tonnes) 1.34 2.40 2.51
+Hazardous waste per person (tonnes / person) 0.00002 0.00004 0.00005
+Non-hazardous waste (tonnes) 5,805.93 5,227.11 4,566.52
+Non-hazardous waste per person (tonnes / person) 0.09 0.09 0.09
+1.2 Data centres
+Indicators For the year ended 31 December
+2020 2019 2018
+Total GHG emissions (Scopes 1 and 2) (tonnes) 821,052.60 743,287.01 612,521.16
+Direct GHG emissions (Scope 1) (tonnes) 333.31 316.35 36.76
+Including: Diesel (tonnes) 333.31 316.35 36.76
+Indirect GHG emissions (Scope 2) (tonnes) 820,719.29 742,970.66 612,484.40
+Including: Purchased electricity (tonnes) 820,719.29 742,970.66 612,484.40
+Hazardous waste (tonnes) 71.89 8.00 –
+Non-hazardous waste (tonnes) 3,271.70 1,811.27 1,350.76
+Annual Report 2020 115Environmental, Social and Governance Report
+Note:
+1. Due to the nature of the business, the material air emissions of the Group are GHG emissions, arising from fuels and
+purchased electricity produced from fossil fuels.
+2. The Group’s GHG inventory includes carbon dioxide, methane and nitrous oxide. GHG emissions data for the year ended
+31 December 2020 is presented in carbon dioxide equivalent and is calculated based on the “2019 Baseline Emission
+Factors for Regional Power Grids in China for CDM and CCER Projects” issued by the Ministry of Ecology and Environment
+of China, and the “2006 IPCC Guidelines for National Greenhouse Gas Inventories” issued by the Intergovernmental Panel
+on Climate Change (IPCC).
+3. Diesel is consumed by backup power generators.
+4. Hazardous waste produced by the Group’s office buildings mainly includes waste toner cartridge and waste ink cartridge
+from printing equipment. Waste toner cartridge and waste ink cartridge are centralised and disposed of by printing
+suppliers. Such data covers all office buildings of the Group in the Mainland of China.
+5. Non-hazardous waste produced by the Group’s office buildings mainly includes domestic waste and non-hazardous office
+waste. As domestic waste is disposed of by the property management companies and kitchen waste recycling vendors and
+cannot be measured by us, domestic waste is estimated with reference to “Handbook on Domestic Discharge Coefficients
+for Towns in the First Nationwide Census on Contaminant Discharge” published by the State Council. Non-hazardous
+office waste is centralised for disposal by vendors, hence such data covers all office buildings of the Group in the Mainland
+of China.
+6. Hazardous waste produced by the Group’s data centres mainly includes waste lead-acid accumulators. Waste lead-acid
+accumulators are disposed of by qualified waste recycling vendors.
+7. Non-hazardous waste produced by the Group’s data centres mainly includes waste servers and waste hard drives. Waste
+servers and destroyed waste hard drives are centralised and recycled by waste recycling vendors. Such data covers all the
+Group’s data centres.
+8. The number of people used in the calculation of emission density, resource density and domestic waste estimation is the
+annual average number of people working in office buildings.
+116 Tencent Holdings LimitedEnvironmental, Social and Governance Report
+2. Use of Resources
+2.1 Office buildings
+Indicators For the year ended 31 December
+2020 2019 2018
+Total energy consumption (MWh) 208,386.38 205,092.26 167,488.48
+Direct energy consumption (MWh) 19,066.80 19,144.17 12,852.04
+Including: Gasoline (MWh) 534.45 805.77 780.24
+Diesel (MWh) 28.18 41.33 42.10
+Natural gas (MWh) 18,504.17 18,297.07 12,029.70
+Indirect energy consumption (MWh) 189,319.58 185,948.09 154,636.44
+Including: Purchased electricity (MWh) 189,319.58 185,948.09 154,636.44
+Total energy consumption per person (MWh / person) 3.13 3.44 3.28
+Total energy consumption per square meter of floor area
+(MWh / square meter) 0.12 0.12 0.14
+Running water consumption (tonnes) 1,315,803.67 1,283,749.73 973,413.06
+Running water consumption per person (tonnes / person) 19.74 21.52 19.07
+Reclaimed water consumption (tonnes) 10,985 4,076 5,461
+2.2 Data centres
+Indicators For the year ended 31 December
+2020 2019 2018
+Total energy consumption (MWh) 1,515,181.56 1,301,161.66 938,988.70
+Direct energy consumption (MWh) 1,267.68 1,203.16 139.82
+Including: Diesel (MWh) 1,267.68 1,203.16 139.82
+Indirect energy consumption (MWh) 1,513,913.88 1,299,958.50 938,848.88
+Including: Purchased electricity (MWh) 1,513,913.88 1,299,958.50 938,848.88
+Average PUE 1.32 1.35 1.37
+Running water consumption (tonnes) 2,193,528.43 1,466,760.63 933,813.00
+Annual Report 2020 117Environmental, Social and Governance Report
+Note:
+1. The scope of use of resources data is appended to include four additional office areas in 2020.
+2. Total energy consumption is calculated based on the data of purchased electricity and fuel with reference to the
+coefficients in the National Standards of the PRC “General Principles for Calculation of the Comprehensive Energy
+Consumption (GB/T 2589-2008)”.
+3. The Group’s water supply resources are from the municipal water supply and there is no issue in sourcing water.
+4. Reclaimed water consumption is the reclaimed domestic water treated by the wastewater treatment system equipped at
+Tencent Binhai Towers. The reclaimed water system of Tencent Tower A and Tower B in Chengdu has been suspended
+as of this reporting year.
+5. Data of diesel consumption reported above only covers the data centres whose diesel fees are directly borne by the Group.
+6. Average PUE is the average of the annual PUE of the data centres. PUE, an indicator of the power efficiency of a data
+centre, is the ratio of total facility energy consumption over IT equipment energy consumption. Since 2020, we started
+reporting on the overall annual average PUE for data centres, and no longer report on the annual average PUE range for
+data centres (the range was 1.27 to 1.47 for 2018 and 1.26 to 1.52 for 2019), and we have restated the PUE data for
+2018 and 2019 accordingly.
+7. Data of running water consumption reported above is the water consumption data provided by operators. The scope of the
+running water consumption data that can be provided by operators expanded during the year, so the data of running water
+consumption in data centres for the current year increased compared to those from previous years, and there is no direct
+comparability with previous years’ data.
+8. Data of package materials is not applicable to the Group.
+118 Tencent Holdings LimitedEnvironmental, Social and Governance Report
+WORKPLACE
+Employment and Labour Guidelines
+Employment, Equal Opportunities and Diversity
+In accordance with the Labour Law of the People’s Republic of China (the “Labour Law”) promulgated on 5 July 1994 and
+amended on 29 December 2018, and the Labour Contract Law of the People’s Republic of China (the “Labour Contract
+Law”) promulgated on 29 June 2007 and amended on 28 December 2012, while hiring employees, we shall not discriminate
+against any applicants due to their nationality, race, gender and religion, we shall enter into written employment contracts
+with each employee. We have entered into employment contracts with all employees. Our employment practice complies with
+applicable laws and regulations (including those which prohibit underage and forced labour) and does not discriminate on
+the grounds of gender, race, ethnicity, disability, age, religious belief, sexual orientation or family status. In 2020, we did not
+find any discrimination situation in our employment practice. Diversity is well supported in our corporate culture. We support
+employees who wants to start families by providing maternity/paternity/breastfeeding leave, flexible working hours and location
+arrangements, family insurance, etc. Through the “WomenInTech” program, we promote the stories of outstanding female
+employees in the Company and leverage the power of role models to motivate female employees.
+We were awarded by Zhaopin.com as the China Best Employer in 2020. We have also been voted as the best employer in the
+PRC for 15 consecutive years since 2006 in a survey jointly conducted by Zhaopin.com and the Institute of Social Science
+Survey, Peking University.
+Labour Standards
+In accordance with the Labour Law, other than employers engaged in industry of art, sports and special skill, no employer
+shall recruit juveniles under the age of 16; employers shall respect the willingness of an employee to enter into an employment
+contract and shall not force or threaten employees into work by means of violence, threat of violence or deprival of personal
+freedom. Our recruitment process strictly abides by the guidelines of the Tencent Human Resources Policy. Every job
+applicant is asked to provide his/her education background, qualification and job experience, which is reviewed by the human
+resources department and verified by a due diligence agent. This allows us to hire qualified employees in accordance with job
+requirements and comply with prohibitions against underage.
+Employee Departure
+In accordance with the Labour Law and the Labour Contract Law, the employment contracts we enter into with our employees
+include the term of employment and the conditions for termination of employment. We have strictly complied with the aforesaid
+requirements and have entered into written or electronic employment contracts with all employees detailing duration of the
+employment and the grounds for termination of the employment.
+Annual Report 2020 119Environmental, Social and Governance Report
+We value our relationship with our employees and handle employee departure (whether by resignation or dismissal) strictly
+in accordance with applicable laws and regulations. We arrange an exit interview with each of the departing employees to
+understand the reasons for his/her departure and welcome any suggestions for improvement.
+Performance Evaluation and Promotion
+We have a complete performance management system that adheres to the objective and impartial principles of performance
+evaluation. Every six months, employees self-evaluate their performances, and then the supervisor of each employee refers
+to the multi-dimensional feedback to evaluate the performance of the employee. At the end of the assessment, the employee
+will discuss, review, and update the performance goals with the supervisor. At the same time, we have formal channels
+for employees to request for re-assessment of performance. Supervisors are encouraged to give constructive feedback to
+employees from time to time to help employees’ personal growth. We also organise performance management and promotion
+experience sharing as well as related courses to help employees achieve career advancement. Employees may apply for
+promotion during their interim and year-end performance reviews, provided that they satisfy the requirements with regard
+to the length of service and performance. Depending on the work scope, the promotion will be reviewed and considered by
+the relevant internal committee. The promotion review process is impartial and open, and there is also a formal channel for
+employees to request for re-assessment through the internal promotion management platform. Relevant internal committees
+will evaluate feedback, and we strictly respect and protect employee privacy. The promotion review is conducted in compliance
+with applicable laws and regulations on the fair treatment of employees.
+Compensation and Benefits
+In accordance with the Labour Law and the Labour Contract Law, the wage paid to employees shall not be lower than the
+local standards on minimum wage. Wages shall be paid to employees on a monthly basis with valid local currency. The
+wages payable to employees shall not be withheld or delayed without good reason. We strictly comply with the Labour Law
+requirements and provide employees with competitive compensation and benefits.
+Compensation
+We are committed to providing competitive compensation and employee benefits to attract and retain talent. The remuneration
+and bonus systems are performance-based and designed to reward employees with outstanding performance and potential
+for growth. We have also set up several share-based compensation plans (including share option schemes and share award
+schemes).
+Benefits
+The basic benefits system was built and is maintained in accordance with relevant laws, regulations and market practice. In
+addition, certain special benefits are created to motivate employees and implement our strategy.
+120 Tencent Holdings LimitedEnvironmental, Social and Governance Report
+We care for the growth of our employees and provide benefits with a Tencent cultural theme. For example, special occasions
+for an employee (e.g. work anniversaries, wedding and holiday festivities) are celebrated with co-workers in the office.
+Employees have the flexibility to choose the most suitable insurance plans and benefits for themselves and their families.
+Work-Life Balance
+In accordance with the Labour Law and the Labour Contract Law, the Group shall comply with the regulations on working
+hours, work breaks and vacation days and include such terms in the employment contract. We have implemented vacation day
+schedules and initiatives such as flexi-time arrangements and volunteer service days off etc. to help employees strike a good
+work-life balance. The leave scheme allows employees to enjoy annual leave, fully-paid sick leave, half-paid leave of absence
+and fully-paid special Chinese New Year leave which are above the statutory standard. Also, female employees are entitled to
+take fully-paid maternity leave, while male employees are also entitled to take fully-paid paternity leave. Employees can also
+apply for one day of fully-paid volunteer service leave per year. These labour policies all comply with the requirements under
+the Labour Law and the Labour Contract Law.
+We strive to create work-life balance and an inviting work environment for employees. We also organise a wide variety of
+recreational and leisure activities (e.g. running, photography, music, dance, language classes) for employees. We have
+provided various recreational and leisure facilities in our Shenzhen headquarters, such as a 300-meter running track, indoor
+rock-climbing wall, table tennis tables, pool tables, a badminton court and a full-sized basketball court, etc.
+Communication
+We are committed to establishing various comprehensive communication channels for our employees. There are currently
+annual meetings of the Company and various departments, face-to-face discussion forums, special magazines, and internal
+social media platforms for employees and management. Through these communication channels, the Company conveys and
+strengthens corporate strategy and culture, and encourages employees to speak freely. We conduct a company-wide employee
+satisfaction survey through an independent third party every year, based on completely anonymous feedback, we collect
+employees’ suggestions for the Company’s development in an all-round way as a basis for performance improvement. In 2020,
+a total of 37,896 employees participated in responding to the survey, with an effective answer rate of 91%. The employee
+satisfaction score has improved as compared to 2019.
+Annual Report 2020 121Environmental, Social and Governance Report
+Occupational Health and Safety
+In accordance with the Labour Law, we employ a labour safety and hygiene policy. The policy aims to prevent accidents in the
+workplace and reduce occupational hazards. In accordance with the Social Insurance Law of the People’s Republic of China
+promulgated on 28 October 2010 and amended on 29 December 2018, we pay full allowance for social insurance for our
+employees. The social insurance includes endowment insurance, medical insurance, work injury insurance, unemployment
+insurance and maternity insurance. We provide various supplementary insurance benefits (including medical insurance,
+critical illness insurance, accident insurance and life insurance) for employees and their families. Throughout 2020, we have
+strictly complied with the relevant laws and regulations regarding occupational health and safety.
+We strive to provide a safe and comfortable work environment for our employees. There are established security and fire safety
+systems as well as food safety monitoring systems. We invite third parties to conduct security risk audits on our premises every
+year, discover hardware defects based on risks, and identify defects and deficiencies in the operation management system
+based on risks, so as to address hidden risks and prevent problems before they occur.
+We formulate detailed emergency plans for fire safety, natural disasters, personal injury, safety order, etc., and conduct regular
+drills and simulation tests to ensure implementation and continuous optimisation.
+We adhere to “Tech for good, mutual help and assistance”. In case of any medical emergency within workplace, we have
+deployed the automated external defibrillator (AED) emergency system in the office in 2020, formulated emergency plans and
+continued to test and optimise the mechanism thereby ensuring employees’ safety under emergency circumstances.
+We have appointed a team to attend to the physical and mental health of employees. We arrange annual medical check-
+ups for employees and organise health seminars, fitness sessions, on-site medical consultations as well as face-to-face and
+telephone counselling from time to time.
+In the face of the COVID-19 pandemic, we immediately implemented a work-from-home policy and deployed various technical
+and human resource support, such as technology assistance in setting up remote access to office phones and equipment, as
+well as version upgrades and bandwidth expansion for productivity and collaboration tools such as WeCom, Tencent Meeting
+and Tencent Docs. Our teams worked relentlessly to source and secure supply of urgent resources such as facemasks for
+employees. We strived to provide necessary medical support and/or support for quarantine arrangement for employees in
+need. We also helped employees cope with pandemic-related emotions and mental health issues via online consultation
+programs. Through Weixin Mini Programs, Official Accounts and WeCom, we enabled employees to report health related
+information, e.g., contact with confirmed/suspected COVID-19 cases, so as to minimise transmission risks and provide timely
+assistance. We also developed Anti-COVID handbooks and educational videos to enhance employees’ awareness of prevention
+measures.
+122 Tencent Holdings LimitedEnvironmental, Social and Governance Report
+As businesses gradually resumed to normal in China, we applied strict procedures to ensure a safe working environment,
+including extra disinfection of air conditioning system, daily temperature checking and social distancing policies in public
+areas such as elevators, canteens and meeting rooms. For example, we closed the office canteens during pandemic period
+and arranged delivery of separately packaged breakfast and lunch boxes to the desks of each staff who worked in the office,
+to minimise transmission risks. We closely monitored the local pandemic situation and adjusted our work-from-home or split-
+team arrangement in order to ensure employees’ safety and health.
+Employee Development and Training
+Employee talent is our most important asset. We are committed to helping our employees realise their potential. We make
+significant investments in employee development and training and we encourage employees to attend external and internal
+trainings.
+We have adopted relevant policies to ensure that employee training is provided in a user-friendly format. For example,
+supervisors must assist in designing professional development plans for employees and evaluating employee training effects.
+To ensure the quality of training, we have formulated a policy that contains the instructors’ qualifications and experience
+requirements and the goals of the plan and cooperated with educational institutions to develop training plans.
+In 2007, we founded our own training university, Tencent Academy. It offers different training programmes at each stage of
+an employee’s career, including an induction, on-the-job training and leadership training for different levels, and carries out
+educational qualification improvement support programs for all employees, such as supporting employees to obtain applicable
+professional certificates, etc. As our employees get more experienced and are promoted, we also provide them with relevant
+corresponding and consistent training, including general courses, professional courses, and subject lecture sharing targeted
+for different levels. Employees can choose suitable courses by themselves and develop their own learning plans. In addition,
+Tencent Academy has set up an online learning platform and a mobile learning system in order to allow employees to learn
+anytime and anywhere. In 2017, one of our training programmes won the Excellence in Practice Award by the Association for
+Talent Development.
+To help employees in different positions cope with professional needs, Tencent Academy offers courses on product (providing
+in-depth product research for different product teams), operational skills, technology, data analysis, marketing, design, risk
+management, customer service etc. As of 31 December 2020, Tencent Academy offered over 500 live courses and over
+10,000 in-person courses and employed over 1,500 in-house part-time instructors. The average in-house training hours per
+employee was 32 hours and around 98% of employees received training.
+Besides, we also provide employees with an internal expert platform, so that senior employees or employees with professional
+knowledge in a certain field can freely share their experiences with everyone, and employees can also establish contacts with
+internal experts through this platform. We also intend to make available our training resources to business partners and other
+companies in the industry in order to promote industry training resources sharing and capacity building.
+Annual Report 2020 123Environmental, Social and Governance Report
+Workplace Performance Summary
+The statistical scope of employee data listed in the following table includes the number of regular employees employed in the
+businesses directly operated and managed by the Company:
+1. Employment
+As of
+Indicators 31 December 2020
+Total number of employees 51,350
+Number of employees by gender Male 36,633
+Female 14,717
+Number of employees by age group Under age 30 20,548
+Age 30 to 50 30,714
+Above age 50 88
+Number of employees by geographical region The Mainland of China 50,634
+Hong Kong, Macao and Taiwan 216
+Other countries and regions 500
+Number of employees by management level Management 5,077
+Non-management 46,273
+Total turnover rate 12.0%
+Employee turnover rate by gender Male 12.0%
+Female 11.9%
+Employee turnover rate by age group Under age 30 12.2%
+Age 30 to 50 11.9%
+Above age 50 9.0%
+Employee turnover rate by geographical region The Mainland of China 12.0%
+Hong Kong, Macao and Taiwan 10.3%
+Other countries and regions 9.7%
+Note:
+Employee turnover rate = number of employees who leave employment in the reporting year * 2 / (number of employees at the
+beginning of the reporting year + number of employees at the end of the reporting year). Employee turnover reflects the number of
+employees who leave employment voluntarily or due to dismissal, retirement or death in service.
+124 Tencent Holdings LimitedEnvironmental, Social and Governance Report
+2. Health and Safety
+Indicators 2020 2019 2018
+Number of work-related fatalities 0 0 0
+Work-related fatality rate (%) 0 0 0
+Working days lost due to work-related injury (days) 281 1,058 957
+Note:
+1. The work-related fatalities data and injuries data both refer to the work-related death and injuries accidents identified by the
+Human Resources and Social Security Bureau.
+2. Work-related fatality rate = total number of work-related fatalities / total number of employees.
+3. Training
+As of
+Indicators 31 December 2020
+Percentage of employees trained by gender Male 98.3%
+Female 98.0%
+Percentage of employees trained by management level Management 97.0%
+Non-management 98.3%
+Average training hours of employees by gender Male 32
+Female 33
+Average training hours of employees by management level Management 26
+Non-management 33
+Note: Training refers to face-to-face and online courses offered by the Company to employees.
+Annual Report 2020 125Environmental, Social and Governance Report
+OPERATING PRACTICES
+Supply Chain Management
+Our supply chain management programme attaches supreme importance to managing the ethics risk associated with the
+relationship between our procurement employees and our business partners. It also focuses on teaching those employees who
+are involved in procurement to recognise and mitigate the inherent risks.
+We have formulated a code of conduct to standardise the behaviour of employees engaged in procurement activities. To
+minimise the ethics risks, such employees are also required to declare any relationship they may have with our suppliers in
+writing.
+Suppliers which are formally engaged by the Group’s procurement department are required to agree to the terms of a
+declaration and undertaking in relation to anti-commercial bribery in conducting business with the Group (the “Anti-commercial
+Bribery Declaration”), as well as the terms of a declaration in relation to labour rights, health and safety and environmental
+protection. Such declaration and undertaking also explicitly require the suppliers to comply with all the requirements of local
+laws and regulations. During the year ended 31 December 2020, all domestic suppliers which were formally engaged by the
+Group’s procurement department had completed the self-assessment and signed the Anti-commercial Bribery Declaration.
+We have maintained a database of qualified suppliers which are ready to take orders from us. The Group has also launched
+a new supplier collaboration system for the online management of the whole procurement life cycle, covering the aspects of
+finding and selecting suppliers, and evaluating performance and terminating engagement of suppliers.
+We have an internal policy which sets out the procedures for supplier onboarding. The procurement department looks for
+qualified suppliers in the market and conducts standard or simplified verification on the suppliers depending on the duration
+of the cooperation, the order volume and the nature of the request. Before engaging a supplier, we will conduct due diligence
+(including qualification check, site visit etc.) on the supplier. Staff participating in due diligence include members from the
+procurement department, the requesting department, and the specialised department (if applicable). The results will be
+reported to the procurement department for final determination.
+We normally ask for price quotations from at least three vendors. Other factors including delivery time and technical
+capabilities of the vendors etc. will be taken into consideration when selecting vendors. If there is only one vendor available for
+selection as it dominates the relevant market or it is the only vendor with access to the required goods/services, the particular
+procurement arrangement with such vendor will require special approval with a sufficient and reasonable justification provided
+by the technical department or the requesting department.
+126 Tencent Holdings LimitedEnvironmental, Social and Governance Report
+We evaluate the performance of our suppliers from time to time and take appropriate steps to address any issues with the
+quality of the suppliers as part of our supply chain management. In 2020, we completed performance evaluation on about 400
+suppliers. For suppliers with unsatisfactory performance, subject to applicable contractual arrangements, we may (i) discuss
+with them on the remedial steps to be taken by them; (ii) suspend the cooperation; (iii) reduce the order volume; (iv) impose
+penalties; or (v) suspend payment. The procurement department may disqualify a supplier for the following events: (i) we
+suffer from material economic losses as a result of the delayed delivery, quality issue or breach of contract by the supplier; (ii)
+the supplier has received the lowest rating in the rating scale for two consecutive quarters; and (iii) the supplier is in serious
+breach of business ethics.
+When engaging gaming-related suppliers, in order to minimise the risk of IP infringement in the procurement process, we
+have developed a set of process specifications for potential suppliers to conduct self-assessment on their commitment to IP
+protection and other aspects. All suppliers involved in content output must complete the video learning courses related to IP
+protection and sign an “Undertaking Related to Risk Management and Control of Game Content”. We also pay attention to
+selecting environmentally friendly products and services when selecting suppliers related to office buildings. For example,
+we have required all self-built office buildings to obtain the ISO 14001 environmental management system certification, and
+its system certification is checked by the administrative department every year. When we employ computer room suppliers,
+we conduct site visit, pay special attention to the supplier’s PUE. In addition, we also have our own monitoring system and
+measure the PUE of suppliers every month to ensure that suppliers can meet the standards we set.
+Number of Suppliers
+As of
+Number of suppliers by geographical region 31 December 2020
+The Mainland of China 36,991
+Hong Kong, Macao and Taiwan 1,517
+Other countries and regions 3,726
+Note: “Number of suppliers” refers to the number of active suppliers in the supplier database, and “geographical region” refers to the place
+where the suppliers are registered.
+Annual Report 2020 127Environmental, Social and Governance Report
+PRODUCT RESPONSIBILITY
+We strive to provide the best user experience and pay high attention to the quality of our products and services.
+In accordance with the Anti-monopoly Law of the People’s Republic of China which took effect on 1 August 2008 and the Anti-
+monopoly Guidelines of the Anti-monopoly Commission of the State Council on Platform Economy promulgated on 7 February
+2021, we are obliged to promote the orderly, innovative and sound development of platform-based economy through fair
+competition and to safeguard the welfare of consumers and the public interests of the society. We proactively comply with such
+regulatory requirements.
+In accordance with the Decision of the State Council on Implementation of Access Management of Financial Holding
+Companies and the Provisional Administrative Measures of Financial Holding Companies, under certain circumstances, a
+non-financial enterprise, natural person or recognised legal person which holds controlling shares in or actually controls two
+or more types of financial institutions, shall submit an application to the People’s Bank of China for approval to establish a
+financial holding company, and the People’s Bank of China will be responsible for regulating financial holding companies in
+accordance with the law, examining and approving the establishment, change, termination and business scope of a financial
+holding company. We proactively comply with such regulatory requirements.
+We conduct strict reviews of our product and service offerings and related sales, marketing and advertising strategies and
+materials to ensure their compliance with applicable laws and regulations. We also build in safeguards on data security and
+user privacy, product health and safety, customer complaints, advertising content and IP rights as described below.
+User Privacy and Data Security
+We closely monitor the relevant new domestic and international laws and regulations, and timely update our compliance and
+legal know-how, in order to implement the applicable legal requirements into the Company’s products and business processes
+as soon as possible, to ensure compliance with the latest legal requirements.
+The domestic and overseas laws and regulations we follow include Civil Code of the People’s Republic of China, Criminal Law
+of the People’s Republic of China, Cybersecurity Law of the People’s Republic of China, E-commerce Law of the People’s
+Republic of China, Law of the People’s Republic of China on the Protection of Consumer Rights and Interests, Personal
+Information Protection Law (Draft), Data Security Law (Draft), General Data Protection Regulation, California Consumer Privacy
+Act; administrative regulations such as Telecommunications Regulations, Administrative Measures on Internet Information
+Services; departmental rules such as Provisions on Protection of Personal Information of Telecommunication and Internet
+Users, Methods for Identifying Unlawful Acts of Applications (App) to Collect and Use Personal Information, and national
+standards such as Information Security Technology – Personal Information Security Specifications, Information Security
+Technology – Guide to the Personal Information Security Impact Assessment, Circular on Issuing the Practical Guide to
+128 Tencent Holdings LimitedEnvironmental, Social and Governance Report
+Cyber Security Standards: Guide to Frequently Asked Questions and Protection of Personal Information by Mobile Internet
+Applications (App), Circular on Issuing the Practical Guide to Cyber Security Standards: Guide to Self-evaluation of Collection
+and Use of Personal Information by Mobile Internet Applications (App).
+In accordance with applicable data protection laws, as an Internet information service provider, we obtain users’ consent before
+collecting and using users’ personal information. We stipulate rules on the collection and use of users’ personal information
+and publicise the same in the places and websites where we operate or serve.
+We regard user information security and privacy protection as our lifeline. We take security, autonomy, compliance and
+transparency as the goal of Tencent’s privacy protection. Security means that we have an adequate security mechanism and
+security technology system to protect users’ data security in an all-round way; autonomy means that we integrate the concept
+of privacy protection into product design so that users can manage their privacy settings independently with convenient privacy
+settings design; compliance means that we comply with the requirements of laws and regulations to protect users’ personal
+information rights; transparency means that through privacy policies and privacy protection guidelines, we improve the
+transparency of privacy protection and protect users’ right to know.
+As for privacy protection, we adhere to the following principles:
+1. Safe and reliable: we try our best to prevent user data leakage, damage and loss through reasonable and effective data
+security technology and management process.
+2. Independent choice: we provide convenient data management options for users to make appropriate choices and
+manage personal data.
+3. Protect communication secrets: we strictly abide by laws and regulations, protect users’ communication secrets, and
+provide secure communication services.
+4. Reasonable and necessary: we only collect necessary data so as to provide better services to users.
+5. Clarity and transparency: we strive to introduce the privacy policy to users in simple language for easy understanding of
+our data processing methods.
+6. Integrate privacy protection into product design.
+Annual Report 2020 129Environmental, Social and Governance Report
+We believe that user data security and privacy protection are the primary premises for creating secure, high-quality products
+and user experience. We insist on protecting the privacy and security of users’ data and always insist on using data in order
+to benefit users, striving to improve products and services, and strictly complying with applicable laws and regulations. We
+incorporate the applicable laws and regulatory requirements on privacy protection into our internal policies, taking into account
+our products and services’ specific characteristics and the relevant social responsibilities. We have also developed specific
+systems and processes to collect and process user data to ensure that our products and services comply with applicable laws.
+We have considered and deployed user privacy protection in the early stage of designing products and services. This concept
+inspired us to formulate and implement Tencent PBD privacy protection – P stands for Person, that is, to protect user privacy
+as the core value. B stands for Button, which provides users with reasonable and efficient privacy protection through “privacy
+button” (product design), symbolising user control. We try our best to make users easily manage their personal data through
+simple key steps. D stands for Data, which ensures data security in all aspects. We have advanced and complete data
+security technologies and management measures. These technologies and measures ensure that we have effective security
+risk monitoring, defence and response mechanisms to protect user data in an all-round way. PBD outlines our thinking and
+practice on user data security and privacy protection.
+We use Tencent Privacy Protection Platform (https://privacy.qq.com/) to provide users with unified access to query privacy
+protection guidelines for multiple Tencent products, to facilitate users to better manage information authorisation, to modify
+privacy settings, etc. At the same time, the platform also works with Tencent customer service to create a personal information
+protection zone to provide users with various channels to reflect privacy issues that they have encountered. Our privacy
+protection policy is also published on the product’s official website and app which is also available for access on the Tencent
+Privacy Protection Platform. Users can also use the feedback button in the website and app and our unified privacy feedback
+email (Dataprivacy@tencent.com) at any time to submit complaints or make inquiries.
+We and our employees keep strict confidential the personal information of users collected and used during the provision
+of service, and do not leak, distort, damage, sell or provide the same to others illegally. We establish and perfect the user
+information protection system by hierarchically managing the access rights of internal staff to ensure the security of the
+personal information collected by us and to prevent any leakage, damage or loss of the information. We provide a quick and
+convenient channel for employees to look up the Company’s data security policy through internal communication tools so
+that employees can timely confirm whether their behaviour meets the Company’s security policy requirements. If employees
+come across potential data security violations, they can also report internally using the internal communication tools or unified
+reporting system; in case of violations, the Company will take strict disciplinary measures, including but not limited to criticism
+notice, punishment, etc.
+130 Tencent Holdings LimitedEnvironmental, Social and Governance Report
+We have a dedicated privacy team within the legal department which is responsible for handling data protection matters. We
+evaluate specific products from the perspective of privacy protection on a regular or ad-hoc basis and perform privacy risk
+assessments before the launch of new products to ensure that our products are not exposed to the risk of privacy infringement
+or leakage of user data.
+At the same time, our Technology and Engineering Group, or TEG, is responsible for managing the data security of our
+products and platforms. By benefitting from the technical support of Tencent United Security Laboratory (covering seven
+professional laboratories, focusing on security technology research and construction of security attack and defence system,
+and covering key Internet fields such as connection, system, application, information, equipment, cloud, etc.), TEG has
+information security department and other specialised teams and provides a full range of security protection for the Group’s
+products and services.
+We have developed a comprehensive proactive and reactive defence programme. We take the initiative to enhance the
+detection capability of basic security and in-depth defence and implement strict monitoring, timely alarm and blocking, regular
+monitoring and auditing, and tracing abnormal behaviours on the security system and database. We also take the initiative
+to conduct blue army offensive and defensive tests to identify potential risks to current systems and security capabilities. Our
+safety emergency response team also makes timely passive defence and deployment through 7 x 24 emergency response
+mechanism. In addition, through Tencent Security Response Center (TSRC), we invite global “white-hat hackers” and security
+experts to provide us feedback on security loopholes and jointly defend user security. Our in-house expert team also exports
+security solutions to the global security community through TSRC. We provide data privacy and information security training to
+all employees (including full-time, part-time and interns), to improve employee awareness and establish an enterprise culture
+that attaches importance to privacy protection and information security.
+We also actively communicate with various national ministries and commissions such as the Cyberspace Administration of
+China, the Ministry of Industry and Information Technology of the People’s Republic of China, the Ministry of Public Security
+of the People’s Republic of China and the Standardization Administration of China to seek guidance and strive to do a better
+job in data privacy protection. In 2020, various national ministries and commissions updated the law enforcement frequently,
+and we kept in touch with the Ministry of Industry and Information Technology, the State Internet Information Office and other
+ministries and commissions to follow up the latest developments and ensure the compliance of our business.
+Furthermore, we actively participate in shaping the development of the industry framework on privacy protection. For example,
+our privacy experts are members of the International Association of Privacy Professionals. We have obtained certification from
+the International Organization for Standardization (ISO) and other domestic and international certifications for our network and
+data security management system.
+Annual Report 2020 131Environmental, Social and Governance Report
+For example, our Tencent Cloud business has been committed to improving the cloud security system, building security
+compliance capabilities, and setting cloud security and big data security standards. With the continuous evolution of cloud
+computing and security technology, Tencent Cloud has established an efficient security internal control system, and improved
+its compliance foundation from the aspects of system process and control activities etc. Our security management system
+has also received accreditation such as China Network Security Level Protection Assessment, Netcom Cloud Service Security
+Assessment, ISO 27001 Information Security Management System Certification, CSA STAR Cloud Security Management
+System Certification, ISO 27701 Certification for Personal Information Security Management System, ISO 27018 Public Cloud
+Personal Information Protection Certification, ISO 27017 Cloud Service Information Security Control Implementation Guidelines,
+ISO 20000 IT Service Management System Certification, ISO 9001 Quality Control System Certification, ISO 22301 Business
+Continuity Management System Certification, KISMS Korean Information Security Management System Certification, Singapore
+Multi-Tier Cloud Security (MTCS) T3 Certification, PCI DSS Payment Card Industry Data Security Standard Certification, CISPE
+European Cloud Computing Service Provider Alliance Accreditation, German Cloud Computing Compliance Standards Directory
+(C5) Audit, Service Organisation Control Report (SOC Report), Singapore Banking Association OSPAR Audit, etc.
+In 2020, the Company’s Technical Committee led the establishment of the data operation and maintenance management
+security project, continuously strengthening and improving the defence in-depth system, further consolidating a number of
+industry-leading security solutions, and providing more reliable, safe and systematic security guarantee for enterprises and
+users. We will integrate our excellent internal security practice experience and technology through Tencent Cloud’s security
+products and services (such as the intelligent gateway, cloud firewall, DDoS protection, network intrusion protection, anti-
+fraud, etc.) to serve and empower many Tencent Cloud users. In addition, we have also made productive progress in the
+research of advanced security attack and defence technology, network security practice, and security ecology construction. We
+have established close cooperation with many security teams in the industry, and are committed to improving the security of
+Tencent products and creating a more secure Internet ecology.
+At the same time, we also actively explore and develop technology to help improve the data privacy protection level of the
+Company’s business in 2020. For example, we have developed a data privacy compliance assessment system, enabling the
+Company’s data privacy protection with the help of the Company’s major security technology laboratories’ superior technical
+capabilities.
+We are also actively integrating the Company’s technical force to develop cutting-edge technologies and application platforms
+such as privacy computing and federated learning etc. After more than a year of technological breakthrough, Tencent Angel
+PowerFL platform has made breakthroughs in security, performance and ease of use etc. It has reached the industry-leading
+level in the federated learning field. It has also been implemented in multiple application scenarios of risk control, marketing
+recommendation and federated advertising etc. It provides scientific and cutting-edge technical solutions for business
+development and privacy protection and enables multi-party cooperation on the premise of protecting user privacy and data
+security.
+132 Tencent Holdings LimitedEnvironmental, Social and Governance Report
+Product Safety and Quality1
+Games
+One of our important businesses is our online games business. We need to comply with the relevant laws, regulations
+and policy requirements in relation to online games in the PRC, mainly including the Law of the Protection of Minors,
+Telecommunication Regulation of the People’s Republic of China, the Administrative Regulations on Publishing, the
+Administrative Measures on Internet Information Services and the Provisions on the Administration of Online Publishing
+Services. In accordance with the above regulations, when we operate value-added telecommunications business, we are
+required to apply to administrative authorities of information industries to obtain a Value-Added Telecommunication Business
+Operation Permit. When we operate online publishing service for online games, we must obtain an Online Publishing Service
+License.
+We have been actively implementing various measures to ensure compliance with the relevant laws, regulations and policies.
+For instance, we have already obtained the relevant credentials for publishing and operating online games, such as the Value-
+Added Telecommunication Business Operation Permit and the Online Publishing Service License. Meanwhile, in our business
+operation, we are among the first beginners to actively explore into the field of juveniles’ protection.
+To safeguard the physical and mental health of online game users and juveniles, we have implemented the real name system
+and anti-addiction system in accordance with the regulatory requirements of the PRC and strengthened the promotion of
+healthy games and anti-addiction through various channels. In February 2017, we were the first to launch a series of services
+on “Tencent Parental Guardian Platform” which assist parents to monitor the gaming habits of their underage children. This is
+the technical platform aiming to provide assistance to guardians who wish to help their underage children to develop healthy
+gaming practice in the online game industry. In July 2017, we implemented the Healthy Gameplay System on Honour of Kings,
+which sends reminders to players or forces them to suspend the game if players spend too much time on the game in one
+day. In 2018, we upgraded the Healthy Gameplay System, tightened the requirements for identity verification and made the
+system available for more games. We also launched a customer service which sends reminders when a game player may have
+engaged in overspending and provides subsequent counselling. In 2019, the Healthy Gameplay System covered all mobile
+games operated by us in the Mainland of China. In 2020, the coverage of “Tencent Parental Guardian Platform” was expanded
+to QQ Mini Programs and Weixin Mini Programs and provided users with statistical usage time, duration management, one-
+click disable and other management functions to provide more comprehensive management tools for parents. Meanwhile,
+the “family communication” module is opened up to provide effective information for parents through parents’ classroom and
+other ways to help them bridge the “digital divide”. In June of the same year, based on “restricting play, charging and curfew”
+for real name minors, we improved the user identification technology to solve the problem of “children using their parents’
+identity information to bypass the supervision”, and screened the suspected minors. Users who refused or failed to pass the
+1 “Percentage of the total number of products sold or shipped subject to recalls for health and safety reasons” and “recall procedures”
+are not closely relevant to the Company’s main businesses.
+Annual Report 2020 133Environmental, Social and Governance Report
+verification were restricted by the Healthy Gameplay System in the game or could not continue to recharge. To prevent parents
+from performing verification without knowledge, Tencent continues to optimise face recognition measures and has launched
+multiple functions such as voice and picture double prompt. At present, the aforementioned functions have been applied to
+more than 100 mobile game products of Tencent games, including Honour of Kings and Peacekeeper Elite. In December
+2020, under the guidance of the National Press and Publication Administration, China Audio-video and Digital Publishing
+Association officially released the group standard of “Age-appropriate Tips for Online Games” (Trial) (hereinafter referred to
+as “Group Standard”). We participated in the preparation as one of the leading units. The Group Standard divided the scope
+of the age of minors’ games into three stages, namely 8+, 12+, 16+, and made explicit provisions on the style, embodiment,
+content and other specific matters of the age prompt diagram. Tencent actively cooperated to promote the pilot implementation
+of the Group Standard and has completed the adaptation of 10 games, including “Honour of Kings”, “Peacekeeper Elite” and
+other popular games.
+We continue to pay attention to the operation stability, technical reliability, data privacy compliance and content legitimacy of
+online game products. We establish a complete closed-loop process of full-dimensional audit in advance, real-time monitoring
+in the event and timely disposal afterwards, and establish a multi-department joint work team to ensure the implementation of
+relevant requirements and processes.
+In addition, the 22nd session of the Standing Committee of the 13th National People’s Congress of the PRC revised and
+passed the Law of the People’s Republic of China on the Protection of Minors on 17 October 2020, which will come into force
+on 1 June 2021. The newly-revised Law of the People’s Republic of China on the Protection of Minors stipulates Internet
+service providers’ responsibilities and obligations. We are taking forward the implementation of the relevant provisions in a
+comprehensive manner.
+Social Network
+According to the provisions of the Cybersecurity Law of the People’s Republic of China, any individual or organisation using
+the Internet shall abide by the Constitution of the PRC and other relevant laws, and shall not use the Internet to fabricate
+or disseminate false information, disrupt economic and social order, and shall not carry out activities that infringe on the
+reputation, privacy, IP rights and other legitimate rights and interests of others. Suppose a network operator discovers
+information that is prohibited by laws or administrative regulations from being released or transmitted, it shall immediately
+stop transmitting the information, take measures such as eliminating and preventing the spread of information, keeping
+relevant records, and reporting to the relevant competent authorities. To provide users with healthy and safe platform services,
+Tencent has been actively implementing various measures to fulfil its platform responsibilities and govern users’ violations of
+laws and regulations or infringement through social platforms (such as Weixin, QQ, etc.) to ensure compliance with relevant
+laws, regulations and policies. According to relevant national laws and regulations, and agreements such as WeChat Software
+License and Service Agreement, WeChat Official Accounts Platform Service Agreement and QQ Software License and Service
+Agreement, if users spread unlawful information through WeChat personal account, WeChat Official Accounts, QQ and
+Qzone, once found and proven, the platform will timely block the unlawful content and deal with the relevant accounts and
+134 Tencent Holdings LimitedEnvironmental, Social and Governance Report
+relevant chat groups (such as warning, limiting some functions of the account, blocking the account, etc.). Illegal information
+related to the public welfare and the livelihood of people, including but not limited to the sale of counterfeit medical devices,
+illicit sales of illegal goods and rumours etc., has been repeatedly countered by the platform after the outbreak of COVID-19
+pandemic. At the same time, we attach great importance to the publicity and education of users and prompt users to improve
+their awareness of risk prevention through “Weixin Safety Centre”, “QQ Security Centre” Official Accounts and other official
+channels, jointly resist Internet pornography, fraud and other risks, provide users with smooth channels for infringement
+complaints and reports, and guide users to make complaints and reports on violations of laws, regulations or violations of their
+legitimate rights and interests through the platform entrance. In 2020, the Group was not aware of any serious violation of the
+above laws and regulations.
+With the development of Mini Programs and Mini Games platform, Tencent continues to optimise the audit standards
+and inspection mechanism of Mini Programs and Mini Games access. The Company conducts reviews on the developers
+and application contents of the Mini Programs and Mini Games submitted by developers to access the platform strictly in
+accordance to legal and regulatory requirements. If developers’ services involve special categories such as medical, financial,
+and gaming, they shall provide the corresponding qualification and approval documents etc. For developers who fail to provide
+the corresponding certificates as required, access of their Mini Programs and Mini Games to the platform will be denied.
+According to users’ complaints and reports on Mini Programs, we will also inspect Mini Programs’ operation from time to time
+and take corresponding measures for developers who fail to operate legally.
+In order to allow minors to grow in a healthy environment, Tencent has launched “underage mode” in a number of products
+or developed independent versions suitable for minors. For example, when the underage mode has been activated for
+Tencent Video, Weishi and other products, users’ screen time will be limited and users will be reminded to take rests. When
+the underage mode has been activated for QQ, the application interface will be more simplistic, and will not show any
+advertisement, live broadcast, games and other entertainment functions, as well as services that are not suitable for minors
+such as networking with strangers etc.
+A total of 7,293 rumour refuting articles were published on WeChat Official Accounts Platform in 2020, and the rumour
+refuting pages were viewed 760 million times. At the same time, the rumour refuting assistant Mini Program of WeChat Official
+Accounts Platform has introduced several third-party scientific research, academic and other authoritative institutions to
+conduct scientific rumour refutation on various rumours (including official account articles and some widely spread rumour
+samples) on WeChat platform. In 2020, 54.58 million Weixin users used it. With the mission of “Value for Users, Tech for
+Good”, the Tencent News Verification Platform aims to create a network-wide rumour refuting content output think tank for
+verification and confirmation of facts to combat the spread of untrue information on the Internet. At present, the information in
+the think tank covers food safety, nutrition, health care and other fields.
+Weixin/WeChat and QQ each provides a mechanism for users to report any false or improper content transmitted on their
+platforms. In order to protect users’ original content, Weixin/WeChat has released a new function for Weixin/WeChat official
+account holders in December 2017, stating the originality of the content generated by Weixin/WeChat, to help effectively
+identify and prevent copyright infringement.
+Annual Report 2020 135Environmental, Social and Governance Report
+In addition, Weixin and QQ have constantly improved their functions to provide a barrier-free experience for the elderly and
+vulnerable groups, including bigger font, Weixin relatives card, and text extraction function of pictures and expressions for
+the visually impaired, in order to help the elderly and vulnerable groups integrate into the digital society and bridge the digital
+divide.
+Digital Content
+We have always attached importance to the health and safety of the digital content industry, complied with the laws and
+regulations in China’s Internet news, audio-visual and other related business areas, and actively implemented various measures
+to ensure the development of its business in a compliant manner. At the same time, in the process of business operation, we
+should take the lead in juvenile protection, and actively explore the practical experience of the industry.
+It is worth mentioning that in 2020, Tencent Video’s “Little Penguin Paradise” content platform products for minors were
+upgraded. Through the functions of realisation of innovative interaction ability, high-quality mass video series, five-dimensional
+knowledge system, green guard mechanism etc, Tencent Video created a one-stop growth space for children from multiple
+dimensions such as content innovation, intelligence cultivation, health education, etc., to help children and parents learn and
+progress together. At the same time, we are also well aware of the importance of “health education”. In the “Little Penguin
+Paradise” app, eye protection mode is built-in. It also provides time setting, volume reminder and other functions, creating a
+healthy viewing environment for parents to rest assured and let children enjoy the process of learning and entertainment more
+freely. We hope to bring a positive and upbeat guide to the growth of minors through high-quality content experience.
+Tencent News continues to invest in original, in-depth content and precipitate user value. In the “White Book on the Social
+Value of China’s Internet Media in 2019”, “Research Report on Public Cognition and Information Communication of COVID-19”
+published by the State Information Center, and the “Survey Report on Credibility of China’s Internet Media” released by the
+Ministry of Industry and Information Technology, Tencent News ranked first in terms of social value, satisfaction and credibility
+among all commercial media. In terms of the healthy development of content, Tencent News adheres to the profound
+cultivation of original content, creates high-quality IP, continues to create beautiful content with the brand, and uses the
+content to achieve a useful link between business and users, to realise the promotion of cognitive value and business value.
+FinTech
+We have long been committed to providing safe, convenient and professional payment services for Internet users and various
+enterprises and we continue to comply with relevant laws and regulations. The types of payment businesses include online
+payment, mobile phone payment and bank card acquisition, and the types of customers include individuals and merchants.
+We provide a variety of security products to enhance account security. Our risk control system provides real-time monitoring 24
+hours a day to ensure the safety of account funds. Users will be informed of any change in the amount of funds in the account
+immediately by mobile phone, e-mail and other means. We strictly comply with relevant laws and regulations to provide users
+with effective privacy protection strategies.
+136 Tencent Holdings LimitedEnvironmental, Social and Governance Report
+In addition to payment services, we are also committed to providing customers with safe and stable financial products. In
+early 2020, we optimised the platform display for financial wealth management products and categorised the financial wealth
+management products as stable financial wealth management, advanced financial wealth management etc. in order to provide
+our customers with better quality and more stable financial services. We will continue to conduct self-examination, optimisation
+and standardisation of our products in accordance with laws and regulations related to financial products, including the
+Measures for the Supervision and Administration of Publicly-offered Securities Investment Fund Distributors, the Circular on
+Standardising the Retrospective Administration of Online Insurance Sales Practices, and the Measures for the Regulation of
+Internet Insurance Business.
+Tencent Cloud
+Tencent Cloud provides services in accordance to the requirements of the relevant laws and regulations of the jurisdictions
+where it provides services and adopts technical and other necessary measures to ensure safe and stable operation of the
+network. Security is the cornerstone of Tencent Cloud. Based on the overall framework of comprehensive planning, through
+diversified products and security attributes, Tencent Cloud has realised all-rounded protection and deployed security protection
+at all levels, including physical security, virtualisation security, network security, host security, data security, application
+security, business security, security audit and security management, forming the whole process of protection before, during
+and after the event. At the same time, Tencent Cloud also implements corresponding security functions in products at all
+levels, including authentication, data reliability etc., and continuously optimises its own products.
+Since its establishment, Tencent Cloud has been committed to improve the cloud security system, to build security compliance
+capabilities, and to participate in the formulation of the cloud security standards and big data security standards. With the
+continuous evolution of cloud computing technology and security technology, Tencent Cloud has established an efficient
+security internal control system, and improved its compliance foundation from the aspects of system process and control
+activities. Tencent Cloud has formulated corresponding compliance standards from the aspects of infrastructure security
+management and interoperability, virtualisation platform management and identity authentication management, and refined
+specific security compliance control requirements to ensure the effective operation of the entire Tencent Cloud security internal
+control system. Please refer to the section captioned “User Privacy and Data Security” for more information about cloud
+service security.
+Annual Report 2020 137Environmental, Social and Governance Report
+Customer Service
+Internet service
+In accordance with Law of the People’s Republic of China on the Protection of Consumer Rights and Interests promulgated
+on 31 October 1993 and amended on 25 October 2013, when we provide our customers with goods or service, we adhere
+to social morality, operate business in good faith, and protect the legitimate rights and interests of consumers. We also seek
+consumers’ opinions on commodities or services provided to them and accept consumers’ supervision. In accordance with
+the E-Commerce Law of the People’s Republic of China, effective on 1 January 2019, we, as an Internet company, have
+established an accessible and effective mechanism for receiving complaints and abuse reports, publishing of information on
+complaints and abuse reporting methods, prompt handling and resolution for complaints and abuse reports. The Company
+puts great importance on customer service; thus it proactively complies with all relevant laws and regulations regarding
+customer service. All product departments of the Company conduct regular product research, including online questionnaire,
+social media, telephone calls, etc. to collect users’ feedback on products to understand users’ satisfaction and popular
+opinions, and pay attention accordingly during product designs and updates.
+Tencent customer service relies on advanced Internet technology to build an Internet service model that adapts to the
+development of the Company’s business and solves the massive user service needs. Tencent customer service department is
+supported by professional teams, which are responsible for handling and answering customers’ complaints and inquiries about
+our business.
+We have established the following management system to handle complaints from our customers effectively:
+1. There is a designated team within the customer service department to handle complaints and deal with compensation
+requests. The team is responsible for conducting investigation based on the information provided by the complainant,
+explaining the relevant procedures to the complainant and notifying the complainant of the investigation results with the
+aim of providing him with a satisfactory solution.
+2. We are committed to providing customers with timely solutions and establishing diversified service channels in different
+ways to cater for different habits of users in different scenarios. At present, Tencent’s service channels cover customer
+service hotline, online customer service, intelligent customer service, Weixin/WeChat and face-to-face talks etc.
+3. To provide a better user experience, we have set up a complaint handling programme, which clearly sets out the
+responsibilities of customer service department and the time required to resolve complaints. In addition, we also help
+visualise the service entrance scene, so that users can have quick access to customer service in the first instance where
+problem occurs, and achieve the delivery of service with the shortest service path.
+138 Tencent Holdings LimitedEnvironmental, Social and Governance Report
+4. We have strengthened the infrastructure construction of the system. Complaints can be classified according to the
+degree of urgency and risk, so that the customer service staff can better give priority to relevant cases and handle
+complaints in a timely manner.
+5. Build a strong closed-loop self-help tool, which can respond in seconds throughout the day, providing better efficiency
+than manual service. At present, the one-time solution rate of Tencent customer service self-service tools has reached
+85%.
+6. Tencent customer service also performs social responsibilities and promotes the aim of “Tech for Good” by establishing
+Tencent110 (110.qq.com), a platform for reporting illegal issues and accepting reports from Internet users and timely
+handling of illegal accounts on Tencent Platform. It helps with the crackdown of illegal industry chain on the Internet and
+provides analyses of fraud prevention methods so as to protect more users from fraud.
+With the continuous expansion of the Group’s business, the scale of customer service undertaken by Tencent customer service
+has increased year by year. In 2020, Tencent customer service provided assistance to users of hundreds of products, with
+approximately 420 million users and approximately 1.39 billion times of service. In connection with users’ complaints received
+during our provision of services, Tencent customer service has set up a dedicated handling team and a comprehensive
+process to provide satisfactory solutions to better protect the rights of its users. In 2020, a total of 1,009,890 user complaints
+were received, with an escalation rate of 0.07%. 96% of the complaints were handled within three working days. In terms of
+business types, there were 591,307 complaints about games, accounting for 58.6%, 203,962 complaints about payment,
+accounting for 20.2%, and 214,621 complaints about social network and other businesses, accounting for 21.2%.
+Cloud Services
+Tencent Cloud is the cloud computing brand that the Group strives to build. According to the internationally recognised
+information security and IT management and control standards plan, and in compliance with various standards of the
+Mainland of China’s regulatory requirements, we provide global leading cloud computing, big data, AI and other technology
+products and services to government agencies, corporations and individual developers in various countries and regions of the
+world.
+Tencent Cloud customer service relies on the new Internet technology and creates a cloud service model suitable for the
+development of Tencent Cloud business. It solves the user’s cloud technology service needs under various government
+agencies, enterprise organisations and individual developers. The cloud technology operation service department is supported
+by a professional team responsible for the customer’s pre-sales, after-sales, technical delivery consultation and complaint
+handling.
+Annual Report 2020 139Environmental, Social and Governance Report
+We have established the following systems to handle customer inquiries and complaints effectively:
+1. In terms of organisation, we have set up a special global technical operation service team, comprising of service
+engineer, technical specialist, complaint handling engineer, quality operation engineer and other roles. All teams work
+together to provide professional and efficient service support for customers, actively negotiate with customers to offer
+satisfactory solutions to customer complaints, and properly handle customer complaints.
+2. In terms of process, we refer to ITIL (Information Technology Infrastructure Library) / ITSM (IT Service Management),
+PMBOK (Project Management Body of Knowledge) and other best practices; develop and continuously improve the
+complaint handling process, report handling process and other process guidelines, to ensure the timeliness and
+standardisation of problem handling.
+3. In terms of IT informatisation, we build Andon service and operation platform to implement ITSM (IT Service
+Management) and ITOM (IT Operation Management), covering public cloud, private cloud and self-research business,
+providing customers with various service desks (service hotline, online customer service, instant messaging exclusive
+group, work order service, etc.), for the implementation of event management, problem management, change
+management, fault management and other processes. In the process, the service engineer, expert engineer and research
+and development engineer should build a problem-solving channel to serve customers.
+4. We have built project management platform, operation management platform and BI (Business Intelligence) data
+platform to support project operation and management, refine customers’ expectations for product value and service
+value and identify the steps of value stream, and use data analysis platform to quantify each node index to drive
+continuous improvement.
+5. To solve customer problems more quickly and accurately, we have built intelligent platforms such as intelligent customer
+service, intelligent risk control and intelligent operation platform to help us quickly receive complaints and early warning
+and deal with customer problems.
+6. Adhering to the principle of “Tech for Good”, Tencent Cloud actively creates a clear Internet space, builds a Tencent
+Cloud reporting platform, accepts reports from users, timely disposes of illegal behaviours of Tencent Cloud platform
+tenants, and coordinates the disposal of IP disputes.
+7. In terms of partner and supplier management, we have established a global partner ecological network to provide
+more comprehensive, timely, efficient, professional and warm services for customers based on serving Tencent Cloud
+customers and win-win cooperation.
+With the expansion of Tencent Cloud business, the scale of services undertaken by Tencent Cloud services has increased
+year by year, with 3.72 million times of services in 2020. In connection with users’ complaints received during our provision of
+service, Tencent Cloud has set up a dedicated handling team and a comprehensive process to provide satisfactory solutions
+to better protect the rights of its users. In 2020, 418 complaints were received from users, with an escalation rate of 0.018%.
+88% of the complaints were handled within 7 days.
+140 Tencent Holdings LimitedEnvironmental, Social and Governance Report
+Advertising Content
+According to the Advertising Law of the People’s Republic of China and the Interim Measures for Administration of Internet
+Advertising, advertising operators and advertising publishers shall verify all relevant business documents pursuant to laws
+and administrative regulations, and verify the advertising contents. We continue to adhere to the advertising review guidelines
+and require clients who intend to use Tencent Marketing Solution to publish advertisements to ensure the legality of contents
+for their advertisements, and to provide documents to prove that they possess the legal qualifications to publish relevant
+advertisements, and that the advertising contents are true and valid, and we review the customers’ advertisement contents
+strictly in accordance with the above laws and regulations. If customers violate laws and regulations or relevant rules of
+Tencent Marketing Solution, then we will take measures such as refusing to release illegal advertising materials, removing
+illegal advertisements from shelves, requiring the said customers to bear liability for breach of contract, etc. Throughout the
+year of 2020, the Group has strictly complied with the aforementioned laws and regulations.
+IP
+China has launched a series of laws and regulations regarding protection of IP rights. For example, the Trademark Law of the
+People’s Republic of China last amended on 23 April 2019, the Patent Law of the People’s Republic of China last amended
+on 17 October 2020, the Copyright Law of the People’s Republic of China last amended on 11 November 2020 and the
+Administrative Measures for Internet Domain Names implemented on 24 August 2017 specify rules on the ownership,
+protection period, registration method and legal responsibility etc. of trademark, patent, copyright and domain names. We are
+a technology-oriented company and we stress the importance of the observation and protection of IP rights.
+We have established our dedicated IP team that is mainly responsible for day-to-day management of legal matters involving
+trademark, patent, copyright, domain names and other IP rights.
+We began a comprehensive programme for the management of IP at an early stage. We have consistently applied for the
+registration of IP rights since the early stages of its establishment. With the successful development of our business, we have
+expanded our global IP portfolio to cover more than 100 countries and regions. As of 31 December 2020, we have obtained
+over 30,000 officially registered trademarks and over 17,000 issued patents. Coupled with our creation of a vast amount of
+copyrighted content, we have accumulated IP assets of considerable value. Our IP team has developed a comprehensive
+database for our patents, trademarks and copyrights and our strong data analytical skills enable us to manage and monitor
+our IP rights in a meticulous and efficient manner. To combat infringement of IP rights, our IP team has also established a
+comprehensive and efficient monitoring and maintenance system, and has devised various enforcement measures to protect
+our IP rights. Please see further details on the Company’s website (https://www.tencent.com/legal/html/en-us/property.html).
+We actively participate in public affairs and the consultations on legislations, as well as strive to promote the awareness of IP
+protection in the Internet industry. As members of the China National Information Technology Standardisation Committee,
+the China Intellectual Property Society, the Patent Protection Association of China, the World Wide Web Consortium, the
+International Trademark Association and the China Trademark Association, we have participated in the consultations on
+legislative amendments to the PRC laws and regulations relating to patents and trademarks and have made recommendations
+in the development of industry standards. We have actively participated in the development of the standard patent issues in
+recent years. In particular, we standardised the video coding technology by using our accumulated experience in audio and
+video technology.
+Annual Report 2020 141Environmental, Social and Governance Report
+Within the past decade, we have been awarded the “WIPO-SIPO Award for Chinese Outstanding Patented Invention” jointly
+by World Intellectual Property Organisation and the State Intellectual Property Office of the PRC, the “Trademark Innovation
+Award” jointly by World Intellectual Property Organisation and the State Administration for Industry and Commerce and the
+“China Copyright Gold Awards” by the National Copyright Administration of the PRC and the World Intellectual Property
+Organisation multiple times, signifying our contribution to the development of independent innovation of the PRC. We have
+also been recognised as a “National Copyright Demonstration Unit” several times, demonstrating our outstanding performance
+in management and protection of copyright.
+Anti-Corruption
+According to the Law Against Unfair Competition in the People’s Republic of China, business operators shall not use monies,
+assets or other means to bribe an entity or individuals to obtain transaction opportunities or competitive advantage. According
+to the Criminal Law of the People’s Republic of China, corruption and bribery may constitute a serious criminal offence. We
+strictly comply with applicable laws and regulations for anti-corruption and embrace the value of integrity, being proactive,
+cooperation and creativity. To promote the idea of integrity, we have developed various systems and measures to detect and
+deter corruption, bribery or any other fraudulent activities. High-risk business and management are regularly under audit to
+assess the effectiveness of the internal control system and raise red flags as soon as possible to ensure the Group complies
+with ethical standards which we strive to uphold. In 2020, the anti-fraud investigation department has found more than 50
+cases of violations of various Tencent rules and policies, more than 90 people have been dismissed, amongst which more than
+40 people suspected of crimes have been transferred to the police.
+Risk Management and Internal Control Policy
+In 2016, we updated the Risk Management and Internal Control Policy (the “Policy”) with a system comprising three risk
+management lines of defence. The first line is business and functional departments. We provide targeted training and guidance
+for relevant employees to help them identify potential risks in their daily work and report to the superior. The risk management
+and internal control department acts as the second line of defence, establishes a list of major risks at the business level
+through the collection, summary, analysis and other steps, and ensures that appropriate risk response strategies and
+monitoring measures have been taken for review by the management, and submits them to the Audit Committee for review
+before reporting to the Board. The risk management and internal control department analyses and evaluates the response to
+major risks from time to time, and reports the results to the Audit Committee once every quarter. The Board entrusts the Audit
+Committee to assess and determine the nature and extent of the risks the Company is willing to accept to achieve the corporate
+objectives, determine the major risk response strategies and responsible departments, and promote the implementation of
+the management through the risk management and internal control department from top to bottom. The IA and the anti-
+fraud investigation department act as the third line of defence. The IA is responsible for providing independent evaluation
+and assurance for the effectiveness of the Company’s risk management and internal control system. It also supervises the
+management team and helps them improve their risk management and internal monitoring skills. The IA is highly independent.
+The anti-fraud investigation department is responsible for receiving reports through multiple channels and timely following up
+and investigating suspected fraud cases. At the same time, it also assists the management in advocating integrity values and
+Sunshine Code to all of the Company’s employees to ensure a 100% acknowledgment of the Sunshine Code. Both the IA and
+the anti-fraud investigation department report directly to the Audit Committee. Through the three lines of defence mechanism,
+we regularly provide targeted risk control training for employees at all levels and businesses of the Company, to enhance the
+overall staff’s awareness of risk management.
+142 Tencent Holdings LimitedEnvironmental, Social and Governance Report
+The Policy sets out the roles and responsibilities of different stakeholders in risk management and control (including those
+in relation to frauds). It is emphasised in the Policy that the management of each business group is primarily responsible
+for the risk management and internal control of its department. If any fraudulent activity is detected, the management of
+the relevant department shall improve the control procedures promptly to prevent recurrence of similar incidents. The risk
+management and internal control departments have dedicated a team to each business group to provide internal control and
+risk management support. We also apply continuous auditing to key businesses in order to detect irregularities and identify
+risks in a timely and systematic manner and to improve the effectiveness of fraud risk management and control.
+Sunshine Code and Anti-Corruption Trainings
+All employees of the entire Group are required to follow and to strictly comply with the Sunshine Code. It expressly prohibits
+all kinds of fraudulent activities, bribery, embezzlement, misappropriation of company’s assets, extortion, falsification of
+information and any other activities which are not in compliance with applicable laws and regulations. The Sunshine Code shall
+be reviewed annually against the changing needs of the Group and revised when appropriate, in order to ensure that it caters
+for our business development, reflects the positions under applicable laws and regulations and captures all kinds of fraudulent
+activities effectively. To ensure that our employees comply with the requirements and ethics stipulated in the Sunshine
+Code, we have made a learning video as a compulsory course for new employees according to the Sunshine Code’s specific
+provisions and the real cases in the past. If there are significant changes in the Sunshine Code’s content, we will also ask all
+employees of the Group to retake the course in time. We ensure that all employees understand Sunshine Code’s provisions
+and that 100% of our employees receive anti-corruption training. At the same time, we also require 100% of our suppliers to
+abide by the Company’s business ethics and anti-corruption etc. requirements in the Sunshine Code and jointly safeguard the
+cooperation foundation of legal, fair and equitable trade. Employees at high-risk positions participate in face-to-face Sunshine
+Code training courses. They learn real cases to acquire a deeper understanding of the requirements of national laws and
+regulations and the Sunshine Code to avoid the risk of corruption. In 2020, six directors participated in the Audit Committee
+meeting, internal audit committee meeting and other internal meetings to learn Tencent’s risk management and internal
+control policies, anti-fraud policies and measures, anti-corruption related laws and regulations and Sunshine Code, as well as
+the internal corruption cases. In addition, we will regularly push pictures and short videos to ensure that our staff can keep up
+with the requirements of anti-fraud laws and regulations.
+Anti-fraud and Whistleblowing Policy
+We have published an Anti-fraud and Whistleblowing Policy (the “Whistleblowing Policy”), which clearly conveys the message
+of our zero tolerance in relation to fraudulent activity to all the employees and suppliers/business partners. All employees
+and suppliers/business partners are encouraged by the Group to report genuine concerns about any existing or potentially
+fraudulent activities and non-compliance. The Whistleblowing Policy expressly outlines the multiple whistleblowing channels,
+how the Group should deal with such concerns and the whistle-blower protection system, so that employees and suppliers/
+business partners can report their good faith concerns without fear of reprisal or potential retaliation. Since 2016, we have
+maintained an official account under the name of “Sunshine Tencent” on Weixin to promote our anti-fraud policy and
+whistleblowing channels with a function to allow our business partners to report directly to us.
+Annual Report 2020 143Environmental, Social and Governance Report
+Employees and suppliers/business partners can also report other violations through this open channel, including but not
+limited to employees’ misconduct, deception, disclosure of trade secrets or other violations of business ethics. We encourage
+the informants to leave their contact information for the follow-up investigation and inform the informants of the investigation’s
+progress and handling promptly. At the same time, we also guarantee that anonymous reports that provide adequate reporting
+information will also be dealt with seriously. We guarantee to protect the informant’s identity or information from disclosure and
+take measures to protect the informant from retaliation.
+Fraud Detection and Corruption Prevention
+When suspected fraudulent activities are discovered or when a report of suspected fraudulent activities is received, the
+anti-fraud investigation department, which consists of professionals who used to be part of the anti-corruption function at
+a governmental authority or private enterprise and have profound knowledge in fraud risk management and solid fraud
+investigation experiences, is assigned to handle the investigation independently. After an investigation has been completed,
+the employee found and proven to have committed serious fraud shall be subject to immediate dismissal. At the same time,
+the department in question must, with the assistance of the risk management and internal control departments, take corrective
+actions in response to the business risk or loophole identified during the investigation. If we find any supplier or business
+partner engaging in serious corruption or any other fraudulent activities, we will terminate the contracts with them immediately
+and will never conduct business with them. In the event that any fraudulent activity violates any relevant laws or regulations,
+such cases shall be reported to relevant government authorities in accordance with applicable laws and regulations. In 2020,
+we received the results of the five corruption cases that we transferred to the authorities. Five former employees involved (timely
+dismissed according to the Sunshine Code) were found to be in violation of Article 163 of the Criminal Law of the People’s
+Republic of China on “bribery of non-state workers” and Article 271 on “duty embezzlement”, with the criminal punishment
+ranging from four months’ detention to thirteen years’ imprisonment. Because these cases were discovered and handled in
+time, they did not significantly impact the Company’s business. After the occurrence of these cases, the direct and indirect
+managers of the employees involved bore the consequences, including demotion, cancellation of merit rating, and reprimand
+according to the Sunshine Code. Meanwhile, the relevant departments have also taken effective internal control measures to
+prevent similar cases from happening again.
+In 2020, we issued the Management Policy for Sensitive Positions (the “Management Policy”) to better implement the
+corporate governance standards and supervision requirements of risk management and internal control, and strengthen
+the construction of the Company’s integrity system. The Management Policy provides that positions which participate in
+supplies/services/resources procurement, marketing, channel sales and resource management involving external cooperation,
+evaluation and selection of potential partners, pricing, resource allocation, key decision making and other high-risk duties
+should be regarded as sensitive positions. Corresponding management measures are taken for these positions, including
+requiring regular job rotation, stripping sensitive responsibilities, participating in various risk management training for sensitive
+positions etc. The Management Policy also clearly stipulates that the IA reserves the right to audit all personnel in sensitive
+positions and may conduct audit on current or former personnel in sensitive positions from time to time.
+144 Tencent Holdings LimitedEnvironmental, Social and Governance Report
+In order to convey a message regarding our determination to fight against fraud and to introduce our Whistleblowing Policy
+externally, we send a letter to our suppliers and business partners and request them to complete a questionnaire annually
+since 2015. The questionnaire sets out our corporate values, the Whistleblowing Policy and the various reporting channels.
+We will understand from each of our suppliers and our business partners whether our employees have requested any gift,
+cash or benefit during the course of business and whether they have been treated unfairly. Upon receipt of the feedback, we
+will ensure that the questions or concerns raised by our suppliers and our business partners will be addressed promptly. If
+necessary, the anti-fraud investigation department will commence an investigation formally.
+Our risk management and internal control departments have established a procurement management control unit to optimise
+the Group’s supplier management system. Through the centralised system, the bidding process can be standardised and more
+transparent. The supplier management system also provides communication channels for suppliers to collect their feedback or
+complaints. Fraud complaints will be directly referred to the anti-fraud investigation department for follow-up. The Group aims
+to ensure that suppliers’ complaints and concerns can be resolved in a timely manner and to minimise the risk of fraud.
+Anti-money Laundering
+The Group strictly abides by applicable laws and regulations in relation to cross-border and domestic money transmission,
+anti-money laundering (“AML”), counter-terrorist financing (“CTF”), as well as anti-tax evasion in the PRC and other countries
+where we provide payment processing services. Specifically, according to the Anti-Money Laundering Law of the People’s
+Republic of China implemented on 1 January 2007 and the Administrative Measures for Non-financial Institutions Providing
+Payment Services implemented on 1 September 2010 and revised on 29 April 2020, we must formulate AML measures, fulfil
+AML obligations, and comply with relevant AML regulations if we intend to provide users with third-party payment services.
+According to the Administrative Measures for Anti-money Laundering and Anti-terrorism Financing of Payment Institutions
+promulgated and implemented on 5 March 2012, payment institutions should establish and improve a unified internal control
+system for AML, and report it to the branch of the People’s Bank of China where the headquarters are located and should set
+up a special institution or designate an internal institution to be responsible for AML and CTF.
+As a result of the complexity of legal and regulatory compliance in multiple jurisdictions, we have established an independent
+AML and sanctions compliance department. The duty of the department is to coordinate the management of money laundering
+and sanctions risk at the group level for all businesses, to fulfil AML and sanctions requirements under relevant laws and
+regulations, and to manage and promote the implementation of various AML and sanctions initiatives.
+In 2020, we strictly enforced the AML provisions of the regulatory authorities, further strengthened our compliance capacity,
+and orderly promoted all works under the framework of the Group’s minimum standards for AML and sanctions compliance.
+Key aspects of the AML programme include but are not limited to the followings:
+• To sort out and clarify the six major systems of AML management, including risk governance, risk assessment, control,
+system, identification and transaction monitoring;
+• Strictly implement the Group’s minimum standards for AML and sanctions compliance;
+Annual Report 2020 145Environmental, Social and Governance Report
+• Regularly hold money laundering risk management committee meetings to continuously promote senior executives to
+perform their duties;
+• To carry out institution money laundering risk assessment projects, optimise and improve assessment indicators and
+methodologies, and comprehensively evaluate institution’s money laundering risk, in order to optimise the allocation of
+AML resources and enhance management standards.
+In addition, the Group continues to improve the AML programme and dedicate increasing resources to the following key areas:
+(i) increase staffing and provide regular on-the-job and professional training for employees to improve the strength of AML
+professional team continuously; (ii) consolidate the system to achieve comprehensive coverage of regulatory requirements; (iii)
+regularly carry out special assessments to strengthen the implementation of AML and sanctions compliance system and rules,
+including customer and product money laundering risk assessment, transaction monitoring and suspicious transaction report
+compliance assessment and list system inspection; (iv) deepen cooperation with authorities and practise the idea of technology
+for the good; (v) active participation in international AML/CTF events to exchange industry best practices.
+COMMUNITY
+Community Investment
+Tencent Charity Foundation was established in 2007 and receives donations from the Group every year. In 2020, Tencent
+Charity Foundation received a donation of RMB2.074 billion from the Group. As of 31 December 2020, Tencent Charity
+Foundation has received a total of RMB6.375 billion from the Group, with a total donation expenditure of RMB4.623 billion.
+Since its establishment, Tencent Charity Foundation has been active in many public welfare fields with the mission of “exploring
+public welfare of technology, advocating digital responsibility, and promoting sustainable development of society”, including
+(i) Internet charity fund-raising information platform; (ii) public hygiene and health; (iii) basic scientific research; (iv) poverty
+alleviation and rural development; (v) education; (vi) ecological conservation and cultural protection, and (vii) others.
+In December 2020, Tencent Charity Foundation launched the “Tencent Tech for Good Programme”, which aims to provide a
+platform for professional volunteers, technology enterprises and social innovation institutions to connect, collaborate and co-
+create, to jointly promote the use of technology capabilities, to solve social pain points and enhance social welfare.
+Internet Charity Donation
+Tencent Charity Platform is an Internet public donation information platform initiated and operated by Tencent Charity
+Foundation, which is open to qualified public charity organisations for free. The platform uses Internet technology and
+social media to connect public charity organisations, Internet users, media and enterprises to build a socialised, mobile and
+transparent charity donation ecology and boost public welfare. The charity industry’s ability is improved, and the culture of
+public welfare and rational public welfare is advocated.
+146 Tencent Holdings LimitedEnvironmental, Social and Governance Report
+Since 2015, Tencent Charity Foundation has continuously launched “99 Giving Day” every year to donate funds, brand
+communication, voluntary services and other charity resources for public welfare charity organisations with many Internet
+users, foundations and enterprises. In terms of accumulated fund-raising, the Tencent Charity Platform has so far become the
+largest Internet public fund-raising information platform in China.
+As of 31 December 2020, Tencent Charity Platform has supported more than 95,000 public welfare projects in the Mainland
+of China, raising a total of RMB11.55 billion from the public and mobilising more than 100 million Internet users to participate
+in public welfare. In addition, Tencent Charity Foundation has made matching donations to charity organisations participating
+in “99 Giving Day” every year, with a total donation of about RMB1.8 billion. In 2020, “99 Giving Day” attracted more than
+18 million users to participate in more than 10,000 charitable fund-raising projects, and more than RMB3 billion was raised
+during the three-day event.
+Public Health
+In the face of the continuous impact of the new pandemic on the global economy, we have established a RMB1.5 billion
+China Anti-Pandemic Fund and a USD100 million Global Anti-Pandemic Fund to support efforts against the pandemic. The
+anti-pandemic work includes donating medical protective materials to areas with the serious pandemic situation, providing
+technical support for clinical diagnosis, drug screening and vaccine research and development, donating health insurance
+funds for infected health care workers, community workers and non-governmental volunteers etc., providing donation support
+for research institutes to carry out public health and medical health-related research. In addition, during the pandemic period,
+Tencent promoted the launch of more than 100 anti-pandemic Mini Programs through its Internet technology capabilities and
+continued to provide digital services. In terms of medical assistance, Tencent launched tools such as pandemic surveillance,
+remote consultation and medical self-diagnosis, and provided cloud computing resources to scientific research institutions free
+of charge; in terms of information dissemination, Tencent News, Tencent Health, Tencent Medipedia, Tencent Map and other
+teams cooperated to develop products such as fever clinics map and rumour refuting platform; in terms of social services,
+Tencent quickly upgraded Tencent Meeting, WeCom, and other products and services to help promote the safe and orderly
+resumption of work and production.
+Basic Scientific Research
+At the end of 2018, Tencent Charity Foundation funded and supported a number of well-known scientists to jointly launch the
+Xplorer Prize, which aims to support young scientific and technological workers in basic science and cutting-edge technology
+fields. The Xplorer Prize annually supports 50 winners, each of whom can receive a cumulative cash grant of RMB3 million.
+In 2020, 50 young scientific and technological workers won the 2nd Xplorer Prize. Among them, there are 6 winners under 35
+years old and 5 female winners.
+Annual Report 2020 147Environmental, Social and Governance Report
+Poverty Reduction and Rural Development
+Since its establishment, Tencent Charity Foundation has continued to carry out poverty alleviation and assistance to
+agriculture, covering six major areas: three-dimensional disaster relief, targeted poverty alleviation, education and culture
+poverty alleviation, health poverty alleviation, ecological poverty alleviation, and rural governance. Among them, Tencent
+Charity Foundation’s “WeCounty” leverages on diversified platforms, such as mobile app, social media and Weixin Mini
+Program to help rural areas improve the digitalisation of the basic governance, and lay the foundation for the development of
+industries, the creation of wealth and the improvement of culture and living environment. As of 31 December 2020, 16,214
+villages or communities in 30 provinces/autonomous regions/municipalities have joined the project, with approximately 2.52
+million villagers certified.
+Education
+Over the years, Tencent Charity Foundation has set up various scholarships to promote education. In addition, there are
+also specific donations for different education programmes. In 2020, Tencent Charity Foundation donated approximately
+RMB88.11 million to education and advocacy related projects. For example, it set up “Wuhan College Software Engineering
+(Tencent class)” in Hubei Yidan University Education Development Foundation. The special fund is used to award outstanding
+students of software engineering major (Tencent class) of Wuhan College, and to fund a series of characteristic education and
+teaching activities for them. It also contributes to the “Outstanding Engineering Research Scholarship” set up in the China
+Foundation for International Scientific Exchange, which recognises a large number of engineering and technical personnel
+who are dedicated in China’s economic restructuring and heavily contributed to promoting national technological innovation,
+industrial restructuring, and the technical level of the industry.
+Ecological Conservation and Cultural Preservation
+The Tencent Charity Foundation is keen on ecological conservation and cultural preservation. In 2020, Tencent Charity
+Foundation donated approximately RMB11.9 million to Shenzhen Taohuayuan Ecological Protection Foundation and Sichuan
+Taohuayuan Ecological Protection Foundation to carry out terrestrial ecology protection and nature education projects. In
+addition, we launched snow leopard protection activities, used technology to monitor snow leopard protection actions, and
+launched innovative publicity initiatives for animal protection. With regard to cultural preservation, Tencent Charity Foundation
+donated RMB15 million to the Palace Museum in 2020 for digital construction (cultural relic data acquisition and image
+processing as well as digital innovation laboratory construction), and donated approximately RMB5 million to establish a
+special fund for digital protection and promotion of cultural heritage under the Cultural Heritage Conservation Foundation to
+support digital protection projects related to Chinese traditional cultural heritage.
+148 Tencent Holdings LimitedEnvironmental, Social and Governance Report
+Others
+Through the “Tencent Tech for Good Programme”, Tencent Charity Foundation actively participates in and contributes to
+various social public welfare issues. For example, in terms of smart pension, Tencent helped the elderly in Shenzhen nursing
+home with technology enabled by AI technology, big data, cloud computing, and Internet of Things. In the field of digital
+accessibility, Tencent Charity Foundation, together with the Group, uses Tencent Tianlai AI audio noise reduction technology to
+upgrade cochlear implant and improve the hearing experience of hearing-impaired people.
+Volunteering
+Tencent Volunteers’ Association was founded in 2007. As of 31 December 2020, the Tencent Volunteers’ Association has
+contributed more than 170,000 hours of voluntary services and the total number of participants is more than 16,000. There
+were more than 25 sub-divisions established at the city level (such as Beijing, Shanghai, Chengdu, Shenzhen, Wuhan,
+Guangzhou and Hefei) and at the business group level (such as enterprise development business group, cloud and smart
+industry business group, interactive entertainment business group, platform and content business group, Weixin business
+group, technology engineering business group, finance function and human resource function and management line).
+Over the last decade, the Tencent Volunteer’s Association has been involved and contributed in the areas of online charity,
+promotion of unhindered Internet access, information technology popularisation, cybersecurity, emergency support, poverty
+relief, scholarship, environmental protection, care for elderly and children with special needs and animal protection. It has
+launched more than 200 volunteering activities.
+The Tencent Volunteers’ Association combines its expertise in technology to help the community. For example, it has been
+broadcasting information on missing persons via Weixin/WeChat and QQ and with the latest facial recognition and blockchain
+technologies, we have succeeded in locating the missing persons many times.
+The Tencent Volunteers’ Association, as one of the co-founders, established the China IT-Philanthropy Union which promotes
+the “Internet + Charity” model by holding summits and publishing white papers on the successful examples of how the
+information technology has changed the landscape of charity work.
+In order to encourage employees to participate in volunteer service, employees, since April 2012, have been granted one day
+of fully-paid volunteer service leave per year.
+Annual Report 2020 149Environmental, Social and Governance Report
+Independent Practitioner’s Limited Assurance Report
+To the board of directors of Tencent Holdings Limited
+We have undertaken a limited assurance engagement in respect of the selected Environmental, Social and Governance (“ESG”)
+information of Tencent Holdings Limited (the “Company”) listed below in the Company’s ESG report for the year ended 31
+December 2020 (“the 2020 ESG report”) (the “Selected ESG Information”).
+SELECTED ESG INFORMATION
+The Selected ESG Information for the year ended 31 December 2020 is summarised below:
+Environmental Workplace
+1. Emissions Workforce
+1.1 Office buildings • Total number of employees
+• Total GHG emissions (Scopes 1 and 2) (tonnes) • Number of employees by gender
+• Direct GHG emissions (Scope 1) (tonnes) – Male
+– Gasoline (tonnes) – Female
+– Diesel (tonnes) • Number of employees by age group
+– Natural gas (tonnes) – Under age 30
+• Indirect GHG emissions (Scope 2) (tonnes) – Age 30 to 50
+– Purchased electricity (tonnes) – Above age 50
+• Total GHG emissions per person (tonnes / person) • Number of employees by geographical region
+• Total GHG emissions per square meter of floor area – The Mainland of China
+(tonnes / square meter) – Hong Kong, Macao and Taiwan
+• Hazardous waste (tonnes) – Other countries and regions
+• Hazardous waste per person (tonnes / person) • Number of employees by management level
+• Non-hazardous waste (tonnes) – Management
+• Non-hazardous waste per person (tonnes / person) – Non-management
+• Total turnover rate
+1.2 Data centres • Employee turnover rate by gender
+• Total GHG emissions (Scopes 1 and 2) (tonnes) – Male
+• Direct GHG emissions (Scope 1) (tonnes) – Female
+– Diesel (tonnes) • Employee turnover rate by age group
+• Indirect GHG emissions (Scope 2) (tonnes) – Under age 30
+– Purchased electricity (tonnes) – Age 30 to 50
+• Hazardous waste (tonnes) – Above age 50
+• Non-hazardous waste (tonnes)
+150 Tencent Holdings LimitedEnvironmental, Social and Governance Report
+2. Use of Resources • Employee turnover rate by geographical region
+2.1 Office buildings – The Mainland of China
+• Total energy consumption (MWh) – Hong Kong, Macao and Taiwan
+• Direct energy consumption (MWh) – Other countries and regions
+– Gasoline (MWh)
+– Diesel (MWh) Health and Safety
+– Natural gas (MWh) • Total number of work-related fatalities
+• Indirect energy consumption (MWh) • Work-related fatality rate
+– Purchased electricity (MWh) • Working days lost due to work-related injury
+• Total energy consumption per person (MWh / person)
+• Total energy consumption per square meter of floor Training
+area (MWh / square meter) • Percentage of employees trained by gender
+• Running water consumption (tonnes) – Male
+• Running water consumption per person (tonnes / – Female
+person) • Percentage of employees trained by management
+• Reclaimed water consumption (tonnes) level
+– Management
+2.2 Data centres – Non-management
+• Total energy consumption (MWh) • Average training hours of employees by gender
+• Direct energy consumption (MWh) – Male
+– Diesel (MWh) – Female
+• Indirect energy consumption (MWh) • Average training hours of employees by management
+– Purchased electricity (MWh) level
+• Average PUE – Management
+• Running water consumption (tonnes) – Non-management
+Annual Report 2020 151Environmental, Social and Governance Report
+Operating practices Community
+Supply Chain Management • Donations to Tencent Charity Foundation by Tencent
+• Number of suppliers by geographical region Group (RMB billion)
+– The Mainland of China • Donations from Tencent Charity Foundation to
+– Hong Kong, Macao and Taiwan – Education and advocacy related projects (RMB
+– Other countries and regions million)
+– Shenzhen Taohuayuan Ecological Protection
+Product Responsibility Foundation and Sichuan Taohuayuan Ecological
+• Number of Internet service user complaints received, Protection Foundation (RMB million)
+covering the following categories: – The Palace Museum (RMB million)
+– Games – The China Heritage Conservation Foundation
+– Payment (RMB million)
+– Social network and others
+• Number of Tencent Cloud service user complaints
+received
+Anti-corruption
+• Number of concluded legal cases regarding corrupt
+practices
+Our assurance was with respect to the year ended 31 December 2020 information only and we have not performed any
+procedures with respect to earlier periods or any other elements included in the 2020 ESG report and, therefore, do not
+express any conclusion thereon.
+CRITERIA
+The criteria used by the Company to prepare the Selected ESG Information is set out in the sections headed “Application of
+Reporting Principles” and “Reporting Boundary of this Report” in the 2020 ESG report (the “Criteria”).
+THE COMPANY’S RESPONSIBILITY FOR THE SELECTED ESG INFORMATION
+The Company is responsible for the preparation of the Selected ESG Information in accordance with the Criteria. This
+responsibility includes the design, implementation and maintenance of internal control relevant to the preparation of Selected
+ESG Information that is free from material misstatement, whether due to fraud or error.
+INHERENT LIMITATIONS
+The absence of a significant body of established practice on which to draw to evaluate and measure non-financial information
+allows for different, but acceptable, measures and measurement techniques and can affect comparability between entities.
+152 Tencent Holdings LimitedEnvironmental, Social and Governance Report
+OUR INDEPENDENCE AND QUALITY CONTROL
+We have complied with the independence and other ethical requirements of the International Code of Ethics for Professional
+Accountants (including International Independence Standards) issued by the International Ethics Standards Board for
+Accountants, which is founded on fundamental principles of integrity, objectivity, professional competence and due care,
+confidentiality and professional behaviour.
+Our firm applies International Standard on Quality Control 1 and accordingly maintains a comprehensive system of quality
+control including documented policies and procedures regarding compliance with ethical requirements, professional standards
+and applicable legal and regulatory requirements.
+OUR RESPONSIBILITY
+Our responsibility is to express a limited assurance conclusion on the Selected ESG Information based on the procedures we
+have performed and the evidence we have obtained. We conducted our limited assurance engagement in accordance with
+International Standard on Assurance Engagements 3000 (Revised), Assurance Engagements other than Audits or Reviews of
+Historical Financial Information issued by the International Auditing and Assurance Standards Board. That standard requires
+that we plan and perform this engagement to obtain limited assurance about whether the Selected ESG Information is free
+from material misstatement.
+A limited assurance engagement involves assessing the suitability in the circumstances of the Company’s use of the Criteria as
+the basis for the preparation of the Selected ESG Information, assessing the risks of material misstatement of the Selected ESG
+Information whether due to fraud or error, responding to the assessed risks as necessary in the circumstances, and evaluating
+the overall presentation of the Selected ESG Information. A limited assurance engagement is substantially less in scope than a
+reasonable assurance engagement in relation to both the risk assessment procedures, including an understanding of internal
+control, and the procedures performed in response to the assessed risks.
+The procedures we performed were based on our professional judgment and included inquiries, observation of processes
+performed, inspection of documents, analytical procedures, evaluating the appropriateness of quantification methods and
+reporting policies, and agreeing or reconciling with underlying records.
+Given the circumstances of the engagement, in performing the procedures listed above we:
+• obtained an understanding of the ESG governance structure, ESG strategy and stakeholder engagement process;
+• made inquiries of the personnel involved in the preparation of the ESG report regarding the preparation process and the
+internal control system relating to this process;
+Annual Report 2020 153Environmental, Social and Governance Report
+• understood the process for collecting and reporting the Selected ESG Information. This included visiting the Company’s
+corporate head office in Shenzhen, 2 office buildings and 2 data centres (which were selected on the basis of their
+inherent risk and materiality to the Company, “Selected Sites”), understanding the key data collection processes and
+controls at the Selected Sites and analysing the relevant data collected;
+• performed limited substantive testing on a selective basis and analytical procedures of the Selected ESG Information at
+the Selected Sites to substantiate the data is appropriately measured, recorded, collated and reported; and
+• considered the disclosure and presentation of the ESG report prepared in accordance with underlying records and the
+ESG Reporting Guide, Appendix 27 to the Main Board Listing Rules by The Stock Exchange of Hong Kong Limited.
+The procedures performed in a limited assurance engagement vary in nature and timing from, and are less in extent than for,
+a reasonable assurance engagement. Consequently, the level of assurance obtained in a limited assurance engagement is
+substantially lower than the assurance that would have been obtained had we performed a reasonable assurance engagement.
+Accordingly, we do not express a reasonable assurance opinion about whether the Company’s Selected ESG Information has
+been prepared, in all material respects, in accordance with the Criteria.
+LIMITED ASSURANCE CONCLUSION
+Based on the procedures we have performed and the evidence we have obtained, nothing has come to our attention that
+causes us to believe that the Company’s Selected ESG Information for the year ended 31 December 2020 is not prepared, in
+all material respects, in accordance with the Criteria.
+Our report has been prepared for and only for the board of directors of the Company and for no other purpose. We do not
+assume responsibility towards or accept liability to any other person for the content of this report.
+PricewaterhouseCoopers
+Certified Public Accountants
+Hong Kong, 24 March 2021
+154 Tencent Holdings Limited

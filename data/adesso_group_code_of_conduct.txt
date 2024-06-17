@@ -1,0 +1,235 @@
+CODE OF CONDUCT
+adesso Group
+Version: 2.3
+Datum: 15.05.2024
+TABLE OF CONTENTS
+FOREWORD .......................................................................................................... 11
+1. PRINCIPLES ...................................................................................................... 12
+2. COLLABORATION ............................................................................................ 12
+3. INTEGRITY ........................................................................................................ 14
+4. COMPLIANCE ................................................................................................... 15
+5. PROTECTIONS ................................................................................................. 16
+6. FINAL PROVISIONS .......................................................................................... 17
+ANNEX A ............................................................................................................... 17
+Code of Conduct
+10 | 18FOREWORD
+Dear Employees and Friends of the Company,
+Our claim ‘business. people. technology.’ expresses our aspiration to shape our busi-
+ness in a sustainable way with our customers, partners, suppliers, and of course, all
+of our colleagues. This commitment extends beyond observing laws to upholding so-
+cial norms and values in the fields of business, the environment and social affairs. As
+an IT service provider, our customers also expect us to be particularly careful in deal-
+ing with data protection, information security and intellectual property.
+This document summarises our corporate principles and our values. All of the other
+guidelines in the adesso Group are aligned with this Code of Conduct.
+If you have questions, or would like to give us feedback or suggestions on any of
+these topics, you can contact us via csr@adesso.de.
+The Executive Board
+Benedikt Bonnmann Kristina Gerwert Mark Lohweber Andreas Prenneis Jörg Schroeder
+Code of Conduct
+11 | 181. PRINCIPLES
+(1) Our corporate principles, that is, our Code of Conduct, apply to all national and
+international companies within the adesso Group. They comprise the binding
+framework for all of our professional activities and business relationships and
+provide the foundation for reliable and respectful cooperation. These princi-
+ples also apply to relations with external stakeholders. Furthermore, in our
+selection of and cooperation with partners and suppliers, we also expect them
+to respect the principles described here.
+(2) We place great importance to a distinctive welcoming culture, responsible cor-
+porate governance and place high demands on transparency, control and
+business ethics. The focus is on the will to win and expand customers to-
+gether. This fundamentally strengthens the confidence of our shareholders in
+our company and in the capital market.
+2. COLLABORATION
+(1) We adhere to internationally recognised human rights as well as labour and
+social standards, act in accordance with the principles of the UN Global Com-
+pact and reject inhumane practices such as forced labour or child labour as a
+matter of course. We do not cooperate with companies that apply or permit
+such practices.
+(2) We respect our employees and their rights first and foremost. Common values
+for cooperation and leadership, which extend beyond the relevant legal regu-
+lations, form the foundation of our corporate culture.
+(3) We consider the diversity of our employees to be an opportunity. It goes with-
+out saying that we respect equal opportunities and do not tolerate any form of
+discrimination, bullying or harassment. It is not permitted to disadvantage, fa-
+vor or exclude employees on the basis of ethnic origin, gender, religion or ide-
+ology, disability, age or sexual identity during recruitment, hiring, training, pro-
+motion or throughout the entire employment relationship. Diversity, equality
+and inclusion are central to our HR strategy and aim to ensure a culture of
+belonging with open and respectful interaction for all employees.
+(4) All contracts for the hiring of new employees comply with applicable laws and
+regulations and are reviewed under the dual control principle. We do not
+Code of Conduct
+12 | 18mislead or deceive potential employees about the nature of the work. We do
+not charge them recruitment fees or collect identification documents.
+(5) Our employees may terminate their employment in accordance with local and
+national laws or regulations without incurring illegal penalties.
+(6) We do not use private or public security personnel to protect the company.
+Their deployment must not violate applicable human rights, civil liberties or
+labour laws.
+(7) As collectively agreed, wages are not common in the IT industry, which means
+that no company in the adesso Group is bound by collective bargaining agree-
+ments, remuneration is based on standard market salaries. We ensure that
+women and men are paid in accordance with the same regulations, and we
+act on the basis of the applicable labour laws, taking into account the German
+Federal Transparency in Wage Structures Act.
+(8) In addition to a fixed salary component, we also offer our employees attractive
+monetary incentives, such as variable salary components at the operational
+level. The remuneration model is geared to modern requirements for flexible,
+easily understand-able and comparable remuneration, as well as to the life
+and work situation of employees.
+(9) We comply with the right to freedom of assembly, association and collective
+bargaining as well as with relevant regulations to ensure fair working condi-
+tions. We firmly support the freedom to choose one’s profession as well as the
+right to rest and leisure, and regular paid holidays. At a minimum, we comply
+with the applicable national regulations on working hours and holidays.
+(10) Commitment, trust, esteem and respect are the central elements of our inter-
+action with each other. We shape this, among other things, through construc-
+tive and honest feedback, which is seen as an opportunity to learn. We are
+open to constructive ideas from our employees, regardless of hierarchy.
+(11) It is important to us that managers exemplify our values and represent all of
+our corporate decisions. They know how much time they have to devote to
+their management tasks and make well-founded and transparent decisions
+together with the respective employee. They treat their energy and that of their
+employees with care and pay attention to their health and ensure a proper
+work-life balance. They offer constructive, specific and appropriate praise, and
+ensure that successes are recognised and celebrated.
+(12) We support the reconciliation of family and career and a good work-life bal-
+ance through numerous initiatives. These include:
+ Individual part-time models
+Code of Conduct
+13 | 18 A flexible division of working hours outside of core working hours
+ Assignment to customers close to the employee’s home
+ Special leave for weddings, births, relocation, etc.
+ Childcare during holidays
+ Location-based customary leave
+ Granting of individual leaves
+3. INTEGRITY
+(1) We do not tolerate any form of corruption, extortion, embezzlement, bribery,
+venality or any other unlawful granting of advantage.
+(2) Cooperation with customers, partners and suppliers shall also be respectful
+and appreciative. In our business relations, we observe commercial principles
+and draft contracts only on the basis of objective criteria (such as quality, price
+and reliability) and without consideration of personal interests.
+(3) We are committed to the principles of the market economy and fair competi-
+tion. The making of any market-relevant agreements with the competition is
+prohibited and the recognition of the applicable antitrust law is assumed.
+(4) Our employees shall only accept or issue business invitations if they are rea-
+son-able, do not receive any improper consideration or other preferential treat-
+ment, and do not violate any applicable law. This also applies to the ac-
+ceptance or granting of gifts and other benefits or advantages.
+(5) All employees shall observe the statutory insider regulations.
+(6) Situations that could cause personal conflicts of interest must be avoided. If a
+conflict of interest already exists or currently arises, it must be reported imme-
+diately to the superior.
+(7) We respect and protect third-party and our own intellectual property. We pro-
+hibit the use of plagiarism.
+(8) Donations and sponsorships are transparent, documented and reviewed or
+ap-proved by the Executive Board or management. Invoices are checked and
+approved according to the principle of second sign-off and a two-stage pay-
+ment approval process. Companies deliberately keep their cash-in-hand to a
+minimum.
+Code of Conduct
+14 | 18(9) The documentation of business records complies with applicable law and gen-
+erally accepted accounting principles. This includes, but is not limited to, fi-
+nancial accounts, quality reports, time records, expense reports and submis-
+sions to clients or regulators, as appropriate.
+(10) We are strongly committed to complying with all laws relating to the preven-
+tion, detection and reporting of money laundering activities and conduct our
+business only with customers, partners and suppliers who conduct legitimate
+business and use legitimate financial resources.
+(11) The return of parts of a contractual payment to partners and their employees
+in the form of kickbacks or hidden commissions is not permitted. This does not
+apply to contractually agreed commissions and discounts.
+(12) We respect international economic and trade sanctions regulations, embar-
+goes against certain countries, companies or persons and observe bans on
+exports and imports.
+(13) We have no vested interest in exerting political influence on parties or govern-
+ment authorities. For this reason, we do not make any direct or indirect mon-
+etary or material contributions to political parties or other political organisa-
+tions.
+(14) We reject all forms of unlawful eviction and expropriation for the purpose of
+acquisition, development or other use of land, forests and waters.
+4. COMPLIANCE
+(1) We have introduced an integrated management system with the aim of com-
+plying with all national and international laws, regulations and requirements as
+well as creating internal, generally applicable standards.
+(2) The goal of all our actions is to successfully complete projects for the benefit
+of our customers. To this end, we have certified our quality management sys-
+tem in accordance with the international ISO 9001 standard.
+(3) We always seek and develop innovations, not only in relation to our individual
+customer environment, but also through the continuous and systematic eval-
+uation of our project results. On the basis of these findings, we regularly review
+our own procedures and improve them if necessary. Our aim is to optimise
+customer benefits and our own business results, to open up new business
+areas and thus to maintain our consistent growth.
+Code of Conduct
+15 | 18(4) The goal of all our actions is to reduce our environmental impact. To this end,
+we have certified an environmental management system in accordance with
+the international standard ISO 14001. In every situation, our employees deter-
+mine and consider the effects of their actions on their environment and actively
+search for sustainable solutions in terms of economy and ecology.
+(5) We take our responsibility for the health and safety of our employees seriously.
+In order to promote the health of our employees and to fulfill our legal obliga-
+tions, we operate an health and safety management system. This deals with
+occupational health and safety, health promotion and integration manage-
+ment.
+(6) Data protection and information security represent a quality feature that
+strengthens the trust of business partners, employees and the public in our
+company and our name.
+(7) The protection of personal rights (the right to informational self-determination)
+of our employees and business partners must always be guaranteed. It should
+be noted that personal data is almost always data with high business rele-
+vance. The realisation and maintenance of an adequate level of data protec-
+tion and information security in all business processes is therefore our utmost
+goal.
+(8) We take appropriate technical, organisational and infrastructural measures to
+ensure that access to sensitive systems, security zones and critical infrastruc-
+ture facilities, as well as access to critical information and applications, is only
+possible for authorised employees. We regularly confirm the adequacy of
+these measures by certifying our information security management system in
+accordance with ISO 27001.
+(9) Each employee is responsible for the security of his or her own information
+and data and for their processing as information owners.
+5. PROTECTIONS
+(1) We encourage employees (or business partners or third parties) to report any
+violations of this Code of Conduct via adesso's existing whistleblower system.
+Among other things, information on human rights and/or environmental risks
+as well as possible violations of human rights or environmental obligations can
+also be provided.
+(2) In the event of violations of the principles of the " Collaboration" chapter, there
+are the following points of contact for those affected:
+Code of Conduct
+16 | 18 the direct manager and other persons with management and support
+functions
+ the responsible personnel officer
+ the Equal Opportunities Officer
+ the persons of trust of the European employee representatives
+(3) All contact persons are obliged to maintain confidentiality. In any case, it is
+ensured that the person seeking advice or making a complaint does not suffer
+any personal or professional disadvantages. In principle, the wishes of the
+person concerned will be taken into account in an appropriate manner when
+planning the next steps. If business partners/third parties, supervisors, col-
+leagues or other members of the company prompt, threaten or compel an em-
+ployee to support a violation of the applicable law or the provisions of these
+Codes, the employee must refuse the re-quest. We protect all employees from
+adverse treatment or retaliation in the event of compliant conduct (e.g., denial
+of such requests); or when such incidents are reported in good faith.
+6. FINAL PROVISIONS
+(1) Violations of adesso's corporate principles may - depending on the severity of
+the violation - result in disciplinary and / or labour law measures.
+(2) Failure to comply with the principles of the "Integrity" chapter will result in im-
+mediate dismissal and reporting to the criminal prosecution authorities.
+ANNEX A
+Examples of conflicts of interest:
+(1) An employee reports to a superior who is a relative or close friend and has
+control over his tasks, salary and professional development.
+(2) An employee is a key account manager at adesso responsible for a company
+where a relative or close friend works in the crucial position.
+(3) A developer works part-time in the evening for a company that produces soft-
+ware that competes with a software product from adesso.
+Code of Conduct
+17 | 18(4) A buyer accepts trips and gifts from a vendor and then selects the vendor's
+products for purchase by adesso.
+Code of Conduct
+18 | 18

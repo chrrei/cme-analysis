@@ -1,0 +1,878 @@
+Intel Code
+of Conduct
+JANUARY 2021What We Stand For
+Integrity
+We believe in doing the right things right everywhere we do business.
+Ethical Leadership
+Our values inform our business decisions, so that we deliver solutions that
+matter to our customers and stakeholders, we maintain the trust of our
+employees, business partners and communities, and we uphold Intel’s
+reputation as an ethical, legal, and respected company.
+Respect
+We value human dignity, individual differences, diversity of thought, and the
+quality of ideas, innovation, and solutions that result.
+Speaking Up
+We have the courage to ask questions and raise concerns about any
+situation, condition, or action that appears inconsistent with our Code of
+Conduct, company policy, or applicable law, knowing that our voice will be
+heard without retaliation or reprisal.
+Responsibility
+We are responsible for meeting our commitments and are transparent in the
+manner in which we deliver results for our customers and stakeholders.
+JANUARY 2021What We Prohibit
+Dishonesty
+We don't mislead our customers, suppliers, distributors, or each other. We do
+not falsify or misrepresent information in or about our books and records, or
+engage in unfair competition.
+Illegal Activity
+We do not violate the law and don’t support others to violate the law either.
+This includes violating laws related to antitrust, bribery, corruption,
+environmental standards, product safety, human rights, privacy, insider
+trading, global trade, employment, and other laws that apply to our business.
+Retaliation
+We don't harass, bully, intimidate, engage in acts of violence toward others,
+or retaliate against anyone who speaks up in good faith or participates in an
+investigation.
+Conflicts of Interest
+We avoid situations that interfere or appear to interfere with our ability to act
+in the best interests of Intel.
+Misuse of Assets
+We don't misuse Intel assets or confidential information or those of our
+business partners, disclose confidential information entrusted to us without
+proper authorization, or put the security of our assets in jeopardy.
+JANUARY 2021Table of Contents
+A Culture of Uncompromising Integrity .............................................................. 1
+Our Vision, Purpose, and Values ....................................................................... 2
+Your Responsibility ......................................................................................... 3
+Code Principles ................................................................................. 3
+Asking Questions and Reporting Concerns ......................................................... 4
+Ways to Seek Guidance and Report Concerns ....................................... 4
+Non-Retaliation Policy ........................................................................ 5
+Conduct Business with Honesty and Integrity ..................................................... 6
+Communicating Clearly and Professionally in Business............................ 6
+Conducting Business with Customers, Suppliers, Distributors and Others .. 6
+Being a Responsible Corporate Citizen ................................................. 6
+Preparing Accurate Financial and Other Records .................................... 7
+Follow the Letter and Spirit of the Law .............................................................. 7
+Antitrust .......................................................................................... 8
+Bribery and Anti-Corruption ............................................................... 8
+Environmental, Health and Safety ....................................................... 9
+Product Safety & Regulatory ............................................................... 9
+Trade Compliance ............................................................................. 9
+Insider Trading ................................................................................ 10
+Intellectual Property ......................................................................... 11
+Privacy ........................................................................................... 11
+Public Communications ..................................................................... 11
+Treat Each Other Fairly .................................................................................. 12
+Open and Honest Communication ...................................................... 12
+Equal Employment Opportunities and Diversity .................................... 12
+Anti-Harassment ............................................................................. 13
+Respect for Human Rights ................................................................. 13
+Safety ............................................................................................ 13
+Workplace Violence .......................................................................... 14
+Act in the Best Interests of Intel and Avoid Conflicts of Interest ........................... 14
+Handling Conflicts of Interest ............................................................ 14
+Gifts, Meals, Entertainment, and Travel .............................................. 14
+Protect the Company’s Assets and Confidential Information ................................. 15
+JANUARY 2021Protecting Physical Assets ................................................................. 15
+Protecting Confidential Information .................................................... 15
+Safeguarding Trademarks and Brands ................................................. 16
+Representing Intel ........................................................................... 16
+Approvals and Waivers .................................................................................. 16
+Reminders ................................................................................................... 17
+Code of Conduct Glossary Terms and Definitions ............................................... 18
+JANUARY 2021INTEL CODE OF CONDUCT
+A Culture of Uncompromising Integrity
+Since the company began, uncompromising integrity and professionalism
+have been the cornerstones of Intel's business. In all that we do, Intel
+supports and upholds a set of core values and principles. Our future growth
+depends on each of us understanding these values and principles and
+continuously demonstrating the uncompromising integrity that is the
+foundation of our company.
+The Code of Conduct sets the standard for how we work together to develop
+and deliver product, how we protect the value of Intel and its subsidiaries
+(collectively known as ‘Intel’), and how we work with customers, suppliers,
+distributors and others. All of us at Intel must abide by the Code, our
+Employment Guidelines, and other applicable policies when conducting Intel-
+related business.
+JANUARY 2021 PAGE 1INTEL CODE OF CONDUCT
+Our Vision, Purpose, and Values
+Our Vision
+We are on a journey to be the trusted performance leader that unleashes the
+potential of data.
+Our Purpose
+We exist to create world-changing technology that enriches the lives of every
+person on earth.
+Our Values
+Customer Obsessed
+• We listen, learn, and anticipate our customers’ needs to deliver on their
+ambitions.
+• Our customers’ success is our success.
+One Intel
+• We appreciate, respect and trust each other.
+• We commit to team over individual success. We are stronger together.
+• Innovators at heart, we bring fun to work every day.
+Fearless
+• We are bold and innovative.
+• We take risks, fail fast, and learn from mistakes to be better, faster, and
+smarter the next time.
+Truth & Transparency
+• We are committed to being open, honest, ethical, and timely with our
+information and feedback.
+• We constructively challenge in the spirit of getting to the best possible
+result.
+• We act with uncompromising integrity.
+Inclusion
+• We strive to build a culture of belonging.
+• We create a space where everyone can contribute to their fullest potential
+and deliver their best work.
+• We welcome differences, knowing it makes us better.
+Quality
+• We deliver quality and ensure a safe workplace.
+• We have the discipline to deliver products and services that our customers
+and partners can always rely on.
+JANUARY 2021 PAGE 2INTEL CODE OF CONDUCT
+Your Responsibility
+Intel’s Code of Conduct applies to all employees and sets expectations for
+Intel Corporation and its subsidiaries (referred to collectively as ‘Intel’) as
+well as our non-employee members of the Board of Directors regarding their
+Intel-related activities. The Code of Conduct also applies to independent
+contractors, consultants, suppliers and others who do business with Intel;
+those that do business with Intel can establish more restrictive policies, but
+cannot operate under less restrictive policies.
+Specifics on seeking guidance and reporting ethical concerns, as well as other
+specifics, such as supplemental policies or guidelines related to this Code of
+Conduct, may differ by company and/or country and are subject to local
+laws.
+Employees are encouraged to review the Code of Conduct Frequently Asked
+Questions and other related resources for further guidance. If you have
+questions on how the Code of Conduct may apply, please contact Legal or
+Ask Ethics.
+Each employee is responsible for reading, understanding, and following the
+Code. Employees who violate the Code are subject to discipline, up to and
+including termination of employment. Anyone who violates the law may also
+be subject to civil and criminal penalties.
+Code Principles
+The Code affirms Intel’s five principles of conduct:
+• Conduct business with honesty and integrity. Conduct business
+with uncompromising integrity and professionalism, demonstrating
+honesty and high ethical standards in all business dealings and
+treating customers, suppliers, distributors, and others with fairness,
+honesty and respect.
+• Follow the letter and spirit of the law. Ensure that business
+decisions comply with all applicable laws and regulations of the many
+countries in which Intel does business.
+• Treat each other fairly. Work as a team with respect and trust for
+each other.
+• Act in the best interests of Intel and avoid conflicts of interest.
+Avoid situations where our personal or family interests interfere — or
+even appear to interfere—with our ability to make sound business
+decisions in the best interest of Intel.
+• Protect the company’s assets and confidential information.
+Protect the value of Intel’s assets, including physical assets,
+intellectual property, confidential information, Intel brands, and its
+JANUARY 2021 PAGE 3INTEL CODE OF CONDUCT
+name and reputation as well as the confidentiality of information of our
+customers, suppliers and employees.
+Asking Questions and Reporting Concerns
+To help our company conduct business with uncompromising integrity and
+professionalism, every employee has an obligation to report possible
+violations of the law, the Code, and other company guidelines.
+Managers and employees who learn of a possible violation of law, regulation,
+or Intel legal policy must immediately report that concern to Legal or Internal
+Audit.
+Ways to Seek Guidance and Report Concerns
+Because the Code cannot address every situation, you should seek guidance
+whenever you are unsure about the correct course of action. There are many
+ways to ask questions about the Code or report concerns:
+• In accordance with Intel’s Open Door Guideline, you can ask questions
+and report concerns about the Code with any manager, such as your
+direct manager, a department head, a division general manager, or
+another manager up to and including the Executive Office;
+• You can ask questions or report concerns with internal groups who
+specialize in handling such issues, including Human Resources,
+Internal Audit, Legal, Corporate Security, Information Security, or your
+group or site Ethics & Compliance Business Champion;
+• You can find answers to your questions at the Ask Ethics portal; and
+• You can report an ethics or compliance or safety concern online or by
+phone through the Intel Ethics and Compliance Reporting Portal, which
+is hosted by a third party and allows anonymous reporting where
+permitted by law.
+Employees of Intel subsidiaries may have additional reporting channels for
+asking questions and reporting concerns.
+For other work related concerns, you are encouraged to contact the
+confidential reporting e-mail account at harassment.concerns@intel.com, Get
+HR Help, your Human Resources representative, or Employment and Labor
+Legal (ELL).
+An employee does not need to be certain about a concern, have evidence of
+misconduct, or even know that a violation of the Code, policy or law has
+occurred to report. No matter how you choose to raise a concern, we take all
+reports seriously. An Intel team will promptly review the matter to determine
+what actions are appropriate based on the findings consistent with applicable
+law, Intel’s Code of Conduct, and other applicable company guidelines.
+All employees of Intel and its subsidiaries are required to cooperate fully with
+internal investigations, including providing honest, truthful and complete
+information (except where that would result in disclosure of the employee’s
+participation in concerted activity under the U.S. National Labor Relations
+JANUARY 2021 PAGE 4INTEL CODE OF CONDUCT
+Act). Employees who fail to do so are subject to disciplinary action up to and
+including termination of employment, in accordance with applicable local
+laws. For investigations into alleged violations of the U.S. National Labor
+Relations Act, an employee’s participation, while encouraged, is voluntary.
+Non-Retaliation Policy
+Intel does not tolerate retaliation against anyone who in good faith reports
+possible violations of law, the Code, or other company policies or procedures,
+questions on-going or proposed conduct, or participates in an internal
+investigation. Retaliation can include, among other things, demoting,
+transferring, or terminating anyone for raising a question or speaking up in
+good faith about a possible violation of the Code, company policy, or law.
+Employees who retaliate or attempt to retaliate against anyone who reports a
+concern in good faith or participates in an internal investigation are subject
+to discipline up to and including termination.
+Employees who believe they have experienced retaliation should contact ELL
+immediately.
+JANUARY 2021 PAGE 5INTEL CODE OF CONDUCT
+Conduct Business with Honesty and Integrity
+One of our core values is to conduct business with uncompromising integrity
+and professionalism. We put this value into practice by:
+• Communicating clearly, respectfully, and professionally in business,
+• Treating customers, suppliers, distributors, and others fairly,
+• Acting as a responsible corporate citizen, respecting human rights, and
+managing the impact of our business on the world around us, and
+• Keeping accurate financial and other books and records.
+Communicating Clearly and Professionally in Business
+We value clear, accurate, respectful and professional communication in all of
+our business interactions. Ambiguous and unprofessional communications –
+whether oral or written – can harm Intel. Even well-intentioned
+communications can be misinterpreted. Examples of communications include
+email, presentation materials, voicemails, text messages, and instant
+messaging, as well as content in social media and websites.
+Conducting Business with Customers, Suppliers, Distributors and
+Others
+Our success is based on strong relationships of mutual respect and trust with
+our customers, suppliers, distributors and others. To maintain these strong
+relationships, we treat everyone we deal with the way we would expect to be
+treated: with fairness, honesty, and respect.
+In our marketing and in our interactions with customers and potential
+customers, we always represent Intel products and services fairly and
+accurately.
+We expect our suppliers to comply with all applicable laws and regulations,
+Intel’s Code of Conduct and the corporate responsibility principles consistent
+with the Responsible Business Alliance (RBA) Code of Conduct. We expect
+our suppliers to hold their direct supply chain accountable to these
+expectations.
+Independent contractors, consultants, suppliers, distributors and others who
+conduct business with Intel risk termination of their relationship with Intel for
+violations of the Code.
+When conducting business or engaging with the U.S. Government, Intel
+employees or others acting on Intel’s behalf, must comply with requirements
+set out in our Intel Policy on Doing Business with the U.S. Government.
+Being a Responsible Corporate Citizen
+Intel has a long-standing, global reputation as a responsible corporate
+citizen. For us, corporate responsibility means achieving business success in
+JANUARY 2021 PAGE 6INTEL CODE OF CONDUCT
+ways that demonstrate respect for people and the planet and upholding the
+values and high standards of ethics expressed in our Human Rights Principles
+and our Environmental, Health and Safety Policy. Intel is a leader in
+supporting education and enhancing the communities in which we live and
+work.
+As reflected in our Corporate Responsibility Report, we demonstrate respect
+for people and the planet and ask all our employees to consider the short and
+long-term impacts to the environment and the community when they make
+business decisions. In all our activities, we need to uphold Intel’s long-
+standing, global reputation as a role model for ethical and socially
+responsible behavior.
+Preparing Accurate Financial and Other Records
+Our financial and other business records shape the business decisions we
+make. We are responsible for ensuring that Intel’s books and records are full,
+fair, accurate, timely, and understandable reflections of the company’s
+operations and business activities.
+Any records required by our jobs, such as contractual arrangements, time
+cards and expense reports must be accurate, complete and properly
+authorized. If questions arise, ask a direct or other manager for assistance.
+If you become aware of records that may be inaccurate, report the situation
+immediately to Finance or Legal. We do not support or condone preparing
+false records under any circumstances.
+We are responsible for fairly representing the information contained in Intel’s
+books and records. This includes internal management reporting as well as
+external reporting, including our public statements, statutory filings and
+filings with the United States Securities and Exchange Commission.
+We employ auditors to ensure that the way we conduct business and keep
+records is consistent with relevant accounting standards. We must cooperate
+with auditors and ensure that anyone acting under our direction also
+cooperates with auditors.
+Follow the Letter and Spirit of the Law
+As a global company Intel must comply with the laws of the many countries
+in which it does business. We are each responsible for knowing and following
+all applicable laws or regulations.
+We also must act in a manner that upholds the spirit and the intent of the
+law. Where the Code or company guidelines differ from local laws or
+regulations, we must always follow the higher standard. If you believe the
+requirements of the Code conflict with local law, consult Legal.
+JANUARY 2021 PAGE 7INTEL CODE OF CONDUCT
+Violations of laws and regulations have serious consequences, both for the
+company and for the individuals involved. Therefore, when questions arise on
+these or other legal matters, you should always seek guidance from Legal.
+Some of the legal topics we encounter include antitrust, anti-corruption,
+environment, import-export, insider trading, intellectual property, privacy,
+and public communications.
+Antitrust
+Antitrust laws encourage free competition by prohibiting certain agreements
+and conduct that make it more difficult for companies to compete. Intel
+complies with antitrust laws everywhere we do business. Violating an
+antitrust law is a serious matter and can result in prison time for employees
+and large financial penalties and reputational damage for Intel.
+We compete vigorously and legally:
+• We are truthful when communicating about our products and our
+competitors’ products.
+• We focus on what customers should do with Intel, not what they
+should not do with our competitors.
+• We make design decisions that are based on improvements to our
+products.
+• We do not agree with other companies to limit hiring or recruiting of
+each other’s employees or to set employee compensation.
+• We do not communicate with competitors about price, cost, terms of
+sale, production levels, allocation of markets or other competitively
+sensitive information.
+• We do not agree with competitors not to sell to or buy from another
+company.
+For more guidance, read Intel’s Antitrust Policy. When questions arise,
+contact Intel Legal.
+Bribery and Anti-Corruption
+Intel strictly prohibits all forms of bribery. Intel’s policy is to comply with all
+anti-corruption laws and to accurately reflect all transactions in Intel’s books
+and records. We must never offer or accept bribes or kickbacks and must not
+participate in or facilitate corrupt activity of any kind. Many countries’ laws
+define facilitation payments made to government officials as bribes. We do
+not make facilitation payments on behalf of Intel to any government official.
+Intel’s prohibition against offering, promising or paying bribes also applies to
+third parties who provide services or act on Intel’s behalf, such as suppliers,
+agents, contractors, consultants and distributors. We must never engage a
+JANUARY 2021 PAGE 8INTEL CODE OF CONDUCT
+third party whom we believe may attempt to offer a bribe in connection with
+company business. Our anti-corruption expectations for third parties are set
+out in our Third Party Anti-Corruption Policy and Gifts, Meals, Entertainment
+and Travel (“GMET”) Policy for Third Parties.
+When doing business with governments, consult with Legal to be certain you
+are aware of any special rules or laws that apply. Obtain the required
+approvals in our Worldwide Business Gifts, Meals, Entertainment, and Travel
+Policy (“GMET Policy”) before providing anything of value to a Government
+Official.
+Environmental, Health and Safety
+A number of environmental laws, standards, requirements, and policies apply
+to our worldwide business operations, practices, and products. We have a
+responsibility to understand and follow these requirements, including:
+• Conserving energy, water, raw materials and other natural resources,
+• Managing materials and wastes properly, and
+• Complying with environmental permits and health and safety
+requirements.
+We support a precautionary approach to the materials used in our products
+and strive to reduce and minimize the use of hazardous materials and the
+environmental impact of our manufacturing technologies.
+We expect our suppliers and others to comply with all applicable
+environmental, health and safety laws and standards in their operations.
+Product Safety & Regulatory
+We protect people, property, and the environment through world-class
+product regulatory practices. Intel is committed to the safety of its
+employees, customers, and anyone who encounters our products. Our
+product design teams incorporate regulatory and safety compliance into the
+product regulatory lifecycle to ensure that we deliver the highest quality
+products to our customers and consumers. All safety and regulatory concerns
+and incidents are handled by Intel’s Product Safety and Regulatory Council.
+Trade Compliance
+In every country in which we do business, laws and regulations govern
+imports and exports. Many of these laws and regulations restrict or prohibit
+the physical shipment of our products or the transfer or electronic
+transmission of software and technology to certain destinations, entities, and
+foreign persons. Economic sanctions laws restrict with whom we can engage
+or may set certain parameters regarding how we engage. Customs laws,
+amongst other things, require accurate product information and payment of
+duties, if applicable. Export laws may require an export license or other
+JANUARY 2021 PAGE 9INTEL CODE OF CONDUCT
+appropriate government approval before an item may be shipped or
+transferred.
+We have a responsibility to comply with these laws and regulations.
+Therefore, we must clear all goods through customs and must not:
+• Proceed with a transaction if we know that a violation has occurred or
+is about to occur;
+• Transfer controlled software and technology unless appropriate
+authorizations are obtained; or
+• Apply an inappropriate monetary value to goods and services
+Violations, even inadvertent ones, could result in significant fines, civil and
+criminal penalties, denial of export licenses, loss of export privileges,
+mandatory audits, and/or customs inspections and delays. Because these
+laws and regulations are complex and unique in each country, we provide
+guidelines and training.
+Insider Trading
+Many countries have insider trading laws that restrict securities trading and
+other activities by anyone who is aware of material, non-public information.
+Material, non-public information is any information not generally known to
+the public that a reasonable investor would find significant in executing
+transactions to buy or sell securities in a company.
+Any employee who is aware of material, non-public information regarding
+Intel or any other company must not:
+• Trade in or execute transactions regarding that company’s stock or
+other securities,
+• Disclose that information to others who may buy or sell securities
+because of the information, or
+• Otherwise use the information for personal advantage or the personal
+advantage of others.
+When you have regular access to material, non-public information concerning
+Intel or another company, you need to take special care in planning
+securities trades. Intel has guidelines and policies to help you plan
+transactions consistent with the requirements of the securities laws. You can
+find more information in our Insider Trading Compliance page.
+Intel’s directors and all employees may not:
+• buy or sell Intel call options, Intel put options, or other Intel stock
+derivatives;
+• enter into any short sales or short positions (positions that allow the
+person to profit if the price of Intel securities goes down) with respect
+to Intel securities; or
+JANUARY 2021 PAGE 10INTEL CODE OF CONDUCT
+• buy, sell, or participate in instruments such as prepaid variable
+forwards, equity swaps, collars, and exchange funds if they involve
+Intel securities.
+Intellectual Property
+Intellectual property rights are crucial to protecting the investments that
+companies and individuals make in developing new products and ideas. We
+protect our intellectual property and respect the intellectual property rights of
+others.
+We may not copy, reproduce, or transmit protected material, such as writing,
+artwork, music, video, photographs, movie clips and software unless we have
+authorization or license.
+We must use the confidential information of Intel or others only for business
+purposes and disclose it only to those who are authorized and have a need to
+know. Even after we leave Intel employment, we must continue to protect
+confidential information (whether Intel's or another party’s) and not use or
+disclose it without authorization.
+Furthermore, we must not request or encourage anyone to use or disclose
+privileged or confidential information unless they are authorized to do so by
+the owner of that information.
+Privacy
+Many countries have privacy laws that govern the appropriate collection and
+use of personal information, which includes any information relating to an
+identifiable individual such as an email address, physical address, payment
+card information or government identification number.
+We are committed to protecting the reasonable privacy expectations of
+everyone with whom we do business, including our customers, consumers
+and employees. We believe responsible stewardship of personal information
+helps maintain trust in Intel and in our products and services. We recognize
+the importance individuals place on the ability to control the collection and
+use of their personal information. We have adopted the Intel Privacy
+Principles, the Intel Corporate Privacy Rules, and Intel’s Philosophy on
+Protecting Personal Information to demonstrate and define our commitment
+to privacy.
+As Intel employees, we each have a responsibility to comply with our privacy
+and security requirements.
+When questions, issues or concerns arise, consult your legal department or a
+member of your privacy compliance team.
+Public Communications
+As a publicly traded company, Intel must comply with a variety of regulations
+that govern public communications to investors and the public and promote
+JANUARY 2021 PAGE 11INTEL CODE OF CONDUCT
+transparency in financial markets. Intel has specific requirements for financial
+reports and documents that the company files with or submits to the U.S.
+Securities and Exchange Commission and in other public communications.
+Therefore, if you are responsible for preparing such reports or contributing
+information for such reports, you need to ensure that the disclosures are
+accurate, reliable, and complete.
+In addition, only authorized spokespersons may make public statements on
+behalf of Intel to the media or investors.
+If you are contacted by a reporter, blogger, analyst or the public requesting
+comments on behalf of Intel on a topic for which you are not authorized by
+the Global Communications Group and the General Manager of your business
+group to speak on behalf of the company, do not respond. Immediately refer
+the inquiry to the Global Communications Group or Legal.
+Treat Each Other Fairly
+One of our core values is to work as a team with respect and trust for each
+other. We strive to uphold open and honest communication and to protect
+employees from discrimination, harassment, or unsafe practices.
+Open and Honest Communication
+We value the free flow of thoughts, ideas, questions, and concerns. We
+encourage employees to raise work-related issues or concerns through our
+established processes as soon as issues or concerns arise.
+We do not tolerate any retaliation against employees for asking questions or
+making good faith reports of possible violations of law, the Code, or other
+guidelines.
+Equal Employment Opportunities and Diversity
+We value diversity in our workforce, as well as in our customers, suppliers,
+and others. We provide equal employment opportunity for all applicants and
+employees. We do not discriminate on the basis of race, color, religion,
+religious creed, sex, national origin, ancestry, age, physical or mental
+disability, medical condition, genetic information, military and veteran status,
+marital status, pregnancy, gender, gender expression, gender identity,
+sexual orientation, or any other characteristic protected by local law,
+regulation, or ordinance. We also make reasonable accommodations for
+disabled employees and applicants, and for the religious beliefs and practices
+of employees and applicants, as required by law.
+We follow these principles in all areas of employment including recruitment,
+hiring, training, promotion, compensation, benefits, transfer, and social and
+recreational programs.
+JANUARY 2021 PAGE 12INTEL CODE OF CONDUCT
+Anti-Harassment
+We are committed to providing a workplace free of harassment based on
+personal characteristics such as race, color, religion, religious creed, sex,
+national origin, ancestry, age, physical or mental disability, medical
+condition, genetic information, military and veteran status, marital status,
+pregnancy, gender, gender expression, gender identity, sexual orientation, or
+any other characteristic protected by local law, regulation, or ordinance. We
+strongly disapprove of and do not tolerate harassment of employees by
+managers or co-workers. We must treat everyone we interact with while
+performing work with dignity and respect.
+Respect for Human Rights
+Human rights are the fundamental rights, freedoms and standards of
+treatment to which all people are entitled. Respect for human rights is rooted
+in our values and applies wherever we do business. Our Global Human Rights
+Principles formalizes Intel’s commitment to respect human rights.
+We are committed to respecting human rights in our operations, our supply
+chain, our business partnerships, and our products. While we do not always
+know nor can we control what products our customers create or the
+applications end users may develop, Intel does not support or tolerate our
+products being used to violate human rights. We expect our suppliers and
+business partners to make the same commitment to respect human rights.
+We also believe human trafficking, forced, debt bonded, indentured, and
+slave labor are unacceptable. Intel’s Code and policies prohibit harsh or
+inhumane treatment, including corporal punishment or the threat of corporal
+punishment. Our policies prohibit the employment of anyone under the age
+of 16 in any position, and workers under the age of 18 are not to perform
+hazardous work. We also expect our suppliers to meet these expectations.
+Safety
+Intel is committed to providing a safe workplace for employees, customers,
+vendors, contractors, and others on Intel property.
+We comply with the safety laws, standards and guidelines that apply to our
+business. Sound safety practices are important in all of our workplaces.
+To protect our employees, the public, and our communities, we conduct no
+activity without the proper safety precautions and produce no product
+without the proper safeguards.
+We believe workplace injuries and illnesses are preventable. We
+communicate our expectations and safety protocols to employees and
+suppliers and explain the potential health and safety risks and implications of
+not following these requirements. We must not begin or continue any work
+activity contrary to safety requirements.
+JANUARY 2021 PAGE 13INTEL CODE OF CONDUCT
+Workplace Violence
+In keeping with our commitment to safety, Intel will not tolerate threats of
+any kind, whether explicit or implicit, threatening behavior, stalking or acts
+of violence. We take all reports of threatening behavior or violence seriously,
+look into the matter, and take appropriate action. For additional information,
+please visit Intel’s Workplace Violence Prevention website. In case of an
+emergency, contact Corporate Security.
+Act in the Best Interests of Intel and Avoid Conflicts of
+Interest
+We seek to avoid any activity that is or has the appearance of a conflict of
+interest with Intel. We do not engage in activities that compete with Intel or
+interfere with the proper performance of our duties or responsibilities to
+Intel. We do not use confidential company information, company assets
+(except as permitted under Intel’s Electronic Communications Guideline), or
+our role or position at Intel for personal gain. We avoid situations where our
+personal, outside business, or family interests could impair our ability to
+make sound business decisions in the best interest of Intel.
+Handling Conflicts of Interest
+All employees must disclose to their managers in writing any conflict or
+appearance of a conflict of interest with Intel; directors and executive officers
+may choose instead to disclose the issue to the General Counsel, Chief
+Compliance Officer or the Board of Directors. Managers or other permitted
+persons to whom disclosures are made will determine, in consultation with
+Legal, ELL Legal, Internal Audit, or the Board, as necessary, if a conflict, or a
+perception of a conflict, exists, and if so, how to resolve it. The employee is
+responsible for memorializing the resolution in writing. In addition to these
+requirements, when conducting outside business activities, employees must
+also follow the Conducting Outside Business Guideline. Disclosure is
+mandatory; failing to disclose a conflict or a perceived conflict is a violation
+of the Code.
+Gifts, Meals, Entertainment, and Travel
+The exchange or provision of gifts, meals, entertainment and travel (“GMET”)
+may create a real or perceived conflict of interest or a situation where those
+expenses could be viewed as a bribe under applicable laws and international
+standards. Intel expects its employees and third parties to comply with the
+following principles when giving or receiving GMET:
+• We comply with anti-corruption laws.
+• The GMET must be for a legitimate purpose, such as to promote,
+demonstrate, or explain a company product, position, or service.
+JANUARY 2021 PAGE 14INTEL CODE OF CONDUCT
+• The GMET must not place the recipient under any obligation. We do
+not offer, promise, or give anything of value with the intent to
+improperly influence any act or decision of the recipient in Intel’s or
+your company’s favor, or with the intent of compromising the
+recipient’s objectivity in making business decisions.
+• The GMET must be made openly and transparently, be reasonable, and
+appropriate to the business relationship and local customs, and not
+cause embarrassment by its disclosure.
+• Accurately record all GMET provided on Intel’s behalf.
+• We give GMET to a Government Official (including employees of
+government agencies, public institutions and state-owned enterprises)
+only in limited circumstances and only with the proper approvals.
+For more information, consult Intel’s Worldwide Business Gifts, Meals,
+Entertainment, and Travel Policy (“GMET Policy”). For questions and
+additional guidance, consult Legal.
+Protect the Company’s Assets and Confidential
+Information
+We spend considerable resources to develop and maintain assets used for
+the company’s business. We each have a responsibility to comply with all
+procedures that protect the value of Intel’s assets, including physical assets,
+information, Intel brands, and its name and reputation, and to protect
+confidential information customers and others have entrusted to us.
+Protecting Physical Assets
+Our physical assets include facilities, equipment, and computer and
+communications systems. We are to use these assets primarily for our
+business. As a narrow exception, we may use computer and communications
+systems for reasonable, personal use.
+We need to follow applicable security and use procedures to protect the
+company’s physical assets from theft, loss, damage, and misuse, including
+unauthorized access. Report the theft, loss, damage, or misuse of company
+physical assets to Corporate Security as soon as possible.
+While we respect employee privacy, we should not assume that our desk,
+cubicle, or use of compute devices or telephone equipment is private or
+confidential. Subject to local laws and under the guidance of Legal, Intel may
+search and review both incoming and outgoing communications and all
+device information, including any password-protected employee
+communications.
+Protecting Confidential Information
+Confidential information is valuable to Intel. It gives Intel a competitive
+advantage, helps maintain the trust of our customers, and sustains the solid
+JANUARY 2021 PAGE 15INTEL CODE OF CONDUCT
+reputation on which Intel was built. Confidential information includes
+information about unreleased products, product roadmaps, manufacturing
+dates and more. It also includes confidential information transmitted orally or
+by tweets, posts, blogs and other forms of social media.
+Each of us has a responsibility to protect and not to leak Intel confidential
+information or the confidential information of our customers and business
+partners, and we must not disclose or use this information without clear
+authorization. Physical assets and documents must be handled in compliance
+with information security policies. Improper disclosure of Intel or third party
+confidential information is a terminable offence, subject to applicable local
+law.
+If you become aware of unauthorized disclosure or loss of confidential
+information, contact Information Security or Legal. For questions or guidance
+on sharing on social media, contact social.media@intel.com.
+Safeguarding Trademarks and Brands
+Among our company’s most valuable assets are its trademarks and brands.
+To protect the value and recognition of our trademarks, we have established
+guidelines that specify how and when they may be used.
+We must follow these guidelines whenever we use the company’s trademarks
+and brands, whether in internal and external communications or in materials
+prepared by third parties, such as marketing agencies, channel distributors,
+and Original Equipment Manufacturers.
+Representing Intel
+The value of our reputation and name must be upheld whenever we
+represent our company. On occasion, Intel may request employees to act as
+representatives of other entities (for example, as an officer, director, adviser,
+agent or similar role). In those cases, an employee should discuss the
+situation with the direct manager. You may need to follow special rules to
+abide by the Code.
+In other cases, such as when speaking on business or technology topics in a
+public setting or posting on the Internet – including through social media
+applications and websites – you must make it clear that you are expressing
+your own views and not those of our company, unless you are speaking as an
+authorized spokesperson of the company.
+You must carefully follow special rules of conduct if you participate in or take
+a leadership position with an industry trade association, to avoid antitrust
+violations.
+Approvals and Waivers
+The Code sets out expectations for our company’s conduct. When certain
+situations require permission from management or another person before
+JANUARY 2021 PAGE 16INTEL CODE OF CONDUCT
+taking action, you need to raise the issue promptly to allow enough time for
+the necessary review and approval.
+In a particular circumstance we may find it appropriate to waive a provision
+of the Code. To seek a waiver, speak with a manager, who will consider the
+request in consultation with others, such as Internal Audit, Legal or Human
+Resources. Waivers of the Code of Conduct require the permission of Intel’s
+Chief Financial Officer, General Counsel, or Chief People Officer.
+Directors and executive officers who seek a waiver should address the Board
+of Directors or a designated committee of the Board. We disclose such
+waivers for directors and executive officers to the extent and in the manner
+required by law, regulation, or stock exchange listing standard.
+Reminders
+The Code serves as our guide for conducting business with integrity. It is not
+an employment contract and confers no rights relating to employment.
+The Code is not a complete list of company guidelines. You are expected to
+know and comply with all company guidelines related to your job. Violation of
+these other guidelines may also result in discipline, up to and including
+termination of employment.
+Intel may amend the Code from time to time as it deems necessary or
+appropriate.
+JANUARY 2021 PAGE 17INTEL CODE OF CONDUCT
+Code of Conduct Glossary Terms and Definitions
+Topic Term Definition
+Conduct Business with Honesty and Integrity
+Preparing Accurate Auditors Includes both external and internal auditors.
+Financial/Other
+Records
+Preparing Accurate Accounting Generally Accepted Accounting Principles (GAAP),
+Financial/Other Standards International Accounting Standards (IAS), Securities &
+Records Exchange Commission (SEC) regulations
+Follow the Letter and Spirit of the Law
+Bribery and Anti- Government official Government Officials: any officer, employee or
+Corruption person acting in an official capacity for any
+government department, agency or instrumentality,
+including state-owned or -controlled companies, and
+public international organizations, as well as a political
+party, political official, or candidate for political office.
+Some examples include: professors or researchers
+from public universities or research and design
+institutes; doctors from public hospitals and
+employees of state-owned telecommunication
+companies. Please consult Intel’s Worldwide Business
+Gifts, Meals, Entertainment, and Travel Policy (“GMET
+Policy”) for further details.
+Bribery and Anti- Bribe Bribery, under Intel policy, means promising, offering,
+Corruption or giving anything of value with the corrupt intent of
+improperly influencing an act or decision of the
+recipient or obtaining an improper advantage in order
+to obtain or retain business.
+Bribery and Anti- Facilitation payment A small payment made to obtain a routine government
+Corruption action that involves non-discretionary acts, such
+as processing government papers, or supplying phone
+or water service. Paying an official to perform such
+routine work is regarded a bribe under many country
+laws. Expediting Fees: published government rates or
+fees that a government agency or entity charges for
+the purpose of expediting a service are permissible
+payments. Such payments are made to a government
+agency and an official receipt issued by the
+government agency for the expedited service must be
+obtained as proof of payment.
+Environmental, Precautionary An approach where the health or environmental risks
+Health and Safety approach from using a material and striving to find cleaner and
+safer alternatives are carefully considered.
+JANUARY 2021 PAGE 18INTEL CODE OF CONDUCT
+Topic Term Definition
+Trade Compliance Import An import is any item coming into a country or
+crossing a border. Imports may be subject to customs
+duty, quota restrictions, bans, or licensing
+requirements, depending on the country of origin and
+the item.
+Trade Compliance Export The transfer of a physical item or technology, the
+disclosure (oral or visual) of technology or act of
+providing a service that is subject to an export
+regulation.
+Intellectual Property Privileged (attorney- The attorney-client privilege is a legal concept that
+client privilege) protects communications between a client and his/her
+attorney in which the communication involves seeking
+or providing legal advice. Please note: the privilege
+varies per jurisdiction. If you have questions about
+whether a communication is privileged or not, you
+should consult Legal.
+Intellectual Property Intellectual property Intellectual property rights include patents/patent
+rights applications, trademarks, copyrights, trade secrets,
+know how, and mask work rights.
+Privacy Privacy Privacy is defined as an individual’s right to keep
+aspects of his or her personal life secret. This includes
+an organization’s responsibility to respect an
+individual’s privacy rights and to manage personal
+information appropriately, including collection, use,
+storage, or disclosure of an individual’s personal
+information.
+Note: An individual’s right to privacy is not limited to
+personal information only, but also includes other
+areas, such as behavioral privacy (an individual’s right
+to choose what they do and to keep certain behaviors
+from being shared with others) and communications
+privacy (the right to communicate without undue
+surveillance, monitoring, or censorship).
+Privacy Personal information Any information relating to an identifiable individual.
+Note: Personal Information is also known as Personal
+Data or Personally Identifiable Information.
+Examples of personal information include:
+Address, Biometric Information, e-Mail Address, Fax
+Number, Financial Information (such as Bank Account
+or Payment Card Information), Government
+Identification Number, Health/Medical information,
+Name, Personal Profiles, Photographs, Social Security
+Number, Telephone Number, etc.
+JANUARY 2021 PAGE 19INTEL CODE OF CONDUCT
+Topic Term Definition
+Public Authorized Authorized spokespersons are identified, selected and
+Communications spokespersons approved by their respective Business Unit GMs, Geo
+leads, and the Global Communications Group (GCG)
+based on communications objectives and need. Less
+than 1 percent of the Intel employee population is
+authorized to speak to media on behalf of the
+company.
+Treat Each Other Fairly
+Anti-Harassment Harassment Harassment under our Code of Conduct includes:
+verbal, physical and visual conduct that creates an
+intimidating, offensive, or hostile environment in the
+workplace that interferes with work performance, even
+if it is not unlawful. Harassment may be based on
+race, color, religion, sex, national origin, ancestry,
+age, disability, medical condition, genetic information,
+military and veteran status, marital status,
+pregnancy, gender, gender expression, gender
+identity, sexual orientation, or any other characteristic
+protected by local law, regulation, or ordinance.
+Respect for Human Debt bonded Debt bonded labor arises from a pledge of personal
+Rights services or a family member’s services by a debtor as
+security for a debt. At the outset, the individual
+typically understands that the pledge of labor is
+security for a debt and that the rendering of services
+will, in time, extinguish the debt; however, the debt is
+open-ended and a rolling tab continues to accrue
+making the debt and work arrangement self-
+perpetuating.
+Respect for Human Human trafficking Human Trafficking is defined as (1) the act of
+Rights recruiting, harboring, transporting, providing, or
+obtaining a person for labor services or commercial
+sex acts (2) by means of force, fraud, or coercion (3)
+for the purpose of exploitation, involuntary servitude,
+peonage, debt bondage, slavery, or any commercial
+sex act involving a minor.
+Respect for Human Corporal punishment Corporal punishment refers to physical punishment.
+Rights For example, caning and flogging are examples of
+corporal punishment.
+Protect the Company’s Assets and Confidential Information
+JANUARY 2021 PAGE 20INTEL CODE OF CONDUCT
+Topic Term Definition
+Maintaining Confidential Confidential Information includes, without limitation:
+Information Security information technical information (e.g. roadmaps, schematics,
+source code, specifications), business information
+(e.g. product information, marketing strategies,
+markets, sales, customers, customer lists or phone
+books), personnel information (e.g. organizational
+charts, employee lists, skill sets, employee health
+information, names, phone numbers, email addresses,
+personnel files, employee compensation except where
+the disclosure of such personnel information is
+permissible under local labor law such as the right of
+employees to discuss compensation and working
+conditions under the US National Labor Relations Act),
+and other non-public Intel data and information of a
+similar nature.
+Safeguarding Trademark A trademark is anything that identifies the source of
+Trademarks and one’s goods or services and distinguishes them from
+Brands those of another, including a word, a name, a
+design, a color, a phrase, a sound, or even a
+scent. It is a word (Tide*), name (Howard
+Johnson*), symbol (McDonald’s Golden Arches*),
+device (Pillsbury Doughboy*), phrase (The Ultimate
+Driving Machine*) or sound (Intel Bong/Sonic) that is
+used in trade with goods to indicate the source of the
+goods and to distinguish them from the goods of
+others. A trademark is a valuable asset worth millions
+of dollars and signifies the standards of excellence and
+consistent quality associated with the Intel products
+and services. This gives the consumer an assurance
+of quality when making future purchasing decisions in
+the marketplace. Thus, a trademark is inherently
+bound up with the “good will,” and reputation, that is
+developed by the owner of the mark.
+Safeguarding Brands 1. A brand is a collection of images and ideas
+Trademarks and representing an economic producer; more specifically,
+Brands it refers to the concrete symbols such as a name,
+logo, slogan, and design scheme.
+2. Is often used interchangeably with "trademark".
+3. A brand is a sign identified by a distinctive word,
+phrase, sign, package or label. It is a representation of
+a company’s name, trademarks, products, designs and
+symbols.
+Safeguarding Channel distributors Re-sells company products to smaller accounts or end
+Trademarks and users
+Brands
+JANUARY 2021 PAGE 21INTEL CODE OF CONDUCT
+Topic Term Definition
+Representing Intel Antitrust violations There are provisions of the antitrust laws in the United
+States and worldwide that must be strictly complied
+with in order to prevent Intel and you from being
+accused of and found liable for violating these laws.
+JANUARY 2021 PAGE 22

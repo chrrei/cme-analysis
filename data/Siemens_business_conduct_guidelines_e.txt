@@ -1,0 +1,695 @@
+Siemens Business
+Conduct Guidelines
+September 2017
+siemens.com2
+Content
+Foreword 3 D. Handling of company property 24
+A. Basic behavioral requirements 5 E. Handling of Information 26
+A.1. Behavior which complies with law 6 E.1. Records and financial integrity 27
+A.2. Mutual respect, honesty and integrity 7 E.2. Confidentiality 28
+A.3. Responsibility for the reputation of Siemens 8 E.3. Data protection and data security 29
+A.4. Management, responsibility and supervision 9 E.4. Insider trading rules 30
+B. Treatment of business partners and third parties 11
+F. Environment, safety and health 32
+B.1. Fair competition and anti-trust laws 12
+F.1. Environment and technical safety 33
+B.2. Anti-corruption: offering and granting advantages 13
+F.2. Work safety 34
+B.3. Anti-corruption: demanding and accepting advantages 15
+B.4. Political contributions, charitable donations and sponsoring 16 G. Complaints and comments 35
+B.5. Government procurement 17
+H. Compliance implemen tation and monitoring 37
+B.6. Anti-money laundering 18
+Further information and contacts 39
+B.7. Trade controls 19
+B.8. Working with suppliers 20 Conventions and recommendations 40
+of international organizations
+C. Avoiding conflicts of interest 21
+C.1. Competing with Siemens 22
+C.2. Sideline work 22
+C.3. Interests in third companies 233
+Foreword
+I’m sure you’re aware of the fact that some- pany.” If we take that to heart, if we truly act in the interest of the com-
+times a small stone can trigger a major land- pany, we will follow the rules, the law, and generally applicable, socially
+slide. The same goes for unclean business prac- accepted values.
+tices. The misconduct of one individual can
+jeopardize the reputation and existence of an I urge you to read our Business Conduct Guidelines. They offer guidance
+entire company, putting hundreds of thou- for our daily business. They make it easier for us to decide how to behave
+sands of jobs on the line. in tricky situations. They tell us who we can turn to for advice. And they
+are based on statutory provisions as well as international and generally
+Siemens learned this the hard way. In 2006, accepted conventions on upholding human rights and fair competition.
+the corruption scandal had pushed the com-
+pany to the brink of the abyss. The financial damage was enormous, but All of us have the responsibility to be familiar with the rules and standards
+the loss of our good name was a far heavier burden. A global corporation, of the Business Conduct Guidelines, to adhere to them at all times, to
+synonymous with innovation, quality, reliability, and integrity since its make them an integral part of our lives, and to convey them to others. We
+founding in 1847, saw its reputation dragged through the dirt. With dili- at Siemens want to be a good example. And that involves taking responsi-
+gence and persistence, we succeeded in drawing the right conclusions bility for ourselves and others, upholding highest standards of integrity,
+and coming to terms with the scandal in an exemplary manner. It was a and doing what is right – not only because we want to follow the rules
+long and rocky road. Since then, we’ve gotten most things right: Today, but also because we believe they are valid. Ultimately, it’s about playing
+our compliance culture and our commitment to integrity in business are fair. Fairness is good for society. And fairness is what Siemens should
+recognized around the world. Today, we once again stand for what sets stand for – everywhere and at all times.
+Siemens apart.
+Today and in the future, only clean business is Siemens business – with-
+out any ifs or buts, without any compromises. That applies to me person-
+ally, to each member of the Managing Board, to each manager, and to
+Joe Kaeser
+each employee – to all of us, wherever in the world we represent Sie-
+President and Chief Executive Officer of Siemens AG
+mens. And it also applies to all of our business partners. So how should
+we conduct ourselves? The guiding principle of our ownership culture can
+be summarized in just nine words: “Always act as if it were your own com-4
+Foreword
+Dear Colleagues,
+"Only clean business is Siemens business." This is our premise and the standard
+that we set ourselves every day. The Business Conduct Guidelines are not a set of
+"compliance rules" intended just for experts; they provide us all with a common
+frame of reference in our daily work. The Legal and Compliance function is on
+hand to give you advice and practical support in all questions relating to the inter-
+pretation and application of the Business Conduct Guidelines, and to ensure that
+suspected violations are dealt with quickly, fairly and professionally. As you are
+already aware, our colleagues work with you in the Regions, Divisions, and other
+units and departments. We have put together a full list of your contacts here.
+Of course, you can also turn in confidence to our Tell Us Hotline or our
+Ombudsman if you have any information regarding potential misconduct.
+Please read through the Business Conduct Guidelines carefully and take advantage of the training courses
+on offer, which are always being updated. These in particular are intended to help you apply the Business
+Conduct Guidelines in your daily work.
+We have achieved a great deal since the corruption scandal of 2006 and the ensuing crisis which threatened
+our company's very existence. Once again, Siemens stands for integrity and reliability. Let us work together
+on a basis of mutual trust to ensure that it stays that way in the future, too.
+Andreas Hoffmann Klaus Moosmayer
+General Counsel of Siemens AG Chief Compliance Officer of Siemens AG5
+A. Basic behavioral requirements
+Basic behavioral
+requirements6
+A .1. Behavior which complies with law
+Observing the law and the legal system in every country where we do
+business is a fundamental principle for Siemens¹. All employees must
+obey the laws and regulations of the legal systems within which they are
+operating in addition to applicable Siemens policies. Violations of the law
+must be avoided under all circumstances.
+Regardless of the sanctions that could be imposed by law, all employees
+guilty of a violation will be subject to disciplinary consequences because
+of the violation of their employment duties.
+1 "Company” or “Siemens” denotes Siemens AG or its subsidiaries.
+Basic behavioral
+Baresqicu bireehmaevinotrsal
+requirements7
+A .2. Mutual respect, honesty and integrity
+We respect the personal dignity, privacy, and personal rights of every
+individual. We work together with individuals of various ethnic back-
+grounds, cultures, religions, ages, disabilities, races, sexual identity, world
+view and gender. Consistent with our corporate principles and with the
+employment laws of numerous countries in which we work, we do not
+tolerate discrimination against anyone on the basis of any of these
+characteristics or harassment or offensive behavior, whether sexual or
+otherwise personal.
+These principles apply to both internal cooperation and conduct towards
+external partners. We make decisions about those we work with – including
+personnel, suppliers, customers and business partners – based only on
+appropriate considerations, not on the basis of inappropriate considerations
+such as discrimination or coercion.
+We are open, honest and stand by our responsibilities. We are reliable part-
+ners and make no promises we cannot keep. And we expect our employees
+to act with integrity.
+Basic behavioral
+Baresqicu bireehmaevinotrsal
+requirements8
+A .3. Responsibility for the reputation of Siemens
+To a substantial degree, the reputation of Siemens is determined by our
+actions and by the way each and every one of us presents and conducts
+himself/herself. Illegal or inappropriate behavior on the part of even a
+single employee can cause the Company considerable damage.
+Every employee should be concerned with maintaining and promoting
+the good reputation of Siemens in the respective country.
+Basic behavioral
+Baresqicu bireehmaevinotrsal
+requirements9
+A .4. Management, responsibility and supervision
+The culture of integrity and compliance in an organization starts at the It is the responsibility of all managers to see to it that there are no viola-
+top. All managers must fulfill their duties of organization and supervision. tions of laws within their area of responsibility that proper supervision
+All managers bear responsibility for all employees entrusted to them. All could have prevented. They still remain responsible, even if they delegate
+managers must earn respect by exemplary personal behavior, perfor- particular tasks.
+mance, openness, and social competence. This means, among other
+things, that each manager must emphasize the importance of ethical
+conduct and compliance, make them regular topics of everyday business
+and promote them through personal leadership and training. Each man-
+ager must also set clear, ambitious and realistic goals and lead by exam-
+ple.
+Managers should permit their employees as much individual responsibility
+and leeway as possible, while making it clear that compliance is required
+under all circumstances, at all times. All managers shall also be accessible
+in case employees wish to raise compliance concerns, ask questions or
+discuss a professional or personal problem.
+These responsibilities of managers do not relieve employees of their own
+responsibilities. We must all work together to comply with applicable laws
+and Siemens policies. These specific manager responsibilities are listed
+here to give employees an idea of the leadership and support they should
+expect from their superiors.
+Basic behavioral
+Baresqicu bireehmaevinotrsal
+requirements10
+In particular, the following duties apply to managers:
+1. The manager must carefully select employees based on their personal
+and professional qualifications and suitability. The duty of due care
+increases with the significance of the task the employee must perform
+(duty of selection).
+2. The manager must give precise, complete and binding instructions to
+employees, especially with regard to compliance with the law (duty to
+give instructions).
+3. The manager must ensure that compliance with the law is continuously
+monitored (duty of monitoring).
+4. The manager must clearly communicate to employees the importance
+of integrity and compliance in everyday business. He/she must also
+communicate that violations of the law are unacceptable and will
+have employment consequences (duty of communication).
+Basic behavioral
+Baresqicu bireehmaevinotrsal
+requirements11
+B. Treatment of business partners and third parties
+Treatment of
+business partners
+and third parties12
+B.1. Fair competition and anti-trust laws
+Fair competition permits markets to develop freely – with attendant social Moreover, employees may not obtain competitive intelligence by using
+benefits. Accordingly, the principle of fairness also applies to competition industrial espionage, bribery, theft or electronic eavesdropping, or com-
+for market share. municate knowingly false information about a competitor or its products
+or services.
+Every employee is obliged to abide by the rules of fair competition.
+Anti-trust evaluation can be difficult, particularly because the rules can
+differ from country to country and from case to case. For example, in
+many places special anti-trust law requirements apply to large companies.
+Here are examples of the types of behavior that can lead to a violation of
+anti-trust laws. Employees may not:
+• talk to competitors about prices, output, capacities, sales, bids, profits,
+profit margins, costs, methods of distribution or any other parameter
+that determines or influences the Company’s competitive behavior
+with the aim to solicit parallel behavior from the competitor,
+• enter into an agreement with a competitor not to compete, to restrict
+dealings with suppliers, to submit bogus offers for bidding or to divide
+up customers, markets, territories or production programs,
+• have any influence on the resale prices charged by our purchasers, or
+attempt to make them restrict the export or import of goods supplied
+by Siemens.
+Treatment of
+buTsrineaetsms peanrtt nofe rs
+baunsdin tehsirsd p paartrntieerss
+and third parties13
+B.2. Anti-corruption: offering and granting advantages
+We compete fairly for orders with the quality and the price of our innovative
+products and services, not by offering improper benefits to others. As a
+result, no employee may directly or indirectly offer, promise, grant or autho-
+rize the giving of money or anything else of value to a government official
+to influence official action or obtain an improper advantage. The same
+applies to a private commercial counterparty in a business transaction in
+consideration for an improper advantage. Any offer, promise, grant or gift
+must comply with applicable laws and Siemens’ policies, and must not raise
+an appearance of bad faith or unsuitableness. This means that no such offer,
+promise, grant or gift may be made if it could reasonably be understood as
+an effort to improperly influence a government official or as a bribe to a
+commercial counterparty to grant Siemens a business advantage.
+The term government official is defined broadly to include officials or
+employees of any government or other public body, agency or legal entity,
+at any level, including officers or employees of stateowned enterprises and
+public international organizations. It also includes candidates for political
+office, political party officials and employees, as well as political parties.
+In addition, employees may also not give money or anything of value
+indirectly (for example, to a consultant, agent, intermediary, business
+partner or other third party) if the circumstances indicate that all or part
+of may possibly be directly or indirectly passed on to a government official
+to influence official action or obtain an improper advantage or to a private
+commercial counterparty in consideration for an unfair advantage in a
+business transaction.
+Treatment of
+buTsrineaetsms peanrtt nofe rs
+baunsdin tehsirsd p paartrntieerss
+and third parties14
+For that reason, employees responsible for hiring consultants, agents,
+partners in joint ventures or comparable entities must take action as
+appropriate to:
+• ensure that those third parties understand and will abide by Siemens’
+anti-corruption policies or comparable equivalents,
+• evaluate the qualifications and reputation of such third parties, and
+• include appropriate provisions in agreements and contracts designed
+to protect Siemens.
+This applies in particular, but not only if they have contact with govern-
+ment officials on behalf of Siemens.
+Finally, each investment decision made by the Company – whether it is the
+purchase of a controlling interest in a company or a minority interest, or a
+joint venture arrangement – must be based on a prior compliance check.
+Treatment of
+buTsrineaetsms peanrtt nofe rs
+baunsdin tehsirsd p paartrntieerss
+and third parties15
+B.3. Anti-corruption: demanding and accepting advantages
+Employees are not permitted to use their jobs to solicit, to demand, ac-
+cept, obtain or be promised advantages. This does not apply to the accep-
+tance of occasional gifts of purely symbolic value or meals or entertain-
+ment reasonable in value that are consistent with local customs and
+practices and Siemens policies. Any other gifts, meals or entertainment
+must be refused.
+Treatment of
+buTsrineaetsms peanrtt nofe rs
+baunsdin tehsirsd p paartrntieerss
+and third parties16
+B.4. Political contributions, charitable donations and sponsoring
+Siemens does not make political contributions (donations to politicians, Sponsoring means any contribution in money or in kind by Siemens
+political parties or political organizations). towards an event organized by a third party in return for the opportunity
+to advertise the Siemens brands by, for example, displaying the Siemens
+As a responsible member of society, Siemens makes monetary or product logo, being mentioned in the opening or closing addresses, or the partici-
+donations for education and science, art and culture, and social and humani- pation of a speaker on a discussion panel, as well as tickets to the event.
+tarian projects. Sponsorships for which Siemens receives advertising are not
+considered donations, nor are contributions to industry associations or fees All sponsoring contributions must be transparent, pursuant to written
+for memberships in organizations that serve business interests. agreement, for legitimate business purposes, and commensurate with the
+consideration offered by the event host.
+Some donations are always prohibited, including donations
+Contributions may not be promised, offered or made to secure unjustified
+1. to individuals and for-profit organizations, competitive advantages for Siemens or for other improper purposes, and
+2. paid to private accounts, they may not be made towards events organized by individuals or organiza-
+tions that have goals incompatible with Siemens’ corporate principles or that
+3. to organizations whose goals are incompatible with Siemens’ corporate
+would damage Siemens’ reputation.
+principles, or
+4. that would damage Siemens’ reputation.
+All donations must be transparent. This means, among other things, that the
+recipient’s identity and planned use of the donation must be clear and the
+reason and purpose for the donation must be justifiable and documented.
+Quasi-donations, meaning donations which appear to be compensation for
+a service but are substantially larger than the value of the service, are pro-
+hibited as violating the principles of transparency.
+Treatment of
+buTsrineaetsms peanrtt nofe rs
+baunsdin tehsirsd p paartrntieerss
+and third parties17
+B.5. Government procurement
+Siemens competes for contracts from government entities and govern-
+mentowned businesses around the world. In all of Siemens’ dealings and
+interactions with governments, we act in a manner that is transparent,
+honest and accurate.
+We comply with all applicable laws and regulations related to government
+procurements, including laws prohibiting efforts to improperly influence
+government officials.
+Treatment of
+buTsrineaetsms peanrtt nofe rs
+baunsdin tehsirsd p paartrntieerss
+and third parties18
+B.6. Anti-money laundering
+Money laundering is the process of disguising the nature and source of
+money connected with criminal activity – such as terrorism, drug trafficking
+or bribery – by integrating dirty money into the stream of commerce so that
+it appears legitimate or its true source or owner cannot be identified.
+It is Siemens’ objective to conduct business with reputable customers,
+consultants and business partners who are involved in lawful business
+activities and whose funds are derived from legitimate sources. We do not
+facilitate money laundering.
+All employees must abide by applicable anti-money laundering laws and
+Siemens’ procedures, such as finavigate®, designed to detect and deter
+suspicious forms of payment or customers or other transactions that could
+involve money laundering. To avoid problems in this area, employees must
+be attentive to and report suspicious behavior by customers, consultants
+and business partners. Employees must also follow all accounting, record-
+keeping and financial reporting requirements applicable to cash and pay-
+ments in connection with other transactions and contracts.
+Treatment of
+buTsrineaetsms peanrtt nofe rs
+baunsdin tehsirsd p paartrntieerss
+and third parties19
+B.7. Trade controls
+Siemens complies with applicable export controls and customs laws and
+regulations in the countries where it does business. Export controls gener-
+ally apply to the transfer of goods, services, hardware, software or tech-
+nology across certain national borders, including by email.
+Export control laws may be triggered in connection with direct or indirect
+exports to or imports from sanctioned countries or parties, who, for
+example, may be designated based on national security grounds or be-
+cause of participation in criminal activity. Violations of these laws and
+regulations may lead to serious penalties, including fines and governmen-
+tal withdrawal of simplified import and export procedures (interruption of
+seamless supply chain).
+Employees involved in the import and export of goods, services, hard-
+ware, software or technology as described above must follow applicable
+economic sanctions, export control and import laws and regulations and
+any related policies and procedures established by the business in which
+they work.
+Treatment of
+buTsrineaetsms peanrtt nofe rs
+baunsdin tehsirsd p paartrntieerss
+and third parties20
+B.8. Working with suppliers
+Siemens as a company expects its suppliers to share Siemens’ values and
+comply with all applicable laws. Furthermore, Siemens expects its suppliers
+to act in accordance with the following principles, similarly adopted by
+Siemens, concerning responsibilities vis-à-vis stakeholders and the environ-
+ment:
+• Comply with all applicable laws,
+• prohibit corruption,
+• respect basic human rights of employees,
+• comply with laws prohibiting child labor,
+• take responsibility for the health and safety of their employees,
+• act in accordance with applicable statutory and international standards
+regarding environmental protection, and
+• promote compliance among their suppliers with Siemens’ Code of
+Conduct for Suppliers.
+Treatment of
+buTsrineaetsms peanrtt nofe rs
+baunsdin tehsirsd p paartrntieerss
+and third parties21
+C. Avoiding conflicts of interest
+It is the duty of Siemens employees to make business decisions in the employee exercises or is capable of exercising a direct or indirect
+best interest of Siemens, not based on their own personal interests. influence upon whether that company receives a contract from
+Conflicts of interest arise when employees engage in activities or Siemens.
+advance personal interests at the expense of Siemens’ interests.
+A conflict can take the form of a business relationship with, or an
+Employees must inform their supervisor of any personal interest they interest in, a competitor or customer of Siemens, or participation in
+could possibly have in connection with the execution of their profes- sideline activities that prevent employees from being able to fulfill
+sional duties. their responsibilities at Siemens. It is important that all employees
+recognize and avoid conflicts of interest, or even the appearance of a
+Employees are not permitted to use, for their own personal contracts conflict of interest, as they conduct their professional activities.
+or orders, companies with which they have business dealings as part
+of their activities for Siemens if they could derive any advantage from
+the personal contract or order. This is particularly applicable if the
+Avoiding conflicts
+of interest22
+C.1. Competing with Siemens
+An employee may not operate or assist a company that competes with
+Siemens or engage in any competing activities.
+Avoiding conflicts
+Avooidfi ningt ecroensftlicts
+of interest23
+C.2. Sideline work
+Employees may not engage in sideline work that competes with Siemens.
+Before employees may engage in other sideline work for remuneration
+they must notify Siemens and seek written permission.
+Occasional writing activities, lectures, and comparable occasional activi-
+ties are not considered sideline work. Permission will not be granted if it is
+detrimental to the interests of Siemens. Permission may be refused if
+employees have dealings in the course of their official Siemens’ duties
+with the company in question. Previously granted permission may be
+revoked on these grounds as well.
+Avoiding conflicts
+Avooidfi ningt ecroensftlicts
+of interest24
+C.3. Interests in third companies
+Employees who directly or indirectly hold or acquire a stake in a competi-
+tor company, must disclose this fact to their personnel department if this
+stake gives them the opportunity to exert influence on the management
+of that company. It can be assumed, as a general rule, that the possibility
+of exerting influence on the management exists when a stake exceeds
+5 % of a competitor company’s total capital.
+Employees who directly or indirectly hold or acquire an interest in a
+Siemens business partner or a company in which Siemens has ownership
+shares also have to disclose this fact to the personnel department respon-
+sible, if they have dealings with the business partner or company in the
+course of their official duties or if they will hold a position in that company.
+For shares in listed companies, this applies only if the interest exceeds 5 %
+of total equity.
+Once an interest in a third company has been disclosed, the Company
+may take suitable measures to eliminate any conflict of interest.
+Avoiding conflicts
+Avooidfi ningt ecroensftlicts
+of interest25
+handling of
+company property26
+D. Handling of company property
+There are many devices and pieces of equipment in Siemens offices and
+workshops, such as telephones, copying machines, computers, software,
+Internet/Intranet, machines and other tools, including e-mail and answer-
+ing machine systems. These are only to be used for Company business and
+not for personal gain. Exceptions, and payment if applicable, can be
+agreed upon locally, provided that the use of Siemens property does not:
+• relate to any illegal activity,
+• cause an actual or perceived conflict of interest, or
+• lead to significant added costs, disruption of Siemens business or other
+adverse effects for the Company, including by interfering with an em-
+ployee’s assigned duties or the assigned duties of other employees.
+In no case may information be retrieved or transmitted that furthers or
+incites racial hatred, glorification of violence or other criminal acts, or
+contains material which is sexually offensive within the respective culture.
+Employees are not permitted without the consent of their supervisor to
+make records, files, video or audio recordings, or reproductions using
+Siemens equipment or facilities if the activity is not directly related to
+Company business.
+handling of
+comhpaanndyli npgro opfe rty
+company property27
+E. Handling of Information
+Handling of
+information28
+E.1. Records and financial integrity
+Open and effective communication requires accurate and truthful reporting.
+This applies equally to relationships with investors, employees, customers
+and business partners, as well as with the public and all governmental
+offices.
+Siemens is also required to maintain sound processes and controls so that
+transactions are executed according to management’s authorization.
+Siemens must also prevent and detect unauthorized use of Siemens assets.
+All Siemens employees are required to make sure that the Siemens books
+and records they create or are otherwise responsible for are:
+• complete,
+• accurate,
+• honestly reflect each transaction or expenditure, and
+• are timely and in accordance with applicable accounting rules and
+standards
+whether or not the information will be included in a public filing or provided
+to a government agency. Such books and records include all data, certifica-
+tions and other written materials provided for financial reporting and disclo-
+sure purposes as well as materials collected for other purposes. These also
+include internal expense records (such as expense account reports).
+Handling of
+iHnafonrdmlinagti oonf
+information29
+E. 2. Confidentiality
+Confidentiality must be maintained with regard to Siemens’ internal confi-
+dential or proprietary information that has not been made known to the
+public. Nonpublic information from or concerning suppliers, customers,
+employees, agents, consultants and other third parties must also be
+protected in accordance with legal and contractual requirements.
+Confidential or proprietary information may include, in particular:
+• details concerning a company’s organization and equipment, prices,
+sales, profits, markets, customers and other matters of business,
+• information on manufacturing or research and development, and
+• internal reporting figures.
+The obligation to maintain confidentiality extends beyond the termination
+of the relevant relationship, since the disclosure of confidential information
+could cause harm to Siemens’ business, clients or customers no matter when
+it is disclosed.
+Handling of
+iHnafonrdmlinagti oonf
+information30
+E. 3. Data protection and data security
+Access to the Intranet and Internet, worldwide electronic information
+exchange and dialogue, and electronic business dealings are all crucial to
+the effectiveness of each and every one of us, and for the success of the
+business as a whole. However, the advantages of electronic communication
+are tied to risks in terms of personal privacy protection and data security.
+Effective foresight with regard to these risks is an important component of
+information technology management, the leadership function, and also the
+behavior of each individual.
+Personal data may only be collected, processed, or used insofar as it is
+necessary for pre-determined, clear, and legitimate purposes. In addition,
+personal data must be maintained in a secure manner and appropriate
+precautions should be taken when transmitting it. High standards must be
+ensured with regard to data quality and technical protection against
+unauthorized access. The use of the data must be transparent for those
+concerned and the rights of those concerned must be safeguarded with
+regard to use and correction of information and, if applicable, to objec-
+tions pertaining to blocking, and deletion of information.
+In some jurisdictions (such as the European Union) there are strict laws
+and regulations pertaining to the collection and use of personal data,
+including data on others, such as customers or business partners. All
+employees must abide by such laws, to the extent they are applicable, to
+protect the privacy of others.
+Handling of
+iHnafonrdmlinagti oonf
+information31
+E. 4. Insider trading rules
+People who have inside information with regard to Siemens or another • technical or product developments,
+company, such as a customer, supplier or joint venture partner whose • major management changes, joint ventures
+securities are admitted to trading on a stock exchange or an organized and major business agreements, or
+securities market, are not allowed to trade in these companies’ securities
+• business relationships.
+or in financial instruments the prices of which depend directly or indirect-
+ly on these companies’ securities (insider securities).
+Inside information is any specific information which is not public knowl-
+edge relating to Siemens or such other issuer of insider securities, which, if
+it became publicly known, would likely have a significant effect on the
+price of the insider security. Such likelihood exists if a reasonable investor
+would view the information as likely to have an impact on the price of the
+security. It would also exist if a reasonable investor would take the infor-
+mation into account in making an investment decision.
+Inside information may be acquired as a result of an employee’s position
+and responsibilities or inadvertently, and includes non-public information
+about such things as:
+• financial results,
+• financial plans or budgets,
+• dividend changes,
+• significant mergers or acquisitions,
+• divestitures,
+• particularly important contract awards or strategic plans,
+• major developments in litigation,
+Handling of
+iHnafonrdmlinagti oonf
+information32
+The disclosure of inside information is unauthorized whenever it is made
+outside the normal scope of an insider’s work functions or professional
+duties, or in fulfilling other duties on behalf of the issuer. This applies
+both to information disclosed within Siemens and to information dis-
+closed outside Siemens, including to journalists, financial analysts, cus-
+tomers, consultants, family members, or friends. Furthermore, employees
+must always make sure that insider-relevant information is secured or
+kept under lock and key so that unauthorized persons cannot gain access
+to it.
+Persons who have inside information are not allowed to recommend that
+a third party acquire or dispose securities for which that information is
+relevant, or to otherwise induce a third party to do so.
+Managers can be held personally liable for damages in some cases if an
+employee violates insider trading rules and proper supervision could have
+prevented the violation.
+Additional or special insider trading rules and local law have to be com-
+plied with, as applicable.
+Handling of
+iHnafonrdmlinagti oonf
+information33
+F. Environment, safety and health
+Environment,
+safety and health34
+F.1. Environment and technical safety
+Protecting the environment and conserving natural resources are high
+priorities for our Company. Through management leadership and
+employee commitment, Siemens strives to conduct its operations in a
+manner that is safe for the environment and continually improves envi-
+ronmental performance. A worldwide environmental management system
+has been implemented by Siemens to ensure observation of the law and
+sets high standards for this purpose. Beginning at the product develop-
+ment stage, environmentally compatible design, technical safety and
+health protection are fixed as targets.
+All employees must contribute to these goals through their own behavior.
+Environment,
+saEfentvyi raonndm heenatl,t h
+safety and health35
+F. 2. Work Safety
+Protecting the health and safety of employees in the workplace is a high
+priority for Siemens. It is the responsibility of everyone to foster Siemens’
+efforts to conduct its operations in a safe manner. The responsibility vis-à-
+vis employees requires the best possible accidentprevention measures,
+and applies to:
+• the technical planning of workplaces, equipment and processes,
+• safety management, and
+• personal behavior in the everyday workplace.
+The work environment must conform to the requirements of health-
+oriented design.
+All employees must constantly be attentive to work safety.
+Environment,
+saEfentvyi raonndm heenatl,t h
+safety and health36
+Complaints and
+comments37
+G. Complaints and comments
+All employees may lodge a complaint with their supervisor, their compliance
+officer, personnel manager or some other person/unit designated for this
+purpose or with an existing internal works council.
+Circumstances which point to a violation of the Business Conduct Guide-
+lines are to be reported
+• to the Chief Compliance Officer,
+• to the Compliance Officer responsible for the Division,
+Regional or Corporate Units,
+• via the Tell Us reporting channel or
+• to the Siemens Ombudsman
+There is a special process for handling complaints related to accounting
+practices.
+All complaints can be submitted both confidentially and anonymously, and
+all complaints will be investigated. Corrective measures will be implemented
+if necessary.
+All documentation will be kept confidential to the extent permitted by
+law. No reprisal of any kind against complainants will be tolerated.
+Complaints and
+Cocmopmlaminetns tasnd
+comments38
+Compliance
+implementation
+and monitoring39
+H. Compliance implement ation and monitoring
+The management of Siemens throughout the world shall actively foster
+the widespread distribution of the Business Conduct Guidelines and see to
+it that they are implemented.
+Compliance with the law and observance of the Business Conduct Guide-
+lines shall be monitored worldwide in all Siemens companies on a regular
+basis. This shall be done in accordance with applicable national procedures
+and legal provisions.
+An extensive compliance organization is in place at the level of Siemens,
+the Divisions and Regions to ensure that the Siemens compliance system
+is enforced.
+Compliance
+imCpolemmpelinatnacteio n
+iamnpdl emmoennittoartiinogn
+and monitoring40
+Further information and contacts
+Integrity is at the heart of all our actions. These Guidelines define what If a Siemens employee is not sure what the right thing to do is in a specific
+integrity means for our business. But they can’t tell the whole story or case, there are many sources of information available to help, including
+answer every question. the employee’s supervisor and Division, Regional or Corporate Compliance
+Officer. Their responsibilities and contact details are available on the
+Siemens‘ Compliance Intranet Web Site provides additional information Siemens Intranet.
+that add content-related specifics to these Guidelines including detailed
+regulations covering certain topics, related processes, tools, training mate- In addition, he has the option to e-mail us at:
+rials and other aids as well as company-wide, frequently asked questions. askus.compliance@siemens.com
+Further information including our Siemens Compliance Brochure can Moreover, if an employee has discovered a case of possible misconduct,
+also be found on Siemens’ external Compliance Web Site. various options are available to report it. These include not only an em-
+ployee’s supervisor and compliance officer but also the Compliance report-
+ing channel Tell Us, now available 24/7 by phone and external Internet,
+and the Siemens Ombudsman.
+Further
+infFourrmthaetiro n
+ainnfdo crmonattaiocnts
+and contacts41
+Conventions and Recommendations
+of International Organizations
+In addition to the laws and regulations of individual countries, there are • International Bill of Human Rights consisting of the:
+a number of Conventions and Recommendations from international orga- – Universal Declaration of Human Rights, the
+nizations which are noteworthy. Although these documents are primarily – International Covenant on Civil and Political Rights and the
+addressed to Member States and not directly to companies, they never- – International Covenant on Economic, Social and Cultural Rights.
+theless function as important guidelines for the conduct of multinational • European Convention for the Protection of Human Rights and Funda-
+companies and their employees. Siemens supports the requirements of mental Freedoms
+these conventions and recommendations.
+• ILO (International Labor Organization) Tripartite Declaration of Prin-
+ciples concerning Multinational Enterprises and Social Policy and ILO
+Siemens is a participant in the United Nations Global Compact and regards
+Declaration on Fundamental Principles and Rights at work (specially
+its ten principles, as well as the rules laid down in the framework agree-
+with following issues: elimination of child labor, abolition of forced
+ment of the International Metalworkers‘ Federation (IMF), as binding for
+labor, prohibition of discrimination, freedom of association and right
+the entire Company. Otherwise, the Company´s internal arbitration
+to collective bargaining)
+arrangements apply.
+• OECD Guidelines for Multinational Enterprises
+Siemens is committed to embracing, supporting and enacting, within its • Agenda 21 on Sustainable Development (final document of the basic
+further sphere of influence, the set of core values in the areas of human UN-conference on environment and development, Rio de Janeiro)
+rights, labor standards, the environment, and anticorruption included
+• UN Convention Against Corruption
+therein as an integral part of its business strategy and operations.
+Siemens supports the United Nations Guiding Principles on Business and
+In line with its Global Compact commitment Siemens therefore expects its
+Human Rights. They provide important guidance for the further operation-
+employees, suppliers and business partners around the globe to recognize
+alization of the company’s responsibility to respect human rights.
+and apply particularly the standards of the:
+Conventions and
+recommendations
+of international
+organizations42
+Siemens AG
+Legal and Compliance
+Werner-von Siemens-Straße 1
+80333 München
+For the publisher:
+Dr. Klaus Moosmayer
+Edition:
+September 2017
+Copyrights:
+All rights, also that of translation, reprint and copy or parts thereof
+are reserved. No part of this work may be duplicated, reproduced,
+processed, distributed or published in any form (photo copy, CDROM,
+electronically, etc.) without the written consent of CSP. Changes to
+graphics must be approved. This document will not be recalled in the
+event of any alterations.
+© 2017 Siemens AG, Berlin and München

@@ -1,0 +1,899 @@
+Version 01/2023 | PUBLIC
+GLOBAL CODE OF
+ETHICS AND
+BUSINESS
+CONDUCT
+FOR EMPLOYEES1 Introduction 2 Values 3 You 4 Workplace 5 Business 6 Ecosystem 7 Society 2 / 45
+1 INTRODUCTION: A MESSAGE 5 ENSURING TRUST IN OUR BUSINESS 6 ENSURING TRUST WITH OUR
+FROM OUR CEO ECOSYSTEM
+5.1 Fraud ................................... 23
+6.1 Business Relationships with Organizations .. 34
+5.2 Organizational Conflicts of Interest ........ 23
+2 OUR VALUES AND CULTURE
+6.2 Contractual Changes and Unauthorized
+5.3 Bribery and Corruption ................... 24
+2.1 Our “How We Run” Behaviors and Commitments .............................. 34
+5.4 Artificial Intelligence ..................... 27
+“Leadership Credo” ...................... 7
+6.3 Reciprocity Deals ........................ 35
+5.5 Intellectual Property, Confidential
+6.4 Conduct with Customers .................. 35
+Information, and Personal Data and
+3 ETHICAL BUSINESS AND YOU
+Privacy Rights ........................... 28 6.5 Conduct with Suppliers ................... 36
+3.1 Ask Yourself ............................. 9
+5.6 Insider Trading and Inside Information ...... 29 6.6 Conduct with Competitors ................ 37
+3.2 Speak Out ............................... 10
+5.7 Financial Statements, Disclosures, and 6.7 Conduct with Partners .................... 39
+Internal Accounting Controls ............. 30
+4 ENSURING TRUST IN THE
+5.8 Export Controls and Trade Sanctions ...... 31 7 ENSURING TRUST BY SOCIETY
+WORKPLACE
+5.9 Anti-Money Laundering and Commitment 7.1 Communication .......................... 42
+4.1 Diversity and Inclusion, Anti-Discrimination, to Combating the Financing of Terrorism .. 32
+7.2 Human Rights ........................... 43
+and Anti-Harassment ..................... 13
+7.3 Corporate Social Responsibility ........... 44
+4.2 Healthy Organization .................... 14
+7.4 Commitment to Improving Our
+4.3 Conflicts of Interest . . . . . . . . . . . . . . . . . . . . . . 15
+Environmental Performance .............. 44
+4.4 Protection of SAP Assets .................. 20
+7.5 Political Activities . . . . . . . . . . . . . . . . . . . . . . . . 45
+4.5 Internal Gift Giving ....................... 201 Introduction 2 Values 3 You 4 Workplace 5 Business 6 Ecosystem 7 Society 3 / 45
+1 INTRODUCTION:
+A MESSAGE FROM OUR CEO
+Win the
+Right Way1 Introduction 2 Values 3 You 4 Workplace 5 Business 6 Ecosystem 7 Society 4 / 45
+Dear Colleagues,
+In the past few years, the world has faced exceptional At SAP, we always undertake our business efforts
+challenges, uncertainties, and complexity. The way with integrity. Our Global Code of Ethics and Business
+we live, the way we do business, and the way we work Conduct for Employees is our guide, and helps us protect
+has been profoundly affected. Technology has become our colleagues, business, reputation, and ecosystem.
+crucial to handling these challenges and changes. It demonstrates that SAP is committed to the highest
+standards of ethical business and that we expect the
+This fast rate of change has increased the focus on same high standards from our partners and suppliers.
+building and maintaining trust as the foundation for
+growth and innovation. As such, the interplay between It is upon each and every one of us to uphold these
+technology and trust will be one of the key drivers of standards, adhere to this Code, and speak out if or
+economic growth in the future. when we feel something is not right. Our global team
+of ethics and compliance experts is here for you, to
+TRUST MATTERS. provide the support and guidance needed to make
+strong, ethical, and compliant choices.
+Being a trusted partner for our colleagues, customers,
+partners, and suppliers has always been at the heart LET’S WIN THE RIGHT WAY.
+of our business, but in today’s uncertain environment,
+it is more important than ever. Best regards,
+Christian Klein
+Chief Executive Officer and Member of the Executive Board of SAP SE1 Introduction 2 Values 3 You 4 Workplace 5 Business 6 Ecosystem 7 Society 5 / 45
+2 OUR VALUES AND CULTURE
+Purpose Delivers
+Promise1 Introduction 2 Values 3 You 4 Workplace 5 Business 6 Ecosystem 7 Society 6 / 45
+At SAP, our purpose is to help the world run better We are respectful and inclusive of our people and To that end, we do not compromise our values
+and improve people’s lives. This allows us to deliver our stakeholders, always aiming to make a positive and our commitment to ethical business. This
+on our promise to innovate and help our custom- impact on those societies in which we work. We Global Code of Ethics and Business Conduct for
+ers run at their best. We do this by conducting our strive for sustainable growth while protecting our Employees (“Code”) provides us with the neces-
+business activities with integrity – using our global environment. sary guidance so that we can act with integrity.
+resources and reach to help economy, society, By making the right choices, based on facts and
+and the environment prosper. reason, we build trust with our people and stake-
+holders together, enabling us to fulfill our purpose
+and promise.1 Introduction 2 Values 3 You 4 Workplace 5 Business 6 Ecosystem 7 Society 7 / 45
+2.1 Our “How We Run” Behaviors and “Leadership Credo”
+As employees, we can demonstrate our commit- If you are a leader, you play a special role in
+ment to ethics and compliance by embracing modeling these behaviors to inspire and support
+our behaviors and ensuring that we: employees in creating a foundation of trust.
+Tell it Stay Embrace • Act with integrity and encourage colleagues
+like it is curious differences
+to do the same. We need our leaders to do what’s right, making
+• Familiarize ourselves with and act in accordance SAP better for generations to come:
+How We with our policies and guidelines, including this
+Code.
+Keep the Run Build bridges, Be inclusive.
+promise not silos • Seek help and guidance on matters of com-
+pliance – from our manager, HR, Global Legal, Be ethical. Be accountable.
+or the Office of Ethics & Compliance (OEC). Be agile. Bring our strategy to life.
+Our company culture inspires ethical business • Raise concerns over situations relating to
+practices through our established “How We Run” potential noncompliance by using our report- Do what’s right.
+behaviors. These behaviors help define how ing channels. For further information about
+each of us at SAP can run at our best. reporting channels, see the “Speak Out”
+section of this Code.
+We are all accountable for our actions, behavior,
+and the way we conduct our business.1 Introduction 2 Values 3 You 4 Workplace 5 Business 6 Ecosystem 7 Society 8 / 45
+3 ETHICAL BUSINESS AND YOU
+Do the
+Right Thing1 Introduction 2 Values 3 You 4 Workplace 5 Business 6 Ecosystem 7 Society 9 / 45
+3.1 Ask Yourself
+We rely on you and our ecosystem – including cus- If at any time you are unsure of the best course of POLICIES AND GUIDELINES
+tomers, partners, and suppliers – to assess every action, ask yourself these questions to determine
+SAP One /go/globalpolicies
+decision and ensure that every action made on the right steps to take:
+behalf of and related to our organization is legal,
+fair, and compliant with our policies and guide-
+ASK YOURSELF
+lines, this Code, and any law or regulation.
+1 Is it legal?
+YES NO
+This Code helps guide your conduct as you do
+business at SAP. Many of the principles described
+2 Is it in line with
+in this Code are general in nature. The Code cannot
+SAP policies?
+cover every situation that may arise. It is a starting
+YES NO
+point and not the exclusive source of information DON’T DO IT!
+regarding how we conduct business. 3 Is it reflective of
+Not sure?
+SAP culture and values?
+Review applicable
+It is our duty to familiarize ourselves with all YES NO policies, check with
+applicable SAP policies and other governance your manager if
+4 Would you be comfortable if this necessary, or ask
+documents as they provide detailed guidance.
+topic appeared in the news? the respective experts
+for support.
+YES NO
+Use common sense and good judgment in apply-
+ing this Code. If you have any questions about the
+5 Could it adversely affect SAP, our
+Code and its application, it is your responsibility
+stakeholders, and employees?
+to always seek support from one of the resources
+NO YES
+provided.
+MOVE FORWARD!1 Introduction 2 Values 3 You 4 Workplace 5 Business 6 Ecosystem 7 Society 10 / 45
+3.2 Speak Out
+Prevention is best; however, if something does 3.2.1 REPORTING CONCERNS: Global People Compliance Office
+go wrong, we count on you to speak out. We rely OUR REPORTING CHANNELS E-mail: PeopleCompliance@sap.com
+on you and our ecosystem to report any actual Report any serious compliance concerns relating Post: Global People Compliance Office, SAP SE
+or potential misconduct of which you may to the Code or any laws and regulations – in good Dietmar-Hopp-Allee 16, 69190 Walldorf, Germany
+become aware. faith, confidentially, and if desired, anonymously –
+using our Speak Out at SAP tool. Speak Out is There are also third-party channels for reporting
+We can fix a problem only if we are aware of it. available online or via the integrated 24x7 helpline, potential misconduct that involves breaches of
+The earlier we learn about an issue, the greater which has local language support whether you EU laws and national implementations thereof
+the chances to mitigate potential harm to SAP, are reporting from inside or outside of SAP. according to the EU Directive 2019/1937 on the
+our employees, and those doing business with us. protection of whistleblowers.
+We ask you to provide as much information as
+If something doesn’t look right, sound right, or feel possible when making a report. Mere rumors are For support relating to a particular topic managed
+right, it probably is not right. We encourage you to not sufficient; however, actual proof of wrongdoing by a specific area of our business, you are always
+speak out. is not necessarily required. free to reach out to the respective department
+directly. A list of department-specific contact
+We recommend discussing any serious concerns You can also use the following additional channels is available on SAP One at /go/speakout.
+about ethics and compliance with your manager reporting channels:
+and your Field Compliance Officer within the Office Support is also provided by the Global Ombuds
+of Ethics & Compliance (OEC). You can report your Office of Ethics & Compliance (OEC) Office (ombudsperson@sap.com) as a confidential,
+concerns using the various reporting channels Unified Ticketing: Create a ticket impartial, and independent contact for employees
+that SAP provides (see the “Reporting Concerns: Your local Field Compliance Officer: to be heard in any kind of difficult or conflicting
+Our Reporting Channels” section of this Code). SAP One /go/ethicalbusiness situation. They provide informal counselling and
+Post: Office of Ethics & Compliance, SAP SE conflict de-escalation services, and can assist in
+Dietmar-Hopp-Allee 16, 69190 Walldorf, Germany raising formal complaints where applicable.1 Introduction 2 Values 3 You 4 Workplace 5 Business 6 Ecosystem 7 Society 11 / 45
+3.2.2 YOUR REPORT MAKES A DIFFERENCE Investigations may result in consequences related For example, we strictly limit access to these
+SAP is committed to thoroughly assessing every to employment law and external investigations, reports to a small number of specifically trained
+concern shared through our reporting channels action in the civil courts, or criminal prosecution. and authorized experts. Should any forms of
+and, where appropriate, conducting careful, objec- retaliation occur despite our precautions, we
+tive, and professional investigations of the matter 3.2.3 SAP PROTECTS YOU ask that you report them via Speak Out at SAP.
+by the respective expert departments (for example, We know that it can take courage to report a con- We can draw on additional robust procedures
+Office of Ethics & Compliance (OEC), Internal Audit, cern. You may ask yourself the following questions: to address your protection.
+Global People Compliance Office, and Data Protec- Is what I am observing really wrongdoing? Will I
+tion and Export Control). Where appropriate, SAP face consequences if I report? Is it worth it? We equally do not tolerate any personal or false
+will carry out consequence management and apply attacks aimed at specific individuals. Dishonest,
+acquired insights to further strengthen our policies, SAP does not tolerate any form of retaliation bad faith, or otherwise abusive reports are pro-
+processes, and controls. against those who raise concerns in good faith hibited and may result in disciplinary action.
+to help protect and prevent damage to SAP or
+When SAP carries out an investigation, we require those who cooperate in a company investigation.
+REPORTING A CONCERN
+your full cooperation to help resolve a matter,
+www.sap.com/speakout
+including providing truthful information about
+SAP One /go/speakout
+work-related matters to SAP personnel or external
+counsel investigating compliance concerns on
+behalf of SAP.1 Introduction 2 Values 3 You 4 Workplace 5 Business 6 Ecosystem 7 Society 12 / 45
+4 ENSURING TRUST IN THE WORKPLACE
+We Strive to
+Foster Trust1 Introduction 2 Values 3 You 4 Workplace 5 Business 6 Ecosystem 7 Society 13 / 45
+4.1 Diversity and Inclusion, Anti-Discrimination, and Anti-Harassment
+4.1.1 DIVERSITY AND INCLUSION 4.1.2 ANTI-DISCRIMINATION AND
+SAP behaviors reflect our values and inspire ANTI-HARASSMENT
+appreciation for all aspects of diversity and We embrace and encourage different perspectives.
+inclusion. We are made stronger by our unique combination
+of diverse characteristics, including but not limited
+At SAP, every person must be treated with dignity to, culture, race, ethnicity, age, gender, sexual ori-
+and respect. We proactively promote diversity, entation, gender identity or expression, physical
+inclusion, and social justice and work to ensure or mental ability, and different work-life situations.
+that our workforce reflects gender parity and the We make every effort to ensure that all stages
+demographics of the regions where we have of the employee lifecycle are inclusive to enable
+employees. We commit ourselves to be respectful, employee success, hold leaders accountable,
+professional, compliant, inclusive, and to foster and build a diverse environment – both internally
+employee engagement, spark innovation, and drive and among our ecosystem.
+customer success.
+Our priority is to provide a work environment
+The Global Diversity & Inclusion Office is at hand where employees, suppliers, customers, and part- We encourage you to report to the Global People
+for any related questions. ners can be confident that their integrity, dignity, Compliance Office any concern or behavior that is
+rights, health, safety, and well-being are valued and inconsistent with our values and the regulations out-
+respected. Therefore, we commit ourselves to a lined in the SAP Global Anti-Discrimination Policy via
+workplace free from discrimination, harassment, Speak Out at SAP or PeopleCompliance@sap.com.
+bullying, mobbing, or retaliation.
+MORE INFORMATION
+As exemplars for our “How We Run” behaviors,
+SAP Global Anti-Discrimination Policy
+we all must act as role models.1 Introduction 2 Values 3 You 4 Workplace 5 Business 6 Ecosystem 7 Society 14 / 45
+4.2 Healthy Organization
+SAP’s purpose to make the world run better and
+improve people’s lives includes caring for the
+health, safety, and well-being of everyone at SAP.
+Conditions in which people live up to their full
+potential – now and in the future of work – are
+mainly defined by an organization’s culture, mind-
+set, and leadership style. We believe that there is
+no organizational health without individual health.
+SAP and our leaders take ownership for work-
+places and a caring culture that fosters physical
+health, safety, and mental well-being. Employees
+are empowered to take care of their health with
+company programs and offerings.
+We encourage you to get involved and shape our
+caring culture and working conditions by using
+feedback opportunities to “Tell It Like It Is” and
+to help us improve where needed. Our success Our Global Health, Safety & Well-Being team as so, we enable the entire organization to be a role
+is tracked through the Business Health Culture part of the Future of Work organization – together model for safe, healthy, and sustainable people
+Index (BHCI) and the Stress-Satisfaction Index, with partners in HR, Real Estate and Facilities, management.
+measured by regular employee surveys. Occup ational Safety, Physical Security, and Sus-
+tainability – provides information, educ ation, and
+MORE INFORMATION
+support to foster a healthy working culture and a
+SAP Global Health and Safety Policy
+supportive environment for all employees. In doing1 Introduction 2 Values 3 You 4 Workplace 5 Business 6 Ecosystem 7 Society 15 / 45
+4.3 Conflicts of Interest
+4.3.1 PERSONAL CONFLICTS OF INTEREST
+We respect your personal interests and your private
+life. We also expect that you are loyal to our com-
+pany and act in the interest of SAP. If your private
+or financial interests or relations collide with those
+of SAP or may be perceived to collide with SAP’s
+interest, a potential conflict of interest arises.
+Potential conflicts of interest can arise from
+many situations.
+Even the appearance of a conflict of interest can
+be problematic and must be avoided at all times.
+You are responsible for disclosing any potential
+conflicts of interest, actual or perceived, as early
+as possible or as soon as you become aware. Seek
+advice and, if warranted, approval from the Office
+of Ethics & Compliance (OEC). If any material CONFLICTS OF INTEREST – PERCEIVED OR ACTUAL
+changes occur after approval – for example, the
+duration or tasks of any secondary activities Secondary Activities
+change or the amount of investment increases – External Boards or Advisory Positions
+you must proactively disclose these changes for
+Personal Relationships
+further review and approval.
+SAP PERSONAL
+Financial Investments
+While there is no exhaustive list of such situations,
+potential conflicts of interest typically arise from
+the following scenarios.1 Introduction 2 Values 3 You 4 Workplace 5 Business 6 Ecosystem 7 Society 16 / 45
+4.3.2 SECONDARY ACTIVITIES of SAP. A competitor is not limited to multinational
+A secondary activity, whether paid or unpaid, must technology companies; any entity, of any size, can
+not negatively impact either your ability to work for be a competitor if it provides similar software or
+SAP or your performance. Prior to starting a sec- services to anything provided by SAP. The OEC
+ondary activity outside of SAP, you must ensure that determines who is classified as a competitor, in
+there is no conflict of interest. Refer to SAP One to alignment with other relevant functions.
+determine whether a formal secondary activity dec-
+laration is required for your country and the process Secondary activities for you or your family
+for disclosure. If no specific process is required, dis- You should use caution when you or any family
+close your secondary activity to your manager and members engage in your own business activities
+the Office of Ethics & Compliance (OEC). if they are closely related to SAP’s business. You
+must always ensure that these activities do not
+Secondary activities for competitors conflict with the rightful interests of SAP and
+Any activity for an SAP competitor is prohibited. adhere to these requirements:
+This includes, but is not limited to, secondary • While working at SAP, you must not pursue Secondary activities for customers, partners,
+employment and any other activities such as business that conflicts with the interests of SAP. and suppliers
+assuming any board seat, advisory, or supervisory • You must not directly or indirectly exploit any We discourage any secondary activity for an
+role; performing any marketing or sales activities business opportunity available to SAP for your SAP customer, partner, or supplier. If you want
+for competitors or their products and services; own benefit or the benefit of others. to pursue such an activity, you must get prior
+or working as an independent party in a contract, written approval from your manager and the
+as a consultant; or in any other capacity for a com- If you develop or sell your own or third-party prod- OEC. The OEC determines whether the activity
+petitor. You must not function directly or indirectly ucts, or perform services where SAP offers or is falls within SAP’s best interests.
+or carry out any activity that assists in the market- planning to offer similar products or services, you
+ing or sale of products or services of a competitor must get prior written approval from your manager
+and the OEC.1 Introduction 2 Values 3 You 4 Workplace 5 Business 6 Ecosystem 7 Society 17 / 45
+4.3.3 BOARD OF DIRECTORS, CORPORATE directly or indirectly result or could result in an determines who or what is classified as a com -
+OFFICER, OR ADVISORY POSITIONS WITH actual or perceived conflict of interest in terms pe titor in alignment with other relevant functions.
+OTHER COMPANIES of your loyalty or preferential treatment towards
+Positions as board directors, corporate officers, or SAP. If the company becomes a competitor and Positions with a customer, partner, or supplier
+consultants are considered a secondary activity its status or relationship with SAP changes, you Regardless of your position at SAP, you must
+and require prior written approval from the Office must immediately resign from the position. obtain prior written approval from your manager
+of Ethics & Compliance (OEC). Any activity that and the OEC before accepting a board of directors,
+involves decision making or advisory services, Positions with a competitor corporate officer, or advisory position with a
+or that is linked to a role within a supervisory body You are prohibited from joining the board of direc- customer, partner, or supplier of SAP. The OEC
+for an SAP customer, partner, or supplier is dis- tors or holding a position as a corporate officer or determines whether the activity is within SAP’s
+couraged and is reviewed with scrutiny by the OEC. an advisor within a competitor of SAP because this interests.
+If the OEC grants approval, your additional role directly harms SAP’s interests. This also applies
+must not affect your loyalty to SAP. You must to any company that promotes or markets products
+excuse yourself from voting in decisions that and services for a competitor of SAP. The OEC1 Introduction 2 Values 3 You 4 Workplace 5 Business 6 Ecosystem 7 Society 18 / 45
+4.3.4 PERSONAL RELATIONSHIPS Inform HR and the Office of Ethics & Compliance Occasionally, it may happen that you will interact
+It is generally accepted that your family and close (OEC) of any situations that affect you and that with family members or close personal contacts
+personal contacts (for example, good friends) can could be perceived as a personal conflict of who work for an SAP customer, partner, or supplier.
+work for SAP, our customers, partners, suppliers, interest so that appropriate steps can be taken This collaboration can occur, for example, during
+and competitors. Be aware, however, that such to protect you, SAP, and the employees involved. sales negotiations, consulting projects, and pro-
+circumstances can lead to personal conflicts curement. This is a conflict of interest for you, your
+of interest. Disclose to HR and the OEC any situations that family member, and your close personal contact
+affect you where there is a family relation, life at the customer, partner, or supplier. Many of these
+Personal relationships that might affect partnership, or close personal connection between third parties include a conflict-of-interest clause in
+the interests of SAP and its employees you and a senior leader (that is, for the purposes their contracts, and you are obliged to notify them
+Your family and close personal contacts may be of the Code, a T4-level people manager or above) of any potential conflict of interest. It is therefore
+employed by SAP if there is no actual, possible, to avoid even the appearance of preferential or mandatory for you to disclose such relationships
+or perceived conflict of interest. For that reason, disadvantageous treatment. immediately to your manager and to the OEC.
+we adhere to the following: You must also never use your influence to secure
+• Neither direct nor indirect disciplinary reporting Personal relationships with customers, a job at an SAP customer, partner, or supplier
+lines between family members or close personal partners, suppliers, and competitors for a family member or close personal contact,
+contacts are permitted. If such a situation arises, If your family and close personal contacts work, regardless of how the person became aware of the
+one party may be required to change jobs within or seek to work, for a customer, partner, supplier, position. The required recruitment procedures
+SAP. or competitor of SAP, you must make certain that of the SAP customer, partner, or supplier must
+• Family members and close personal contacts these relationships do not exert any undue influence. be followed.
+must not participate in business or employment In particular, you must not share confidential infor-
+decisions that may benefit or damage the other mation or allow them to impact your objectivity
+employee. This includes hiring, evaluations, in the decision-making process.
+promotions, compensation, work assignments,
+and disciplinary actions, for example.1 Introduction 2 Values 3 You 4 Workplace 5 Business 6 Ecosystem 7 Society 19 / 45
+4.3.5 FINANCIAL INVESTMENT IN OTHER
+COMPANIES
+You must not have any financial interest in the
+businesses of customers, partners, suppliers,
+or competitors of SAP, where this could lead
+to a conflict of interest with SAP or create the
+appearance of such a conflict. A conflict of
+interest relating to a financial interest is present
+especially if:
+• Within the context of your employment at SAP,
+you have influence on SAP-related decisions
+regarding a customer, partner, supplier, or
+competitor that could potentially be used
+for personal financial gain.
+• You have a capital stake in an SAP customer,
+partner, supplier, or competitor that gives you
+influence on decisions made at the customer,
+partner, supplier, or competitor and that you
+potentially could use to gain a financial
+advantage.
+We expect that you are loyal to our company
+and act in the interest of SAP.1 Introduction 2 Values 3 You 4 Workplace 5 Business 6 Ecosystem 7 Society 20 / 45
+4.4 Protection of SAP Assets 4.5 Internal Gift Giving
+We all use various tangible and intangible SAP Before ordering goods and services, make sure Giving a gift is a nice way to express appreciation
+assets to help us perform our work. These assets you have the necessary spending authority. You and thanks to a person or group. However, gifts
+are vital to support SAP business both internally must order goods or services on behalf of SAP between colleagues or teams are considered private
+and externally, and as such, you need to look after only for business purposes and to fulfill your work matters, and in general, you should not expect to
+them and manage them appropriately. You must requirements. SAP does not permit ordering for be reimbursed.
+commit to guard against waste, abuse, or attacks private use or for use by family and close personal
+on these assets and use them only for the purpose contacts.
+MORE INFORMATION
+for which they were purchased in our business
+Global Guidance on Gift Giving (Internal Gifts)
+environment. Once assets are obsolete or no longer If in doubt, contact the Global Security, Global IT
+required, you must return the assets to SAP. Asset Management, or Global Procurement teams.
+Always keep in mind that the assets belong to
+MORE INFORMATION
+SAP and were purchased for business purposes.
+SAP Global Security Policy
+SAP Global IT Asset Management Policy
+SAP Global Procurement Policy1 Introduction 2 Values 3 You 4 Workplace 5 Business 6 Ecosystem 7 Society 21 / 45
+5 ENSURING TRUST IN OUR BUSINESS
+We Follow
+the Law and
+Regulations1 Introduction 2 Values 3 You 4 Workplace 5 Business 6 Ecosystem 7 Society 22 / 45
+At SAP, we all have a personal responsibility
+to uphold and ensure the letter and spirit of
+our Code in our individual roles every day. It is
+important that we are aware of, and never inten-
+tionally violate, relevant laws and regulations.
+Violating relevant laws, regulations, or this Code,
+or encouraging others to do so, exposes SAP
+to risk, including risk to our reputation, and
+there-fore may result in disciplinary action up
+to and including termination of employment.
+Violations of laws or regulations may also result
+in legal proceedings and penalties including, in
+some circumstances, civil and criminal penalties
+that could affect us personally and professionally
+in addition to a risk of adverse consequences
+to SAP.
+We all have a personal responsibility to uphold and
+ensure the letter and spirit of our Code.1 Introduction 2 Values 3 You 4 Workplace 5 Business 6 Ecosystem 7 Society 23 / 45
+5.1 Fraud 5.2 Organizational Conflicts of Interest
+Our commitment to honesty and integrity demands Organizational Conflicts of Interest (“OCI”) can
+that we prevent, counter, and investigate fraud arise when existing SAP relationships create an
+wherever it occurs. Fraud can have a devastating actual or potential conflict of interest for SAP on
+effect on our company and our environment by a government contract. It also can arise when the
+destroying trust, resulting in significant financial nature of the work to be performed by SAP creates
+loss and other long-term business repercussions. a situation of actual or potential conflict of interest
+Fraud is misrepresenting or concealing the truth relating to another government contract that
+to cause a loss of property or money to another SAP has or is pursuing.
+person or SAP. This may include, for example, theft
+of materials or supplies, falsifying expense claims, SAP may have access to a competitor’s cost or
+or improper reporting of financial transactions other proprietary information if that competitor is
+and resource allocation. a subcontractor on a government contract, which
+could provide an unfair competitive advantage
+We expect you, as well as our partners, suppliers, when competing on another government contract.
+and customers, to report immediately any instances
+of fraud, either suspected or actual, to the Office If SAP participates in a government procurement
+of Ethics & Compliance (OEC) or through our process that may give rise to an actual or potential avoid, neutralize, or mitigate the actual or potential
+reporting channels, such as Speak Out at SAP. OCI, you must consult both SAP Global Government OCI, and that has been properly documented. If
+This helps us to prevent losses and to reduce Affairs and the Office of Ethics & Compliance (OEC) you are concerned that a potential OCI may exist,
+fraud in the future. for advance review and approval of the bid. Although you must disclose this concern to the OEC.
+an OCI may exist, participation in procurement
+is possible if the government contracting officer
+agrees that sufficient actions are undertaken to1 Introduction 2 Values 3 You 4 Workplace 5 Business 6 Ecosystem 7 Society 24 / 45
+5.3 Bribery and Corruption
+We Win the Right Way! This means that you may not offer, promise, Bribery may take many forms under the guise
+We have zero tolerance for all forms of bribery and receive, or give anything of value to improperly of common business or social practices. If you
+corruption. We will forgo business opportunities influence decision making or an action. This suspect potential bribery, you must respond in an
+rather than pay bribes or facilitate corruption. requirement applies not only to every one of us appropriate manner (see the “Speak Out” section
+at SAP but also to individuals and companies of this Code). If in doubt, consult the Office of
+This approach is fully supported by the SAP working with or on behalf of SAP, including those Ethics & Compliance (OEC).
+Executive Board and the senior leadership team. with close personal connections to the recipient.
+We work closely with our ecosystem to achieve
+5.3.1 GENERAL INFORMATION AND The offering and acceptance of any benefits must our goal of making the world run better. However,
+PROVISIONS meet the following basic principles: third parties can increase our risks particularly
+We observe all applicable anticorruption treaties • Serve a legitimate business purpose (that is, regarding corruption and bribery. To avoid any
+and laws of the countries in which we do business. encourage or improve a business relationship) illegal act, all business transactions through a
+without the intention of an unfair advantage member of our ecosystem must be in full com-
+Giving and receiving benefits (including money, • Observe the applicable Value Limits for country, pliance with all applicable laws, rules, regulations,
+gifts, meals, and invitations to events) can help to format, and specific target group as published and policies. We depend on reputable business
+build good working relationships and goodwill on SAP One partners that behave fairly, ethically, and correctly
+among companies and individuals. However, they • Ensure adherence to all applicable laws and in all business activities.
+may also be perceived as an improper advantage internal policies
+and raise concerns regarding our integrity and • Be made in a transparent manner
+MORE INFORMATION
+independence. They can also create a conflict of
+Value Limits
+interest (or the appearance of impropriety) and
+even violate laws. SAP Supplier Code of Conduct
+SAP Partner Code of Conduct1 Introduction 2 Values 3 You 4 Workplace 5 Business 6 Ecosystem 7 Society 25 / 45
+5.3.2 MEALS AND INVITATIONS TO EVENTS 5.3.3 GIFTS In some contexts, and in some countries in a busi-
+You may offer or accept meals and invitations to In general, you may offer or accept gifts and gifts ness relationship, it is customary to exchange gifts
+events, provided they meet the above-mentioned in kind to or from current or prospective custom- of higher value. In these cases, you may accept these
+basic principles. ers, suppliers, competitors, or partners if the gifts in the name of SAP but immediately hand
+above-mentioned basic principles are met and them over to the Office of Ethics & Compliance
+When you offer meals and invitations to third exclusions below are followed. (OEC) to be used for the wider benefit of SAP
+parties, you must adhere to the policies for employees or as a donation to a good cause.
+business events and hospitality. No gifts may be offered or accepted with a value You may not personally keep these gifts.
+higher than that identified in the Value Limits
+The event type (on-site or virtual, business, published on SAP One.
+MORE INFORMATION
+or hospitality); the invited guests (government
+SAP Global Policy on Interactions with
+officials, special guests, and accompanying Gifts to government officials or public sector
+Government Officials
+persons); and timing (parties in a competitive employees are strictly prohibited, as are gifts
+bid or sales cycle) influence whether the meal to customers during a competitive sales cycle. Value Limits
+or invitation is allowed.
+MORE INFORMATION
+SAP Global Business and Hospitality
+Event Policy
+SAP Virtual Event Standard
+SAP Global Policy on Interactions with
+Government Officials
+Value Limits1 Introduction 2 Values 3 You 4 Workplace 5 Business 6 Ecosystem 7 Society 26 / 45
+5.3.4 FACILITATION PAYMENTS AND 5.3.5 CORPORATE SPONSORSHIPS, We never engage in sponsorship activities, make
+CASH OR CASH EQUIVALENTS MEMBERSHIPS, AND DONATIONS donations, or use memberships for improper
+The offer or acceptance of cash or cash equiva- SAP might occasionally engage in sponsorship purposes to influence a business decision or those
+lents (for example gift cards, vouchers, checks, activities with other organizations to support our actions that are contrary to applicable laws, regu-
+or gift certificates) is not permitted. purpose and in return for legitimate commercial lations, and our policies. The engagement in all
+benefits such as branding rights and hospitality. three of these activities requires approval through
+Facilitation or “grease” payments are also We also make donations to support charitable the official process, up to and including approval
+prohibited. causes. by the Office of Ethics & Compliance (OEC).
+As a large and diverse global company, we are To avoid even the appearance of inappropriate
+a member of many trade associations, coalitions, influence, we reject sponsorship activities with,
+and professional societies that represent the inter- or donation requests from customers and their
+ests of the technology industry and the broader families and close personal contacts during a
+business community. We also advocate on public competitive sales cycle.
+policy issues of importance to SAP and the
+communities we serve.1 Introduction 2 Values 3 You 4 Workplace 5 Business 6 Ecosystem 7 Society 27 / 45
+5.4 Artificial Intelligence
+SAP believes that artificial intelligence (AI) has the The policy is based on the SAP Guiding Principles
+potential to unlock boundless potential for busi- for Artificial Intelligence:
+nesses, governments, and society. As with similar • We are driven by our values.
+innovations or technological advancements, AI • We design for people.
+also has the potential to create economic, political, • We enable business beyond bias.
+and social challenges, depending upon how it is • We strive for transparency and integrity in all
+used and implemented. that we do.
+• We uphold quality and safety standards.
+We are committed to comply with all legislation • We place data protection and privacy at our core.
+in this regard. We are also committed to the ethical • We engage with the wider societal challenges
+development, deployment, and sale of SAP devel- of AI.
+oped AI systems. Our Global AI Policy defines a
+group-wide minimum standard for the develop-
+MORE INFORMATION
+ment, deployment and sale or use of SAP AI
+SAP Global Artificial Intelligence (AI) Ethics Policy
+applications and solutions, including assignment
+of clear responsibilities within SAP. SAP Guiding Principles for Artificial Intelligence
+SAP Global Human Rights Commitment
+Statement1 Introduction 2 Values 3 You 4 Workplace 5 Business 6 Ecosystem 7 Society 28 / 45
+5.5 Intellectual Property, Confidential Information,
+and Personal Data and Privacy Rights
+SAP is a trusted leader in driving business trans- 5.5.2 CONFIDENTIAL INFORMATION help protect the fundamental rights of everyone
+formation and value through technology innova- The exchange of information is a vital part of every whose data is processed by SAP, whether they are
+tion. We are all responsible for protecting the business. Before sharing any SAP information, you customers, suppliers, partners, prospects, employ-
+intellectual property, confidentiality, integrity, need to evaluate the appropriate classification. It is ees, or applicants. Therefore, all of us must respect
+and availability of confidential, personal, and appropriate to share publicly available information applicable data protection and privacy rights when
+proprietary information and data, no matter if it about SAP. For exchange of all other information, processing personal data during our daily work.
+belongs to SAP, us as employees, or others. We either by SAP or a third party, we require a nondis-
+must ensure that personal data is processed closure agreement (NDA) or other appropriate You are responsible for ensuring that all practices
+according to data protection and privacy rules agreement. involving the processing of personal data within
+and regulations worldwide. The respective experts the course of your work comply with applicable
+at Global Legal, especially the Cyber, Litigation, You should also avoid being exposed to confiden- laws and internal regulations. You are required to
+and IP teams; Global Security; and Global Data tial information of third parties in the course of handle all personal data that could be accessed
+Protection & Privacy are at hand to guide us in your business unless necessary. within the scope or your role with strict confiden-
+this endeavor. tiality, and not to use this data without authorization.
+Processing means any operation that is performed
+MORE INFORMATION
+5.5.1 INTELLECTUAL PROPERTY on personal data, whether or not by automated
+SAP Global Nondisclosure Agreement/
+SAP IP is one of our most valuable assets. This means. This includes collecting, recording, organi-
+Confidentiality Policy
+includes confidential information, patents, copy- zing, structuring, storing, adapting or altering, using,
+SAP Global Security Policy
+rights, trademarks, and trade secrets. Therefore, disclosing by transmission or dissemination,
+it is vital that you take appropriate steps to protect or otherwise making available, in alignment or
+SAP IP. It is also important that you respect the IP 5.5.3 PROTECTION OF PERSONAL DATA combination, restriction, erasure, or destruction.
+rights of third parties, including our competitors, AND PRIVACY RIGHTS
+and avoid unauthorized use. SAP is committed to and strives to protect the
+MORE INFORMATION
+rights of individuals, particularly the right to data
+SAP Global Data Protection and Privacy Policy
+protection and privacy, strengthening our reputa-
+MORE INFORMATION
+tion as a sustainable and trustworthy partner in
+SAP Global IP Policy
+the market. We have implemented safeguards to1 Introduction 2 Values 3 You 4 Workplace 5 Business 6 Ecosystem 7 Society 29 / 45
+5.6 Insider Trading and Inside Information
+Except in circumstances where the prohibition
+of insider dealing applies, you may decide at your
+personal discretion whether to dispose of or
+acquire SAP SE or an SAP subsidiary’s shares or
+bonds or their derivatives. However, to avoid any
+implication that you are involved in insider trading,
+the SAP Executive Board urgently appeals to all of
+us not to trade in SAP SE or SAP subsidiary’s shares
+or bonds or their derivatives during the official
+blackout periods. You are asked to c omply with this
+(legally nonbinding) appeal. D eviations from this
+guideline should be made only in emergencies,
+for example, where an employee has a sudden
+unexpected cash requirement. Cases of doubt
+should be discussed with the SAP SE Capital
+Market Compliance team beforehand.
+If you have questions in this regard, especially
+about capital market or insider law or the blackout
+period, contact the SAP SE Capital Market Com-
+In numerous jurisdictions, publicly traded financial You must ensure that when trading in publicly pliance team.
+instruments such as shares and bonds, and their traded financial instruments of SAP SE or SAP-
+derivatives, are subject to strict statutory rules. listed subsidiaries, customers, suppliers, competi-
+MORE INFORMATION
+These regulations prohibit the unlawful disclosure tors, or partners, you do not do so based on inside
+SAP Global Insider Regulations Policy
+of inside information and its use in trading. information, and you must not unlawfully disclose
+inside information.1 Introduction 2 Values 3 You 4 Workplace 5 Business 6 Ecosystem 7 Society 30 / 45
+5.7 Financial Statements, Disclosures, and Internal
+Accounting Controls
+Accurate, complete, and reliable records are c rucial All parties involved need to ensure that these MORE INFORMATION
+to our business to avoid reputational and/or finan- records are made secure and readily available to
+SAP Group Accounting Guidelines
+cial damages. We are committed to maintain accu- those with a need to know the information on a
+SAP Global Revenue Recognition Guideline
+rate company records and accounts to ensure timely basis to fulfill internal and external require-
+compliance with applicable legislations, tax rules, ments. All company records must be complete,
+ethical business practices, and to prevent fraudu- accurate, and reliable in all material respects. There
+lent activities. We are responsible to ensure that is never a reason to make false or misleading
+the information we record, process, and analyze entries. Undisclosed or unrecorded funds, pay-
+is accurate and is recorded in accordance with ments, or receipts are inconsistent with our
+applicable legal or accounting principles, applying business practices and are prohibited.
+SAP’s policies and guidelines. Internal controls
+need to be in place. Corporate Financial Reporting is at hand for
+comprehensive guidance.1 Introduction 2 Values 3 You 4 Workplace 5 Business 6 Ecosystem 7 Society 31 / 45
+5.8 Export Controls and Trade Sanctions
+Export control laws regulate exports, re-exports,
+and in-country transfers of items (including soft-
+ware) that have both military and commercial
+application. These laws are intended to control
+and restrict the proliferation of weapons of mass
+destruction. They address national security and
+other concerns, for example, civil-military fusion
+and human rights abuses. Provisions of SAP soft-
+ware and services are within the scope of these
+regulations regardless of how they are delivered.
+Trade sanctions impose restrictions on certain
+countries, regions, entities, or individuals for vari-
+ous economic, diplomatic, and national security
+reasons. The scope of trade sanctions can range
+from comprehensive prohibition to do business Therefore, we follow such laws and regulations, For questions or concerns, contact the Export
+to specific economic and financial measures. including without limitation the laws of Germany, Control Legal team.
+Because of the risk associated with these trade the European Union, the United States, and appli-
+sanctions and as a matter of corporate policy, cable local regulations and obligations as stated in
+MORE INFORMATION
+SAP products and services are not available in applicable documents, which can be found on the
+SAP Global Export and Sanctions Compliance
+certain countries and regions. Furthermore, SAP Export Control SharePoint.
+Policy
+products and services cannot be sold to entities
+and individuals with whom transactions are
+prohibited in accordance with any applicable
+sanctioned party lists.1 Introduction 2 Values 3 You 4 Workplace 5 Business 6 Ecosystem 7 Society 32 / 45
+5.9 Anti-Money Laundering and Commitment
+to Combating the Financing of Terrorism
+Money laundering and financing of terrorism in these cases. For this reason, SAP does not such transactions undermines our integrity, dam-
+are global issues with far-reaching and serious accept cash transactions of €10,000 and above. ages our reputation, and can expose SAP and all
+consequences. However, money laundering is not limited to cash of us to severe sanctions.
+transactions. Complex commercial transactions
+Money laundering is the process of converting ille- may hide financing of criminal activity such as SAP forbids engagement in transactions that facili-
+gal proceeds so that funds are made to appear terrorism, illegal narcotics trade, bribery, and tate money laundering and financing of terrorism.
+legitimate. Very often, this is attempted through fraud. They may also hide the origin of the funds We take affirmative steps to detect and prevent
+cash transactions, as the payer is harder to identify or their use in these activities. Involvement in unacceptable or illegal forms of payment and finan-
+cial transactions. Anti-money laundering laws of
+many countries and international organizations
+require transparency of payments and the identity
+of all parties to transactions. We observe all appli-
+cable anti-money laundering and combating ter-
+rorist financing laws of the countries in which we
+do business. We will conduct business only with
+reputable customers and business partners
+involved in legitimate business activities and
+transactions.1 Introduction 2 Values 3 You 4 Workplace 5 Business 6 Ecosystem 7 Society 33 / 45
+6 ENSURING TRUST WITH OUR ECOSYSTEM
+We Commit to
+Our Ecosystem1 Introduction 2 Values 3 You 4 Workplace 5 Business 6 Ecosystem 7 Society 34 / 45
+6.1 Business Relation- 6.2 Contractual Changes and
+ships with Organizations Unauthorized Commitments
+We do not maintain business relationships Transparency in business relationships is crucial approved in advance, and ultimately incorporated
+with organizations that are themselves, or are to the success of SAP. Our business partners and into written agreements that cover the full under-
+supporters of, antisocial forces, terrorists, or investors expect us to operate in a fair and trans- standing of all involved parties. All parties should
+criminal groups. parent manner. To further our goal of transparency, be aware of the entire understanding of our
+we must make sure that commitments to our busi- agreements.
+ness partners are accurate, truthful, appropriately
+You must not agree to any changes, qualifications,
+or amendments to SAP contracts or general terms
+and conditions, whether by supplementary agree-
+ment, side letter, or otherwise, without proper
+approval. Also, any other unauthorized commit-
+ments are strictly prohibited.
+Any of these actions made without proper over-
+sight or internal controls could lead to accounting
+and financial errors and irregularities and could
+expose SAP to potentially fraudulent activities.1 Introduction 2 Values 3 You 4 Workplace 5 Business 6 Ecosystem 7 Society 35 / 45
+6.3 Reciprocity Deals 6.4 Conduct with Customers
+We must ensure that we do not enter reciprocity 6.4.1 BOYCOTTS a problem if SAP has such a strong position in the
+deals in which SAP accepts goods and services An agreement with a customer, supplier, competi- market concerned that the customer is dependent
+from another company only on the condition tor, or partner of SAP not to conduct business with, on its contractual relationship with us.
+that the other company obtains SAP products or to not deliver goods or provide services to any
+or services in exchange. other customer, supplier, competitor, partner, or 6.4.2 EXCLUSIVE CONTRACTS
+service provider, is unlawful. Therefore, you must You must not ask customers to buy products and
+be extremely careful if you discuss with one of our services exclusively from us as SAP or to refrain
+suppliers the competitive terms of another sup- from buying the products of a competitor if this
+plier. Discussions of this sort raise suspicion of would impact competition in the market.
+an unlawful understanding. A unilateral decision
+not to sell to a particular customer can become1 Introduction 2 Values 3 You 4 Workplace 5 Business 6 Ecosystem 7 Society 36 / 45
+6.5 Conduct with Suppliers
+6.5.1 GENERAL Accordingly, you must not coerce any supplier SAP considers the awarding of any contract based
+Guided by the Global Procurement Organization, to buy SAP products in return for SAP’s purchase on the long-term cost to SAP, including the costs
+we must govern our conduct with suppliers by of that supplier’s goods or services. Naturally, associated with defective goods and services,
+sound judgment and absolute integrity. The most however, you may seek to sell products to our as well as the value of the long-term business
+important consideration is the upholding of suppliers as you do to any other customer. relationship with SAP suppliers.
+SAP’s interests.
+Relationships with our suppliers often include Before approving invoices for goods or services,
+We must ensure that SAP’s suppliers comply access to trade secrets and suppliers’ know-how. ensure that you have verified that those goods
+with the legal requirements in the country of In that regard, you must exercise the utmost care or services have been provided.
+manufacture and country of sale. and ensure compliance with the Code. Do not pass
+on information concerning a supplier’s problems 6.5.3 EXTERNAL CONSULTANTS
+or shortcomings to any other supplier or partner When engaging external consultants, you must
+or any other person outside of SAP. ensure that:
+• Commission and consulting contracts are always
+6.5.2 BIDS, ESTIMATES, AND PROOF concluded in writing
+OF SERVICES AND GOODS • Payments are made only for activities that are
+We must ensure that all qualified suppliers are usually remunerated and are lawful
+fully and equally notified of SAP’s technical and
+commercial bid requirements. The same applies
+MORE INFORMATION
+to any details, changes, and additions to these
+SAP Global Procurement Policy
+requirements subsequently provided.
+SAP Supplier Code of Conduct1 Introduction 2 Values 3 You 4 Workplace 5 Business 6 Ecosystem 7 Society 37 / 45
+6.6 Conduct with Competitors
+6.6.1 GENERAL
+One of the most serious infringements of the
+provisions of competition law is the existence of
+an understanding between competitors. Agree-
+ments and understandings amongst competitors
+about pricing, conditions of sale, volume of pro-
+duction, or the sharing of markets are strictly
+unlawful. You must not participate in agreements
+or understandings of this nature. The Field Legal
+team can provide detailed guidance in your day-
+to-day business.
+6.6.2 PRICE FIXING AMONG COMPETITORS
+All forms of price fixing among competitors are
+forbidden. This ban also includes all agreements
+and understandings that only indirectly affect prices
+or other conditions of sale, such as discounts. You
+must not participate in setting maximum and 6.6.3 COMPETITIVE RESTRICTIONS Contact with competitors
+minimum prices or exchanging information about Joint ventures, collaboration agreements, and You must not discuss internal matters with com-
+future pricing models with competitors. In indi- mergers among competitors can affect free petitors. This includes matters such as pricing and
+vidual cases, it may be necessary – as part of a competition. In many cases, they require official conditions of sale, costs, overviews of the market,
+reseller agreement – to provide information to approval. Often their legality also must be checked organizational processes, or other confidential
+the resale partner, who may also be a competitor, in multiple systems of law because they can have information, from which competitors could draw
+about the future pricing model so that internal consequences in other countries. Therefore, you competitive advantage over SAP.
+licensing payments can be adjusted. You must not must ensure that the Global Legal team checks
+convey such information without first checking the legality of such plans as early as possible and,
+with the Global Legal team on the implications in any case, before they are implemented.
+under competition law.1 Introduction 2 Values 3 You 4 Workplace 5 Business 6 Ecosystem 7 Society 38 / 45
+Obtaining competitor information SAP receives a net benefit from competitive Accordingly, you may gather and use nonconfiden-
+We at SAP have a legitimate interest in obtaining information only when it is obtained lawfully and tial information about competitors, including
+information about competitors and evaluating all ethically. Therefore, we seek to avoid exposure information that can be found on competitors’
+published information about its competing com- to competitive information that is confidential, is Web sites.
+panies (for example, publications about products otherwise restricted, or has no legitimate source.
+and pricing). However, you must not seek to obtain Actual or alleged infringement or misappropriation You always must keep in mind that we are legally
+trade secrets or other confidential or secret infor- of competitors’ confidential information or intellec- prohibited from:
+mation about a competitor using dishonest means. tual property rights may lead to litigation, which, • Collecting confidential competitive information
+in turn, can result in monetary loss and the inability • Making untrue statements about competitors
+You must not accept, read, or use information to provide certain products or services to our cus- • Gathering competitive information in breach
+about products and plans of competitors that is tomers. In addition, actual or alleged infringement of a contract
+identified or identifiable as confidential informa- or misappropriation may also damage SAP’s • Misrepresenting the relationship to SAP to
+tion unless you are authorized by the competitor reputation as a trustworthy business partner. obtain competitive information
+to do so. • Violating the copyrights of a competitor
+• Hiring third parties to engage in such practices1 Introduction 2 Values 3 You 4 Workplace 5 Business 6 Ecosystem 7 Society 39 / 45
+6.7 Conduct with Partners
+Partners are very important to our company. Our If a partner is also a customer, supplier, or com-
+partners serve as our ambassadors and support petitor of SAP, you must also observe this Code’s
+our varied business interests. That is why we must rules concerning customers, suppliers, and com-
+trust our partners, be loyal, and treat every partner petitors. For any questions related to conduct
+with equality and equity. Presenting a consistent with partners, contact the Partner Ecosystem
+and aligned message is in the best interest of Success organization.
+SAP and our partners.
+MORE INFORMATION
+You must present our partners with equal
+SAP Partner Code of Conduct
+opportunities, always be objective, and provide
+transparency. Ensure that you treat them without SAP Global Channel Operations &
+bias or unjust preference. For example, you must Governance Policy
+be equitable when handling competing bids from SAP Global Channel Policy
+several partners for the same customer. For you
+to ensure the best experience for our customers,
+every opportunity requires trustworthy collabo-
+ration with our partners, thereby creating a
+productive environment to deliver a successful
+multichannel go-to-market approach.1 Introduction 2 Values 3 You 4 Workplace 5 Business 6 Ecosystem 7 Society 40 / 45
+7 ENSURING TRUST BY SOCIETY
+We Help the
+World Run Better
+and Improve
+People’s Lives1 Introduction 2 Values 3 You 4 Workplace 5 Business 6 Ecosystem 7 Society 41 / 45
+Our purpose to help the world run better and
+improve people’s lives is the guiding principle for
+our business strategy. As a global leader, we stand
+for this higher purpose beyond economic success.
+We strive to be a role model of a sustainable com-
+pany and enable our customers to create positive
+social, environmental, and economic impact within
+planetary boundaries. Our efforts focus on creating
+a sustainable future for SAP, our customers, and
+society in line with our commitment to the United
+Nations Global Compact and the United Nations
+Sustainable Development Goals (SDGs).
+Our purpose is to help
+the world run better and
+improve people’s lives.1 Introduction 2 Values 3 You 4 Workplace 5 Business 6 Ecosystem 7 Society 42 / 45
+7.1 Communication
+We must ensure that we communicate clearly, In addition to following all company policies, a Do not disclose internal, confidential, or proprie-
+effectively, and responsibly. It safeguards a high general rule to remember when using social media tary information about our business, our suppliers,
+standard of dissemination of information con- is to think about the effect of statements that you our partners, or our customers. Review the social
+cerning SAP’s business activities, strategy, or make. Keep in mind that these transmissions are media guidelines before posting any material.
+other company affairs and ensures that we act permanent and easily transferable and can affect
+in accordance with applicable laws and regulations our company’s reputation and relationships with SAP Marketing and SAP Global Communications,
+at all times. colleagues, customers, partners, and others. in collaboration with Global Legal counterparts,
+provides guidelines to help you when communicat-
+Only employees who are expressly authorized Your employment postings on Web sites and social ing about SAP to ensure that statements about our
+to communicate on behalf of SAP may engage media platforms may include the fact that you company, products, customers, and partners are
+with members of the media, industry analysts, work for SAP, your job title, a high-level job descrip- truthful and defensible.
+government representatives, or other influencers. tion, and your general office location. However, no
+SAP-related contact with these audiences must specific project or initiative details or proprietary
+MORE INFORMATION
+be coordinated and authorized by SAP Global software information or names should be included.
+SAP Global Communications Policy
+Communications. Any contact with the financial
+community must be coordinated and authorized
+by SAP Investor Relations.
+We encourage communication among employees,
+customers, partners, and others. Be polite, honest,
+and respectful, and always identify yourself and
+make clear whether you are speaking on behalf
+of yourself or speaking on behalf of SAP.
+Social media enables us to learn from and share
+information with our stakeholders, as well as
+communicate with the public about our company.1 Introduction 2 Values 3 You 4 Workplace 5 Business 6 Ecosystem 7 Society 43 / 45
+7.2 Human Rights
+You are required to comply with all applicable laws,
+regulations, company policies, and fundamental
+principles relating to human rights. We also expect
+our business partners to share our commitment
+to the advancement of human rights and to avoid
+complicity in human rights abuses.
+We encourage you to raise any questions or concerns
+relating to human rights and ask you to report
+potential breaches through the various reporting
+channels available.
+MORE INFORMATION
+SAP Global Human Rights Commitment
+Statement
+We respect, support, and promote human rights We take guidance from the United Nations’ G uiding SAP Partner Code of Conduct
+throughout our own business activities as well as Principles on Business and Human Rights to SAP Supplier Code of Conduct
+along our value chain. Human rights refer to basic integrate human rights considerations into our
+rights and freedoms that belong to every person. standard business practices. We maintain a range
+These are recognized in the International Bill of of policies and procedures designed to ensure
+Human Rights and the International Labor Organi- that we treat everyone with respect and to include
+zation Declaration on Fundamental Principles and actions to mitigate the risk of forced labor, modern
+Rights at Work, such as the prohibition of forced slavery, human trafficking, or other human rights
+labor, modern slavery, and human trafficking. risks occurring in our own business or along the
+value chain.1 Introduction 2 Values 3 You 4 Workplace 5 Business 6 Ecosystem 7 Society 44 / 45
+7.3 Corporate Social 7.4 Commitment to Improving Our
+Responsibility Environmental Performance
+The SAP Corporate Social Responsibility (SAP CSR) Sustainability is an integral part of our purpose
+team is responsible for setting and executing SAP’s to help the world run better and improve people’s
+CSR strategy focused on bringing to life our pur- lives. SAP is committed to improve and invest in
+pose through strategic partnerships and programs the environmental performance of SAP’s value
+that deliver sustainable social and ecological impact chain and solutions to respect planetary bound-
+and long-term business value. In this function, the aries. Therefore, we conduct business in an envi-
+team is fully responsible for managing all corpo- ronmentally responsible manner and comply
+rate giving (such as donations) and oversees all with relevant environmental laws, regulations,
+volunteerism. and standards.
+You must not make funding commitments to poten- We commit to improve our environmental impacts
+tial recipients, such as the promise of a donation, and prevent pollution by reducing resource and
+before receiving approval through the official water consumption, carbon emissions, energy, and
+SAP CSR process. waste, including electronic waste, among others. SAP’s sustainability goals. We can achieve this
+To do so, we provide the necessary resources and through sustainable product design and develop-
+information to efficiently manage our environmen- ment, efficient use of resources, or other activities
+MORE INFORMATION
+tal performance and achieve our objectives in the and behaviors that reduce our environmental
+SAP Global Corporate Social
+SAP Global Environmental Policy. These objectives footprint.
+Responsibility (CSR) Policy
+and the impact of our operations and solutions
+are analyzed, managed, and reported throughout
+MORE INFORMATION
+their lifecycle.
+SAP Global Environmental Policy
+We are all responsible to keep environmental pro-
+tection in mind when making business decisions
+and implement sustainable practices that support1 Introduction 2 Values 3 You 4 Workplace 5 Business 6 Ecosystem 7 Society 45 / 45
+7.5 Political Activities
+Society is partly determined and shaped by 7.5.2 LOBBYING 7.5.3 MEMBERSHIPS IN PROFESSIONAL
+politics and the political activity of its citizens. Policymaking and legislation have a significant OR POLITICAL ORGANIZATIONS
+impact on our business. We are committed to In principle, we believe that memberships in
+7.5.1 PERSONAL POLITICAL ACTIVITY, engaging appropriately in the public policy process professional organizations are worth supporting,
+CONTRIBUTIONS, AND COMMUNICATION as an important means of enhancing shareholder as among other things, they provide us with
+SAP is proud that we are socially engaged and that value, a fundamental principle for free and the ability to take part in shaping and developing
+we participate in the political process. democratic societies. standards and best practices of the profession.
+However, we as SAP act very cautiously in our
+Your political engagement should take place out- SAP engages with governments around the world political activities. If SAP pays for your member-
+side of your working hours. Although individuals on public policy issues that are core to our business. ship in a group that has political affiliation or
+may make political contributions, these are not Lobbying is an appropriate way for us to educate appears to be associated with it, you must align
+reimbursed by SAP. SAP does not make direct policymakers about the legitimate interests of SAP with SAP Global Government Affairs before becom-
+contributions for political purposes to political and to participate in political decision-making pro- ing a member. Of course, you may become a private
+parties, politicians, or political organizations other cesses. We believe that by sharing our expertise member in such organization at any time. However,
+than through event sponsorships and related and communicating our position on certain topics, SAP does not reimburse any costs or expenses
+marketing as allowed by law and specifically we contribute responsibly to policymaking, but
+approved by SAP Global Government Affairs these communications must be conducted and For information on corporate memberships,
+and the Office of Ethics & Compliance (OEC). reported in compliance with all applicable laws. see the “Corporate Sponsorships, Memberships,
+and Donations” section of this Code.
+If you are engaged in political activities, make sure It is our policy to comply with the lobbying laws
+that this reflects your own personal view and do and restrictions of every jurisdiction where we
+MORE INFORMATION
+not give the impression that any of these activities conduct business, and to be as transparent as
+SAP Global Policy on Interactions with
+are connected to SAP. possible in lobbying activities and the engagement
+Government Officials
+of lobbyists. As the regulation of lobbying activity
+varies widely across jurisdictions, a detailed knowl- SAP Global Communications Policy
+edge of the legal requirements is needed. Lobbying
+activities are therefore managed solely by SAP
+Global Government Affairs.Studio SAP | 77965enUS (23/03)
+© 2023 SAP SE or an SAP affiliate company. All rights reserved. See Legal Notice on www.sap.com/legal-notice
+for use terms, disclaimers, disclosures, or restrictions related to SAP Materials for general audiences.

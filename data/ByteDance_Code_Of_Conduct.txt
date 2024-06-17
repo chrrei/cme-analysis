@@ -1,0 +1,247 @@
+ByteDance
+Code of ConductPREFACE
+The Code of Conduct (the “Code”) is a cornerstone of our business. The Code
+sets out the high ethical standards and culture of integrity which are goals of
+the ByteDance Group entities, its affiliates and subsidiaries (collectively, the
+“Company” or “ByteDance”).
+ByteDance Code of Conduct 1Table of Contents
+Message from CEO
+Overview Treat Others with Respect
+1. 3.
+Application of the Code Mutual Respect
+1.1 3.1
+Following the Code Safety and Security
+1.2 3.2
+Speak Up Drugs and Alcohol
+1.3 3.3
+Acting with Integrity Doing Business Responsibly
+2. 4.
+Confidentiality Anti-Corruption and Anti-Bribery
+2.1 4.1
+User and Business Partner Privacy and Information Receiving Gifts or Entertainment
+2.2 4.2
+Proper Use and Protection of Company Assets Anti-Money Laundering
+2.3 4.3
+External Communications International Trade Compliance
+2.4 4.4
+Conflicts of Interest Fair Competition
+2.5 4.5
+Preventing Fraud Financial Integrity and Record Keeping
+2.6 4.6
+Insider Trading
+4.7
+Corporate Social Responsibility & Sustainability
+4.8
+ByteDance Code of Conduct 2Message from CEO
+With ByteDance’s rapid international expansion and growth, we These principles serve as the foundation for us to continue to build
+continue to enrich the lives of people around the world. In this pursuit a strong ethical and compliant work culture. By following these
+of excellence, we stand firm on the values of ethics and integrity principles and holding each other accountable, we will ensure that we
+to nurture and strengthen our organizational culture. Our Code of continue to conduct our business ethically to fulfill our obligations to
+Conduct sets the standard for our professional conduct, and forms the Company, colleagues, clients, vendors, and business partners. For
+the basis of how we interact with each other, our customers, and third situations where you observe others are not following the principles,
+parties. The Code consists of three overarching principles: speak up to help safeguard our workplace. We will not retaliate, and
+will not tolerate retaliation, against any individual for reporting a
+concern in good faith or participating in an investigation of a concern.
+1. Integrity - we hold ourselves and each other accountable, and uphold
+high ethical standards to protect our company and users;
+By working together, we will be able to achieve our mission to inspire
+2. Respect - we create an inclusive environment where we treat each
+creativity, enrich life, and ensure the sustained and robust growth of
+other with mutual respect and build lasting relationships; and
+our company.
+3.Responsibility - we comply with laws and regulations, and conduct
+our business in good faith with transparency.
+Rubo Liang
+ByteDance Code of Conduct 31.Overview
+1.1 Application of the Code
+The Code applies to all ByteDance employees, interns, members of the boards of directors,
+supervisors, and senior officers (collectively, “ByteDancers”). The Code also applies to those Model the Code: We model the Code by understanding and complying with
+assigned to perform work or services for or on behalf of ByteDance, such as independent the Code and the Company’s policies. We promote a culture of integrity,
+contractors, third-party associates, and outsourcing staff (collectively, “Extended Workforce”). and encourage adherence to our principles by using good judgment and
+“We” and “You” in the Code will refer to both ByteDancers and the Extended Workforce. Please ethical decision-making. We hold ourselves and others accountable for our
+note that nothing in the Code creates an employment relationship with the Extended Workforce. respective decisions and behaviors.
+A separate set of guidelines known as the Business Partner Code of Conduct applies to all
+Business Partners. The term “Business Partner(s)” refers to all third parties including suppliers,
+service providers, agents, vendors, and consultants who provide any kind of products, services,
+or undertake any activity for or on behalf of ByteDance.
+Create a “Speak Up” Culture: We foster an environment of trust and open
+communications where colleagues feel comfortable coming forward if they
+Different countries have different legal systems, and as such, conflicts may arise between a
+want to talk or ask questions. We escalate concerns regarding potential
+provision of the Code and local laws or regulations. We follow the stricter guidance when there
+violations or misconduct immediately once known or reported. We support
+are differences with the Code, laws, or regulations. Additionally, no one should follow any portion
+and cooperate with investigations, and we never excuse or condone
+of the Code if it is illegal under local laws or regulations. The Company will conduct periodic
+inappropriate behaviors.
+reviews to determine whether the Code requires revisions based on changes in laws, regulations,
+or developments of the Company.
+We expect leaders to firmly uphold the Code, communicate its importance to their teams, and
+1.2 Following the Code
+ensure that the listed expectations are met.
+Our Responsibility
+We have a responsibility as employees and representatives of ByteDance to model the Code and
+create a “Speak Up” culture.
+ByteDance Code of Conduct 41.Overview
+Violations of the Code Investigations
+In no circumstance will failure to read the Code or Company policies exempt your obligation to For all concerns raised, the Company has the responsibility to take appropriate actions. This
+comply with these requirements. Violations, depending on the nature and severity, may result includes conducting a fair, objective, and thorough investigation. Based on the nature of the
+in disciplinary action, up to and including, termination of employment or termination of an violation, the appropriate investigation team will perform an impartial review of all the facts
+engagement service contract, where necessary. Where there is a potential violation of law and/ available, maintain confidentiality to the greatest extent possible, and comply with applicable
+or policy, the Company will cooperate with the appropriate authorities. laws and regulations. The Company requires employees to cooperate fully with any inquiry or
+investigation by providing truthful and complete responses and information to investigators.
+1.3 Speak Up
+We value everyone’s voice and well-being. Furthermore, we take pride in holding ourselves and The Company will take appropriate action when it determines that a violation has occurred
+each other accountable. Please speak up if someone asks you to do something that makes you or someone was untruthful during an investigation. This includes disciplinary action where
+feel uncomfortable, or if you see or suspect activity that goes against our Code. By reporting appropriate, and corrective actions to improve our policies and internal controls to prevent future
+misconduct, you will help contribute to the ethical culture at ByteDance. issues.
+No Retaliation
+Reporting Channels The Company strictly prohibits retaliation of any kind against anyone who shares a concern in
+You can speak up in any of the following ways: good faith or participates in an investigation. An individual would have reported in good faith if
+· Contact your leader or HRBP the individual reasonably believes, perceives, or suspects the information reported to be true.
+· Speak Up Hotline The Company encourages honest reporting, but does not tolerate anyone knowingly submitting
+· Ethics Office (ethics@bytedance.com) a false report. Making false accusations can lead to disciplinary action as it diverts investigatory
+resources away from credible good faith concerns and damages the morale of those impacted.
+However you choose to speak up, the Company will seriously treat and promptly address your
+concerns and questions. The Company will take appropriate steps to maintain confidentiality to
+the fullest extent possible.
+ByteDance Code of Conduct 52. Acting with Integrity
+As employees, we hold ourselves and each other accountable to high ethical standards, and We abide by our policies as well as local laws and regulations regarding personal privacy and
+help the Company succeed by complying with the Code and the Company’s policies. We data disclosure for each country in which we do business.
+are also proud representatives of the Company, and take pride in preserving the Company’s
+image through our actions. 2.3 Proper Use and Protection of Company Assets
+The Company provides us with a variety of assets to allow us to complete our work tasks
+2.1 Confidentiality effectively. These assets include physical (tangible) assets such as IT hardware and equipment,
+The Company attributes its success in part based on innovations, intellectual property and non-physical (intangible) assets such as access to internal systems, apps, and emails.
+and technology. To ensure the Company’s success, we recognize the importance of our
+responsibility to preserve and uphold data confidentiality. Our policies provide guidelines on proper use of assets including password use, lost/stolen
+items, and misuse of company assets (including improper use or over-indulgence). We must:
+To ensure that we handle confidential information appropriately, each of us needs to - use Company assets for legitimate work purposes only;
+understand the types of confidential information and the ways to protect it. We consider - ensure the safe and correct operation of Company assets; and
+all non-public information about the Company, its customers and Business Partners as - take appropriate care to protect and secure Company assets, both in the workplace and at
+confidential unless the Company clarifies that the information is public. Non-public information home.
+includes business plans, proprietary data, financial information, internal communications,
+organizational structure, operational information, personnel information, and information The Company reserves the right to seek remedies should you wilfully damage assets, use
+related to third parties with which the Company has non-disclosure agreements. We should assets for an unlawful purpose, fail to take good care of the assets, or fail to stop losses from
+not disclose confidential information to third parties, nor should we discuss it in public places. increasing.
+For confidential information limited to a specific range of people, you should only disclose it
+to those who need to use it to perform their duties and are authorized to know. 2.4 External Communications
+With ByteDance being a high-profile global company, the media, organized events,
+competitors or interested external parties may contact or ask you to provide commentary.
+2.2 User and Business Partner Privacy and Information
+Such commentary has the potential to cause serious damage, specifically when there is
+Protecting and ensuring the privacy and safety of our users’ and Business Partners’ information
+a perception that the communication is on behalf of the Company, discloses non-public
+is of the utmost importance. We arrange to take all lawful steps possible to protect user privacy
+information, is misinterpreted, or is inaccurate.
+and Business Partners’ information during the obtaining, processing, and transferring of data.
+This includes personal data, customer lists, trade secrets, and patented technologies.
+ByteDance Code of Conduct 62. Acting with Integrity
+Any situation in which it may appear that you are representing the Company requires formal You are responsible for understanding what are conflicts of interest, and proactively declaring
+pre-approval prior to partaking in these engagements or activities. This is to ensure that the all potential and actual conflicts via the Conflict of Interest Declaration system. Furthermore,
+Company provides you with proper guidance and support prior to such engagements or you must cooperate with the Company and work towards remediating identified conflicts. If
+activities. there are no conflicts, you are required to confirm the same on the system.
+2.5 Conflicts of Interest 2.6 Preventing Fraud
+The Company embraces and supports our private lives and endeavors. However, we have We are a company that is transparent and honest as we take pride in our product and what we
+a responsibility to ensure that our personal interests do not conflict with the Company. A represent. We have the responsibility to represent the Company in a transparent and honest
+conflict of interest occurs when we, or someone with whom we have a significant personal manner and avoid any fraudulent activity. The Company prohibits fraudulent activity, which
+relationship, has a private interest or associated business that interferes or appears to interfere includes any use of deception to obtain monetary or personal gain, to avoid an obligation, or to
+with the interest of the Company. cause loss to another party. Examples of fraud include: knowingly providing false, misleading
+or incomplete information to the Company or Business Partners; manipulation, falsification,
+Common situations where a conflict of interest might exist that requires disclosure include forgery or unauthorized alteration of any company records; and knowingly or negligently
+the following: supporting or assisting any fraudulent or deceptive behavior.
+investments;
+1.
+outside activities & personal intellectual property;
+2.
+commercial cooperation & business opportunities;
+3.
+personal relationships; and
+4.
+personal account monetization.
+5.
+ByteDance Code of Conduct 73. Treat Others with Respect
+Respect is a fundamental behavior and requirement that we exhibit to promote a positive and The Company has implemented robust physical security controls including the deployment of
+inclusive work culture and environment. We are a company that promotes collaboration, teamwork people, technology and procedures, to ensure global workplace security. These controls are
+and the inclusion of all thoughts and ideas. We act responsibly by demonstrating respect and constantly assessed to ensure their continued effectiveness. We have a shared responsibility to
+kindness to all team members and Business Partners. help protect our workplaces by reporting anything that could endanger or detrimentally impact
+personnel, property, or the Company’s reputation. In the event of an emergency, please contact
+3.1 Mutual Respect your local emergency authorities.
+We believe in providing every ByteDancer with the opportunity to reach their full potential and
+contribute to the Company’s success. We respect and embrace diversity and believe that our The Company has also established an Environment, Health and Safety Management System, to
+collective differences make us stronger. comply with applicable environmental, health and safety laws and regulations in the countries
+in which we operate. We take appropriate measures to provide a safe and healthy workplace for
+We commit to providing a workplace free from discrimination or harassment based on an employees, promote employee health management, and protect environmental sustainability.
+individual’s protected status. Protected status refers to an individual’s personal characteristics
+including: race, color, age, sex, language, religion, national or ethnic origin, citizenship, marital/ 3.3 Drugs and Alcohol
+civil status, sexual orientation, gender identity or expression, disability, pregnancy, or any other We take great pride in being able to represent the Company through our work and the products
+characteristics protected by applicable laws. we deliver. The Company expects us to perform our job duties without being under the influence
+of drugs, alcohol, or any substance that could impair job performance. Being under the influence of
+We oppose any form of discrimination, workplace bullying, harassment or sexual harassment. such substances can also pose a safety risk to yourself or others.
+This applies to all ByteDancers, and covers actions occurring at the workplace, and any other
+settings involving work. To the extent permitted by law, this also applies to dealings with external The Company prohibits substance abuse, including:
+parties in the settings involving work. - working under the influence of alcohol or drugs while on Company premises or conducting work
+for the Company; and
+The Company also provides equal employment opportunities and commits to ensuring that hiring, - possessing, selling, distributing, or consuming illegal drugs or controlled substances while on
+continued employment and performance reviews are only evaluated and based on Company Company premises, or conducting work for the Company.
+policies, an individual’s work performance, and not influenced by any irrelevant factors.
+There are occasions where the Company permits alcohol consumption (e.g., at approved Company
+3.2 Safety and Security events). In such case, when consuming alcohol in an approved setting, we should always exercise
+Whether working remotely or in our office we prioritize the safety and security of our colleagues. sound judgment and ensure our conduct remains professional at all times.
+ByteDance Code of Conduct 84. Doing Business Responsibly
+We are a company that believes in conducting ourselves virtuously and adhering to applicable Our general policy is to politely decline or return any gift or cash regardless of the value. If
+laws and regulations. We stand behind the quality of our products and services and demonstrate declining the gift or cash is culturally inappropriate or not possible, you must promptly disclose
+our responsible business practices by consistently abiding by our standards in both our daily it in accordance with the policy.
+tasks and interactions with others.
+Entertainment should be for business purposes only. It should not interfere or influence any
+4.1 Anti-Corruption and Anti-Bribery business judgment. Accepting such an invitation should be done mindfully, infrequently, and
+We seek to preserve our culture of integrity and ethical behavior, as well as comply with all should never be considered lavish or extravagant. Pre-approval from a direct leader must be
+applicable anti-corruption laws and regulations in the countries in which we operate. We prohibit obtained when the entertainment exceeds the policy threshold limit.
+bribery in all forms. You may not, whether directly or indirectly, offer, give, receive, or solicit,
+anything of value to improperly influence any decision or any other act or omission related to the 4.3 Anti-Money Laundering
+Company’s business or to obtain an improper advantage. We commit to complying with all applicable laws and regulations in the countries in which we
+operate to prevent the use of our platforms, products and services for money laundering or
+We do not maintain business relationships based on offering, or providing, gifts or entertainment. terrorism financing purposes, and to combat any sort of criminal activity.
+We understand that local business customs or etiquette may require the giving of a gift or - Money laundering refers to concealing the origins of money generated by a criminal activity, so
+entertainment on certain occasions. Nonetheless, the following conditions must be met when that it appears to have come from a legitimate source.
+giving such gifts or entertainment: - Terrorist financing refers to carrying out transactions that are linked to, or likely to be used by,
+- The gift or entertainment given should not violate applicable laws or Company policies, must terrorists or terrorist organizations.
+have legitimate business purposes, be appropriate, and conform to local business etiquette.
+- The Company prohibits offering, making any payment, or giving any lavish gift or entertainment, 4.4 International Trade Compliance
+that could be considered a bribe, kickback, commission or advantage. We commit to complying with applicable trade laws and regulations, trade sanctions, export
+- Obtain the requisite pre-approvals for giving gifts or entertainment and maintain proper records. controls, and other trade-related laws and regulations that apply in the countries in which we
+do business. We also prohibit business activities, or other dealings, with sanctioned regions and
+4.2 Receiving Gifts or Entertainment parties that may lead to any violation.
+Take caution when receiving gifts or entertainment as it may bring about actual influence, or the
+appearance of undue influence.
+ByteDance Code of Conduct 94. Doing Business Responsibly
+4.5 Fair Competition as well as our clients or Business Partners. “Insider information” is non-public information that a
+We believe in free, fair and honest competition and should avoid any conduct that unfairly reasonable investor would consider important in conducting a trade.
+restricts trade. Antitrust or competition laws protect consumers and markets against unfair
+business practices, and promote and protect healthy competition. We commit to outperforming The Company considers transactions of stock in a company while in possession of insider
+our competitors legally and ethically, and observing applicable antitrust and competition laws in information about that company obtained in connection with your employment at ByteDance as
+the countries in which we operate. insider trading and this is strictly prohibited. Additionally, insider trading includes passing along
+insider information to another person who then utilizes that information, and would be strictly
+Additionally, the Company does not seek to obtain confidential information from our competitors, prohibited. Insider trading is not only against policy, but is also illegal and may lead to legal
+either directly, through third parties, or from current ByteDance employees who may have worked consequences.
+at other companies.
+4.8 Corporate Social Responsibility & Sustainability
+4.6 Financial Integrity and Record Keeping We understand that as members of a global company we have a positive role to play in the
+Financial integrity and record keeping are essential to the healthy operations of the Company. community, and to consider the social and environmental impact of business decisions. The
+We make business decisions based on accurate, clear and complete records. We also maintain Company prohibits child labor, forced or involuntary labor, illegal employment, or trafficking of
+compliance with financial reporting regulations to uphold credibility with our customers and persons within our organization or supply chain.
+stakeholders, and demonstrate success as a company. We strive to:
+- ensure that our financial statements are always complete and accurate; We encourage active participation in public welfare activities, promoting social causes and
+- follow relevant accounting and reporting standards and policies; and becoming part of the solution. We believe that a strong corporate culture is one where we not
+- comply with applicable laws, regulations and policies regarding record keeping and record only focus on our development needs, but also how we can grow with and help build up our
+retention. communities.
+It is important that we manage and keep records in accordance with applicable record retention We seek to improve the sustainability of our operations and look to find ways to lessen our
+policies and legal holds as failures to do so could expose both the Company and you to civil and carbon footprint and support environmental initiatives. We do this by complying with applicable
+criminal liability. environmental laws and recognize our responsibility and commitment to minimize our direct and
+indirect impact on natural resources through our business practices. We believe that each of us
+4.7 Insider Trading has the opportunity and responsibility to address climate change and biodiversity protection.
+In each of our roles, we may have access to material non-public information about the Company,
+ByteDance Code of Conduct 10If you have any questions concerning the Code, please contact Ethics Oncall.
+If you see something that does not seem right, please report it through the Speak Up Hotline,
+or mail the Ethics Office (ethics@bytedance.com) to speak up.
+ByteDance Code of Conduct

@@ -1,0 +1,757 @@
+CODE OF BUSINESS CONDUCT AND ETHICS
+(Updated as of June 17, 2023)TABLE OF CONTENTS
+INTRODUCTION 1
+YOUR RESPONSIBILITIES 2
+GENERAL STANDARDS OF CONDUCT 3
+OVERVIEW 3
+COMPLIANCE WITH LAW 3
+NO DISCRIMINATION OR HARASSMENT 3
+AVOIDING CONFLICTS OF INTERESTS 4
+OVERVIEW 4
+OUTSIDE EMPLOYMENT AND DIRECTORSHIPS 4
+FINANCIAL INTERESTS IN OTHER COMPANIES 5
+TRANSACTIONS WITH NUTANIX 5
+CORPORATE OPPORTUNITIES 5
+LOANS BY NUTANIX 5
+IMPROPER BENEFITS 5
+ELECTION OR APPOINTMENT TO PUBLIC OFFICE 5
+GUIDANCE AND APPROVALS 5
+PUBLIC COMMUNICATIONS 7
+PUBLIC COMMUNICATIONS AND FILINGS 7
+COMMUNICATION PROCEDURES 7
+FINANCIAL REPORTING 8
+OVERVIEW 8
+COMPLIANCE WITH RULES, CONTROLS AND PROCEDURES 8
+ACCURACY OF RECORDS AND REPORTS 8
+INTENTIONAL MISCONDUCT 9
+DEALING WITH AUDITORS 9
+OBLIGATION TO INVESTIGATE AND REPORT POTENTIAL VIOLATIONS 9
+KEEPING THE AUDIT COMMITTEE INFORMED 10
+SAFEGUARDING COMPANY ASSETS 11
+OVERVIEW 11
+PROTECTING NUTANIX’S INFORMATION 11
+PROHIBITION ON INSIDER TRADING 12
+MAINTAINING AND MANAGING RECORDS 13
+RESPONSIBILITIES TO OUR CUSTOMERS, SUPPLIERS AND COMPETITORS 14
+OVERVIEW 14
+IMPROPER PAYMENTS 14
+GIFTS AND ENTERTAINMENT 14
+SELECTING SUPPLIERS 15
+PROCUREMENT AND SOFTWARE USE 15
+HANDLING THE NONPUBLIC INFORMATION OF OTHERS 15
+IMPROPERLY OBTAINING OR USING ASSETS OR INFORMATION 16
+FREE AND FAIR COMPETITION 16
+WORKING WITH GOVERNMENTS 18
+iiOVERVIEW 18
+GOVERNMENT CONTRACTS 18
+REQUESTS BY REGULATORY AUTHORITIES 18
+IMPROPER PAYMENTS TO GOVERNMENT OFFICIALS 18
+POLITICAL CONTRIBUTIONS 19
+LOBBYING 19
+TRADE RESTRICTIONS 19
+IMMIGRATION LAWS 19
+PROCEDURAL MATTERS 21
+DISTRIBUTION 21
+ACKNOWLEDGMENT 21
+APPROVALS AND WAIVERS 21
+SEEKING GUIDANCE 21
+REPORTING VIOLATIONS 21
+INVESTIGATIONS 22
+DISCIPLINARY ACTION 23
+ADDITIONAL INFORMATION 24
+AMENDMENTS 24
+ACKNOWLEDGMENT 25
+iiiINTRODUCTION
+This Code of Business Conduct and Ethics (this “Code”) is designed to deter wrongdoing and to
+promote:
+• honest and ethical conduct, including the ethical handling of actual or apparent
+conflicts of interest between personal and professional rela_onships;
+• full, fair, accurate, Nmely and understandable disclosure in reports and documents
+we file with or submit to the U.S. Securi_es and Exchange Commission and in our
+other public communica_ons;
+• compliance with applicable laws, rules and regula_ons;
+• the prompt internal reporNng of viola_ons of this Code; and
+• accountability for adherence to this Code.
+This Code applies to all directors, officers, and employees of Nutanix, Inc. and its subsidiaries
+(collec_vely, “we,” “us,” “our,” “Nutanix,” or the “Company”), who, unless otherwise specified,
+will be referred to jointly as “employees.” Agents and contractors of Nutanix are also expected
+to read, understand and abide by this Code.
+This Code should help guide your conduct in the course of our business. However, many of the
+principles described in this Code are general in nature, and this Code does not cover every
+situa_on that may arise. Use common sense and good judgment in applying this Code. If you
+have any quesNons about applying this Code, it is your responsibility to seek guidance.
+This Code is not the exclusive source of guidance and informa_on regarding the conduct of our
+business. You should consult applicable policies and procedures in specific areas as they apply.
+This Code is intended to supplement, not replace, the Company’s employment policies, work
+rules and guidelines, as applicable, and the other policies and procedures of Nutanix.
+We are commiied to con_nuously reviewing and upda_ng our policies and procedures. Nutanix
+therefore reserves the right to amend, alter or terminate this Code at any _me and for any
+reason, subject to applicable law.
+It is your responsibility to ensure that you are consulNng the latest version of this Code to
+guide your conduct in the course of our business.
+1YOUR RESPONSIBILITIES
+• You are expected to read and understand this Code of Business Conduct and Ethics.
+• You must uphold these standards in day-to-day ac_vi_es and comply with all applicable
+policies and procedures in this Code.
+• Part of your job and ethical responsibility is to help enforce this Code. You should be
+alert to possible viola_ons and promptly report viola_ons or suspected viola_ons of
+this Code. Please refer to “Procedural Maiers—Repor_ng Viola_ons” for more
+informa_on.
+• You are required to cooperate in good faith with inves_ga_ons into possible Code
+viola_ons and be truthful and forthcoming in the course of these inves_ga_ons. Failure
+to cooperate in good faith into the Company’s inves_ga_on into an alleged viola_on of
+this Code may result in disciplinary ac_on, up to and/or including termina_on.
+• Reprisals, threats, retribu_on, or retalia_on against any person who has, in good faith,
+reported a viola_on or a suspected viola_on of laws, rules, regula_ons, this Code, or
+other company policies, or against any person who is assis_ng in good faith in any
+inves_ga_on or process with respect to such a viola_on, is prohibited. Concerns about
+retalia_on or threatened retalia_on should be reported through one of the channels
+listed in the “Repor_ng Viola_ons” sec_on of this Code.
+• In trying to determine whether any given ac_on is appropriate, keep these steps in
+mind:
+o Obtain all relevant facts.
+o Assess the responsibili_es and roles of those involved.
+o Using your judgment and common sense, evaluate whether the ac_on seems
+unethical or improper.
+o Seek guidance.
+• If you are unsure about any situaNon or any provision of this Code or any other
+related policy, discuss the maXer with your manager or responsible employees in the
+Legal or Human Resources Departments, or send your quesNon to
+codeofconduct@nutanix.com.
+2GENERAL STANDARDS OF CONDUCT
+Overview
+Honest and ethical conduct is cri_cal to our business. All employees, agents and contractors
+have a duty to comply with applicable law and to act in an honest and ethical manner.
+Compliance with law
+You are responsible for complying with all laws, rules, regula_ons, and regulatory orders
+applicable to the conduct of our business. If you are located or engaging in business outside of
+the United States, you must comply with laws, rules, regula_ons, and regulatory orders of the
+United States, including the Foreign Corrupt Prac_ces Act and U.S. export rules and regula_ons,
+in addi_on to the applicable laws of other jurisdic_ons. If compliance with this Code should ever
+conflict with law, you must comply with the law.
+You should undertake to acquire knowledge of the legal requirements rela_ng to your du_es
+sufficient to enable you to recognize poten_al dangers and to know when to seek advice from
+managers or other appropriate personnel. In some instances, this may include knowing and
+understanding legal requirements related to an_trust, privacy and data breach, government
+contrac_ng, export controls, and/or immigra_on compliance.
+Viola_ons of laws, rules, regula_ons, and orders may subject you to individual criminal or civil
+liability, in addi_on to discipline by Nutanix. Viola_ons may also subject Nutanix to civil or
+criminal liability or the loss of business.
+No discriminaNon or harassment
+Nutanix is commiied to providing a work environment that is free of discrimina_on and
+harassment. Nutanix is an equal opportunity employer and makes employment decisions on the
+basis of merit and business needs. In addi_on, Nutanix strictly prohibits harassment of any kind,
+including harassment on the basis of race, color, veteran status, religion, gender, sex, sexual
+orienta_on, age, mental or physical disability, medical condi_on, na_onal origin, marital status
+or any other characteris_cs protected under applicable law or local ordinance.
+3AVOIDING CONFLICTS OF INTERESTS
+Overview
+Your decisions and ac_ons in the course of your employment with Nutanix should be based on
+the best interests of Nutanix, and not based on personal rela_onships or benefits. You should
+seek to avoid situa_ons where your personal ac_vi_es and rela_onships conflict, or appear to
+conflict, with the interests of Nutanix, except under guidelines approved by the Board of
+Directors. This includes situa_ons where you may have or appear to have an indirect conflict
+through, for example, a significant other or a rela_ve or other persons or en__es with which
+you have a business, social, familial, personal, or other rela_onship. A conflict may also arise
+when you take ac_ons or have interests that make it difficult for you to perform your work for
+Nutanix objec_vely and effec_vely. You must disclose to your manager any interest that you
+have that may, or may appear to, conflict with the interests of Nutanix.
+There are a variety of situa_ons in which a conflict of interest may arise. While it would be
+imprac_cal to aiempt to list all possible situa_ons, some common types of conflicts are
+discussed below.
+Outside employment and directorships
+Unless you are a non-employee director of Nutanix, you may not perform services as a director,
+employee, agent or contractor for a customer, a supplier, or any other en_ty without express
+prior wriien approval from Nutanix’s Legal Department.
+If you are an employee-director or an officer subject to the Sec_on 16 repor_ng requirements
+of the Securi_es Exchange Act of 1934, as amended (a “Sec5on 16 Officer”), you must also
+obtain prior approval from the Board of Directors. Requests for wriien approval to perform
+such services should be submiied to conflicts@nutanix.com before you commence such
+services.
+Non-employee directors of Nutanix must promptly inform Nutanix of any such service.
+Even if approved, all employees shall be limited to service on not more than one (1) board of
+directors of a for-profit en_ty and service on not more than one (1) advisory board or
+commiiee of a for-profit en_ty.
+Excep_ons to these limits must be approved by the Board of Directors (for any employee-
+directors or Sec_on 16 Officers) or the Chief Execu_ve Officer (for all other employees). You
+may not perform services as a director, employee, agent or contractor for any compe_tor of
+Nutanix. Furthermore, you remain subject to this Code in all respects, and it is your
+responsibility to con_nue to comply with this Code, including its provision regarding conflicts of
+interest and safeguarding of Company assets, while you serve as a director, employee, agent or
+contractor for another en_ty.
+4Financial interests in other companies
+You should not have a financial interest—including an indirect interest through, for example, a
+rela_ve or significant other—in any organiza_on if that interest would give you or would appear
+to give you a conflict of interest with Nutanix. You should be par_cularly sensi_ve to financial
+interests in compe_tors, suppliers, customers, distributors, and strategic partners.
+TransacNons with Nutanix
+If you have a significant financial interest in a transac_on involving Nutanix—including an
+indirect interest through, for example, a rela_ve or significant other or a business en_ty—you
+must disclose that interest, and that interest must be approved by Nutanix. We encourage you
+to seek guidance if you have any ques_ons as to whether an interest in a transac_on is
+significant. If it is determined that the transac_on is required to be reported under U.S.
+Securi_es and Exchange Commission rules, the transac_on will be subject to review and
+approval by the Audit Commiiee of the Board of Directors. Any dealings with a related party
+must be conducted in such a way that no preferen_al treatment is given to that business.
+Corporate opportuniNes
+You may not directly or indirectly exploit for personal gain any opportuni_es that are discovered
+through the use of corporate property, informa_on or posi_on unless the opportunity is
+disclosed fully in wri_ng to the Board of Directors or its designated commiiee and the Board of
+Directors or its designated commiiee declines to pursue the opportunity.
+Loans by Nutanix
+Loans from Nutanix to directors and execu_ve officers are prohibited. Loans from Nutanix to
+other officers and employees must be approved in advance by the Board of Directors or its
+designated commiiee.
+Improper benefits
+You may not receive any improper benefit as a result of your posi_on with Nutanix.
+ElecNon or appointment to public office
+You may serve in an elected or appointed public office provided that the posi_on does not
+create or appear to create a conflict of interest. Requests for wriien approval to serve in such a
+role should be submiied to conflicts@nutanix.com before you commence such service.
+Guidance and approvals
+5Evalua_ng whether a conflict of interest exists, or may appear to exist, requires the
+considera_on of many factors. We encourage you to seek guidance and approval in any case
+where you have any ques_ons or doubts. Nutanix may at any _me rescind prior approvals to
+avoid a conflict of interest, or the appearance of a conflict of interest, for any reason deemed to
+be in the best interest of Nutanix.
+6PUBLIC COMMUNICATIONS
+Public communicaNons and filings
+Nutanix files reports and other documents with regulatory authori_es, including the U.S.
+Securi_es and Exchange Commission and Nasdaq Stock Market. In addi_on, from _me-to-_me
+Nutanix makes other public communica_ons, such as issuing press releases.
+Depending upon your posi_on with Nutanix, you may be called upon to provide informa_on to
+help assure that Nutanix’s public reports and communica_ons are complete, fair, accurate and
+understandable. You are expected to use all reasonable efforts to provide complete, accurate,
+objec_ve, relevant, _mely and understandable answers to inquiries related to Nutanix’s public
+disclosures.
+Individuals involved in the prepara_on of public reports and communica_ons must use all
+reasonable efforts to comply with our disclosure controls and procedures, which are designed
+to ensure full, fair, accurate, _mely and understandable disclosure in our public reports and
+communica_ons.
+If you believe that any disclosure is materially misleading or if you become aware of any
+material informa_on that you believe should be disclosed to the public, it is your responsibility
+to bring this informa_on to the aien_on of the Legal or Human Resources Department. If you
+believe that ques_onable accoun_ng or audi_ng conduct or prac_ces have occurred or are
+occurring, you should no_fy the Audit Commiiee of the Board of Directors.
+CommunicaNon procedures
+You may not communicate externally on behalf of Nutanix unless you are authorized to do so.
+Nutanix has established specific policies regarding who may communicate informa_on to the
+public, the press, market professionals (such as securi_es analysts, ins_tu_onal investors,
+investment advisors, brokers, and dealers) and security holders on behalf of Nutanix. Only
+employees who are specifically authorized by such policies may communicate externally on
+behalf of the Company on the topics for which those employees are authorized to speak.
+You should refer all calls or other inquiries from the press, market professionals or security
+holders to the Investor Rela_ons or Corporate Communica_ons Departments for handling.
+All communica_ons made to public audiences on behalf of Nutanix, including formal
+communica_ons and presenta_ons made to investors, customers, or the press, require prior
+approval in accordance with the Company’s established policies for such communica_ons,
+which approval will include a review by Investor Rela_ons or Corporate Communica_ons
+personnel, as applicable, as well as Accoun_ng and Legal personnel.
+7FINANCIAL REPORTING
+Overview
+As a public company, we are required to follow strict accoun_ng principles and standards, to
+report financial informa_on accurately and completely in accordance with these principles and
+standards, and to have appropriate internal controls and procedures to ensure that our
+accoun_ng and financial repor_ng complies with law. The integrity of our financial transac_ons
+and records is cri_cal to the opera_on of our business and is a key factor in maintaining the
+confidence and trust of our employees, security holders and other stakeholders.
+Compliance with rules, controls, and procedures
+It is important that all transac_ons are properly recorded, classified, and summarized in our
+financial statements, books, and records in accordance with our policies, controls and
+procedures, as well as all generally accepted accoun_ng principles, standards, laws, rules and
+regula_ons for accoun_ng and financial repor_ng.
+If you have responsibility for or any involvement in financial repor_ng or accoun_ng, you should
+have an appropriate understanding of, and you should seek in good faith to adhere to, relevant
+accoun_ng and financial repor_ng principles, standards, laws, rules, and regula_ons and
+Nutanix’s financial and accoun_ng policies, controls, and procedures. This includes ensuring that
+all bookkeeping and records comply with the Foreign Corrupt Prac_ces Act where applicable, as
+explained in greater detail in Nutanix’s An_-Corrup_on Compliance Policy and Guidelines. If you
+are a director level employee or higher, you should seek to ensure that the internal controls and
+procedures in your business area are in place, understood and followed.
+Accuracy of records and reports
+It is important that those who rely on records and reports—managers and other decision
+makers, creditors, customers, and auditors—have complete, accurate and _mely informa_on.
+False, misleading, or incomplete informa_on undermines Nutanix’s ability to make good
+decisions about resources, employees and programs and may, in some cases, result in viola_ons
+of law. Anyone involved in preparing financial or accoun_ng records or reports, including
+financial statements and schedules, must be diligent in assuring that those records and reports
+are complete, accurate and _mely. Anyone represen_ng or cer_fying as to the accuracy of such
+records and reports should make an inquiry or review adequate to establish a good faith belief
+in their accuracy.
+Even if you are not directly involved in financial repor_ng or accoun_ng, you are likely involved
+with financial records or reports of some kind—a voucher, _me sheet, invoice, or expense
+report. In addi_on, most employees have involvement with product, marke_ng or
+administra_ve ac_vi_es, or performance evalua_ons, which can affect our reported financial
+condi_on or results. Therefore, Nutanix expects you, regardless of whether you are otherwise
+8required to be familiar with finance or accoun_ng maiers, to use all reasonable efforts to
+ensure that every business record or report with which you deal is accurate, complete, and
+reliable, and recorded in accordance with Company policies.
+IntenNonal misconduct
+You may not inten_onally misrepresent Nutanix’s financial performance or otherwise
+inten_onally compromise the integrity of Nutanix’s reports, records, policies, and procedures.
+For example, you may not:
+• report informa_on or enter informa_on in Nutanix’s books, records or reports that
+fraudulently or inten_onally hides, misrepresents, or disguises the true nature of
+any financial or non-financial transac_on or result;
+• establish any undisclosed or unrecorded fund, account, asset, or liability for any
+improper purpose;
+• enter into any transac_on or agreement that accelerates, postpones, or otherwise
+manipulates the accurate and _mely recording of revenues or expenses;
+• inten_onally misclassify transac_ons as to accounts, business units or accoun_ng
+periods; or
+• knowingly assist others in any of the above.
+Dealing with auditors
+Our auditors have a duty to review our records in a fair and accurate manner. You are expected
+to cooperate with independent and internal auditors in good faith and in accordance with law.
+In addi_on, you must not fraudulently induce or influence, coerce, manipulate, or mislead our
+independent or internal auditors regarding financial records, processes, controls or procedures
+or other maiers relevant to their engagement.
+You may not engage, directly or indirectly, any outside auditors to perform any audit, audit-
+related, tax or other services, including consul_ng, without wriien approval from the Vice
+President of Accoun_ng and the Audit Commiiee of the Board of Directors.
+ObligaNon to invesNgate and report potenNal violaNons
+You should make appropriate inquiries in the event you may see, for example:
+• financial results that seem inconsistent with underlying business performance;
+• inaccurate financial records, including travel and expense reports, _me sheets or
+invoices;
+• the circumven_ng of mandated review and approval procedures;
+• transac_ons that appear inconsistent with good business economics;
+• the absence or weakness of processes or controls; or
+• persons within Nutanix seeking to improperly influence the work of our financial or
+accoun_ng personnel, or our external or internal auditors.
+9Dishonest or inaccurate repor_ng can lead to civil or even criminal liability for you and Nutanix
+and can lead to a loss of public faith in Nutanix. You are required to promptly report any case of
+suspected financial or opera_onal misrepresenta_on or impropriety.
+Keeping the Audit CommiXee informed
+The Audit Commiiee plays an important role in ensuring the integrity of our public reports. If
+you believe that ques_onable accoun_ng or audi_ng conduct or prac_ces have occurred or are
+occurring, you should no_fy the Audit Commiiee of the Board of Directors. In par_cular, the
+Chief Execu_ve Officer and senior financial officers such as the Chief Financial Officer and Vice
+President of Accoun_ng should promptly bring to the aien_on of the Audit Commiiee any
+informa_on of which he or she may become aware concerning, for example:
+• the accuracy of material disclosures made by Nutanix in its public filings;
+• material weaknesses or significant deficiencies in internal control over financial
+repor_ng;
+• any evidence of fraud that involves an employee who has a significant role in
+Nutanix’s financial repor_ng, disclosures or internal controls or procedures; or
+• any evidence of a material viola_on of the policies in this Code regarding financial
+repor_ng.
+10SAFEGUARDING COMPANY ASSETS
+Overview
+All employees, agents and contractors are responsible for the proper use of company assets.
+This responsibility applies to all of Nutanix’s assets, including your _me, work and work product;
+cash and accounts; physical assets such as inventory, equipment, vehicles, computers, systems,
+facili_es and supplies; intellectual property, such as patents, copyrights, trademarks, inven_ons,
+technology and trade secrets; and other proprietary or nonpublic informa_on.
+• You should use all reasonable efforts to safeguard company assets against loss,
+damage, misuse, or theq.
+• You should ensure the accuracy of all expense reports submiied to the Company
+and ensure such submissions are made in compliance with applicable Company
+policies and procedures.
+• You should be alert to situa_ons that could lead to loss, damage, misuse, or theq of
+company assets, and should report any loss, damage, misuse, or theq as soon as it
+comes to your aien_on.
+• You should not use, transfer, misappropriate, loan, sell or donate company assets
+without appropriate authoriza_on.
+• You must take reasonable steps to ensure that Nutanix receives good value for
+company funds spent.
+• You may not use company assets in a manner that would result in or facilitate the
+viola_on of law.
+• You should use and safeguard assets entrusted to Nutanix’s custody by customers,
+suppliers, and others in the same manner as company assets.
+ProtecNng Nutanix’s informaNon
+In the course of your involvement with Nutanix, you may come into possession of informa_on
+that has not been disclosed or made available to the general public. This nonpublic informa_on
+may include, among other things:
+• financial data and projec_ons including but not limited to sales bookings and
+pipelines;
+• proprietary and technical informa_on, such as trade secrets, patents, inven_ons,
+product plans and customer lists;
+• informa_on regarding corporate developments, such as business strategies, plans
+for acquisi_ons or other business combina_ons, dives_tures, major contracts,
+expansion plans, financing transac_ons and management changes;
+• personal informa_on about employees; and
+• nonpublic informa_on of customers, suppliers, and others.
+11If you have any ques_ons as to what cons_tutes nonpublic informa_on, please consult the Legal
+Department.
+All nonpublic informa_on must only be used for company business purposes. You have an
+obliga_on to use all reasonable efforts to safeguard Nutanix’s nonpublic informa_on. You may
+not disclose nonpublic informa_on to anyone outside of Nutanix, except when disclosure is
+required by law or when disclosure is required for business purposes and appropriate steps
+have been taken to prevent misuse of that informa_on. This responsibility includes not
+disclosing nonpublic informa_on in Internet discussion groups, chat rooms, bulle_n boards or
+other electronic media. In cases where disclosing nonpublic informa_on is required or
+necessary, you should coordinate with the Legal Department. The misuse of nonpublic
+informa_on is contrary to company policy and may also be a viola_on of law.
+Each employee is required to sign an Employment, Confiden_al Informa_on and Inven_on
+Assignment Agreement, or equivalent agreements that address the use and disclosure of
+confiden_al informa_on of Nutanix.
+ProhibiNon on insider trading
+You may not directly or indirectly—through, for example, significant others, family members or
+controlled en__es—buy or sell stocks or other securi_es of Nutanix or any other company
+based on nonpublic informa_on obtained from your work at Nutanix. In addi_on, you may not
+“_p” others by providing them nonpublic informa_on under circumstances that suggest that
+you were trying to help them make an investment decision. These obliga_ons are in addi_on to
+your obliga_ons with respect to nonpublic informa_on generally, as discussed above.
+Under U.S. securi_es laws, it is unlawful for any person who has “material” nonpublic
+informa_on about a company to trade in the stock or other securi_es of that company or to
+disclose such informa_on to others who may trade.
+Material nonpublic informa_on is informa_on about a company that is not known to the
+general public and that a typical investor would consider important in making a decision to buy,
+sell or hold securi_es. Viola_ons of U.S. securi_es laws may result in civil and criminal penal_es,
+including disgorgement of profits, civil judgments, fines, and jail sentences.
+You should be aware that stock market surveillance techniques are becoming increasingly
+sophis_cated, and the probability that U.S. federal or other regulatory authori_es will detect
+and prosecute even small-level trading is significant. Insider trading rules are strictly enforced,
+even in instances when the financial transac_ons seem small.
+You may not make an unauthorized disclosure of any nonpublic informa_on acquired in the
+course of your service with Nutanix or misuse material nonpublic informa_on in securi_es
+trading. Any such ac_ons will be deemed viola_ons of Nutanix’s Insider Trading Policy. All
+employees should be familiar with Nutanix’s policy regarding Insider Trading. If you have any
+12ques_ons at all regarding trading in Nutanix’s securi_es, contact the Legal Department for
+guidance.
+Maintaining and managing records
+Nutanix is required by local, state, federal, foreign and other applicable laws, rules and
+regula_ons to retain certain records and to follow specific guidelines in managing its records.
+Records include paper documents, email, electronic files and records (including those stored in
+cloud-based services and repositories), computer hard drives (including USB drives), and all
+other recorded informa_on, regardless of medium or characteris_cs. Civil and criminal penal_es
+for failure to comply with such guidelines can be severe for employees, agents, contractors and
+Nutanix.
+You should consult with the Legal Department regarding the reten_on of records in the case of
+actual or threatened li_ga_on or government inves_ga_on. The Legal Department will no_fy
+you if a “Legal Hold” is placed on records for which you are responsible. A Legal Hold suspends
+all document destruc_on procedures in order to preserve appropriate records under special
+circumstances, such as li_ga_on or government inves_ga_ons. The Legal Department
+determines and iden_fies what types of records or documents are required to be placed under
+a Legal Hold. If a Legal Hold is placed on records for which you are responsible, you must
+preserve and protect the necessary records in accordance with instruc_ons from the Legal
+Department.
+Records or supporNng documents that are subject to a Legal Hold must not be destroyed,
+altered, or modified under any circumstance. A Legal Hold remains effec_ve un_l it is officially
+released in wri_ng by the Legal Department. If you are unsure whether a document has been
+placed under a Legal Hold, you should preserve and protect that document while you check
+with the Legal Department.
+13RESPONSIBILITIES TO OUR CUSTOMERS, SUPPLIERS AND COMPETITORS
+Overview
+You should respect the rights of, and deal fairly with, Nutanix’s customers, suppliers, business
+partners and compe_tors in compliance with law. You should not take unfair advantage of
+anyone through decep_on, misrepresenta_on, manipula_on, coercion, abuse of privileged
+informa_on or any inten_onal unfair business prac_ce.
+Improper payments
+You should not authorize, offer, promise, or give, or solicit or accept, money, giqs,
+entertainment, privileges, gratui_es, benefits, or other items of value intended to improperly
+influence, directly or indirectly, any business decision or that otherwise violate law or create the
+appearance of impropriety. The offering or acceptance of improper payments when dealing
+with foreign officials or commercial en__es abroad can also result in viola_ons of the Foreign
+Corrupt Prac_ces Act, the United Kingdom Bribery Act, and other foreign laws and regula_ons
+prohibi_ng corrup_on and commercial bribery. Nutanix’s An_-Corrup_on Compliance Policy and
+Guidelines sets forth in greater detail Nutanix’s policies and prac_ces regarding these payments.
+You should contact the Legal Department if you have any ques_ons as to whether a payment is
+proper.
+Gi‘s and entertainment
+You may, from _me to _me, provide or accept business ameni_es to aid in building legi_mate
+business rela_onships. Business ameni_es may include giqs, meals, services, entertainment,
+reimbursements, loans, favors, privileges, or other items of value.
+Any business amenity should be consistent with customary business prac_ce and should be
+reasonable and appropriate for the circumstance. Business ameni_es should not be lavish or
+excessive. Business ameni_es should not violate law or create an appearance of impropriety.
+You should avoid providing or accep_ng any cash payment, or other business amenity that can
+be construed as a bribe or payoff. All company funds expended for business ameni_es must be
+accurately recorded in Nutanix’s books and records. For addi_onal details on policies and
+prac_ces rela_ng to giqs and entertainments and the propriety of such giqs when dealing with
+foreign officials or foreign commercial en__es, please see Nutanix’s An_-Corrup_on Compliance
+Policy and Guidelines. We encourage you to contact the Legal Department if you have any
+ques_ons as to whether a business amenity is permissible.
+In some business situa_ons outside of the United States, it is customary and lawful for business
+execu_ves to present giqs to representa_ves of their business partners. These giqs may be of
+more than a nominal value, and under the circumstances, returning the giqs or paying for them
+14may be an affront to the giver. If you find yourself in such a situa_on, you must report the giq to
+the Chief Legal Officer. In some cases, you may be required to turn the giq over to Nutanix.
+Special restric_ons apply when dealing with government employees. For more informa_on, see
+the next sec_on on “Working with Governments.”
+SelecNng suppliers
+Nutanix’s policy is to select suppliers based on the merits of their products, services and
+business prac_ces and to purchase supplies based on need, quality, service, price and other
+terms and condi_ons of sale. You may not establish a business rela_onship with any supplier if
+you know or have reason to know that its business prac_ces violate applicable laws.
+Procurement and So‘ware Use
+Nutanix ensures that it appropriately procures any goods and services, including soqware, cloud
+services, and/or data that it uses. Whenever purchasing any goods or services you must follow
+all applicable procurement policies and procedures. For addi_onal informa_on, see the Nutanix
+Purchase Order Policy and the Contract Review, Approval and Signature Authority Policy.
+Any employee procuring soqware, cloud services, or data from a third-party vendor must do so
+through the appropriate procurement process and must ensure that such soqware, cloud
+services, or data is used in accordance with its license, and that sufficient licenses are procured
+to meet the expected need. Any overuse of soqware cloud services, or data must be
+appropriately addressed with the vendor according to the terms of the applicable agreement.
+Employees may assume that any soqware, cloud services, or data provided by IT or obtained
+through approved Nutanix channels is appropriately licensed.
+Nutanix may periodically audit procurement and soqware usage. Your obliga_ons with respect
+to these audits is discussed in “Dealing with auditors” above. If you have any ques_ons about
+whether your soqware is appropriately licensed, please contact Legal or
+codeofconduct@nutanix.com.
+Handling the nonpublic informaNon of others
+You must handle the nonpublic informa_on of others responsibly and in accordance with our
+agreements with them. Nonpublic informa_on of others includes notes, reports, conclusions,
+and other materials prepared by a company employee based on the nonpublic informa_on of
+others.
+You should not knowingly accept informa_on offered by a third party, including a customer,
+supplier, or business partner, that is represented as nonpublic, or that appears from the context
+or circumstances to be nonpublic, unless an appropriate nondisclosure agreement (“NDA”) has
+15been signed with the party offering the informa_on. You should contact the Legal Department
+to coordinate the appropriate execu_on of NDAs on behalf of Nutanix.
+Even aqer a nondisclosure agreement is in place, you should accept only the informa_on that is
+necessary or appropriate to accomplish the purpose of receiving it, such as a decision on
+whether to proceed to nego_ate an agreement. If more detailed or extensive informa_on is
+offered and it is not necessary or appropriate for your immediate purposes, it should be
+refused. If any such informa_on is inadvertently received, it should be transferred to the Legal
+Department for appropriate disposi_on.
+Once Nutanix has received nonpublic informa_on, you should use all reasonable efforts to:
+• abide by the terms of the relevant nondisclosure agreement, including any
+obliga_ons with respect to the return or destruc_on of the nonpublic informa_on;
+• limit the use of the nonpublic informa_on to the purpose for which it was
+disclosed; and
+• disseminate the nonpublic informa_on only to those other company employees,
+agents, or contractors with a need to know the informa_on to perform their jobs
+for Nutanix, as may be set forth in the relevant NDA.
+Improperly obtaining or using assets or informaNon
+You may not unlawfully obtain or use the materials, products, intellectual property, proprietary
+or nonpublic informa_on or other assets of anyone, including suppliers, customers, business
+partners and compe_tors. You must respect the copyrights of others and may not use soqware,
+services, or other copyrighted material, if doing so would violate the rights of a copyright holder
+or exceed the terms of a license. You may not coerce or improperly induce past or present
+employees of other companies to disclose proprietary or nonpublic informa_on of their former
+or other employers.
+Free and fair compeNNon
+It is our policy to lawfully compete in the marketplace. Our commitment to fairness includes
+respec_ng the rights of our compe_tors to compete lawfully in the marketplace and abiding by
+all applicable laws in the course of compe_ng.
+Most countries have well-developed bodies of law designed to encourage and protect free and
+fair compe__on. These laws are broad and far-reaching and regulate Nutanix’s rela_onships
+with its distributors, resellers, suppliers, and customers. Compe__on laws generally address the
+following areas: pricing prac_ces (including predatory pricing, price fixing and price
+discrimina_on), discoun_ng, terms of sale, credit terms, promo_onal allowances, secret
+rebates, exclusive dealerships or distributorships, product bundling, restric_ons on carrying
+compe_ng products, termina_on, and many other prac_ces.
+16Compe__on laws also govern, usually quite strictly, rela_onships between Nutanix and its
+compe_tors. Collusion among compe_tors is illegal, and the consequences of a viola_on are
+severe. You must not enter into an agreement or understanding, wriien or oral, express, or
+implied, with any compe_tor concerning prices, discounts or other terms or condi_ons of sale;
+profits or profit margins; costs; alloca_on of product, customers, markets, or territories;
+limita_ons on produc_on or supply; boycois of customers or suppliers; or bids or the intent to
+bid, or even discuss or exchange informa_on on these subjects.
+Nutanix is commiied to obeying both the leier and spirit of these laws, which are oqen
+referred to as an_trust, consumer protec_on, compe__on, or unfair compe__on laws. Although
+the spirit of these laws is straighrorward, their applica_on to par_cular situa_ons can be quite
+complex. To ensure that Nutanix complies fully with these laws, you should have a basic
+knowledge of them and should promptly involve our Legal Department when ques_onable
+situa_ons arise.
+17WORKING WITH GOVERNMENTS
+Overview
+Special rules govern our business and other dealings with governments. Employees, agents, and
+contractors of Nutanix should use all reasonable efforts to comply with all applicable laws and
+regula_ons governing contact and dealings with governments, government employees and
+public officials. If you deal with governments, government employees or public officials, you
+should undertake to understand the special rules that apply. If you have any ques_ons
+concerning government rela_ons, you should contact the Legal Department.
+Government contracts
+You should use all reasonable efforts to comply with all relevant laws and regula_ons that apply
+to government contrac_ng. You should refer any contract with any governmental en_ty to the
+Legal Department for review and approval.
+Requests by regulatory authoriNes
+You must cooperate with appropriate government inquiries and inves_ga_ons in accordance
+with law. It is important, however, to protect the legal rights of Nutanix with respect to its
+nonpublic informa_on. All government requests for company informa_on, documents or
+inves_ga_ve interviews should be referred to the Legal Department. You should work with the
+Legal Department in responding to requests by regulatory authori_es to ensure appropriate
+responses and to avoid inappropriate disclosure of aiorney-client privileged materials, trade
+secret informa_on or other nonpublic informa_on. This policy should not be construed to
+prevent an employee from disclosing informa_on to a government or law enforcement agency
+where the employee has reasonable cause to believe that the informa_on discloses a viola_on
+of, or noncompliance with, a state or federal statute or regula_on.
+Improper payments to government officials
+You may not offer any payment or business amenity to a public official or a government
+employee if doing so could reasonably be construed as having any connec_on with Nutanix’s
+business, even if it has a nominal value or no value at all. You should be aware that what may be
+permissible in dealings with commercial businesses may be deemed illegal and possibly criminal
+in dealings with the government. You should contact the Legal Department for guidance.
+Whether you are located in the United States or abroad, you are also responsible for fully
+complying with the Foreign Corrupt Prac_ces Act. The Foreign Corrupt Prac_ces Act makes it
+illegal to offer, pay, promise to pay, or authorize to pay any money, giq or other item of value to
+any foreign official, poli_cal party or candidate to assist Nutanix or another to obtain or retain
+business. The Foreign Corrupt Prac_ces Act forbids doing indirectly, such as through an agent,
+reseller, or consultant, what it would be illegal to do directly. All managers and supervisory
+18personnel are expected to monitor con_nued compliance with the Foreign Corrupt Prac_ces
+Act. If you have ques_ons or concerns about the Foreign Corrupt Prac_ces Act, please refer to
+Nutanix’s An_-Corrup_on Compliance Policy and Guidelines or contact the Legal Department.
+PoliNcal contribuNons
+Nutanix reserves the right to communicate its posi_on on important issues to elected
+representa_ves and other government officials. It is Nutanix’s policy to comply fully with all
+local, state, federal, foreign, and other applicable laws, rules, and regula_ons regarding poli_cal
+contribu_ons. Nutanix’s assets—including company funds, employees’ work _me and company
+premises and equipment—must not be used for, or be contributed to, poli_cal campaigns or
+poli_cal ac_vi_es under any circumstances without prior wriien approval.
+Lobbying
+You must obtain approval from the Chief Legal Officer for any work ac_vity that requires
+lobbying communica_on with any member or employee of a legisla_ve body or with any
+government official or employee in the formula_on of legisla_on. Work ac_vity covered by this
+policy includes mee_ngs with legislators or members of their staffs or with senior execu_ve
+branch officials on behalf of Nutanix. Prepara_on, research, and other background ac_vi_es
+that are done in support of such lobbying communica_on are also covered by this policy even if
+the communica_on ul_mately is not made.
+Trade restricNons
+A number of countries maintain controls on the des_na_ons to which products or soqware may
+be exported. Some of the strictest export controls are maintained by the United States against
+countries that the U.S. government considers unfriendly or as suppor_ng interna_onal
+terrorism. The U.S. regula_ons are complex and apply both to deemed exports from the United
+States and to deemed exports of products from other countries when those products contain
+U.S.-origin components or technology. For example, soqware created in the United States is
+subject to these regula_ons even if duplicated and packaged abroad. In some circumstances, an
+oral presenta_on containing technical data made to foreign na_onals in the United States or
+access by foreign na_onals to certain technology may cons_tute a controlled export. The Legal
+Department can provide you with guidance on which countries are prohibited des_na_ons for
+company products or whether a proposed technical presenta_on or the provision of controlled
+technology to foreign na_onals may require a U.S. government license.
+ImmigraNon laws
+The United States and other countries impose restric_ons on non-ci_zens visi_ng or working in
+the country. In many instances visas or work permits must be obtained from the government.
+You are responsible for complying with all applicable immigra_on laws. If you have any
+uncertainty concerning the requirements of the law, you should consult with the Legal
+19Department before working in, or travelling to, a country of which that person is not a ci_zen or
+authorizing any person to do so.
+20PROCEDURAL MATTERS
+DistribuNon
+All employees will receive a copy of this Code at the _me they join Nutanix and will receive
+periodic updates. Agents and contractors should also be provided with a copy of this Code.
+Acknowledgment
+All new employees must sign an acknowledgment form confirming that they have read this
+Code and that they understand and agree to comply with its provisions; an electronic signature
+will be sufficient in this regard. Signed acknowledgment forms will be kept in your personnel
+file. Failure to read this Code or to sign an acknowledgement form does not excuse any person
+from the terms of this Code.
+Approvals and waivers
+Except as otherwise provided in this Code, the Board of Directors or its designated commiiee
+must review and approve any maiers requiring special permission under this Code for a
+member of the Board of Directors or an execu_ve officer. Except as otherwise provided in this
+Code, the Chief Financial Officer and the Chief Legal Officer must review and approve any
+maiers requiring special permission under this Code for any other employee, agent or
+contractor.
+Any waiver of any provision of this Code for a member of the Board of Directors or an execu_ve
+officer must be approved in wri_ng by the Board of Directors or its designated commiiee and
+promptly disclosed, along with the reasons for the waiver, to the extent required by law or
+regula_on. Any waiver of any provision of this Code with respect to any other employee, agent
+or contractor must be approved in wri_ng by the Chief Financial Officer and the Chief Legal
+Officer.
+Copies of approvals and waivers will be retained by Nutanix.
+Seeking Guidance
+You are encouraged to and may always seek guidance from and direct ques_ons to managers or
+other appropriate personnel in the Human Resources or Legal Departments when in doubt
+about the best course of ac_on to take in a par_cular situa_on. In addi_on, ques_ons regarding
+this Code may be directed to Nutanix’s Head of Human Resources or Chief Legal Officer, or via
+email to codeofconduct@nutanix.com, while concerns or suspected viola_ons should be
+handled according to the procedures in the Repor_ng Viola_ons sec_on below.
+ReporNng violaNons
+21You should promptly report viola_ons or suspected viola_ons of this Code through an
+appropriate channel. Nutanix provides many alterna_ve channels to foster an environment
+where employees feel comfortable raising any such viola_ons:
+• You should feel free to raise such maiers with any member of senior management,
+your Human Resources business partners, the Head of Human Resources, a
+member of the Legal Department, the Chief Legal Officer, the Chief Financial Officer,
+or by sending an email to codeofconduct@nutanix.com (which is monitored by
+certain members of Nutanix internal compliance teams).
+• If your concerns relate to accoun_ng, internal controls or audi_ng maiers, or if the
+Chief Legal Officer or other designated Legal Department contact is implicated in
+any viola_on or suspected viola_on, you may also contact the Audit Commiiee of
+the Board of Directors at 1740 Technology Drive, Suite 150, San Jose, California
+95110, ATTENTION: Audit Commiiee of Nutanix, Inc.
+• You may also report a viola_on or suspected viola_on to Nutanix’s confiden_al
+hotline by (a) calling +1 (844) 723-8366 (from the U.S.) or (b) through a secure web
+form at nutanix.ethicspoint.com.
+In all circumstances, you are encouraged to share your iden_ty when repor_ng, as it will help
+Nutanix conduct the most thorough inves_ga_on possible, because it is more difficult to
+thoroughly inves_gate anonymous reports. However, if you are uncomfortable doing so, you
+may also report anonymously. If you make an anonymous report, please provide as much detail
+as possible, including copies of any documents that you believe may be relevant to the issue.
+When reports are not made anonymously, reasonable efforts will be made to keep your iden_ty
+confiden_al. In certain circumstances, however, your iden_ty may become apparent during an
+inves_ga_on or may need to be disclosed (e.g., in regulatory proceedings). Accordingly, it is not
+possible for Nutanix to give a blanket guarantee of confiden_ality.
+Reprisals, threats, retribu_on, or retalia_on against any person who has, in good faith, reported
+a viola_on or a suspected viola_on of laws, rules, regula_ons, this Code, or other company
+policies, or against any person who is, in good faith, assis_ng in any inves_ga_on or process with
+respect to such a viola_on, is strictly prohibited. Concerns about retalia_on or threatened
+retalia_on should be reported through one of the channels listed above.
+InvesNgaNons
+The Board of Directors or its designated commiiee will be responsible for inves_ga_ng
+viola_ons and determining appropriate disciplinary ac_on for maiers involving members of the
+Board of Directors or execu_ve officers. The Board of Directors or its designated commiiee may
+designate others to conduct or manage inves_ga_ons on its behalf and recommend disciplinary
+ac_on.
+22Subject to the general authority of the Board of Directors to administer this Code, the Chief
+Financial Officer and the Chief Legal Officer will be jointly responsible for inves_ga_ng viola_ons
+and determining appropriate disciplinary ac_on for other employees, agents, and contractors.
+The Chief Financial Officer and the Chief Legal Officer may designate others to conduct or
+manage inves_ga_ons on their behalf and recommend disciplinary ac_on. The Chief Financial
+Officer and the Chief Legal Officer will periodically report Code viola_ons and the correc_ve
+ac_ons taken to the Board of Directors or its designated commiiee. The Board of Directors
+reserves the right to inves_gate viola_ons and determine appropriate disciplinary ac_on on its
+own and to designate others to do so in place of, or in addi_on to, the Chief Financial Officer
+and the Chief Legal Officer.
+Nutanix will promptly inves_gate any suspected viola_ons. A person suspected of viola_ng this
+Code may be suspended with or without pay while an inves_ga_on is conducted. Nutanix will
+follow local grievance procedures in jurisdic_ons where such procedures apply.
+Disciplinary acNon
+Nutanix will take appropriate ac_on against any employee, agent, or contractor whose ac_ons
+are found to violate this Code. Disciplinary ac_ons may include, at Nutanix’s sole discre_on, oral
+or wriien reprimand, suspension or immediate termina_on of employment or business
+rela_onship, or any other disciplinary ac_on or combina_on of disciplinary ac_ons as deemed
+appropriate to the circumstances. A record of the disciplinary ac_on will be retained in the
+employee’s personnel file.
+In determining what disciplinary ac_on is appropriate in a par_cular case, Nutanix will take into
+account all relevant informa_on, including the nature and severity of the viola_on, any history
+of warnings and viola_ons, whether the viola_on appears to have been inten_onal or
+inadvertent and whether the violator reported his or her own misconduct. Nutanix will strive to
+enforce this Code in a consistent manner while accoun_ng for all relevant informa_on.
+Where Nutanix has suffered a loss, it may pursue its remedies against the individuals or en__es
+responsible. Certain viola_ons of this Code may also be subject to civil or criminal prosecu_on
+by governmental authori_es and others. Where laws have been violated, Nutanix’s remedial
+ac_ons may include repor_ng violators to the appropriate authori_es.
+23ADDITIONAL INFORMATION
+Nothing in this Code of Business Conduct and Ethics creates or implies an employment contract
+or term of employment. Employment at Nutanix is employment at-will. Employment at-will may
+be terminated with or without cause and with or without no_ce at any _me by the employee or
+Nutanix. Nothing in this Code shall limit the right to terminate employment at-will. No
+employee of Nutanix has any authority to enter into any agreement for employment for a
+specified period of _me, or to make any agreement or representa_on contrary to Nutanix’s
+policy of employment at-will. Only the Chief Execu_ve Officer of Nutanix has the authority to
+make any such agreement, which must be in wri_ng.
+The policies in this Code do not cons_tute a complete list of company policies or a complete list
+of the types of conduct that can result in discipline, up to and including discharge.
+AMENDMENTS
+We are commiied to con_nuously reviewing and upda_ng our policies and procedures. Nutanix
+therefore reserves the right to amend, alter or terminate this Code at any _me and for any
+reason, subject to applicable law. Any amendments to this Code (other than technical,
+administra_ve, or other non-substan_ve amendments) made in the 12 months preceding the
+most recent effec_ve date of this Code will be summarized in this sec_on of this Code.
+24ACKNOWLEDGMENT
+CODE OF BUSINESS CONDUCT AND ETHICS
+• I acknowledge that I have received and read Nutanix’s Code of Business Conduct
+and Ethics.
+• I acknowledge that I understand the standards, policies and procedures contained
+in the Code of Business Conduct and Ethics and understand that there may be
+addi_onal standards, policies, procedures, and laws relevant to my posi_on.
+• I agree to comply with the Code of Business Conduct and Ethics.
+• I acknowledge that if I have ques_ons concerning the meaning or applica_on of the
+Code of Business Conduct and Ethics, any company policies, or the legal or
+regulatory requirements applicable to my posi_on, it is my responsibility to seek
+guidance from my manager, the Human Resources Department, the Legal
+Department or other relevant individuals or departments.
+• I acknowledge that neither this Acknowledgement nor the Code of Business
+Conduct and Ethics is meant to vary or supersede the regular terms and condi_ons
+of my employment by Nutanix or to cons_tute an employment contract.
+(print name)
+(signature)
+(date)
+Please review, sign and return this form to the Human Resources Department.
+[Acknowledgement of Nutanix, Inc. Code of Business Conduct and Ethics]

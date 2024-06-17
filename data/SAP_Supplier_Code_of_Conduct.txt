@@ -1,0 +1,668 @@
+SAP Supplier Code of Conduct
+Version 6.0
+December 2023TABLE OF CONTENTS
+_______________________________________________
+INTRODUCTION
+COMPLIANCE WITH LAWS, RULES AND REGULATIONS
+Bribery and Corruption
+Fair Competition
+Securities and Insider Trading
+Human Rights
+Export Control and Trade Sanctions
+Covered Telecommunications Equipment or Services
+Regulations for Specific Substances
+Software with Artificial Intelligence (AI) Capabilities
+LABOR AND HUMAN RIGHTS STANDARDS
+Modern Slavery and Freely Chosen Employment
+Child Labor Avoidance
+Working Hours
+Wages and Benefits
+Harassment, Violence and Inhumane Treatment
+Non-Discrimination
+Freedom of Association
+Contracts of Employment
+Unlawful Eviction and Deprivation
+Security Forces
+HEALTH AND SAFETY
+DIVERSITY AND INCLUSION
+Accessibility
+Diverse and Inclusive Supply Chain
+ENVIRONMENTAL STANDARDS
+Environmental Management System (EMS)
+Greenhouse Gas (GHG) Emissions
+Waste
+Environmental Standards with impact on Human Rights
+Ensuring Compliance
+MANAGEMENT SYSTEM
+RESPONSIBILITY FOR COMPANY RESOURCES
+BUSINESS CONDUCT
+Conflicts of Interest
+Offering and Accepting Anything of Value
+Financial Integrity
+REPORTING CHANNEL
+2INTRODUCTION
+Being a trusted partner for our customers, partners, suppliers, and colleagues has always been at the heart of
+our business. Ethical business builds trust and helps the world run better. We are committed to the highest
+standards of ethical business and expect the same from our ecosystem. Our Codes of Conduct for employees,
+partners, and suppliers, are cornerstones of this commitment to integrity.
+The SAP Supplier Code of Conduct (“Supplier Code”) summarizes the ethical principles of the SAP Global
+Procurement Organization and builds on SAP’s commitment to the International Organization’s (ILO) Core
+Labor Rights Conventions, the United Nations Global Compact, and the International Bill of Human Rights. We
+take guidance from international frameworks such as the United Nation’s Guiding Principles (UNGPs) and the
+OECD Guidelines for Multinational Enterprises on Responsible Business Conduct to integrate human rights
+considerations into our standard business practices, policies, and processes.
+The following guidelines set forth the framework of acceptable conduct SAP expects from its contractors,
+consultants, suppliers, vendors, agents, and all other third-party companies that comprise SAP’s supply chain
+(“Suppliers”). Therefore, SAP's Suppliers must implement the requirements of this Supplier Code in their own
+operations, as well as in their supply chains.
+All work performed for SAP must be in full compliance SAP has the right to conduct various types of risk-based
+with this Supplier Code and all applicable laws, rules, due diligence on any Supplier at any time, which may
+regulations, and policies. For Suppliers who have include requesting information about the Supplier,
+employees contracted to work directly for SAP, these requesting copies of its compliance policies and
+guidelines must be reviewed with all employees and programs, and gathering certifications and other
+subcontractors working on SAP matters. documentation.
+We expect our employees and our Suppliers to conduct SAP Suppliers are expected to comply fully with any
+themselves in an upright, safe, and professional manner, information requests required by SAP to carry out
+to treat others with respect, fairness, and dignity and to due diligence checks, including due diligence
+refrain from any action that may be considered a conflict renewal and audit requests.
+of interest, while working for and on behalf of SAP. We
+In addition, SAP may request Suppliers to conduct
+regard our supplier base as a critical and necessary
+trainings or interviews with relevant personnel and to
+extension of our operations and future success, and we
+include any specific provisions in the applicable contract
+thank you for continuing to make compliance and
+with SAP. Shall there be any remedial measures agreed
+integrity a top priority as you work with SAP.
+between SAP and a Supplier to achieve necessary level
+Failure to comply with the Supplier Code during business of compliance, the Supplier is required to commit to
+with SAP will lead to your disqualification as an accepted these in writing via a contract or an amendment to a
+Supplier and will eliminate you from consideration of new contract.
+business with SAP.
+Any change in a Supplier’s ownership, senior
+You also commit to the obligation of reporting to SAP any management, corporate structure, business lines or
+(suspected) violation of this Supplier Code and any law model, key personnel, subcontractors, or any other factor
+or regulation, as you become aware of it. You can do so that might reasonably affect SAP’s risk evaluation must
+confidentially and, if desired, anonymously using Speak be communicated promptly.
+Out at SAP (see section “Reporting Channel”).
+Failure to supply information upon request or not meeting
+We expect our Suppliers to confirm that all due diligence requirements may lead to application
+subcontractors are equally compliant with our policies rejection or delays.
+and Supplier Code.
+All work performed for SAP must be in full
+compliance with this SAP Supplier Code of
+Conduct and all applicable laws, rules,
+regulations, and policies.
+3COMPLIANCE WITH LAWS, RULES, AND REGULATIONS
+As a Supplier, you agree to abide by the terms of SAP’s Supplier Code and acknowledge that compliance with
+this Code is required to maintain your status as an SAP Supplier. You agree that all business conducted on
+behalf of SAP shall be accomplished in full compliance with applicable laws, rules, regulations, and policies. If
+local laws are less restrictive than the principles set forth in SAP’s Supplier Code of Conduct Suppliers are
+expected to, at a minimum, comply with the Code. If local laws are more restrictive than SAP’s Supplier Code
+of Conduct, Suppliers are expected to, at a minimum, comply with applicable local laws.
+Bribery and Corruption
+work with SAP until a reasonable time after full public
+SAP has zero tolerance for all forms of bribery and disclosure has occurred. These restrictions also apply to
+corruption. Suppliers shall not make, authorize, or offer family members, friends, and associates. Material
+any bribes, kickbacks, or payments of money or anything information includes any information that a reasonable
+of value to anyone, including officials, employees, or investor would consider important in a decision to buy,
+representatives of any government or public or hold, or sell securities. Such information may include
+international organization, or to any other third party financial and key business data; merger, acquisition, or
+(public or private sector) for the purpose of obtaining or divestiture discussions; award or information related to the
+retaining business, or influencing any other favorable cancellation of a major contract; changes in key
+business decision, that is related in any way to SAP. This management; forecasts of unanticipated financial
+includes giving money or anything of value to anyone results; significant litigation; or gain or loss of a substantial
+when there is reason to believe that it will be passed on customer or supplier.
+to a government official or the decision maker at a
+customer or potential customer’s company for this
+Human Rights
+purpose. Suppliers are required to comply with the
+German Criminal Code, the U.S. Foreign Corrupt Suppliers are expected to respect internationally
+Practices Act, the UK Bribery Act, and all applicable local proclaimed human rights according to the expectations
+anti-bribery laws. of the UNGPs and all relevant applicable national and
+international laws, in particular as they apply to supply
+chains and operations. Suppliers must also comply with
+Fair Competition
+all applicable employment and related laws (including
+Antitrust and competition laws are designed to protect those aimed at eradicating modern slavery) and are
+consumers and competitors against unfair business expected to meet in full their obligations under such laws
+practices and promote and protect healthy competition. and at minimum, Suppliers need to comply with the
+SAP is committed to observing the applicable antitrust or provisions of this Code.
+competition laws of all nations or organizations, and SAP
+expects its Suppliers to comply with all applicable antitrust
+Export Control and Trade Sanctions
+or competition laws as well. Antitrust or competition laws
+vary from country to country, but generally such laws Destination Restrictions: Suppliers shall not provide SAP
+prohibit agreements or actions that unreasonably restrain with products or services that are manufactured
+trade, are deceptive or misleading, or unreasonably in/provided from countries that are subject to import,
+reduce competition without providing beneficial effects to export control and sanction laws, including without
+consumers. Such agreements or actions are against the limitation, the laws of the United States, the European
+policy of SAP. Union, and Germany. A current list of restricted countries
+is available on the SAP website.
+Securities and Insider Trading End-User Restrictions: Suppliers shall ensure that the
+provisioning of products and services to SAP is not
+SAP expects Suppliers to comply with applicable insider
+supported by entities and individuals with whom
+trading and securities laws governing transactions in the
+transactions are prohibited under applicable export
+securities of SAP. Securities include common stocks,
+control and sanctions laws, including those listed on any
+bonds, options, futures, and other financial instruments.
+applicable sanctioned party lists (e.g., European Union
+Suppliers that possess or have access to material and/or
+Consolidated Sanctions List, U.S. Specially Designated
+nonpublic information gained through their work with
+National (SDN) lists, U.S. Denied Persons List, BIS
+SAP may not use that information to trade in SAP
+Entity List, United Nations Security Council Sanctions).
+securities or the securities of another company to which
+the information pertains. Employees of such Suppliers
+may not engage in any other action to take advantage of, or
+pass on to others, material information gained through
+4Covered Telecommunications Equipment or Software with Artificial Intelligence (AI)
+Services Capabilities
+Suppliers will not supply SAP with any “covered If SAP is supplied with software that has embedded AI
+Telecommunications equipment or services” as more capabilities, the Supplier should adhere to all relevant
+specifically described in the United States Federal local laws related to ethical and responsible AI while
+Acquisition Regulation clause 52.204-25, “Prohibition on developing, deploying, and selling the software.
+Contracting for Certain Telecommunications and Video
+If there are no locally applicable laws, the Supplier
+Surveillance Services of Equipment”.
+should have a policy based on the guidelines from
+international institutions (e.g., the Institute of Electrical
+Regulations for Specific Substances and Electronics Engineers, the Organization for
+Economic Co-operation and Development, Council of
+Suppliers must adhere to all applicable laws and
+Europe). The same applies to the Supplier’s supply
+regulations regarding prohibition or restriction of specific
+chain: if the Supplier is using third-party software with
+substances, including labeling laws and regulations for
+embedded AI, the Supplier should ensure that local laws
+recycling and disposal. Suppliers are also to adhere to
+and/or policy for ethical and responsible AI have been
+processes to comply with each agreed-upon customer-
+considered while procuring, deploying, and using the
+specific restricted and hazardous materials list.
+software.
+You agree to abide by the terms of
+SAP’s Sup plier Code and
+acknowled ge that compliance
+with this C ode is required to
+maintain your status as an SAP
+Supplier.
+5LABOR AND HUMAN RIGHTS STANDARDS
+Suppliers are committed to uphold the human rights of workers and to treat them with dignity and respect
+as understood by international human rights law. SAP respects and upholds the values of the International Bill of
+Human Rights and the International Labor Organization's (ILO) Core Labor Rights Conventions and takes guidance
+from international frameworks such as the United Nations’ Guiding Principles on Business and Human Rights
+(UNGPs) and the OECD Guidelines for Multinational Enterprises on Responsible Business Conduct. Suppliers are
+expected to enforce these labor and human right standards in their own operations and ensure that they are
+passed on to their downstream partners in the supplier network. Suppliers must take all
+reasonable measures to avoid and/or mitigate any labor and human rights risks and must provide access
+to remedy in case of human rights abuses.
+Workers shall be allowed at least one day off per seven-
+Modern Slavery and Freely Chosen day week (ILO no. 14).
+Employment
+Suppliers must not use any form of modern slavery or Wages and Benefits
+forced, bonded, or indentured labor. All work must be
+SAP expects its Suppliers to adhere to minimum wage
+voluntary, and workers should be free to leave, or be
+laws. All benefits required by local laws must be
+terminated from employment with reasonable notice.
+provided. Payments must be made regularly and directly
+Worker freedoms must not be forfeited, such as by
+to workers and overtime must be remunerated at a
+withholding documents or restricting movement.
+premium rate. Deductions from or withholding of
+Suppliers or third parties must not charge illegal fees and
+payments must be in alignment with local laws only, and
+deductions during recruitment and employment.
+workers must have full understanding of the actions
+Suppliers will not participate in human trafficking or use
+taken. The same goes for advances and loans.
+slave labor or prison labor in any part of their supply
+chain. All workers (including migrant workers and their Workers must receive information about hours worked,
+family rates of pay, and the calculation of legal deductions.
+members) shall not be threatened with denunciation to Workers must retain full and complete control over their
+authorities to coerce them into taking up or maintaining earnings. Wage deductions as a disciplinary measure, or
+employment. to keep workers tied to the employer or to their jobs, are
+prohibited. Holding workers in debt bondage, forcing
+Suppliers are expected to take all reasonably practicable
+them to work in order to pay off a debt, and deception in
+steps to ensure that participants in their supply chains do
+wage commitments, payment, advances, and loans are
+not engage in conduct amounting to modern slavery.
+prohibited.
+Child Labor Avoidance
+Harassment, Violence, and Inhumane
+Child labor is not tolerated in any stage of the supply Treatment
+chain. Child labor refers to a person working under the
+SAP takes a zero-tolerance approach towards
+statutory minimum set by the International Labor
+harassment, violence and inhumane treatment as
+Organization which is 15 years. Suppliers must avoid
+defined in ILO 190, including any sexual harassment,
+any sort of child labor in their operations as defined by
+sexual abuse, corporal punishment, mental or physical
+the International Labor Organization (ILO no. 138). If
+coercion, or verbal abuse of workers; nor is there to be
+local minimum age law specifies a higher age for work,
+the threat of any such treatment.
+the higher age applies. The use of legitimate workplace
+apprenticeship programs, which comply with all laws and
+regulations, is supported. Young workers must not do Non-Discrimination
+work that is mentally, physically, socially, or morally
+Suppliers are expected to be committed to a workplace
+hazardous and must be restricted from night shifts with
+free of unlawful discrimination. Suppliers shall not
+consideration given to educational needs.
+engage in discrimination based on culture, race, color,
+age, gender, gender identity or expression, sexual
+Working Hours orientation, ethnicity, disability, pregnancy, religion,
+political affiliation, union membership, or marital status in
+Workweeks should not exceed the maximum set by local
+hiring and employment practices such as promotions,
+law and by the ILO Standards (ILO no. 1). Further, a
+rewards, and access to training. In addition, workers or
+workweek should not be more than 60 hours per week
+potential workers should not be subjected to medical
+including overtime which must only be voluntary.
+tests that could be used in a discriminatory way.
+Exceptions apply to emergency or unusual situations.
+6Freedom of Association Unlawful Eviction and Deprivation
+Suppliers are to respect the rights of workers to associate There shall be no unlawful eviction and unlawful
+freely, join or not join labor unions, seek representation, deprivation of land, forests and waters in the acquisition,
+or join workers’ councils in accordance with local laws. construction or any other use of land, forests and waters,
+Workers shall be able to communicate openly with the use of which secures the livelihood of a person.
+management regarding working conditions without fear of
+reprisal, intimidation, or harassment.
+Security Forces
+SAP expects Suppliers that hire or use private or public
+Contracts of Employment
+security forces or personnel to provide instruction or
+All workers, including migrant workers, shall be provided control to avoid torture and cruel, inhumane, or
+with an employment contract in a language they degrading treatment; risks to life or limb; or impairment
+understand, clearly indicating their rights and of the freedom of association.
+responsibilities regarding all working and employment
+conditions prior to deployment, including but not limited
+to wages and working hours. Any changes to the
+employment contract and the working conditions agreed
+upon must be in alignment with local laws and fully
+transparent to the migrant worker.
+Suppliers are committed to uphold
+the human rights of workers and
+to treat them with dignity and
+respect as understood by
+international human rights law.
+7HEALTH AND SAFETY
+Suppliers recognize that the quality of products and services, consistency of production, and workers’ morale
+are enhanced by a safe and healthy work environment. Suppliers must take all reasonable measures to avoid
+and/or mitigate any health and safety risks. Suppliers also recognize that ongoing worker input and education
+are key to identifying and solving health and safety issues in the workplace.
+Suppliers shall prevent worker exposure to potential implement corrective actions to eliminate their causes, and
+safety hazards (for example, electrical and other energy facilitate the return of workers to work.
+sources, fire, vehicle, and fall hazards) and make sure
+Suppliers identify, evaluate, and control worker exposure
+that such hazards are mitigated through proper design,
+to chemical, biological, and physical agents. When
+engineering and administrative controls, preventive
+hazards cannot be adequately controlled by engineering
+maintenance, and safe work procedures (including
+and administrative means, workers are to be provided
+lockout-tagout). Where hazards cannot be adequately
+with appropriate personal protective equipment.
+controlled by these means, workers are to be provided
+with appropriate personal protective equipment. Suppliers identify, evaluate, and control worker exposure
+to physically demanding tasks, including manual material
+Suppliers must identify and assess emergency situations
+handling and heavy lifting, prolonged standing, and
+and events and minimize their impact by implementing
+highly repetitive or forceful assembly tasks. Physical
+emergency plans and response procedures, including
+guards, interlocks, and barriers are to be provided and
+emergency reporting, employee notification and
+properly maintained for machinery used by workers.
+evacuation procedures, worker training and drills,
+appropriate fire detection and suppression equipment, Suppliers provide workers with clean toilet facilities,
+adequate exit facilities, and recovery plans. access to potable water, and sanitary food preparation
+and storage facilities. Worker dormitories provided by the
+Procedures and systems are to be in place to manage,
+Supplier, or a labor agent are to be clean, safe, and
+track, and report occupational injury and illness,
+provide emergency egress, adequate heat and
+including provisions to encourage worker reporting,
+ventilation, and reasonable personal space.
+classify and record injury and illness cases, provide
+necessary medical treatment, investigate cases, and
+Suppliers must take all reasonable
+measures to avoid and/or mitigate
+any health and safety risks.
+8DIVERSITY AND INCLUSION
+Suppliers are encouraged to provide an inclusive, healthy, bias-free work environment for their employees.
+Suppliers should, as applicable, strive to foster:
+• Gender intelligence by offering equal rights for all employees, regardless of gender identity.
+• Cross-generational intelligence by employing people of all ages and at every work and career stage.
+• Cultural and identity intelligence by empowering many voices to help gain strength from people’s
+differences.
+Opportunities for differently abled people by focusing on their unique abilities and providing a work environment
+that considers the special needs and skills of each employee. Suppliers are encouraged to engage with groups
+at heightened risk of becoming disadvantaged or marginalized (vulnerable groups).
+Diverse and Inclusive Supply Chain
+Accessibility
+SAP strives to work with a wide range of high-quality
+Suppliers are encouraged to deliver goods and services
+social enterprises and diverse Suppliers to drive
+that are accessible to everyone, including those with
+innovation in its supply chain. SAP is committed to
+disabilities.
+buying directly from social enterprises and diverse
+If accessibility standards – for example, Web Content Suppliers whenever possible. SAP expects Suppliers to
+Accessibility Guidelines (WCAG) 2.0 Level AA, included in commit to proactively subcontracting goods and services
+US Section 508, and the harmonized EN 301 459 including in their supply chain to a social enterprise or diverse
+WCAG 2.1 Level and Germany’s Barrier-Free Information supplier whenever possible.
+Technology regulation (BITV) – are applicable for the
+Suppliers are required to provide quarterly reports on
+goods or services delivered, Suppliers are strongly
+their expenditures with diverse subcontractors, itemized
+encouraged to take these standards into consideration
+according to the subsequent categories: Women-
+and meet them.
+Owned, Minority-Owned, Veteran-Owned, LGBTQ+
+Owned, Small and Medium-sized, Disabled-Owned
+Business Enterprises, and other acknowledged diverse
+groups.
+SAP will review reports for adherence to this code and to
+identify improvement opportunities.
+Suppliers are encouraged to
+provide an inclusive, healthy,
+bias-free work environment for
+their employees.
+9ENVIRONMENTAL STANDARDS
+At SAP, our dedication to environmental responsibility extends beyond compliance. We continuously strive to
+mitigate our ecological footprint through our procurement practices. This section delineates the environmental
+standards and expectations we have for our suppliers. Adherence to these guidelines is crucial as it
+significantly contributes to our collective pursuit of a sustainable and environmentally conscious supply
+chain. Environmental responsibility is integral to producing world-class products. Suppliers must take all
+reasonable measures to avoid and/or mitigate any environmental risks.
+In manufacturing operations, adverse effects on the community, environment, and natural resources must be
+continually reduced and minimized, and suppliers are expected to ensure that their operations safeguard the
+health and safety of the public. All required environmental permits (for example, discharge monitoring) and
+registrations are to be obtained, maintained, and kept current, and their operational and reporting requirements
+are to be followed.
+Suppliers are expected to contribute to our environmental objectives stated in the SAP Global Environmental
+Policy and collaborate with us to improve the environmental performance of SAP and our purchased products
+and services. Suppliers acknowledge the SAP Global Environmental Policy by accepting the SAP
+Supplier Code of Conduct.
+Environmental Management System (EMS)
+• Ambition or target to reduce energy consumption
+Suppliers are required to implement and maintain an and use renewable energy in own operations
+EMS compliant with ISO 14001 or an equivalent through self-production, long-term Power Purchase
+standard. This system should encompass energy Agreements (PPAs) or Energy Attribute Certificates
+consumption metrics, waste management procedures,
+emission control measures, risk management and
+mitigation procedures and periodic internal and third- such as Renewable Energy Certificates (RECs). This
+party audits. Suppliers should continually improve their can be supported by an ISO 5001 Energy Management
+EMS by setting achievable environmental objectives and System, a RE100 commitment, or similar certificates,
+targets. accreditations, and commitments.
+Minimum requirement: Annual disclosure of renewable
+electricity share in the supplier’s own operations.
+Greenhouse Gas (GHG) Emissions
+• Third-party verification of environmental data and
+SAP is committed to become net-zero by 2030 along the
+reduction efforts is expected.
+value chain in accordance with the Science-Based
+Target Initiative. To achieve our target and limit global
+temperature rise to 1.5°C to mitigate the adverse impacts
+of climate change, we must closely collaborate with our
+suppliers and rely on their contribution. Therefore, we Waste
+require the following from our Suppliers transacting over Suppliers are expected to have a lifecycle
+1 million € annually:
+perspective and Extended Producer Responsibility
+• Established GHG emission target or at least (EPR) to manage resources and waste circularly.
+ambition to implement one. This requires
+Suppliers must follow the Waste Hierarchy to
+measuring, monitoring, and reporting in accordance
+properly manage waste: prevent, prepare for
+with established standards such as the GHG
+reuse, recycle, recover and, the last option,
+Protocol.
+Minimum requirement: Annual disclosure of Scope disposal. Hazardous Materials, if released to the
+1 and scope 2 with a continuous improvement of environment, are to be identified and properly
+Scope 3 emissions accounting and reporting. managed. Wastewater and solid waste generated
+from operations, industrial processes, and
+sanitation facilities are to be monitored, controlled,
+10and treated. Air emissions of volatile organic SAP strives to eliminate the consumption of single-
+chemicals, aerosols, corrosives, particulates, use plastics. Therefore, Suppliers should make
+ozone-depleting chemicals, and combustion by- every effort to eliminate unnecessary packaging
+products generated from operations are to be components, replace plastic packaging materials
+characterized, monitored, controlled, and treated. with environmentally friendly materials such as
+certified recycled paperboard packaging (e.g.,
+FSC) and to eliminate Styrofoam material.
+Environmental Standards with impact on production of food; b) deny a person access to
+Human Rights safe drinking water; c) impede or destroy a
+In light of the Minamata Convention on mercury, person´s access to sanitary facilities; or d) harm
+Stockholm Convention on persistent organic the health of a person.
+pollutants. and Basel Convention on control of
+transboundary movements of hazardous wastes Ensuring Compliance
+and their disposal, Supplier must avoid causing
+SAP will conduct periodic audits to assess
+harmful soil change, water pollution, air pollution,
+compliance with this section. Non-compliance may
+harmful noise emission or excessive water
+trigger corrective action, up to and including
+consumption which would a) substantially impair
+potential termination of the supplier relationship.
+the natural foundations for the preservation and
+We continuously strive to mitigate
+our ecological footprint through
+our procurement practices.
+11MANAGEMENT SYSTEM
+Suppliers shall adopt or establish a management system with a scope that is related to the content of this
+Code. The management system shall be designed to ensure compliance with applicable laws (incl. human
+rights), regulations, and customer requirements related to Supplier operations and products as well as;
+conformance with this Code; and identification and mitigation of operational risks related to this Code.
+Supplier should also integrate its supply chain into the results of the assessment should be communicated to
+management system. It should also facilitate continual relevant decision makers at the Supplier. Suppliers
+improvement. Suppliers commit to the statements on establish programs for training managers and workers to
+corporate social and environmental responsibility, implement Supplier policies and procedures.
+affirming compliance and continual improvement.
+Suppliers establish and monitor ongoing processes to
+Suppliers hold clearly identified company
+assess employees’ understanding of and obtain feedback
+representatives responsible for ensuring implementation
+on practices and conditions covered by this Code.
+and periodic review of the status of the management
+Periodic self-evaluations shall be conducted by
+systems.
+Suppliers to ensure conformity to legal and regulatory
+Suppliers identify, monitor, and understand applicable requirements, the content of the Code, and requirements
+laws, regulations, and customer requirements. Suppliers related to social and environmental responsibility.
+establish a process to regularly and on an ad hoc basis
+Suppliers are expected to establish and maintain a
+identify the human rights, environmental, health, and
+publicly accessible and anonymous complaint procedure
+safety and labor practice risks associated with its
+for people to report workplace complaints, including
+operations and Supplier´s subcontractor´s operations.
+human rights and environmental risks and violations.
+Supplier should also establish preventative measures for
+Suppliers must protect whistleblower confidentiality and
+its employees and subcontractors.
+prohibit retaliation.
+Suppliers determine the relative significance for each
+Suppliers establish a process for timely correction of
+risk and implementation of appropriate procedural and
+deficiencies and creation of documents and records to
+physical controls to ensure regulatory compliance to
+ensure compliance and conformity, along with
+control the identified risks. Suppliers create and maintain
+appropriate confidentiality to protect privacy. The
+written standards, performance objectives, targets, and
+documents and records need to be made available to SAP
+implementation plans including a periodic assessment of
+upon request.
+Supplier performance against those objectives. The
+The management system shall be
+designed to ensure compliance
+with applicable laws, regulations,
+and customer requirements
+related to Supplier operations and
+product.
+12RESPONSIBILITY FOR COMPANY RESOURCES
+Suppliers are expected to safeguard SAP resources, which include property, assets, intellectual property,
+company technology assets (network, phone, internet, software applications, and email systems), trade
+secrets, and other confidential, proprietary, and/or sensitive information while performing work for SAP. Use
+of SAP resources without proper approvals or for anything other than to perform SAP work activities is strictly
+prohibited. Intellectual property rights of SAP must be protected. SAP confidential or sensitive information must
+be protected.
+Suppliers may only possess such information if they Materials that contain confidential information or that are
+need to do so to perform work activities. Suppliers should protected by privacy standards should be stored
+not use this information for gain or advantage and should securely and should be shared only internally with those
+never share this information without appropriate SAP employees who “need to know”. For example, SAP
+approval. All confidential or sensitive information obtain confidential information may include, but is not limited to,
+by Supplier must have documented authorization in software and other inventions or developments
+place. Inappropriate use of SAP internet or email is (regardless of the stage of development) developed or
+strictly prohibited. licensed by or for SAP, marketing and sales plans,
+competitive analyses, product development plans,
+Suppliers are expected to safeguard confidential pricing, potential contracts or acquisitions, business and
+information by not reproducing copyrighted software, financial plans or forecasts, and prospect, customer, and
+documentation, or other materials without permission employee information.
+and by not transferring, publishing, using, or disclosing it
+other than as necessary in the ordinary course of SAP retains the right to monitor its assets and work
+business or as directed or authorized. Suppliers should environments in compliance with applicable federal,
+observe applicable data privacy standards. state, and local law. We monitor to promote safety,
+prevent criminal activity, investigate alleged misconduct
+and security violations, manage information systems,
+and for other business reasons.
+Suppliers are expected to safeguard SAP
+resources, which include property,
+assets, intellectual property, company
+technology assets, trade secrets, and
+other confidential, proprietary, and/or
+sensitive information while performing
+work for SAP.
+13BUSINESS CONDUCT
+SAP expects Suppliers to compete in a fair and ethical manner for all business opportunities. Suppliers’
+employees involved in the sale or licensing of products and services and the negotiation of agreements and
+contracts to SAP must ensure that all statements, communications, and representations to SAP are accurate
+and truthful.
+(ethicalbusiness@sap.com). SAP may require the
+Conflicts of Interest Supplier to correct any actual or perceived conflict of
+interest at any time during the agreement.
+While engaged in work for SAP, Suppliers must exercise
+reasonable care and diligence to avoid any actions or
+situations that could result in a potential conflict of
+Offering and Accepting Anything of Value
+interest or the appearance thereof.
+Giving and receiving benefits (including money, gifts,
+A potential conflict of interest arises when a Supplier’s
+meals, and invitations to events) can help to build good
+private or financial interests collide with those of SAP or
+may be perceived to collide with SAP’s interests. While working relationships and goodwill among companies
+there is no exhaustive list of such situations, potential and individuals. However, they may also be perceived as
+conflicts of interest typically arise if a Supplier: an improper advantage and raise concerns regarding
+integrity and independence. They can also create a
+• Employs a current SAP employee or someone with
+conflict of interest (or the appearance of impropriety) and
+a close personal relationship to an SAP employee
+even violate laws.
+to perform work for SAP.
+• Is partially or fully owned or controlled by a current You may not offer, promise, receive, or give anything of
+SAP employee or someone with whom they have a value to improperly influence decision making or an
+close personal relationship. action. This requirement applies to every SAP employee
+• Has access to SAP’s proprietary information while as well as individuals and companies working with or on
+providing goods and services to SAP’s competitors behalf of SAP, including Suppliers and those with close
+and uses this information to benefit themselves or a personal connections to the recipient.
+competitor.
+Suppliers should use discretion and care to ensure that
+• Provides services to develop a request for proposal
+any benefits, especially those offered to or received by
+(RFP) to be issued by SAP and seeks to bid on the
+any SAP employee, are reasonable, appropriate,
+work covered by that RFP; or
+consistent with applicable local laws, and cannot be
+• Is engaged or overseen by an SAP employee with
+construed or appear to be designed as a bribe or
+whom they have a close personal relationship.
+improper inducement to influence the recipient and
+Suppliers shall not encourage or influence current or secure unfair preferential treatment.
+former SAP employees in any manner which would
+Suppliers are strictly prohibited to offer or accept benefits
+cause them to disclose or provide any confidential,
+for or on behalf of SAP.
+proprietary, or other restricted information obtained while
+employed by SAP to influence SAP’s existing or Suppliers are strongly discouraged from offering a
+proposed commercial transactions for the purpose of benefit to any SAP employee.
+gaining a commercial advantage.
+A general guideline for evaluating whether a benefit is
+To avoid any conflict of interest or appearance thereof, appropriate is whether public disclosure would be
+SAP may at its sole discretion decide whether former embarrassing to the Supplier or SAP. The offering or
+SAP employees (for a period of twelve (12) months acceptance of any expenditure in connection with SAP
+following the end of their employment at SAP) who are business must meet the following basic principles:
+engaged by a Supplier, may act on behalf of the Supplier
+• Serves a legitimate business purpose (that is,
+in SAP discussions or be part of the service delivered by
+encourage or improve a business relationship)
+the supplier to SAP.
+without the intention of an unfair advantage,
+Suppliers are expected to cooperate with SAP • Does not inappropriately influence, or appear to
+investigations and to provide reasonable assistance as influence, any business decision,
+requested.
+• Must not be offered during any pending bidding or
+SAP expects Suppliers to prevent or immediately negotiation process,
+disclose, in writing, a conflict of interest or the • Be made in a transparent manner, and
+appearance of a conflict of interest as soon as possible • Ensure adherence to all applicable laws and
+to SAP’s Office of Ethics & Compliance relevant internal policies.
+14• Providing cash, cash equivalents, gift cards (for Financial Integrity
+example gift cards, vouchers, checks, or gift
+Accurate and reliable financial and business records are
+certificates) to SAP employees is strictly prohibited.
+of critical importance in meeting SAP’s financial, legal,
+Discounts and other privileges offered to an
+and business obligations. Suppliers must not have any
+employee of SAP as part of private transactions with
+false or inaccurate entries in the accounting books or
+customers, suppliers, competitors, and partners of
+records related to SAP for any reason. Suppliers’
+SAP may only be accepted if these are granted to
+business records must be retained in accordance with
+all SAP employees.
+record retention policies and all applicable laws and
+regulations.
+Suppliers should not knowingly shift an expense to a
+different accounting period.
+SAP expects Suppliers to compete
+in a fair and ethical manner for all
+business opportunities.
+15REPORTING CHANNEL
+The standards of conduct described in the Supplier Code are critical to the ongoing success of SAP’s
+relationship with its Suppliers. If you have questions or concerns about compliance or ethics issues while
+working for SAP or in SAP’s supply chain, please let us know.
+Prevention is best; however, if something does go Speak Out is available online or via the integrated 24x7
+wrong, we count on you to speak out. If something helpline which has local language support whether you
+doesn’t feel right, look right, or sound right, it probably is are reporting from inside or outside of SAP.
+not right.
+We know that it can take courage to report an issue. SAP
+We expect you to report any (suspected) violation of this does not tolerate any form of retaliation against those
+Supplier Code and any law or regulation, as you become who raise concerns in good faith. We equally do not
+aware of it. You can do so confidentially and, if desired, tolerate any personal or false attacks aimed at specific
+anonymously using Speak Out at SAP. individuals.
+SAP does not tolerate any
+form of retaliation against
+those who raise concerns in
+good faith.
+16www.sap.com/contactsap
+© 2022 SAP SE or an SAP affiliate company. All rights reserved.
+No part of this publication may be reproduced or transmitted in any form or for any purpose without the express permission of SAP SE or an SAP affiliate company.
+The information contained herein may be changed without prior notice. Some software products marketed by SAP SE and its distributors contain proprietary software components of other software vendors.
+National product specifications may vary.
+These materials are provided by SAP SE or an SAP affiliate company for informational purposes only, without representation or warranty of any kind, and SAP or its affiliated companies shall not be liable
+for errors or omissions with respect to the materials. The only warranties for SAP or SAP affiliate company products and services are those that are set forth in the express warranty statements
+accompanying such products and services, if any. Nothing herein should be construed as constituting an additional warranty.
+In particular, SAP SE or its affiliated companies have no obligation to pursue any course of business outlined in this document or any related presentation, or to develop or release any functionality
+mentioned therein. This document, or any related presentation, and SAP SE’s or its affiliated companies’ strategy and possible future developments, products, and/or platform directions and functionality are
+all subject to change and may be changed by SAP SE or its affiliated companies at any time for any reason without notice. The information in this document is not a commitment, promise, or legal obligation
+to deliver any material, code, or functionality. All forward-looking statements are subject to various risks and uncertainties that could cause actual results to differ materially from expectations. Readers are
+cautioned not to place undue reliance on these forward-looking statements, and they should not be relied upon in making purchasing decisions.
+SAP and other SAP products and services mentioned herein as well as their respective logos are trademarks or registered trademarks of SAP SE (or an SAP affiliate company) in Germany and other
+countries. All other product and service names mentioned are the trademarks of their respective companies. See www.sap.com/trademark for additional trademark information and notices.
